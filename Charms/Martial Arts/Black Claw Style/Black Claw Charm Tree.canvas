@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"24776868a914a294","x":-320,"y":-360,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Open Palm Caress.md"},
+		{"id":"8d74b2c42dddd2e3","x":240,"y":-360,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Torn Lotus Defense.md"},
+		{"id":"17aae0d8a38dfb6d","x":-600,"y":-2040,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Doe Eyes Defense.md"},
+		{"id":"a116e64717e3c910","x":-40,"y":-2040,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Storm-Calming Embrace.md"},
+		{"id":"3a6768d2e8f8966d","x":520,"y":-2040,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Table-Turning Reversal.md"},
+		{"id":"f9377ba4dacf9633","x":-40,"y":-1480,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Black Claw Form.md"},
+		{"id":"a48bc998b270d4cb","x":-40,"y":-920,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Flexing the Emerald Claw.md"},
+		{"id":"b32ffb51765ef486","x":-40,"y":-3160,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Heart-Ripping Claw.md"},
+		{"id":"14224fce37e468fd","x":-40,"y":-2600,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Black Claw Style/Outrage-Kindling Cry.md"}
+	],
+	"edges":[
+		{"id":"5f2302ab13ee461c","fromNode":"24776868a914a294","fromSide":"top","toNode":"a48bc998b270d4cb","toSide":"bottom"},
+		{"id":"d4b7bf27efdd47ac","fromNode":"8d74b2c42dddd2e3","fromSide":"top","toNode":"a48bc998b270d4cb","toSide":"bottom"},
+		{"id":"a7e54b59f757e8c6","fromNode":"a48bc998b270d4cb","fromSide":"top","toNode":"f9377ba4dacf9633","toSide":"bottom"},
+		{"id":"ed010e5413c13921","fromNode":"f9377ba4dacf9633","fromSide":"top","toNode":"17aae0d8a38dfb6d","toSide":"bottom"},
+		{"id":"e5e84fd534b55cfd","fromNode":"f9377ba4dacf9633","fromSide":"top","toNode":"a116e64717e3c910","toSide":"bottom"},
+		{"id":"6e930d31e93b339a","fromNode":"f9377ba4dacf9633","fromSide":"top","toNode":"3a6768d2e8f8966d","toSide":"bottom"},
+		{"id":"b2a9be3fc56f74bc","fromNode":"17aae0d8a38dfb6d","fromSide":"top","toNode":"14224fce37e468fd","toSide":"bottom"},
+		{"id":"ce61c52efd61534a","fromNode":"a116e64717e3c910","fromSide":"top","toNode":"14224fce37e468fd","toSide":"bottom"},
+		{"id":"3908b70e146c739f","fromNode":"3a6768d2e8f8966d","fromSide":"top","toNode":"14224fce37e468fd","toSide":"bottom"},
+		{"id":"8de0105fda335786","fromNode":"14224fce37e468fd","fromSide":"top","toNode":"b32ffb51765ef486","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,18 @@
+---
+tags:
+  - charm
+  - Sidereal
+Cost: —(+15m, 1wp)
+Mins: Martial Arts 5, Essence 5
+Type: Permanent
+Keywords:
+  - Enlightenment
+Duration: Permanent
+Prerequisite Charms:
+  - "[[Pattern Spider Touch]]"
+---
+A web of endless invisible filaments surrounds the martial artist as she enters a stance of eightfold victory, seeming to split into many selves as she moves with a speed that transcends space and time. The stylist can pay a fifteen-mote, one-Willpower surcharge when she uses this style’s Form to gain the following benefits: 
+-  Her extra Initiative tracks can be crashed normally, rather than being lost completely upon crash. 
+-  She can flurry this style’s Simple Charms with each other and other actions. This includes flurrying Charms that let her make attacks, but she must use a different Initiative track for each Charm’s attacks. 
+-  When she makes an attack, she may treat herself as being at any point within short range of her actual location for all purposes, including ranged attacks’ Accuracy bonuses, the applicability of cover, whether she is within range for a clash or counterattack, etc. This doesn’t let her attack at extreme range. 
+-  When an enemy makes an attack against her, she may treat herself as being at any point within short range of her actual location for all purposes, including ranged attacks’ Accuracy bonuses, the applicability of cover, whether she is within range for a clash or counterattack, etc. However, she can’t negate an attack outright by “moving” her location to a point beyond its range — in such cases, the attack is still rolled normally. Enlightenment: In addition to the above effects, the stylist waives the Willpower cost of this style’s Charms. Citrine Poxes of Contagion Style This style is a contemplation on decay, both causing and reversing it. It was created long ago by the Joybringer and physician Perdurance of Blossoms, who sought aid from the Three Supreme Plagues, Heaven’s foremost gods of disease. She seduced languid Kel-Aina, ruler of drunken moth sickness. Sylvi, the Crone of Fire, god of white sun fever, was won over by appeals to her storied pride. The nameless god of the uttermost West who presides over jigsaw organ condition forbade Perdurance of Blossoms from ever speaking of the favor they demanded, and so it remains unknown. Understanding disease, injury, and similar ailments as stemming from imbalances in one’s Essence, this style’s students inflict strange, terrible diseases by imbalancing enemies’ Essence and curing maladies by resolving the underlying imbalance they arise from. Students study anatomy and memorize catalogues of diseases and their cures. This foundation undergirds esoteric regimens that hone a stylist’s awareness and control of the flow of Essence through their body, until they can exert its full force through a fingertip or a needle’s point. Citrine Poxes of Contagion Weapons: This style’s unarmed strikes target multiple pressure points in rapid succession or twist an enemy’s limbs to wrench their bones and spine into or out of alignment. It’s also compatible with darts and needles. Armor: This style is incompatible with armor. Complementary Abilities: Medicine provides foundational knowledge of anatomy and disease and is used with this style’s healing techniques. Nature: Flowing. Special: Characters with any ten Medicine Charms can learn Citrine Poxes of Contagion style even without the requisite Martial Arts Charms to learn Sidereal styles (p. XX). The Scripture of Decay Once, there was a sickly maiden… who told me this: “You shall know your enemies when they teach you to forget what is whole and what is diseased.”

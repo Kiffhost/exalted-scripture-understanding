@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2c5244140ffef11f","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Breath of the Fire Dragon.md","x":-4,"y":-2360,"width":400,"height":400},
+		{"id":"656b3cf8ab7087ac","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Essence-Igniting Nerve Strike.md","x":-564,"y":-2360,"width":400,"height":400},
+		{"id":"cb3ba9760e5bf20f","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Smoldering Wound Attack.md","x":-564,"y":-2920,"width":400,"height":400},
+		{"id":"ceb7b5513643821d","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Consuming Might of the Fire Dragon.md","x":-564,"y":-3480,"width":400,"height":400},
+		{"id":"2a5f651dee3594a7","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Overwhelming Fire Majesty Stance.md","x":-4,"y":-1800,"width":400,"height":400},
+		{"id":"06f0593c994dda6f","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/God-Immolating Strike.md","x":-564,"y":-1800,"width":400,"height":400},
+		{"id":"ff77769aa8702b30","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fiery Blade Attack.md","x":-1124,"y":-1800,"width":400,"height":400},
+		{"id":"503e8417675d59fc","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Flame-Flicker Stance.md","x":-844,"y":-680,"width":400,"height":400},
+		{"id":"91d986d435c1b590","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Perfect Blazing Blow.md","x":-284,"y":-680,"width":400,"height":400},
+		{"id":"f56c8dc0ff194913","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Flash-Fire Technique.md","x":-844,"y":-120,"width":400,"height":400},
+		{"id":"2fd403ba69a5c59e","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Searing Edge Attack.md","x":-284,"y":-120,"width":400,"height":400},
+		{"id":"508aeaa5f926aa93","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Form.md","x":-564,"y":-1240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"0a29581189bd68a4","fromNode":"503e8417675d59fc","fromSide":"top","toNode":"508aeaa5f926aa93","toSide":"bottom"},
+		{"id":"ee75ee42680fea47","fromNode":"f56c8dc0ff194913","fromSide":"top","toNode":"503e8417675d59fc","toSide":"bottom"},
+		{"id":"d038173b8ddf8975","fromNode":"91d986d435c1b590","fromSide":"top","toNode":"508aeaa5f926aa93","toSide":"bottom"},
+		{"id":"1a7666277f1c7b2e","fromNode":"2fd403ba69a5c59e","fromSide":"top","toNode":"91d986d435c1b590","toSide":"bottom"},
+		{"id":"2d5c997be67dd11e","fromNode":"2c5244140ffef11f","fromSide":"top","toNode":"ceb7b5513643821d","toSide":"bottom"},
+		{"id":"56eeabfef62391d8","fromNode":"cb3ba9760e5bf20f","fromSide":"top","toNode":"ceb7b5513643821d","toSide":"bottom"},
+		{"id":"351b4a51d934b5ec","fromNode":"656b3cf8ab7087ac","fromSide":"top","toNode":"cb3ba9760e5bf20f","toSide":"bottom"},
+		{"id":"c516e2aef820710e","fromNode":"06f0593c994dda6f","fromSide":"top","toNode":"656b3cf8ab7087ac","toSide":"bottom"},
+		{"id":"280c9a3f14fded25","fromNode":"2a5f651dee3594a7","fromSide":"top","toNode":"2c5244140ffef11f","toSide":"bottom"},
+		{"id":"c62da2578eacfd80","fromNode":"508aeaa5f926aa93","fromSide":"top","toNode":"06f0593c994dda6f","toSide":"bottom"},
+		{"id":"c1e11864397db80b","fromNode":"508aeaa5f926aa93","fromSide":"top","toNode":"2a5f651dee3594a7","toSide":"bottom"},
+		{"id":"e9edeb359f382362","fromNode":"508aeaa5f926aa93","fromSide":"top","toNode":"ff77769aa8702b30","toSide":"bottom"}
+	]
+}

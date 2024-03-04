@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"f5c5381db65f9193","x":-960,"y":-1000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Armor-Penetrating Fang Strike.md"},
+		{"id":"7308c14c4fc34f40","x":-400,"y":-1000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Essence Fangs and Scales Technique.md"},
+		{"id":"af94ff97b6c580de","x":160,"y":-1000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Snake Strikes the Heel.md"},
+		{"id":"b1b5d72f570bf71f","x":720,"y":-1000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Crippling Pressure-Point Strike.md"},
+		{"id":"f5882d77d3ef44da","type":"file","file":"Charms/Martial Arts/Snake Style/Snake Form.md","x":-120,"y":-440,"width":400,"height":400},
+		{"id":"adaec09939a61adb","type":"file","file":"Charms/Martial Arts/Snake Style/Serpentine Evasion.md","x":-400,"y":120,"width":400,"height":400},
+		{"id":"3cba3492910683c0","type":"file","file":"Charms/Martial Arts/Snake Style/Striking Cobra Technique.md","x":160,"y":120,"width":400,"height":400},
+		{"id":"9fd7b7b610d703a9","x":-400,"y":-1560,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Uncoiling Serpent Prana.md"},
+		{"id":"1325d4c58bef28da","x":160,"y":-1560,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Countless Coils Evasion.md"},
+		{"id":"713a5b628a090cdf","x":-120,"y":-2120,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Snake Style/Essence Venom Strike.md"}
+	],
+	"edges":[
+		{"id":"8bcfa61634c035ef","fromNode":"adaec09939a61adb","fromSide":"top","toNode":"f5882d77d3ef44da","toSide":"bottom"},
+		{"id":"db5c7bca9f5d6607","fromNode":"3cba3492910683c0","fromSide":"top","toNode":"f5882d77d3ef44da","toSide":"bottom"},
+		{"id":"69ba49d66a9856c4","fromNode":"f5882d77d3ef44da","fromSide":"top","toNode":"f5c5381db65f9193","toSide":"bottom"},
+		{"id":"e11808c2df6a6f34","fromNode":"f5882d77d3ef44da","fromSide":"top","toNode":"b1b5d72f570bf71f","toSide":"bottom"},
+		{"id":"ca42515178294360","fromNode":"f5882d77d3ef44da","fromSide":"top","toNode":"7308c14c4fc34f40","toSide":"bottom"},
+		{"id":"188b75325093993d","fromNode":"f5882d77d3ef44da","fromSide":"top","toNode":"af94ff97b6c580de","toSide":"bottom"},
+		{"id":"8fe591ee3dd6ca47","fromNode":"f5c5381db65f9193","fromSide":"top","toNode":"713a5b628a090cdf","toSide":"bottom"},
+		{"id":"c9cfb3701d13e554","fromNode":"b1b5d72f570bf71f","fromSide":"top","toNode":"713a5b628a090cdf","toSide":"bottom"},
+		{"id":"40fd6e72aa5fec59","fromNode":"9fd7b7b610d703a9","fromSide":"top","toNode":"713a5b628a090cdf","toSide":"bottom"},
+		{"id":"eeeb09551f5cd999","fromNode":"1325d4c58bef28da","fromSide":"top","toNode":"713a5b628a090cdf","toSide":"bottom"},
+		{"id":"d3909e4b2054b843","fromNode":"7308c14c4fc34f40","fromSide":"top","toNode":"9fd7b7b610d703a9","toSide":"bottom"},
+		{"id":"b61ca69d4ba40d58","fromNode":"af94ff97b6c580de","fromSide":"top","toNode":"1325d4c58bef28da","toSide":"bottom"}
+	]
+}

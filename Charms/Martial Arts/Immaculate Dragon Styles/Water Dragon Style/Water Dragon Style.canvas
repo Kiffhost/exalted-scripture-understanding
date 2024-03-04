@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"b07896faabb8cd1c","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Ghost-Restraining Whirlpool.md","x":640,"y":-2240,"width":400,"height":400},
+		{"id":"fb2e4b2e00bddf3c","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Crashing Wave Style.md","x":1200,"y":-2240,"width":400,"height":400},
+		{"id":"536b010ba178efff","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Form.md","x":640,"y":-560,"width":400,"height":400},
+		{"id":"fe5b40617db78dd9","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Shrugging Water-Dragon Escape.md","x":1200,"y":-560,"width":400,"height":400},
+		{"id":"6ada8c45946cbdba","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Drowning-in-Blood Technique.md","x":640,"y":0,"width":400,"height":400},
+		{"id":"8259869b355d3d98","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Flowing Water Defense.md","x":1200,"y":0,"width":400,"height":400},
+		{"id":"e941472e8ef1749b","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Essence-Dousing Wave Attack.md","x":640,"y":-1680,"width":400,"height":400},
+		{"id":"31cbd287d33e36f5","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Flow Reversal Strike.md","x":1200,"y":-1680,"width":400,"height":400},
+		{"id":"268346e5d6a8eaa6","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Theft-of-Essence Method.md","x":640,"y":-1120,"width":400,"height":400},
+		{"id":"410cc45ba5a03431","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Bottomless Depths Defense.md","x":80,"y":-1120,"width":400,"height":400},
+		{"id":"c4f2dc9b22772eff","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Rippling Water Strike.md","x":80,"y":0,"width":400,"height":400},
+		{"id":"30580060cf98af14","type":"file","file":"Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Tsunami-Force Shout.md","x":640,"y":-2800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"538cffab907fb49f","fromNode":"6ada8c45946cbdba","fromSide":"top","toNode":"536b010ba178efff","toSide":"bottom"},
+		{"id":"bfec967ac43b750d","fromNode":"268346e5d6a8eaa6","fromSide":"top","toNode":"e941472e8ef1749b","toSide":"bottom"},
+		{"id":"9db8f14fd830bdff","fromNode":"268346e5d6a8eaa6","fromSide":"top","toNode":"31cbd287d33e36f5","toSide":"bottom"},
+		{"id":"c4df83522e52856d","fromNode":"31cbd287d33e36f5","fromSide":"top","toNode":"fb2e4b2e00bddf3c","toSide":"bottom"},
+		{"id":"4ae0e3a529e5605d","fromNode":"e941472e8ef1749b","fromSide":"top","toNode":"b07896faabb8cd1c","toSide":"bottom"},
+		{"id":"c1ea130e060437e8","fromNode":"410cc45ba5a03431","fromSide":"top","toNode":"30580060cf98af14","toSide":"bottom"},
+		{"id":"9f846030c26f2690","fromNode":"536b010ba178efff","fromSide":"top","toNode":"410cc45ba5a03431","toSide":"bottom"},
+		{"id":"3a6e88c1eb747fc1","fromNode":"536b010ba178efff","fromSide":"top","toNode":"268346e5d6a8eaa6","toSide":"bottom"},
+		{"id":"6f0d6d200c6a2e13","fromNode":"8259869b355d3d98","fromSide":"top","toNode":"fe5b40617db78dd9","toSide":"bottom"},
+		{"id":"f29e89612f81a959","fromNode":"b07896faabb8cd1c","fromSide":"top","toNode":"30580060cf98af14","toSide":"bottom"},
+		{"id":"2126d082d1543717","fromNode":"fb2e4b2e00bddf3c","fromSide":"top","toNode":"30580060cf98af14","toSide":"bottom"}
+	]
+}

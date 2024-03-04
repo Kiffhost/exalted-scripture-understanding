@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"82c6097cd6e6a72a","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Azure Abacus Meditation.md","x":-440,"y":-1560,"width":400,"height":400},
+		{"id":"75834e675e6a334d","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Burning Judgment Halo.md","x":120,"y":-1560,"width":400,"height":400},
+		{"id":"223ac45204aa093a","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Phoenix Flies on Golden Wings.md","x":680,"y":-1560,"width":400,"height":400},
+		{"id":"4a5d70daac0e3a04","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Blossom of Inevitable Demise.md","x":-440,"y":-440,"width":400,"height":400},
+		{"id":"ed38998be3bb1ede","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Cloud of Ebon Devils.md","x":120,"y":-440,"width":400,"height":400},
+		{"id":"30e17172f63e3c72","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Kiss of the Sun Concentration.md","x":680,"y":-440,"width":400,"height":400},
+		{"id":"6c8a12f4b6979870","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Righteous Devil Form.md","x":120,"y":-1000,"width":400,"height":400},
+		{"id":"7944882840c5d62d","type":"file","file":"Charms/Martial Arts/Righteous Devil Style/Caress of 1,000 Hells.md","x":120,"y":-2120,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"291626e024ea3659","fromNode":"4a5d70daac0e3a04","fromSide":"top","toNode":"6c8a12f4b6979870","toSide":"bottom"},
+		{"id":"a4d97f811e374c7b","fromNode":"ed38998be3bb1ede","fromSide":"top","toNode":"6c8a12f4b6979870","toSide":"bottom"},
+		{"id":"f4cefa3ff7f0f377","fromNode":"30e17172f63e3c72","fromSide":"top","toNode":"6c8a12f4b6979870","toSide":"bottom"},
+		{"id":"4970470dec5c32c8","fromNode":"6c8a12f4b6979870","fromSide":"top","toNode":"82c6097cd6e6a72a","toSide":"bottom"},
+		{"id":"2e7c8424c1331882","fromNode":"6c8a12f4b6979870","fromSide":"top","toNode":"75834e675e6a334d","toSide":"bottom"},
+		{"id":"8d496f0d89772c02","fromNode":"6c8a12f4b6979870","fromSide":"top","toNode":"223ac45204aa093a","toSide":"bottom"},
+		{"id":"c6fe4697d09873d4","fromNode":"82c6097cd6e6a72a","fromSide":"top","toNode":"7944882840c5d62d","toSide":"bottom"},
+		{"id":"c99dc0ff5085574a","fromNode":"75834e675e6a334d","fromSide":"top","toNode":"7944882840c5d62d","toSide":"bottom"},
+		{"id":"b0bae78c61dd579a","fromNode":"223ac45204aa093a","fromSide":"top","toNode":"7944882840c5d62d","toSide":"bottom"}
+	]
+}

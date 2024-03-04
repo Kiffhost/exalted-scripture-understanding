@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "d5cec0f9e28acf2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "696a320d3eea8803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c0a1f5bdffece2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Tracker.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cc66b98e224d50ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bc4d08a68799cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "07975790ae996fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a5d214276320e48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "654ff318f4cd4494",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "59aad9b80729329d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "d3f03f9e2c185d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9ef189849b1725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f681cbbf25eaff6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac35b303648da84c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cb6185f52419552",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8687db642245369",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md"
+              }
+            }
+          },
+          {
+            "id": "19b2474784eea866",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "1de4e1116e1d7f9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md"
+              }
+            }
+          },
+          {
+            "id": "1a8c5271dfe7db8a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "19dfe583876070d4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "cc66b98e224d50ff",
+  "lastOpenFiles": [
+    "Charms/Solar/Bureaucracy/Deft Official’s Way.md",
+    "Charms/Solar/Bureaucracy/Indolent Official Charm.md",
+    "Charms/Solar/Bureaucracy/Soul-Snaring Pitch.md",
+    "Charms/Solar/Bureaucracy/Foul Air of Argument Technique.md",
+    "Charms/Solar/Bureaucracy/Eclectic Verbiage of Law.md",
+    "Charms/Solar/Bureaucracy/Subject-Hailing Ideology.md",
+    "Charms/Solar/Bureaucracy/Infinitely-Efficient Register.md",
+    "Charms/Solar/Bureaucracy/Woe-Capturing Web.md",
+    "Charms/Solar/Bureaucracy/Spectacle-Inciting Order.md",
+    "Charms/Solar/Bureaucracy/Creation of Adamant Specie.md",
+    "Charms/Solar/Bureaucracy/Pattern-Exploiting Commerce Spirit.md",
+    "Charms/Solar/Bureaucracy/Enigmatic Bureau Understanding.md",
+    "Charms/Dragon-Blooded/Bureaucracy/Geese-Flying-South Administration.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Paralyzed Committee Infliction.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Underling Invisibility Practice.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Celestial Intervention Appeal.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Old Fellows Society Luncheon.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Employment Termination Venom.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Slick Essence Replenishment.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Record-Obtaining Inquiry.md",
+    "Charms/Sidereals/House of Endings/Bureaucracy/Corruption Elimination Agenda.md",
+    "Progress Tracker.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "Character Creation/START HERE.md",
+    "Character Creation/Solar Exalted.md",
+    "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
+    "Attributes & Traits/Great Curse/Celestial Hubris",
+    "Attributes & Traits/Great Curse/Monstrous Urges",
+    "Attributes & Traits/Great Curse/Virtue Flaws",
+    "Attributes & Traits/Great Curse",
+    "Attributes & Traits/Flaws",
+    "Attributes & Traits/Merits/Solar Book 1",
+    "Attributes & Traits/Merits",
+    "Attributes & Traits/Anima/Sidereal Thingies",
+    "Character Creation",
+    "Items/Artifacts & Evocations/Sidereal Artifacts",
+    "Charms/Dragon-Blooded/Resistance/Dragon-Blooded Resistance Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
+    "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
+    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas",
+    "Charms/Solar/War/Solar War Charm Tree.canvas",
+    "Charms/Solar/Thrown/Solar Thrown Charm Tree.canvas"
+  ]
+}

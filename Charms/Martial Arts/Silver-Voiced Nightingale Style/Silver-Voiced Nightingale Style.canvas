@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"190648ee5a22340a","x":-898,"y":-1520,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Flashing Blade Harmony.md"},
+		{"id":"73ec2bca7bf1dbfc","x":-898,"y":-2080,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Aria of Victory.md"},
+		{"id":"1f2dd3b869a3d8a4","x":-338,"y":-1520,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Haunting Heart-Rending Melody.md"},
+		{"id":"7f794aa352632a56","x":-338,"y":-2080,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Resounding Songbird’s Cry.md"},
+		{"id":"b5f85a95ef0ce618","x":222,"y":-1520,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Hearing the Heart’s Song.md"},
+		{"id":"f6bab5132c196e7a","x":222,"y":-2080,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Harmony in Opposition Stance.md"},
+		{"id":"081bcf0e2762aa34","x":-338,"y":-960,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Silver-Voiced Nightingale Form.md"},
+		{"id":"d0b004ffff2d8493","x":-338,"y":160,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Voice of the Night Bird.md"},
+		{"id":"3f326e275ca8a639","x":-338,"y":-2640,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Shattering Discord Cacophony.md"},
+		{"id":"4aba6d917015d529","x":-640,"y":-440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Inspiring Battle Hymn.md"},
+		{"id":"4490953112ab116a","x":-80,"y":-440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Silver-Voiced Nightingale Style/Terrifying Battle Shriek.md"}
+	],
+	"edges":[
+		{"id":"fb4e96d689ef066d","fromNode":"4aba6d917015d529","fromSide":"top","toNode":"081bcf0e2762aa34","toSide":"bottom"},
+		{"id":"1d215ca89ccab63a","fromNode":"4490953112ab116a","fromSide":"top","toNode":"081bcf0e2762aa34","toSide":"bottom"},
+		{"id":"2e131cf568790413","fromNode":"d0b004ffff2d8493","fromSide":"top","toNode":"4aba6d917015d529","toSide":"bottom"},
+		{"id":"af97985486e15daa","fromNode":"d0b004ffff2d8493","fromSide":"top","toNode":"4490953112ab116a","toSide":"bottom"},
+		{"id":"9f752b02108d6667","fromNode":"1f2dd3b869a3d8a4","fromSide":"top","toNode":"7f794aa352632a56","toSide":"bottom"},
+		{"id":"1c079c744feaa129","fromNode":"b5f85a95ef0ce618","fromSide":"top","toNode":"f6bab5132c196e7a","toSide":"bottom"},
+		{"id":"2783171615d25f08","fromNode":"190648ee5a22340a","fromSide":"top","toNode":"73ec2bca7bf1dbfc","toSide":"bottom"},
+		{"id":"cd59f5629c60eeaf","fromNode":"081bcf0e2762aa34","fromSide":"top","toNode":"190648ee5a22340a","toSide":"bottom"},
+		{"id":"a36bf887616a7def","fromNode":"081bcf0e2762aa34","fromSide":"top","toNode":"1f2dd3b869a3d8a4","toSide":"bottom"},
+		{"id":"c55cf3c6fd5476ae","fromNode":"081bcf0e2762aa34","fromSide":"top","toNode":"b5f85a95ef0ce618","toSide":"bottom"},
+		{"id":"b3e3ca443b603ff8","fromNode":"f6bab5132c196e7a","fromSide":"top","toNode":"3f326e275ca8a639","toSide":"bottom"},
+		{"id":"4e10af84fdc94af7","fromNode":"7f794aa352632a56","fromSide":"top","toNode":"3f326e275ca8a639","toSide":"bottom"},
+		{"id":"6a897a2c90b72da0","fromNode":"73ec2bca7bf1dbfc","fromSide":"top","toNode":"3f326e275ca8a639","toSide":"bottom"}
+	]
+}

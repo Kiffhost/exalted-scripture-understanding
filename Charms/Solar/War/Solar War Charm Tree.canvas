@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"9beb518202969763","type":"file","file":"Charms/Solar/War/Holistic Battle Understanding.md","x":160,"y":-1040,"width":400,"height":400},
+		{"id":"41c4751a3e41f1e9","type":"file","file":"Charms/Solar/War/Rout-Stemming Gesture.md","x":720,"y":-1040,"width":400,"height":400},
+		{"id":"9a2161b31ce7ecc9","type":"file","file":"Charms/Solar/War/Immortal Commander’s Presence.md","x":1280,"y":-1040,"width":400,"height":400},
+		{"id":"404f79dc07549a25","type":"file","file":"Charms/Solar/War/War God Descendent.md","x":720,"y":-480,"width":400,"height":400},
+		{"id":"4a52fa4546d9c1e2","type":"file","file":"Charms/Solar/War/Redoubt-Raising Gesture.md","x":160,"y":-1600,"width":400,"height":400},
+		{"id":"c1e77aa00e12481a","type":"file","file":"Charms/Solar/War/Magnanimity of the Unstoppable Icon.md","x":720,"y":-1600,"width":400,"height":400},
+		{"id":"93c24aeec5b09686","type":"file","file":"Charms/Solar/War/March of the Returner.md","x":720,"y":-2160,"width":400,"height":400},
+		{"id":"944fd1d829b1b205","type":"file","file":"Charms/Solar/War/Supremacy of the Divine Army.md","x":720,"y":-2720,"width":400,"height":400},
+		{"id":"085d93d50b379cc2","type":"file","file":"Charms/Solar/War/General of the All-Seeing Sun.md","x":160,"y":-2160,"width":400,"height":400},
+		{"id":"30257171655c5151","type":"file","file":"Charms/Solar/War/Four Glories Meditation.md","x":160,"y":-2720,"width":400,"height":400},
+		{"id":"712f98eb16eec99a","type":"file","file":"Charms/Solar/War/Battle-Visionary’s Foresight.md","x":-400,"y":-2720,"width":400,"height":400},
+		{"id":"8fe9239b18459fd4","x":160,"y":-3280,"width":400,"height":400,"type":"file","file":"Charms/Solar/War/One With Five Forces.md"},
+		{"id":"ef1d2c2e5a58f5db","type":"file","file":"Charms/Solar/War/Immortal Warlord’s Tactic.md","x":-2080,"y":-1040,"width":400,"height":400},
+		{"id":"3e08777ef5e80c2f","type":"file","file":"Charms/Solar/War/Battle Path Ascendant.md","x":-1520,"y":-1040,"width":400,"height":400},
+		{"id":"a399da66d5521f12","type":"file","file":"Charms/Solar/War/Ideal Battle Knowledge Prana.md","x":-1520,"y":-480,"width":400,"height":400},
+		{"id":"e77e09949aada64b","type":"file","file":"Charms/Solar/War/League of Iron Preparation.md","x":-960,"y":-1040,"width":400,"height":400},
+		{"id":"c0c1c45834cac16a","type":"file","file":"Charms/Solar/War/Tiger Warrior Training Technique.md","x":-960,"y":-1600,"width":400,"height":400},
+		{"id":"b04661a2d31f280f","type":"file","file":"Charms/Solar/War/Transcendent Warlord’s Genius.md","x":-1520,"y":-1600,"width":400,"height":400},
+		{"id":"b2c0d3be166b4d56","x":-400,"y":-1600,"width":400,"height":400,"type":"file","file":"Charms/Solar/War/Unstoppable Solar Conqueror.md"}
+	],
+	"edges":[
+		{"id":"97089dfdab7029c3","fromNode":"b04661a2d31f280f","fromSide":"top","toNode":"712f98eb16eec99a","toSide":"bottom"},
+		{"id":"cd144987eee0a23c","fromNode":"3e08777ef5e80c2f","fromSide":"top","toNode":"b04661a2d31f280f","toSide":"bottom"},
+		{"id":"1915f55badcc7e13","fromNode":"a399da66d5521f12","fromSide":"top","toNode":"3e08777ef5e80c2f","toSide":"bottom"},
+		{"id":"499252facd765fbd","fromNode":"a399da66d5521f12","fromSide":"top","toNode":"ef1d2c2e5a58f5db","toSide":"bottom"},
+		{"id":"8581ea5553bf22cb","fromNode":"085d93d50b379cc2","fromSide":"top","toNode":"712f98eb16eec99a","toSide":"bottom"},
+		{"id":"503788d71d9e71de","fromNode":"085d93d50b379cc2","fromSide":"top","toNode":"30257171655c5151","toSide":"bottom"},
+		{"id":"0c8e2eb1ba2777df","fromNode":"4a52fa4546d9c1e2","fromSide":"top","toNode":"085d93d50b379cc2","toSide":"bottom"},
+		{"id":"ca811a965a41abec","fromNode":"9beb518202969763","fromSide":"top","toNode":"4a52fa4546d9c1e2","toSide":"bottom"},
+		{"id":"0ea916a0d4d6ddf2","fromNode":"404f79dc07549a25","fromSide":"top","toNode":"9beb518202969763","toSide":"bottom"},
+		{"id":"af41b954526309f5","fromNode":"404f79dc07549a25","fromSide":"top","toNode":"9a2161b31ce7ecc9","toSide":"bottom"},
+		{"id":"9cc551029b8a26df","fromNode":"404f79dc07549a25","fromSide":"top","toNode":"e77e09949aada64b","toSide":"bottom"},
+		{"id":"a12fab8d3038412b","fromNode":"e77e09949aada64b","fromSide":"top","toNode":"c0c1c45834cac16a","toSide":"bottom"},
+		{"id":"1abad20d5262a7ea","fromNode":"404f79dc07549a25","fromSide":"top","toNode":"41c4751a3e41f1e9","toSide":"bottom"},
+		{"id":"cb5afd71d1d2667a","fromNode":"41c4751a3e41f1e9","fromSide":"top","toNode":"c1e77aa00e12481a","toSide":"bottom"},
+		{"id":"0c174bf2e73c3427","fromNode":"c1e77aa00e12481a","fromSide":"top","toNode":"93c24aeec5b09686","toSide":"bottom"},
+		{"id":"fe6803c92c8ea073","fromNode":"93c24aeec5b09686","fromSide":"top","toNode":"944fd1d829b1b205","toSide":"bottom"},
+		{"id":"868b011fb898aa07","fromNode":"30257171655c5151","fromSide":"top","toNode":"8fe9239b18459fd4","toSide":"bottom"},
+		{"id":"0f8c63bf73cc5388","fromNode":"9beb518202969763","fromSide":"top","toNode":"b2c0d3be166b4d56","toSide":"bottom"}
+	]
+}

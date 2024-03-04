@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"c02bb7a47573f3d3","type":"file","file":"Charms/Martial Arts/White Veil Style/The Dragon Succumbs.md","x":-800,"y":-3680,"width":400,"height":400},
+		{"id":"240b0340ee2b0047","type":"file","file":"Charms/Martial Arts/White Veil Style/The Dragon Dies Screaming.md","x":-800,"y":-3120,"width":400,"height":400},
+		{"id":"9b1b38de31864356","type":"file","file":"Charms/Martial Arts/White Veil Style/The Dragon Dies in Bed.md","x":-800,"y":-2560,"width":400,"height":400},
+		{"id":"ae05338b3d639f43","type":"file","file":"Charms/Martial Arts/White Veil Style/Blinded by Laughter.md","x":-800,"y":-2000,"width":400,"height":400},
+		{"id":"d153712feb1ec787","type":"file","file":"Charms/Martial Arts/White Veil Style/Blithe Unruffled Plumage.md","x":-800,"y":-1440,"width":400,"height":400},
+		{"id":"1733fa8f1f3ed278","type":"file","file":"Charms/Martial Arts/White Veil Style/White Veil Form.md","x":-800,"y":-880,"width":400,"height":400},
+		{"id":"d69b66ce46b0ba84","type":"file","file":"Charms/Martial Arts/White Veil Style/Owl Clutches at the Night.md","x":-800,"y":-320,"width":400,"height":400},
+		{"id":"7ee25a1972f981fb","type":"file","file":"Charms/Martial Arts/White Veil Style/Birdsong Over Blades.md","x":-800,"y":240,"width":400,"height":400},
+		{"id":"93aea9b26115fe65","type":"file","file":"Charms/Martial Arts/White Veil Style/Alehouse Memory Stance.md","x":-240,"y":240,"width":400,"height":400},
+		{"id":"cbea6052b33c975e","type":"file","file":"Charms/Martial Arts/White Veil Style/Tickling the Dragon’s Throat.md","x":-240,"y":-1440,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e674d5bab2f6783c","fromNode":"93aea9b26115fe65","fromSide":"top","toNode":"1733fa8f1f3ed278","toSide":"bottom"},
+		{"id":"d3fc1ee5d4bbc392","fromNode":"d69b66ce46b0ba84","fromSide":"top","toNode":"1733fa8f1f3ed278","toSide":"bottom"},
+		{"id":"fa96e3500055bc1e","fromNode":"7ee25a1972f981fb","fromSide":"top","toNode":"d69b66ce46b0ba84","toSide":"bottom"},
+		{"id":"6fd364c00e61ac9e","fromNode":"ae05338b3d639f43","fromSide":"top","toNode":"9b1b38de31864356","toSide":"bottom"},
+		{"id":"fd9d1802d49c168a","fromNode":"d153712feb1ec787","fromSide":"top","toNode":"ae05338b3d639f43","toSide":"bottom"},
+		{"id":"fa5d58af4bd6b31f","fromNode":"9b1b38de31864356","fromSide":"top","toNode":"240b0340ee2b0047","toSide":"bottom"},
+		{"id":"698f30fd7ef3088d","fromNode":"240b0340ee2b0047","fromSide":"top","toNode":"c02bb7a47573f3d3","toSide":"bottom"},
+		{"id":"70aaa769c35017b6","fromNode":"1733fa8f1f3ed278","fromSide":"top","toNode":"d153712feb1ec787","toSide":"bottom"},
+		{"id":"22f2796325a316b3","fromNode":"cbea6052b33c975e","fromSide":"top","toNode":"9b1b38de31864356","toSide":"bottom"},
+		{"id":"69501a47cb8a119d","fromNode":"1733fa8f1f3ed278","fromSide":"top","toNode":"cbea6052b33c975e","toSide":"bottom"}
+	]
+}

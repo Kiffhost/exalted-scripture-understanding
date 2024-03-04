@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"14fd868f05e812ba","type":"group","x":-620,"y":20,"width":2360,"height":440,"label":"Signature"},
+		{"id":"cda94f97fe47bad7","type":"group","x":-1260,"y":20,"width":440,"height":440,"label":"Excellency"},
+		{"id":"639569fb2de49202","type":"file","file":"Charms/Dragon-Blooded/Medicine/Purity-of-Mind Method.md","x":-600,"y":40,"width":400,"height":400,"color":"3"},
+		{"id":"d8ba20de299c441f","type":"file","file":"Charms/Dragon-Blooded/Medicine/Marmoreal Body Fortification.md","x":-120,"y":40,"width":400,"height":400,"color":"2"},
+		{"id":"0c1769e2a10b7607","type":"file","file":"Charms/Dragon-Blooded/Medicine/Unbinding the Inner Flame.md","x":360,"y":40,"width":400,"height":400,"color":"1"},
+		{"id":"92ffec6962bfcf79","type":"file","file":"Charms/Dragon-Blooded/Medicine/Body-Cleansing Ablution.md","x":840,"y":40,"width":400,"height":400,"color":"5"},
+		{"id":"d7342da6514b86ad","type":"file","file":"Charms/Dragon-Blooded/Medicine/Rebirth of Flesh and Ivy.md","x":1320,"y":40,"width":400,"height":400,"color":"4"},
+		{"id":"29e1516f66e9ac54","type":"file","file":"Charms/Dragon-Blooded/Medicine/Master Healer Meditation.md","x":-1240,"y":40,"width":400,"height":400},
+		{"id":"650bdad943a88ebc","type":"file","file":"Charms/Dragon-Blooded/Medicine/Dread Infection Strike.md","x":-1240,"y":1840,"width":400,"height":400},
+		{"id":"23c375b17b4b03bf","type":"file","file":"Charms/Dragon-Blooded/Medicine/Indomitable Vitality Discipline.md","x":-1240,"y":2400,"width":400,"height":400},
+		{"id":"d4a28f0edee728ae","type":"file","file":"Charms/Dragon-Blooded/Medicine/Disease-Banishing Technique.md","x":-1240,"y":2960,"width":400,"height":400},
+		{"id":"f156bc4584ec5e3c","type":"file","file":"Charms/Dragon-Blooded/Medicine/Poisoner’s Deft Hand.md","x":-680,"y":2400,"width":400,"height":400},
+		{"id":"6aab92fd810d6866","type":"file","file":"Charms/Dragon-Blooded/Medicine/Venom Expulsion Method.md","x":-680,"y":2960,"width":400,"height":400},
+		{"id":"451b56a62629682c","type":"file","file":"Charms/Dragon-Blooded/Medicine/Flesh-as-Stone Inurement.md","x":-680,"y":1840,"width":400,"height":400},
+		{"id":"df877b8bbd230608","type":"file","file":"Charms/Dragon-Blooded/Medicine/Jade Crucible Method.md","x":-120,"y":1840,"width":400,"height":400},
+		{"id":"a7c45345c14813bb","type":"file","file":"Charms/Dragon-Blooded/Medicine/Grievous Wound Alteration Energy.md","x":-120,"y":2400,"width":400,"height":400},
+		{"id":"c464d2f7fd1f3697","type":"file","file":"Charms/Dragon-Blooded/Medicine/Wound-Closing Technique.md","x":-120,"y":2960,"width":400,"height":400},
+		{"id":"6b938ef0e0b796f2","type":"file","file":"Charms/Dragon-Blooded/Medicine/Ailment-Sensing Meditation.md","x":440,"y":2960,"width":400,"height":400},
+		{"id":"24353e82f8d86a0b","type":"file","file":"Charms/Dragon-Blooded/Medicine/Death-Defying Endeavor.md","x":440,"y":2400,"width":400,"height":400},
+		{"id":"24c18eec644a6b2c","type":"file","file":"Charms/Dragon-Blooded/Medicine/Nature’s Healing Bounty.md","x":1000,"y":2960,"width":400,"height":400},
+		{"id":"e74fd9f77ea100b4","type":"file","file":"Charms/Dragon-Blooded/Medicine/Most Beneficent Seed of the Five Dragons.md","x":-120,"y":1320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"65f8feb97eb5d755","fromNode":"d4a28f0edee728ae","fromSide":"top","toNode":"23c375b17b4b03bf","toSide":"bottom"},
+		{"id":"084549d79d10b98f","fromNode":"23c375b17b4b03bf","fromSide":"top","toNode":"650bdad943a88ebc","toSide":"bottom"},
+		{"id":"0a5c4fccacefc769","fromNode":"6aab92fd810d6866","fromSide":"top","toNode":"f156bc4584ec5e3c","toSide":"bottom"},
+		{"id":"ff79fdd17fc31e51","fromNode":"c464d2f7fd1f3697","fromSide":"top","toNode":"a7c45345c14813bb","toSide":"bottom"},
+		{"id":"384d1bc84e769c75","fromNode":"a7c45345c14813bb","fromSide":"top","toNode":"451b56a62629682c","toSide":"bottom"},
+		{"id":"0f16bc338055a9d1","fromNode":"a7c45345c14813bb","fromSide":"top","toNode":"df877b8bbd230608","toSide":"bottom"},
+		{"id":"7feaa6e2a16597e5","fromNode":"df877b8bbd230608","fromSide":"top","toNode":"e74fd9f77ea100b4","toSide":"bottom"},
+		{"id":"589c5f052186df6e","fromNode":"a7c45345c14813bb","fromSide":"top","toNode":"d7342da6514b86ad","toSide":"bottom"},
+		{"id":"2db204f95965594e","fromNode":"6b938ef0e0b796f2","fromSide":"top","toNode":"24353e82f8d86a0b","toSide":"bottom"}
+	]
+}

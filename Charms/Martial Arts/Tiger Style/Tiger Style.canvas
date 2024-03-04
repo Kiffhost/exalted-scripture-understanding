@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"960dfc52646db26d","x":-760,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Celestial Tiger Hide.md"},
+		{"id":"28b83e86243e8272","x":-200,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Iron Claw Grip.md"},
+		{"id":"48597e0456419c1b","x":360,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Raging Tiger Pounce.md"},
+		{"id":"2546bf415a686d70","x":920,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Stalking Cat Movement Meditation.md"},
+		{"id":"c81dd59d398017dc","x":80,"y":-320,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Tiger Form.md"},
+		{"id":"6f4e552c5e6458d8","x":-200,"y":240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Crimson Leaping Cat Technique.md"},
+		{"id":"108bddc1c20336e7","x":360,"y":240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Striking Fury Claws.md"},
+		{"id":"c4ac4a0000455cb8","x":360,"y":-1440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Spine-Shattering Bite.md"},
+		{"id":"88252a917165b5b7","x":920,"y":-1440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Leap From Cloaking Shadows.md"},
+		{"id":"41d0c339cc8b9548","x":-200,"y":-1440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Prey-Maiming Frenzy.md"},
+		{"id":"d9ede1b6bb82d611","x":360,"y":-2000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Tiger Style/Angry Predator Frenzy.md"}
+	],
+	"edges":[
+		{"id":"1b4586a336ae8c86","fromNode":"6f4e552c5e6458d8","fromSide":"top","toNode":"c81dd59d398017dc","toSide":"bottom"},
+		{"id":"895aa1a8c5651134","fromNode":"108bddc1c20336e7","fromSide":"top","toNode":"c81dd59d398017dc","toSide":"bottom"},
+		{"id":"d78a17a7bdd63797","fromNode":"960dfc52646db26d","fromSide":"top","toNode":"d9ede1b6bb82d611","toSide":"bottom"},
+		{"id":"e033c96f17d79d44","fromNode":"41d0c339cc8b9548","fromSide":"top","toNode":"d9ede1b6bb82d611","toSide":"bottom"},
+		{"id":"cb07e23dd2c8e840","fromNode":"c4ac4a0000455cb8","fromSide":"top","toNode":"d9ede1b6bb82d611","toSide":"bottom"},
+		{"id":"5e3962fcf2b61ca0","fromNode":"88252a917165b5b7","fromSide":"top","toNode":"d9ede1b6bb82d611","toSide":"bottom"},
+		{"id":"f3390cfe9706af41","fromNode":"28b83e86243e8272","fromSide":"top","toNode":"41d0c339cc8b9548","toSide":"bottom"},
+		{"id":"bfaaf11d2a109ada","fromNode":"48597e0456419c1b","fromSide":"top","toNode":"c4ac4a0000455cb8","toSide":"bottom"},
+		{"id":"c81f6d69a42b4f57","fromNode":"2546bf415a686d70","fromSide":"top","toNode":"88252a917165b5b7","toSide":"bottom"},
+		{"id":"3040e377342fb1ee","fromNode":"c81dd59d398017dc","fromSide":"top","toNode":"960dfc52646db26d","toSide":"bottom"},
+		{"id":"4e472d4ee560d71f","fromNode":"c81dd59d398017dc","fromSide":"top","toNode":"28b83e86243e8272","toSide":"bottom"},
+		{"id":"77b3710c1f7447eb","fromNode":"c81dd59d398017dc","fromSide":"top","toNode":"48597e0456419c1b","toSide":"bottom"},
+		{"id":"46d75e3f6fecbe9e","fromNode":"c81dd59d398017dc","fromSide":"top","toNode":"2546bf415a686d70","toSide":"bottom"}
+	]
+}

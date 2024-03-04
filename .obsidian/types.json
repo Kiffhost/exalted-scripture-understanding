@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Cost": "text",
+    "Keywords": "multitext",
+    "Accuracy": "multitext",
+    "Dots": "number",
+    "Hearthstone slots": "number",
+    "WeaponTags": "multitext",
+    "WeaponType": "multitext"
+  }
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"08abf17aa58d710e","x":-536,"y":-540,"width":2360,"height":440,"type":"group","label":"Signature"},
+		{"id":"310af4ece53eb794","x":-1080,"y":-540,"width":440,"height":440,"type":"group","label":"Excellency"},
+		{"id":"e74968edab611b83","x":-516,"y":-520,"width":400,"height":400,"color":"3","type":"file","file":"Charms/Dragon-Blooded/Craft/Ephemeral Form Composition.md"},
+		{"id":"3c7dc9073cb9fc96","x":-36,"y":-520,"width":400,"height":400,"color":"2","type":"file","file":"Charms/Dragon-Blooded/Craft/Eternal Omphalos Forge.md"},
+		{"id":"775287ff4532c787","x":444,"y":-520,"width":400,"height":400,"color":"1","type":"file","file":"Charms/Dragon-Blooded/Craft/Blazing Dragon-Smith Arete.md"},
+		{"id":"9343b772dba4e542","x":924,"y":-520,"width":400,"height":400,"color":"5","type":"file","file":"Charms/Dragon-Blooded/Craft/Fortune-from-Flotsam Ingenuity.md"},
+		{"id":"012099a7359c1665","x":1404,"y":-520,"width":400,"height":400,"color":"4","type":"file","file":"Charms/Dragon-Blooded/Craft/Imago-Hatching Realization.md"},
+		{"id":"940fb58e056b24eb","x":-1060,"y":-520,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Masterful Dragon-Artisan Expertise.md"},
+		{"id":"0e29148078097ae2","x":-1076,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Stone-Carving Fingers.md"},
+		{"id":"a83b8a63a3fe1988","x":-516,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Flaw-Finding Examination.md"},
+		{"id":"6bb4ac4f2159fb7e","x":44,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Talents-to-Obols Refinement.md"},
+		{"id":"63e1b5c22796344a","x":604,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Passion-Inflaming Artistry.md"},
+		{"id":"1f424c76a648c3db","x":-1076,"y":480,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Strike the Dragon-Anvil.md"},
+		{"id":"f561c2f60965a402","x":-516,"y":480,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Forge-Hand Prana.md"},
+		{"id":"98d01960d92c3d62","x":-1076,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Shaping Hand Style.md"},
+		{"id":"073b359404aaa05f","x":-516,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Stones-from-Rubble Restoration.md"},
+		{"id":"e3f92f5bdbf663f6","x":44,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Stoking Inspiration’s Forge.md"},
+		{"id":"45c8dba397d5915d","x":-1076,"y":1040,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Flawless Facet Realization.md"},
+		{"id":"8bfba975c2e2fb53","x":-516,"y":1040,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Craft/Touch of Unmaking.md"}
+	],
+	"edges":[
+		{"id":"c1ea426f93b3109a","fromNode":"98d01960d92c3d62","fromSide":"top","toNode":"f561c2f60965a402","toSide":"bottom"},
+		{"id":"bb8e04740beeb490","fromNode":"98d01960d92c3d62","fromSide":"top","toNode":"45c8dba397d5915d","toSide":"bottom"},
+		{"id":"aa3f1ac497f2025c","fromNode":"45c8dba397d5915d","fromSide":"top","toNode":"1f424c76a648c3db","toSide":"bottom"},
+		{"id":"adbfe335d59b433d","fromNode":"0e29148078097ae2","fromSide":"top","toNode":"98d01960d92c3d62","toSide":"bottom"},
+		{"id":"6e8008b6306eebbd","fromNode":"a83b8a63a3fe1988","fromSide":"top","toNode":"073b359404aaa05f","toSide":"bottom"},
+		{"id":"0a0714385538358b","fromNode":"8bfba975c2e2fb53","fromSide":"top","toNode":"f561c2f60965a402","toSide":"bottom"},
+		{"id":"cd594de35e774f3b","fromNode":"073b359404aaa05f","fromSide":"top","toNode":"8bfba975c2e2fb53","toSide":"bottom"},
+		{"id":"40592493186dd347","fromNode":"6bb4ac4f2159fb7e","fromSide":"top","toNode":"e3f92f5bdbf663f6","toSide":"bottom"}
+	]
+}

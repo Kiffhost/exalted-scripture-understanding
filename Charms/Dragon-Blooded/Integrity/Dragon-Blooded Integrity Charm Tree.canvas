@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"97e9c23aca385ebb","x":467,"y":-469,"width":2360,"height":440,"type":"group","label":"Signature"},
+		{"id":"7ef70b9cf6b62f6b","x":-100,"y":-469,"width":440,"height":440,"type":"group","label":"Excellency"},
+		{"id":"fc7c50169505990c","x":487,"y":-449,"width":400,"height":400,"color":"3","type":"file","file":"Charms/Dragon-Blooded/Integrity/Ascendant Ideal Inspiration.md"},
+		{"id":"365282c52a6b9686","x":967,"y":-449,"width":400,"height":400,"color":"2","type":"file","file":"Charms/Dragon-Blooded/Integrity/Flawless Diamond Heart.md"},
+		{"id":"08d156a243ff08e0","x":1447,"y":-449,"width":400,"height":400,"color":"1","type":"file","file":"Charms/Dragon-Blooded/Integrity/Immolating Phoenix-Soul Fury.md"},
+		{"id":"0691755e9dce134d","x":1927,"y":-449,"width":400,"height":400,"color":"5","type":"file","file":"Charms/Dragon-Blooded/Integrity/Waves-Swallow-Mountains Persistence.md"},
+		{"id":"0137953618efc2f6","x":2407,"y":-449,"width":400,"height":400,"color":"4","type":"file","file":"Charms/Dragon-Blooded/Integrity/Roots-of-the-World Meditation.md"},
+		{"id":"a669b813806bb4c5","x":-80,"y":-449,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Granite Curtain of Serenity.md"},
+		{"id":"a670d91d620ce8ad","x":473,"y":480,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/The Mountain Still Stands.md"},
+		{"id":"8e5c626fb8911583","x":473,"y":1040,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Thicker Than Stone.md"},
+		{"id":"757f818a093e4107","x":-80,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Wound-Denying Dragon Faith.md"},
+		{"id":"7da88cd4574cabb9","x":473,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Unflagging Vengeance Meditation.md"},
+		{"id":"a837090b1dea14a7","x":473,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Ten Thousand Dragons Fight as One.md"},
+		{"id":"fca80a01c6f2edf9","x":1047,"y":1600,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Unquenchable Battle-Passion.md"},
+		{"id":"37adfb3de97a6957","x":1047,"y":2160,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Inviolate Dragon Spirit.md"},
+		{"id":"e5ba453fa4a443e1","x":473,"y":2720,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Oath of the Ten Thousand Dragons.md"},
+		{"id":"c984a56ed0e382b1","x":1047,"y":2720,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Heart-Hardening Meditation.md"},
+		{"id":"40c61424ab7d9be7","x":1607,"y":2720,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Chaos-Warding Prana.md"},
+		{"id":"e4e14e1ce51fa245","x":2167,"y":2720,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Frozen Heart Prana.md"},
+		{"id":"3148eb40aad0ef89","x":2727,"y":2720,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Integrity/Slippery Thoughts Technique.md"}
+	],
+	"edges":[
+		{"id":"e97f91680f8aa5e5","fromNode":"a837090b1dea14a7","fromSide":"top","toNode":"8e5c626fb8911583","toSide":"bottom"},
+		{"id":"d0e3f853cd472078","fromNode":"8e5c626fb8911583","fromSide":"top","toNode":"a670d91d620ce8ad","toSide":"bottom"},
+		{"id":"8a14fb8118dc41ee","fromNode":"e5ba453fa4a443e1","fromSide":"top","toNode":"a837090b1dea14a7","toSide":"bottom"},
+		{"id":"4e339c38c8f49f33","fromNode":"a837090b1dea14a7","fromSide":"top","toNode":"7da88cd4574cabb9","toSide":"bottom"},
+		{"id":"81f47b429d85d581","fromNode":"a837090b1dea14a7","fromSide":"top","toNode":"757f818a093e4107","toSide":"bottom"},
+		{"id":"a6a357f80907f88e","fromNode":"c984a56ed0e382b1","fromSide":"top","toNode":"37adfb3de97a6957","toSide":"bottom"},
+		{"id":"ec925746cacd6d7b","fromNode":"37adfb3de97a6957","fromSide":"top","toNode":"8e5c626fb8911583","toSide":"bottom"},
+		{"id":"791b0cb80cd4bba8","fromNode":"37adfb3de97a6957","fromSide":"top","toNode":"fca80a01c6f2edf9","toSide":"bottom"}
+	]
+}

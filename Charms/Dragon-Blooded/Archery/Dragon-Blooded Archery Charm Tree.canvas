@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"44bbbb7563605683","type":"group","x":-352,"y":-343,"width":2360,"height":440,"label":"Signature"},
+		{"id":"039c693d0ace9d1b","type":"group","x":-840,"y":-343,"width":440,"height":440,"label":"Excellency"},
+		{"id":"79965ead486828a5","type":"file","file":"Charms/Dragon-Blooded/Archery/Horizon-Spanning Arc.md","x":-332,"y":-323,"width":400,"height":400,"color":"3"},
+		{"id":"05614aec3a4bfb3a","type":"file","file":"Charms/Dragon-Blooded/Archery/Earth’s Judgment Awakened.md","x":148,"y":-323,"width":400,"height":400,"color":"2"},
+		{"id":"817f320a9f99aa66","type":"file","file":"Charms/Dragon-Blooded/Archery/Blazing Phoenix Pinion.md","x":628,"y":-323,"width":400,"height":400,"color":"1"},
+		{"id":"677393a0886b48cf","type":"file","file":"Charms/Dragon-Blooded/Archery/Fang-of-the-Depths Draw.md","x":1108,"y":-323,"width":400,"height":400,"color":"5"},
+		{"id":"02225dc12f3de871","type":"file","file":"Charms/Dragon-Blooded/Archery/Heartbeats Before Death.md","x":1588,"y":-323,"width":400,"height":400,"color":"5"},
+		{"id":"4ce33edc47153604","type":"file","file":"Charms/Dragon-Blooded/Archery/Arrow Rain Tempest.md","x":-332,"y":480,"width":400,"height":400},
+		{"id":"88d47a2964ae18af","type":"file","file":"Charms/Dragon-Blooded/Archery/Swallows Defend the Nest.md","x":-332,"y":1040,"width":400,"height":400},
+		{"id":"26fdaeb13b3a8ea7","type":"file","file":"Charms/Dragon-Blooded/Archery/Seven-Year Swarm Volley.md","x":-892,"y":1600,"width":400,"height":400},
+		{"id":"313c3006ad1e2f3a","type":"file","file":"Charms/Dragon-Blooded/Archery/Sparrow Dives at Hawk.md","x":-332,"y":1600,"width":400,"height":400},
+		{"id":"afe7ab2c85f5c970","type":"file","file":"Charms/Dragon-Blooded/Archery/Dragonfly Finds Mate.md","x":-332,"y":2160,"width":400,"height":400},
+		{"id":"6b6a61d728142f08","type":"file","file":"Charms/Dragon-Blooded/Archery/Drawing Lightning Style.md","x":-892,"y":2720,"width":400,"height":400},
+		{"id":"4f8ed212c611e429","type":"file","file":"Charms/Dragon-Blooded/Archery/Spring Follows Winter.md","x":-332,"y":2720,"width":400,"height":400},
+		{"id":"48e08fb322ef2c70","type":"file","file":"Charms/Dragon-Blooded/Archery/Death From Nowhere.md","x":-332,"y":3280,"width":400,"height":400},
+		{"id":"c4958d43193b8449","type":"file","file":"Charms/Dragon-Blooded/Archery/Sky-Calming Draw.md","x":-332,"y":3840,"width":400,"height":400},
+		{"id":"cb9e0a1c08bcb070","type":"file","file":"Charms/Dragon-Blooded/Archery/Arrow Thorn Technique.md","x":228,"y":3280,"width":400,"height":400},
+		{"id":"abf5e4e52443face","type":"file","file":"Charms/Dragon-Blooded/Archery/Salamander Swallows Flames.md","x":788,"y":2720,"width":400,"height":400},
+		{"id":"07b82bba4e42fe3a","type":"file","file":"Charms/Dragon-Blooded/Archery/Boughs of Burning Autumn.md","x":788,"y":3280,"width":400,"height":400},
+		{"id":"4daebcaf6b32b3d8","type":"file","file":"Charms/Dragon-Blooded/Archery/Harvest of the Hunter.md","x":788,"y":3840,"width":400,"height":400},
+		{"id":"4ac281aa36e36d0a","type":"file","file":"Charms/Dragon-Blooded/Archery/Arbor Sentinel Technique.md","x":1348,"y":2720,"width":400,"height":400},
+		{"id":"056b00ff18b81ab9","type":"file","file":"Charms/Dragon-Blooded/Archery/Life-Swelling Sap Strike.md","x":1348,"y":3280,"width":400,"height":400},
+		{"id":"6e57c316b132dd53","type":"file","file":"Charms/Dragon-Blooded/Archery/Unobstructed Hunter’s Aim.md","x":-820,"y":-323,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"b7630de1cfda3931","fromNode":"c4958d43193b8449","fromSide":"top","toNode":"48e08fb322ef2c70","toSide":"bottom"},
+		{"id":"0a3cb5c8ea2cc4c8","fromNode":"48e08fb322ef2c70","fromSide":"top","toNode":"6b6a61d728142f08","toSide":"bottom"},
+		{"id":"ee795b4d753eb8cd","fromNode":"48e08fb322ef2c70","fromSide":"top","toNode":"4f8ed212c611e429","toSide":"bottom"},
+		{"id":"87a5a8c8c61787c4","fromNode":"4daebcaf6b32b3d8","fromSide":"top","toNode":"cb9e0a1c08bcb070","toSide":"bottom"},
+		{"id":"367ce50233a08ed3","fromNode":"4daebcaf6b32b3d8","fromSide":"top","toNode":"07b82bba4e42fe3a","toSide":"bottom"},
+		{"id":"89e4bf0959bf3dec","fromNode":"4daebcaf6b32b3d8","fromSide":"top","toNode":"056b00ff18b81ab9","toSide":"bottom"},
+		{"id":"5d0cd291c7947c54","fromNode":"07b82bba4e42fe3a","fromSide":"top","toNode":"abf5e4e52443face","toSide":"bottom"},
+		{"id":"0e8d08ed5da43509","fromNode":"056b00ff18b81ab9","fromSide":"top","toNode":"4ac281aa36e36d0a","toSide":"bottom"},
+		{"id":"f9fa00392eaa249c","fromNode":"afe7ab2c85f5c970","fromSide":"top","toNode":"26fdaeb13b3a8ea7","toSide":"bottom"},
+		{"id":"3bee08fb7ae92584","fromNode":"afe7ab2c85f5c970","fromSide":"top","toNode":"313c3006ad1e2f3a","toSide":"bottom"},
+		{"id":"23e6982497a1bad5","fromNode":"4f8ed212c611e429","fromSide":"top","toNode":"afe7ab2c85f5c970","toSide":"bottom"},
+		{"id":"6e7c549ff7f4b8c7","fromNode":"313c3006ad1e2f3a","fromSide":"top","toNode":"88d47a2964ae18af","toSide":"bottom"},
+		{"id":"a0d588b51de5a004","fromNode":"88d47a2964ae18af","fromSide":"top","toNode":"4ce33edc47153604","toSide":"bottom"}
+	]
+}

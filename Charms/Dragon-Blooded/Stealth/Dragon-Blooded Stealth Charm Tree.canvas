@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"50f1fb5bbe80d28d","type":"group","x":500,"y":-87,"width":2360,"height":440,"label":"Signature"},
+		{"id":"f0b2d9f6eeefaa56","type":"group","x":-180,"y":-87,"width":440,"height":440,"label":"Excellency"},
+		{"id":"1a2fe07ab71f4833","type":"file","file":"Charms/Dragon-Blooded/Stealth/Whispering Dragon Soul.md","x":520,"y":-67,"width":400,"height":400,"color":"3"},
+		{"id":"a281e477e07231a7","type":"file","file":"Charms/Dragon-Blooded/Stealth/Sleeping Dragon’s Lair.md","x":1000,"y":-67,"width":400,"height":400,"color":"2"},
+		{"id":"d7da1074bd087bfe","type":"file","file":"Charms/Dragon-Blooded/Stealth/Flame-Becomes-Shadow Technique.md","x":1480,"y":-67,"width":400,"height":400,"color":"1"},
+		{"id":"a1055233b63cfdba","type":"file","file":"Charms/Dragon-Blooded/Stealth/Depth-Stalking Discipline.md","x":1960,"y":-67,"width":400,"height":400,"color":"5"},
+		{"id":"c1d3487aa13931db","type":"file","file":"Charms/Dragon-Blooded/Stealth/Shadow-Stalking Predator Spirit.md","x":2440,"y":-67,"width":400,"height":400,"color":"4"},
+		{"id":"e3a7744f9f6cb38e","type":"file","file":"Charms/Dragon-Blooded/Stealth/Distracting Breeze Meditation.md","x":-160,"y":-67,"width":400,"height":400},
+		{"id":"2d66eaccacb08444","x":2440,"y":480,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Mela’s Hungry Jaws.md"},
+		{"id":"2e52b139e862404e","x":2440,"y":1000,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Dragon Shroud Technique.md"},
+		{"id":"af9a0e43c136736e","x":2440,"y":1560,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Zone of Silence Stance.md"},
+		{"id":"193b7ff9f0d3b0a7","x":2440,"y":2120,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Soundless Action Prana.md"},
+		{"id":"e34709571cababda","x":1880,"y":2680,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Vanishing Wind-Body Technique.md"},
+		{"id":"106a9e71cf7ef5f7","x":760,"y":1560,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Deadly Riptide Executioner.md"},
+		{"id":"8f1139f39edf65fc","x":1320,"y":1560,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Shimmering Heat-Mirage Tactic.md"},
+		{"id":"35b089d593ee2300","x":1320,"y":2120,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Flowing Shadow Stance.md"},
+		{"id":"d0525e1f6611525a","x":1320,"y":1000,"width":400,"height":400,"type":"file","file":"Charms/Dragon-Blooded/Stealth/Burning Shadow Double.md"}
+	],
+	"edges":[
+		{"id":"b38fb749f96e8db4","fromNode":"35b089d593ee2300","fromSide":"top","toNode":"106a9e71cf7ef5f7","toSide":"bottom"},
+		{"id":"f1968c6e1d0fb0d0","fromNode":"e34709571cababda","fromSide":"top","toNode":"35b089d593ee2300","toSide":"bottom"},
+		{"id":"a9e094f5f27011d8","fromNode":"35b089d593ee2300","fromSide":"top","toNode":"8f1139f39edf65fc","toSide":"bottom"},
+		{"id":"8fb38276749e5553","fromNode":"8f1139f39edf65fc","fromSide":"top","toNode":"d0525e1f6611525a","toSide":"bottom"},
+		{"id":"d8ae1816eebdf135","fromNode":"e34709571cababda","fromSide":"top","toNode":"193b7ff9f0d3b0a7","toSide":"bottom"},
+		{"id":"b11996a85d9fa0ff","fromNode":"193b7ff9f0d3b0a7","fromSide":"top","toNode":"af9a0e43c136736e","toSide":"bottom"},
+		{"id":"9614d8107cfc330a","fromNode":"af9a0e43c136736e","fromSide":"top","toNode":"2e52b139e862404e","toSide":"bottom"},
+		{"id":"1b48259167068c2f","fromNode":"2e52b139e862404e","fromSide":"top","toNode":"2d66eaccacb08444","toSide":"bottom"},
+		{"id":"169823725a31015a","fromNode":"35b089d593ee2300","fromSide":"top","toNode":"a1055233b63cfdba","toSide":"bottom"}
+	]
+}

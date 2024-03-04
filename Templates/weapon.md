@@ -1,0 +1,6 @@
+---
+tags:
+  - object
+Type: 
+WeaponTags:
+---

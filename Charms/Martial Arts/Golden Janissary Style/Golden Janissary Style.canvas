@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a78f9def81ad01c1","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Paralyzing Combustion Imbuement.md","x":-480,"y":-2080,"width":400,"height":400},
+		{"id":"12423578c7f27521","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Lone Spark Lights the Conflagration.md","x":80,"y":-2080,"width":400,"height":400},
+		{"id":"0cb8c4fea1e3aa6d","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Devil-Slaying Spear Dance.md","x":-480,"y":-1520,"width":400,"height":400},
+		{"id":"52507687442f046a","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Light-on-Dark Shield.md","x":80,"y":-1520,"width":400,"height":400},
+		{"id":"25dd98d20863439b","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Where-Is-Doom Inquisition.md","x":-480,"y":160,"width":400,"height":400},
+		{"id":"f7b1f943101d9402","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Rotten Leaf Arrested.md","x":80,"y":160,"width":400,"height":400},
+		{"id":"d7a3efa14a6361cf","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Cleansing Flame Strike.md","x":-200,"y":-400,"width":400,"height":400},
+		{"id":"b953feb1d5c342a5","type":"file","file":"Charms/Martial Arts/Golden Janissary Style/Golden Janissary Form.md","x":-200,"y":-960,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"dce2e6aabf1804d1","fromNode":"25dd98d20863439b","fromSide":"top","toNode":"d7a3efa14a6361cf","toSide":"bottom"},
+		{"id":"f9096535211a286d","fromNode":"f7b1f943101d9402","fromSide":"top","toNode":"d7a3efa14a6361cf","toSide":"bottom"},
+		{"id":"bacbafcc20711e87","fromNode":"d7a3efa14a6361cf","fromSide":"top","toNode":"b953feb1d5c342a5","toSide":"bottom"},
+		{"id":"295c2fa7fb00de2f","fromNode":"b953feb1d5c342a5","fromSide":"top","toNode":"0cb8c4fea1e3aa6d","toSide":"bottom"},
+		{"id":"6e28637c56bd52f2","fromNode":"b953feb1d5c342a5","fromSide":"top","toNode":"52507687442f046a","toSide":"bottom"},
+		{"id":"5726758ac2ae3f2d","fromNode":"52507687442f046a","fromSide":"top","toNode":"12423578c7f27521","toSide":"bottom"},
+		{"id":"41902666531626c9","fromNode":"0cb8c4fea1e3aa6d","fromSide":"top","toNode":"a78f9def81ad01c1","toSide":"bottom"}
+	]
+}

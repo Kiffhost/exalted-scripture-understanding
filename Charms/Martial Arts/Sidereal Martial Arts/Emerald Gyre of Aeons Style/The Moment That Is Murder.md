@@ -1,0 +1,15 @@
+---
+tags:
+  - charm
+  - Sidereal
+Cost: 30m, 10i, 1wp
+Mins: Martial Arts 5, Essence 5
+Type: Simple
+Keywords:
+  - Decisive-only
+Duration: Instant
+Prerequisite Charms:
+  - "[[Battered by Eternity’s Tides]]"
+  - "[[Today Is Tomorrow]]"
+---
+Moving with a speed beyond that of time itself, the stylist this style’s ultimate killing art, a technique that Jehu Khoor forbade his disciples to use. The stylist makes a decisive attack against any number of enemies she can perceive within medium range, blurring between them all in a split-second, ending her movement anywhere within medium range of her starting point. This has a base damage of (Initiative/2) against each enemy. Trivial characters are hit automatically and slain instantly. Against enemies whose onslaught penalty equals or exceeds their Essence, this attack is unblockable and undodgeable for them. If it exceeds their Essence by three or more, the attack becomes an ambush for them. Reset: Once per scene, unless reset by gaining 20+ Initiative in a single tick. Obsidian Shards of Infinity Style One morning, as the philosopher-assassin Ei Zou trimmed his whiskers while waiting for his tea to steep, he saw himself in his mirror and was enlightened. He had no words with which to express his understanding of the infinite; rather, his teaching was shaped like a knife. This is Obsidian Shards of Infinity style. It is a contemplation of the interplay of choice and possibility, of reality and its reflections. It is thus a killer’s art, for every decision murders countless futures. The only way to learn this style is to face one of its practitioners; no student or victim of Ei Zou has ever surpassed him in that. Students cultivate insight, imagination, and Essence by contemplating koans, navigating mirror-filled labyrinths, and undergoing prolonged sensory deprivation. They must be ever vigilant, for their teacher might attack at any time. Some Sidereals follow Ei Zou’s practice of ambushing those in whom he saw potential, conferring enlightenment with a knife’s edge. In battle, the Obsidian Shards stylist breathes with a steady rhythm, is constantly aware of all possible angles of attack, and makes no unnecessary movement. Every mirror is a weapon to them; thus, they keep their blades well-polished and choose wisely the sites of their ambushes. Many a boudoir Obsidian Shards of Infinity Weapons: This style emphasizes knifehand strikes, often delivered two-handed; rapid successions of kicks, and joint locks. It’s compatible with khatars, sais, and knives, which are traditionally dual wielded. Armor: This style is incompatible with armor. Complementary Abilities: Stealth is a significant part of this style, befitting its creator. Nature: Still. The First Koan Ei Zou asked his shadow, “What is the shape of reality?” His shadow said, “I’m hungry. Why don’t you stop asking questions and find me something to eat?” Ei Zou was struck by a realization.
