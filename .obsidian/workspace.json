@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md",
+                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md",
+                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md",
+                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md"
+                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md"
+                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md"
               }
             }
           },
@@ -185,35 +185,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8d172f42dc869cfc",
+  "active": "3a5d214276320e48",
   "lastOpenFiles": [
-    "Rules Sidebars/Arms of the Chosen/ALLOCATION OF GRIEVANCES.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Staff of Fury.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Humble the Wicked.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Talion/Talion.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Sirrush/Inferno-Drinking Stance.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Sirrush/Sirrush.md",
-    "Rules Sidebars/Arms of the Chosen/HALF A PAIR.md",
-    "Lore Sidebars/THE WRETCHED.md",
-    "Lore Sidebars/THE UNCLEAN.md",
-    "Lore Sidebars/THE BLASPHEMOUS.md",
-    "Lore Sidebars/THE FORSAKEN.md",
-    "Rules Sidebars/Arms of the Chosen/THE PEACHES OF IMMORTALITY.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Flying Silver Dream/Flying Silver Dream.md",
-    "Items/Hearthstones/Hearthstone Keywords.md",
-    "Items/Everyday Wonders & Natural Magics/Sweet Cordial.md",
-    "Items/Everyday Wonders & Natural Magics/Seven Bounties Paste.md",
-    "Items/Everyday Wonders & Natural Magics/Dreamstone.md",
-    "Items/Everyday Wonders & Natural Magics/Dawnflower.md",
-    "Items/Everyday Wonders & Natural Magics/Bright Morning.md",
-    "Charms/Solar/Craft/Momentum/Design Beyond Limit.md",
-    "Items/Everyday Wonders & Natural Magics/Talismans.md",
-    "Items/Everyday Wonders & Natural Magics/Maiden Tea.md",
-    "Items/Everyday Wonders & Natural Magics/Age-Staving Cordial.md",
-    "Items/Everyday Wonders & Natural Magics/Ghost Flower Tea.md",
-    "Items/Everyday Wonders/Untitled",
-    "Progress Tracker.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Beloved Adorei/Beloved Adorei.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Black Wind/Black Wind.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Dauntless/Dauntless.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Freedom's Cadence/Freedom’s Cadence.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Moonlit Huntress/Moonlit Huntress.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Orichalcum Hunting Hawk/Orichalcum Hunting Hawk.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Shining Ice Mirror/Shining Ice Mirror.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Spring Razor/Spring Razor.md",
     "Items/Artifacts & Evocations/Example Artifacts & Evocations/Volcano Cutter/Volcano Cutter.md",
+    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Brilliant Sentinel/Brilliant Sentinel.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Daiklave.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Dragon Sigh Wand.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Siege Crossbow.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Powerbow.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Short Powerbow.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Skycutter.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Glorious Staff Sling.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Sling of Distant Surprise.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Infinite Chakram.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grimscythe.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Grimcleaver.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Goremaul.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Daiklave.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlance.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons/Wrackstaff.md",
+    "Items/Artifacts & Evocations/Generic Artifact Weapons",
+    "Items/Everyday Wonders/Untitled",
     "Items/Weapons & Armor/Mortal Armor",
     "Items/Weapons & Armor/Ranged Weapons",
     "Items/Weapons & Armor/Mortal Weapons",
@@ -222,7 +223,6 @@
     "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Implosion Bow",
     "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Lightning Ballista",
     "Items/Artifacts & Evocations/Arms of the Chosen/Misc",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
     "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",

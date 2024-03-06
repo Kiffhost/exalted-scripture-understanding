@@ -20,3 +20,19 @@ The typical Dynastic stipend is represented by Resources 3, with more successful
 
 #### Sidereal
 The typical starting salary is three-dot Resources; Sidereals can expect a quick promotion to four dots after a few successful missions. Lower ratings reflect sizable debts, disciplinary pay cuts, assets seizures incidental to auditing, poor money management, etc.
+
+# The Resources System
+
+Real prices are tremendously variable based upon supply, demand, politics, and haggling. As such, each item is assigned a Resources value. The number given indicates the rating necessary for a character to view a purchase as a significant but not ruinous expense—higher-rating characters can often absorb lower-rated Resources expenditure with ease.
+
+Things usually purchased immediately or which must be repurchased frequently (animal fodder, drugs, fancy clothing) count against monthly income, while infrequent purchases are compared to expected income for a year (military field commands, large caravans, slaves) or even a decade (ships, villas, palaces, jewelry), as folks often take loans or mortgages to afford large buys. As such, a purchase’s Resource value is not a hard cap on affordability— use the actual prices and discretion to determine what’s affordable.
+
+In the world of Exalted, loans, credit, and debt are standard, from bar tabs, to tax loans from landlords, to Guild factors backing merchants, to military commissions paid for by wealthy relatives. Characters who frequently make purchases at their level of Resources are almost always in debt. Debt doesn’t necessarily reduce Resources, but it does create plot complications—consider handling it as a custom Flaw (p. 167). 
+
+The Resources Merit needn’t pay for all a starting character’s mundane equipment—a destitute former soldier may retain her arms and armor, while a pair of smugglers might have won their ship in a bet. Characters begin play with whatever possessions are appropriate for their concepts, within reason.
+
+## Cost of Living 
+
+Most people spend their money maintaining their lives. An urban laborer gambles to stay in favor with a local gang. A merchant pays tariffs and bribes, while a businesswoman dines with partners and pays the wages of assistants and employees. The upper classes decorate their mansions, feed and clothe their slaves and servants, pay guards and thugs, throw galas, patronize the arts, indulge in vices, and finance the business excursions and expenses of younger family members and other hangers-on. 
+
+As a general rule, any character who spends less than half her income on the cost of living is in danger of being judged by her peers as eccentric, stingy, or unworthy of her station. This may lead to social snubs, disintegrating business deals, or attempts on her fortune, livelihood, or even life from contemporaries who begin to view her as an outsider

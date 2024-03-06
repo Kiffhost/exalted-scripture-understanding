@@ -6,7 +6,7 @@
     "Cost": "text",
     "Keywords": "multitext",
     "Accuracy": "multitext",
-    "Dots": "text",
+    "Dots": "number",
     "Hearthstone slots": "number",
     "WeaponTags": "multitext",
     "WeaponType": "multitext"

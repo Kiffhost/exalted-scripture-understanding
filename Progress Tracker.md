@@ -15,7 +15,7 @@ Very next steps, each completable within 1 day - 1 week
 - [ ] Import other items
 	- [ ] Hearthstones
 	- [x] Mortal Weapons/Armour
-	- [ ] Everyday Wonders
+	- [x] Everyday Wonders
 	- [ ] Minor Artifacts
 
 # Medium Term
@@ -44,13 +44,13 @@ Overarching goals, completable within 1 month
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start
+- [ ] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar
 	- [x] Dragon-Blooded
 	- [ ] Lunar
 	- [ ] Sidereal
 	- [x] Martial Arts
-- [ ] In-text cross-links
 - [ ] Sharing system
 
 

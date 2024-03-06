@@ -5,10 +5,15 @@ tags:
 WeaponType:
   - Grand Daiklave
 Material: Red Jade
-WeaponTags: 
+WeaponTags:
+  - Lethal
+  - Melee
+  - Balanced
+  - Reaching
+  - Two-Handed
 Dots: 5
-Attunement: 
-Type: 
+Attunement: 5m
+Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)
 Hearthstone slots: 2
 Era: First Age
 ---

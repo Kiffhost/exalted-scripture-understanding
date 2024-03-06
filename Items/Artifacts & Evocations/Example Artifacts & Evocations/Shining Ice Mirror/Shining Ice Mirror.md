@@ -5,10 +5,13 @@ tags:
 WeaponType:
   - Reaper Daiklave
 Material: Blue Jade
-WeaponTags: 
+WeaponTags:
+  - Lethal
+  - Melee
+  - Balanced
 Dots: 3
-Attunement: 
-Type: 
+Attunement: 5m
+Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 Hearthstone slots: 1
 Era: First Age
 ---
