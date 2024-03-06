@@ -5,15 +5,6 @@ kanban-plugin: basic
 
 Very next steps, each completable within 1 day - 1 week
 
-- [ ] Evocations
-	- [x] Solar
-	- [x] Dragon-Blooded
-	- [ ] Arms of the Chosen
-		- [x] Weapons
-		- [x] Armor
-		- [ ] Misc
-	- [x] Lunar
-	- [x] Sidereal
 - [ ] Character creation walkthrough
 	- [x] Generic
 	- [x] Solar
@@ -21,7 +12,11 @@ Very next steps, each completable within 1 day - 1 week
 	- [ ] Lunar
 	- [ ] Sidereal
 	- [ ] Exigent
-
+- [ ] Import other items
+	- [ ] Hearthstones
+	- [x] Mortal Weapons/Armour
+	- [ ] Everyday Wonders
+	- [ ] Minor Artifacts
 
 # Medium Term
 
@@ -29,7 +24,6 @@ Overarching goals, completable within 1 month
 
 - [ ] Rules
 	- [ ] Basic rules reference
-	- [ ] Character creation walkthrough
 	- [ ] Limit & Great Curse
 	- [ ] Combat
 	- [ ] Social
@@ -47,10 +41,6 @@ Overarching goals, completable within 1 month
 		- [ ] Survival
 		- [ ] Medicine
 		- [ ] Sail
-- [ ] Import other items
-	- [ ] Hearthstones
-	- [ ] Mortal Weapons/Armour
-	- [ ] Artifacts
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start
@@ -61,8 +51,9 @@ Overarching goals, completable within 1 month
 	- [ ] Sidereal
 	- [x] Martial Arts
 - [ ] In-text cross-links
-- [ ] Version Control
-- [ ] Kanban
+- [ ] Sharing system
+
+
 
 # Long Term
 
@@ -97,3 +88,13 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Solar
 	- [x] Lunar
 	- [x] Sidereal
+- [x] Evocations
+	- [x] Solar
+	- [x] Dragon-Blooded
+	- [x] Arms of the Chosen
+		- [x] Weapons
+		- [x] Armor
+		- [x] Misc
+	- [x] Lunar
+	- [x] Sidereal
+- [x] Version Control

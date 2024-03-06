@@ -13,7 +13,9 @@ Cannot be used in reaction to a Charm with the Counterattack or Clash keyword.
 #### Decisive-only
 If it’s an attack Charm, the Charm can only be used with a decisive attack. If it is a defensive Charm, it can only be used to defend against a decisive attack.
 #### Dual
-This Charm has two different functions, one for withering and one for decisive. #### Mute: This Charm’s cost will not add to the Exalt’s anima level unless she wants it to.
+This Charm has two different functions, one for withering and one for decisive. 
+#### Mute
+This Charm’s cost will not add to the Exalt’s anima level unless she wants it to.
 #### Pilot
 The character must be the captain or the helmsman of the sailing vessel to use this Charm.
 #### Psyche

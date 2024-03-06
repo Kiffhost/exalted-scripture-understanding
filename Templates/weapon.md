@@ -2,5 +2,6 @@
 tags:
   - object
 Type: 
-WeaponTags:
+WeaponTags: 
+Cost:
 ---
