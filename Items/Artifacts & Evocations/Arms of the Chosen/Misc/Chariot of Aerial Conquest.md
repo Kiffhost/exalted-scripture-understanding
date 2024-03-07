@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - Ship
 Material: Orichalcum
 Dots: §5
 Attunement: 5m

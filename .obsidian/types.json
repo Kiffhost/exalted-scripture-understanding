@@ -9,6 +9,7 @@
     "Dots": "number",
     "Hearthstone slots": "number",
     "WeaponTags": "multitext",
-    "WeaponType": "multitext"
+    "WeaponType": "multitext",
+    "ArmourTags": "multitext"
   }
 }

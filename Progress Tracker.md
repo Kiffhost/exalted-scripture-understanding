@@ -16,7 +16,8 @@ Very next steps, each completable within 1 day - 1 week
 	- [ ] Hearthstones
 	- [x] Mortal Weapons/Armour
 	- [x] Everyday Wonders
-	- [ ] Minor Artifacts
+	- [x] Minor Artifacts
+
 
 # Medium Term
 

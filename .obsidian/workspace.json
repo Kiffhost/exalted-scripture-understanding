@@ -8,19 +8,85 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d172f42dc869cfc",
+            "id": "eaea4336a56283c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Yasal Crystal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c239950ed18cf35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a542c6739d9b610c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Bracers of Universal Crafting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63cb2761681926bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Essence Glider.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "314d8a55af65fbac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Folding Ship.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "644e117b1087e3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -86,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
+                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
+                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md"
+                "file": "Charms/Solar/Archery/Sight Without Eyes.md"
               }
             }
           },
@@ -148,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md"
+                "file": "Charms/Solar/Archery/Sight Without Eyes.md"
               }
             }
           },
@@ -169,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -185,44 +251,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3a5d214276320e48",
+  "active": "644e117b1087e3ba",
   "lastOpenFiles": [
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Beloved Adorei/Beloved Adorei.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Black Wind/Black Wind.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Dauntless/Dauntless.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Freedom's Cadence/Freedom’s Cadence.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Moonlit Huntress/Moonlit Huntress.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Orichalcum Hunting Hawk/Orichalcum Hunting Hawk.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Shining Ice Mirror/Shining Ice Mirror.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Spring Razor/Spring Razor.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Volcano Cutter/Volcano Cutter.md",
-    "Items/Artifacts & Evocations/Example Artifacts & Evocations/Brilliant Sentinel/Brilliant Sentinel.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Daiklave.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlash.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Dragon Sigh Wand.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Siege Crossbow.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Powerbow.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Short Powerbow.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Skycutter.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Glorious Staff Sling.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Sling of Distant Surprise.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Infinite Chakram.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grimscythe.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Grimcleaver.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Goremaul.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Grand Daiklave.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Direlance.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons/Wrackstaff.md",
-    "Items/Artifacts & Evocations/Generic Artifact Weapons",
+    "Charms/Solar/Archery/Wise Arrow.md",
+    "Progress Tracker.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Beloved Adorei/No Other Blade.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/The Wondrous Globe of Precious Stability.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Folding Ship.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Horizon Endeavor.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Chariot of Aerial Conquest.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Essence Glider.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Bracers of Universal Crafting.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Yasal Crystal.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Traveler's Staff.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Staff.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Collar of Dawn’s Cleansing Light.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Hearthstone Amulet (Tiara, Bracer, etc.).md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Articulated Plate.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Reinforced Breastplate.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Reinforced Buff Jacket.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Lamellar Armor.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Silken Armor.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Chain Shirt.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Breastplate.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Dragon Sigh Wand.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Siege Crossbow.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Powerbow.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Short Powerbow.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc",
+    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons",
     "Items/Everyday Wonders/Untitled",
-    "Items/Weapons & Armor/Mortal Armor",
+    "Items/Mortal Weapons & Armor/Mortal Armor",
     "Items/Weapons & Armor/Ranged Weapons",
-    "Items/Weapons & Armor/Mortal Weapons",
+    "Items/Mortal Weapons & Armor/Mortal Weapons",
     "Items/Everyday Wonders & Natural Magics",
     "Items/Hearthstones/Arms of the Chosen",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Implosion Bow",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Lightning Ballista",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
     "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
