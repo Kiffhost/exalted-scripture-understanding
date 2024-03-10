@@ -24,6 +24,12 @@ All characters begin with the following:
 
 # Concept and Type
 
+### [[Mortal]]
+Unexalted characters usually pale in comparison to any Exalted.
+## [[Exigent Exalted]]
+Wield their own *unique*, *unusual* powers one of many Small Gods.
+May be scaled to either Celestial or Terrestrial power levels.
+Most common in the hinterlands of Creation, wherever they are needed most.
 ## Celestial Exalted
 More powerful and less common. Suffer from Limit.
 ### [[Solar Exalted]]
@@ -45,10 +51,6 @@ More common and less powerful. Do not suffer from Limit.
 Wield the *elemental*, *grounded* powers of the Elemental Dragons.
 Unique powers in harnessing Air, Earth, Fire, Water and Wood.
 Most common in the heartlands of Creation, such as the Blessed Isle.
-## [[Exigent Exalted]]
-Wield their own *unique*, *unusual* powers one of many Small Gods.
-May be scaled to either Celestial or Terrestrial power levels.
-Most common in the hinterlands of Creation, wherever they are needed most.
 
 # Merits
 

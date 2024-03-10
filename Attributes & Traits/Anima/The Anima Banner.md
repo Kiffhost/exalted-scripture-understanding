@@ -35,11 +35,11 @@ In addition to these universal effects, Solars of each Caste enjoy a number of i
 
 The anima banners of the Dragon-Blooded manifest their elemental puissance as they expend Essence. **For every five motes of Peripheral Essence a Dragon-Blood spends in an instant, her anima banner rises by one level.** 
 ## Anima Levels
-| Anima Level | Effects |
-| ---- | ---- |
-| Dim | The Dragon-Blood’s anima is invisible to all senses. This is the default level at which it resides when she’s not spending Essence. |
-| Glowing | The Dragon-Blood’s anima outlines her body in the glowing colors of her element, and her aspect markings become more pronounced. Any attempts at stealth or disguise suffer a −3 penalty. |
-| Burning | The Dragon-Blood’s anima burns brightly in an aura around her. Stealth becomes impossible.  |
+| Anima Level    | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dim            | The Dragon-Blood’s anima is invisible to all senses. This is the default level at which it resides when she’s not spending Essence.                                                                                                                                                                                                                                                                                                                                          |
+| Glowing        | The Dragon-Blood’s anima outlines her body in the glowing colors of her element, and her aspect markings become more pronounced. Any attempts at stealth or disguise suffer a −3 penalty.                                                                                                                                                                                                                                                                                    |
+| Burning        | The Dragon-Blood’s anima burns brightly in an aura around her. Stealth becomes impossible.                                                                                                                                                                                                                                                                                                                                                                                   |
 | Bonfire/Iconic | The Dragon-Blood’s anima erupts into a shining pillar of elemental force that stretches high into the sky, visible for miles around. Upon reaching this level, and at suitably dramatic moments, her anima manifests an iconic display of elemental power or other personal symbolism chosen by her player, such as an erupting volcano or a snow leopard carved from ice. The area out to short range of the Dragon-Blood is completely illuminated. Stealth is impossible. |
 It takes fifteen minutes for the Dragon-Blood’s anima banner to recede from the bonfire level to burning or from burning to glowing, and half an hour for her glowing anima to recede to dim.
 
@@ -70,11 +70,14 @@ In addition to these universal effects, Dragon-Blooded of each Aspect enjoy a nu
 A Lunar’s anima banner blazes forth into visibility as she expends Essence. **For every five motes of Peripheral Essence she spends in an instant, her anima banner rises one level.**
 
 ## Anima Levels
-| Dim | The Lunar’s anima is invisible. This is its default level when she’s not spending Essence. |
-| ---- | ---- |
-| Glowing | The Lunar’s anima outlines her body in glowing light. Her Caste Mark appears, shining through anything placed over it. Her Tell and moonsilver tattoos become obvious to all who see her. Stealth and disguise rolls suffer a −3 penalty. |
-| Burning | The Lunar’s anima shines in an argent aura around her. Objects touched by it may be left damp and warped, as if exposed to the night air and elements for many days. Her Caste Mark is subsumed into her anima, reappearing at dramatic moments. Stealth is impossible.  |
-|  Bonfire/Iconic | The Lunar’s anima ignites into a brilliant bonfire stretching high into the sky, visible for miles around. Upon reaching bonfire, and at suitably dramatic moments, her anima manifests a personalized iconic display: a stylized depiction of her spirit shape, a quicksilver mirror depicting warped reflections, whirling blades inlaid with an intaglio of luminous runes, phantasmal limbs holding symbols of power, etc. Her anima completely illuminates her surroundings within short range. Stealth is impossible.  |
+
+| Anima Level    | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dim            | The Lunar’s anima is invisible. This is its default level when she’s not spending Essence.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Glowing        | The Lunar’s anima outlines her body in glowing light. Her Caste Mark appears, shining through anything placed over it. Her Tell and moonsilver tattoos become obvious to all who see her. Stealth and disguise rolls suffer a −3 penalty.                                                                                                                                                                                                                                                                                   |
+| Burning        | The Lunar’s anima shines in an argent aura around her. Objects touched by it may be left damp and warped, as if exposed to the night air and elements for many days. Her Caste Mark is subsumed into her anima, reappearing at dramatic moments. Stealth is impossible.                                                                                                                                                                                                                                                     |
+| Bonfire/Iconic | The Lunar’s anima ignites into a brilliant bonfire stretching high into the sky, visible for miles around. Upon reaching bonfire, and at suitably dramatic moments, her anima manifests a personalized iconic display: a stylized depiction of her spirit shape, a quicksilver mirror depicting warped reflections, whirling blades inlaid with an intaglio of luminous runes, phantasmal limbs holding symbols of power, etc. Her anima completely illuminates her surroundings within short range. Stealth is impossible. |
+
 It takes 15 minutes for the anima banner to recede from bonfire to burning or from burning to glowing, and half an hour to recede from glowing to dim.
 
 ## Anima Effects
@@ -90,4 +93,19 @@ In addition to these universal effects, Lunars of each Caste enjoy a number of i
 - [[No Moon#Anima Effects]]
 - [[Changing Moon#Anima Effects]]
 - [[Casteless#Anima Effects]]
+
+# Sidereal
+
+As Sidereals spend Essence, they manifest halos and then anima banners in their patron Maidens’ colors. Every five peripheral motes spent an instant increases a Sidereal’s anima banner by one level. Their anima banners are subtler than other Chosen’s.
+
+| Anima Level    | Effects                                                                                                                                                                                                                                       |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dim            | The Sidereal’s anima is invisible.                                                                                                                                                                                                            |
+| Glowing        | The Sidereal’s Caste Mark appears on her brow but can be concealed with headbands, veils, hoods, and similar coverings.                                                                                                                       |
+| Burning        | A halo wreathes the Sidereal’s head, subsuming her Caste Mark, and anima limns her body. This may be accompanied by other sensory displays. Stealth rolls suffer a −3 penalty; other characters add +3 dice on rolls opposing her disguises.. |
+| Bonfire/Iconic | The Sidereal’s anima banner engulfs her in a brilliant aura. Upon reaching bonfire and at suitably dramatic moments, she manifests a unique iconic display. Stealth is impossible.                                                            |
+
+## Anima Effects
+
+For one mote, a Sidereal can manifest her Caste Mark for as long as she wants or sense the approximate location of any nearby heavenly gates (p. XX).
 

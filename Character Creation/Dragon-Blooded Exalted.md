@@ -1,44 +1,62 @@
 # Traits
 
 Begin with the defaults: 
-- Essence 1
+- Essence 2
 - Willpower 5
-- (Essence x 3) + 10 Personal Essence pool.
-- (Essence x 7) + 26 Peripheral Essence pool.
+- (Essence) + 11 Personal Essence pool.
+- (Essence x 4) + 23 Peripheral Essence pool.
 
-# Concept and Caste
+# Concept and Aspect
 
-Select a Caste - this provides anima powers, and affects how the character will be perceived.
-- [[Dawn]] - Warriors, known for combat.
-- [[Zenith]] - Priest-kings, known for leadership.
-- [[Twilight]] - Scholar and artisans, known for creation and sorcery.
-- [[Night]] - Spies, known for espionage.
-- [[Eclipse]] - Diplomats, known for communication.
+Select an Aspect - this provides anima powers and experience triggers.
+- [[Air Aspect]]
+- [[Earth Aspect]]
+- [[Fire Aspect]]
+- [[Water Aspect]]
+- [[Wood Aspect]]
 
 # Abilities
 
-Each caste has 8 **Caste Abilities** associated with it: (ctrl+hover to preview)
-[[Dawn#Caste Abilities|Dawn]] [[Zenith#Caste Abilities|Zenith]] [[Twilight#Caste Abilities|Twilight]] [[Night#Caste Abilities|Night]] [[Eclipse#Caste Abilities|Eclipse]]
-
+Each aspect has 5 **Aspect Abilities** associated with it: (ctrl+hover to preview)
+[[Air Aspect#Aspect Abilities|Air]] [[Earth Aspect#Aspect Abilities|Earth]] [[Fire Aspect#Aspect Abilities|Fire]] [[Water Aspect#Aspect Abilities|Water]] [[Wood Aspect#Aspect Abilities|Wood]]
 Select 5 **Favoured** **Abilities**.
-Select a ***Supernal Ability*** from among your **Caste Abilities**.
 <details>
 	<summary>Why?</summary>
- Your choice of <b>Caste</b> and <b>Favored Abilities</b> is important to your character’s future development—it’s less expensive to improve selected Abilities, and to learn Charms associated with them. Charms belonging to your <b><i>Supernal Ability</b></i> treat your Essence rating as 5 for the purpose of prerequisites.
+ Your choice of <b>Aspect</b> and <b>Favored Abilities</b> is important to your character’s future development—it’s less expensive to improve selected Abilities, and to learn Charms associated with them.
 </details>
 
 Divide 28 dots among your abilities.
 Maximum of 3 dots per ability (before bonus points are applied).
 
-Choose 4 *Specialties*.
+Choose 3 *Specialties*.
+
+## Background
+### Dynast of The Realm
+Choose 2 specialties among the abilities offered by a secondary school.
+- The Cloister of Wisdom: Integrity, Lore, Martial Arts
+- The Heptagram: Craft, Lore, Occult 
+- The House of Bells: Archery, Melee, War 
+- The Spiral Academy: Bureaucracy, Presence, Socialize 
+- Pasiap’s Stair: Athletics, Resistance, War
+### Lookshyan
+Choose 2 specialties among Integrity, Lore or War.
+### Prasadi
+Choose 2 specialties among the Abilities based on clan: 
+- Clan Burano: Bureaucracy, Integrity, Resistance 
+- Clan Ophris: Athletics, Performance, Socialize
+### Forest Witches
+Choose 2 specialties among Integrity, Occult or Survival.
+### Other
+Choose 1 specialty in any ability.
 
 # Merits
 
-Assign up to 10 dots to [[Merits]].
+Assign up to 13 dots to [[Merits]].
 - [[Merits#Innate|Innate Merits]] may only be purchased now.
 - [[Merits#Story|Story Merits]] may be purchased now, or with Storyteller permission.
 - [[Merits#Purchased|Purchased Merits]] may be purchased at any time.
 
+If you chose the Dynast, Prasadi or Lookshyan Background, assign 5 additional dots among: [[Backing]], [[Command]], [[Contacts]], [[Followers]], [[Influence]], [[Language]], [[Resources]], and [[Retainers]]. 
 
 Some Merits can make different options for charms available:
 - [[Artifact]] may allow Evocations.
@@ -47,10 +65,15 @@ Some Merits can make different options for charms available:
 Optionally take [[Flaws]] for additional experience triggers during play.
 # Charms
 
-Select 15 #Solar Charms for which you will meet the minimums and prerequisite at the end of character creation.
-Treat your Essence as 5 for meeting the prerequisites of charms in your ***Supernal Ability***.
-[[Charms/Solar/Occult/Terrestrial Circle Sorcery|Terrestrial Circle Sorcery]] gives access to sorcerous spells.
+Select 15 #Dragon-Blooded Charms for which you will meet the minimums and prerequisite at the end of character creation.
+[[Charms/Dragon-Blooded/Occult/Terrestrial Circle Sorcery|Terrestrial Circle Sorcery]] gives access to sorcerous spells.
 These may be exchanged one-for-one for Evocations or sorcerous spells, if available.
+Select 5 additional #Dragon-Blooded Charms with the Excellency keyword from your **Aspect** or **Favoured Abilities**.
+```dataview
+Table mins
+FROM "Charms/Dragon-Blooded"
+WHERE contains(keywords, "Excellency")
+```
 
 # Intimacies 
 
@@ -59,10 +82,6 @@ Create at least four [[Intimacy|Intimacies]].
 - At least one must be Major.
 - At least one must be negative.
 - At least one must be positive.
-
-# Limit Trigger
-
-Choose a [[Limit Trigger#Solar|Limit Trigger]] and a [[Limit Break#Solar#Virtue Flaws|Virtue Flaw]].
 
 # Bonus Points
 

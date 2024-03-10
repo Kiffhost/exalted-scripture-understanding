@@ -8,16 +8,16 @@ Very next steps, each completable within 1 day - 1 week
 - [ ] Character creation walkthrough
 	- [x] Generic
 	- [x] Solar
-	- [ ] Dragon-Blooded
-	- [ ] Lunar
-	- [ ] Sidereal
-	- [ ] Exigent
+	- [x] Dragon-Blooded
+	- [x] Lunar
+	- [x] Sidereal
+	- [x] Exigent
+	- [ ] Mortal
 - [ ] Import other items
 	- [ ] Hearthstones
 	- [x] Mortal Weapons/Armour
 	- [x] Everyday Wonders
 	- [x] Minor Artifacts
-
 
 # Medium Term
 
@@ -33,6 +33,10 @@ Overarching goals, completable within 1 month
 	- [ ] Environment
 	- [ ] Feats
 	- [ ] Sorcery
+	- [ ] Solar Stuff
+	- [ ] Lunar Stuff
+	- [ ] Sidereal Stuff
+	- [ ] Dragon-Blooded Stuff
 	- [ ] Exigent Charm Creation
 	- [ ] Ability-specific
 		- [ ] Crime (Larceny and Investigation)
@@ -53,8 +57,6 @@ Overarching goals, completable within 1 month
 	- [ ] Sidereal
 	- [x] Martial Arts
 - [ ] Sharing system
-
-
 
 # Long Term
 

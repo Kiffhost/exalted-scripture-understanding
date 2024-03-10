@@ -6,24 +6,69 @@ Each Merit has a number of dots (•) associated with it. These dots represent t
 
 All Merits can be purchased with Merit points or bonus points during character creation. After character creation, Merits fall into three categories, governing how they may (or may not) be obtained during play. Certain magical phenomena (especially the mutating power of the Wyld or sorcerous projects) might occasionally violate these rules, as described below.
 
-Some Merits have attached *drawbacks*—weaknesses or limitations inherent to their use or possession.
+Some Merits have attached **drawbacks**—weaknesses or limitations inherent to their use or possession.
 
-# Innate
+# TLDR
+
+Merits add mechanical details to a character, useful for indicating background. They account for the miscellaneous and varying advantages of being an Exalted which are not represented in Charms or [[The Anima Banner]].
+# Types
+
+### Innate
 
 Innate Merits can only be taken during character generation, with Merit points or bonus points. They can only be gained during play through some form of magical intervention—it’s impossible to simply decide to cultivate such Merits. 
 
-# Purchased
+### Purchased
 
 In addition to being purchased at character creation as normal, these Merits may be purchased or advanced for (new rating x 3) experience points during play. You don’t have to pay for ratings that don’t do anything, and so Boundless Endurance (••) would cost 6 experience, not 9. Purchased Merits with variable ratings must be bought in sequence. 
 
-# Story
+### Story
 
 Once play begins, these Merits may only be obtained or advanced through the course of the story, at the Storyteller’s discretion—Allies, for example, cannot be purchased with experience points, but must be gained through roleplaying and social influence. 
 
-
-
-# Supernatural Merits 
+## Supernatural
 
 These Merits bestow supernatural capabilities, and may generally only be obtained by magical means. The most common source of supernatural Merits in Exalted is exposure to the Wyld. Few seek out such power, both due to the unpredictability of the Wyld’s blessings, and because of the extreme stigma attached to obvious Wyld mutation throughout Creation.
 
 These Merits are primarily presented to represent the warping power of the Wyld, and to aid Storytellers in putting together beastfolk, Wyld mutants, or similar characters. It’s very uncommon for individuals with such Merits to experience Solar Exaltation, but not unheard of. Characters can only begin play with supernatural Merits with explicit permission from the Storyteller.
+
+# List
+
+## Solar Appropriate
+```dataview
+TABLE WITHOUT ID 
+	file.link as Merit,
+	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
+FROM "Attributes & Traits/Merits" and #merit and #Solar 
+SORT contains(file.etags, "Supernatural"), file.etags[0]
+```
+
+## Lunar Appropriate
+```dataview
+TABLE WITHOUT ID 
+	file.link as Merit,
+	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
+FROM "Attributes & Traits/Merits" and #merit and #Lunar 
+SORT contains(file.etags, "Supernatural"), file.etags[0]
+```
+
+## Sidereal Appropriate
+```dataview
+TABLE WITHOUT ID 
+	file.link as Merit,
+	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
+FROM "Attributes & Traits/Merits" and #merit and #Sidereal 
+SORT contains(file.etags, "Supernatural"), file.etags[0]
+```
+
+## Dragon-Blooded Appropriate
+```dataview
+TABLE WITHOUT ID 
+	file.link as Merit,
+	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
+FROM "Attributes & Traits/Merits" and #merit and #Dragon-Blooded  
+SORT contains(file.etags, "Supernatural"), file.etags[0]
+```

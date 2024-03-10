@@ -17,13 +17,17 @@ Casteless Lunars’ Caste Marks are inconstant, shifting with the moon’s phase
 # Anima Effects
 
 Shifting and unconstrained, the Casteless’ animas ease their transformations. They can also call upon the Lunar Castes’ anima powers, transitioning between the moon’s phases (p. XX). 
-
-# Caste Attributes
-
-The Casteless lack Caste Attributes but have greater aptitude at mastering unfavored Attributes. Associations: The season of autumn, the element of wood, the color gray, the Maiden of Journeys. 
 - At dim anima, the cost of shifting into human shapes is discounted by two motes.
 - At bonfire anima, the cost of shifting into animal shapes is discounted by two motes. This doesn’t apply to Charms like Towering Beast Form or Emerald Grasshopper Form.
 - Once per day, she may use the once-per-day power of any Lunar Caste. She can’t use it again until she’s used the powers of all three Castes, or the session ends — e.g., a Casteless who uses the Full Moon power must use the Changing Moon and No Moon powers before she can use the Full Moon power again that session.
+
+# Caste Attributes
+
+The Casteless lack Caste Attributes but have greater aptitude at mastering unfavored Attributes. 
+
+# Associations
+The season of autumn, the element of wood, the color gray, the Maiden of Journeys. 
+
 
 # Sobriquets
 

@@ -9,3 +9,10 @@ A few example Flaws are listed below. Storytellers and players should feel free 
 # TLDR
 
 Flaws cost nothing and are inconvenient. When they come up they present an opportunity to gain Solar experience.
+
+# List
+```dataview
+LIST
+FROM "Attributes & Traits/Flaws" and #Flaw 
+SORT file.ctime ASC
+```

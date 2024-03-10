@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "696a320d3eea8803",
+        "id": "f0995c8ce077e808",
         "type": "tabs",
         "children": [
           {
-            "id": "eaea4336a56283c5",
+            "id": "88215591da7c3cb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Yasal Crystal.md",
+                "file": "Rules Reference/Lunar Shapeshifting/Sacred Hunt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "5c239950ed18cf35",
+            "id": "dac070568ee49696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
+                "file": "The Solar Bond.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "a542c6739d9b610c",
+            "id": "a9ee850d72da3648",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Bracers of Universal Crafting.md",
+                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "63cb2761681926bb",
+            "id": "9bc586a9bf468124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Essence Glider.md",
+                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "314d8a55af65fbac",
+            "id": "6c93591a180bde1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Folding Ship.md",
+                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Battles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,12 +73,38 @@
             }
           },
           {
-            "id": "644e117b1087e3ba",
+            "id": "981b16781c14962c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
+                "file": "Character Creation/START HERE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e46766b4e6a0e98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Creation/Lunar Exalted.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0231fae75d6c44c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constellations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#merit/Innate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
+                "file": "Character Creation/START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charms/Solar/Archery/Sight Without Eyes.md",
+                "file": "Character Creation/START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charms/Solar/Archery/Sight Without Eyes.md"
+                "file": "Character Creation/START HERE.md"
               }
             }
           },
@@ -214,7 +240,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Charms/Solar/Archery/Sight Without Eyes.md"
+                "file": "Character Creation/START HERE.md"
               }
             }
           },
@@ -251,44 +277,45 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "644e117b1087e3ba",
+  "active": "981b16781c14962c",
   "lastOpenFiles": [
-    "Charms/Solar/Archery/Wise Arrow.md",
     "Progress Tracker.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Beloved Adorei/No Other Blade.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/The Wondrous Globe of Precious Stability.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Folding Ship.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Horizon Endeavor.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Chariot of Aerial Conquest.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Essence Glider.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Bracers of Universal Crafting.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Yasal Crystal.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Traveler's Staff.md",
-    "Items/Mortal Weapons & Armor/Mortal Weapons/Staff.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Collar of Dawn’s Cleansing Light.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Hearthstone Amulet (Tiara, Bracer, etc.).md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Articulated Plate.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Reinforced Breastplate.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Reinforced Buff Jacket.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Lamellar Armor.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Silken Armor.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Chain Shirt.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor/Breastplate.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Dragon Sigh Wand.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Siege Crossbow.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Powerbow.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Short Powerbow.md",
+    "Constellations.md",
+    "Character Creation/Exigent Exalted.md",
+    "Character Creation/Lunar Exalted.md",
+    "Rules Sidebars/Exigent Book/DIVINE PATRONAGE.md",
+    "Rules Sidebars/Exigent Book",
+    "Rules Sidebars/Exigent Book.md",
+    "Character Creation/Solar Exalted.md",
+    "Character Creation/START HERE.md",
+    "Rules Reference/Limit Break.md",
+    "Attributes & Traits/Great Curse/Limit Trigger.md",
+    "Attributes & Traits/Great Curse/Limit.md",
+    "Character Creation/Sidereal Exalted.md",
+    "Rules Sidebars/Sidereal Book/Charms and Abilities.md",
+    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
+    "Attributes & Traits/Great Curse/Arcane Fate.md",
+    "Attributes & Traits/Great Curse/Celestial Hubris/Conspiracy of Silence.md",
+    "Rules Sidebars/Sidereal Book/Constellations and Culture.md",
+    "Rules Sidebars/Sidereal Book/Arcane Fate vs. Merits.md",
+    "Rules Sidebars/Sidereal Book",
+    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Endings.md",
+    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
+    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Secrets.md",
+    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Battles.md",
+    "Attributes & Traits/Anima/Sidereal Castes/[Archery.md",
+    "Auspicious Prospects.md",
+    "Attributes & Traits/Anima/The Anima Banner.md",
+    "Attributes & Traits/Anima/Solar Castes/Dawn.md",
+    "Rules Reference/Exalted-Specific Rules",
+    "Rules Reference/Lunar Shapeshifting",
+    "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Items/Artifacts & Evocations/The Grand Panoply/Misc",
     "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts",
     "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor",
     "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons",
     "Items/Everyday Wonders/Untitled",
     "Items/Mortal Weapons & Armor/Mortal Armor",
-    "Items/Weapons & Armor/Ranged Weapons",
-    "Items/Mortal Weapons & Armor/Mortal Weapons",
-    "Items/Everyday Wonders & Natural Magics",
-    "Items/Hearthstones/Arms of the Chosen",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
     "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
@@ -297,7 +324,6 @@
     "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
     "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas",
     "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas",
-    "Charms/Solar/War/Solar War Charm Tree.canvas",
-    "Charms/Solar/Thrown/Solar Thrown Charm Tree.canvas"
+    "Charms/Solar/War/Solar War Charm Tree.canvas"
   ]
 }
