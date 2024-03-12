@@ -8,111 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88215591da7c3cb9",
+            "id": "2a6a2dd7ab2b403e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules Reference/Lunar Shapeshifting/Sacred Hunt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac070568ee49696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Solar Bond.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9ee850d72da3648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bc586a9bf468124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c93591a180bde1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attributes & Traits/Anima/Sidereal Castes/Chosen of Battles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "981b16781c14962c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/START HERE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e46766b4e6a0e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Lunar Exalted.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0231fae75d6c44c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Constellations.md",
+                "file": "Progress Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#merit/Innate",
+                "query": "\"base initiative\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/START HERE.md",
+                "file": "Progress Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/START HERE.md",
+                "file": "Progress Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/START HERE.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -240,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Character Creation/START HERE.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -260,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -277,45 +184,45 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "981b16781c14962c",
+  "active": "2a6a2dd7ab2b403e",
   "lastOpenFiles": [
+    "Rules Reference/Combat/Combat Traits/Initiative.md",
+    "Rules Reference/Combat/Combat Actions.md",
+    "Rules Reference/Combat/Join Battle.md",
+    "Rules Reference/Fundamental Rules/Time.md",
+    "Charms/Charm Keywords.md",
+    "Rules Reference/Fundamental Rules/Action.md",
+    "Rules Reference/Combat/Untitled",
+    "Rules Reference/Combat/Combat Traits/Defense.md",
     "Progress Tracker.md",
-    "Constellations.md",
-    "Character Creation/Exigent Exalted.md",
-    "Character Creation/Lunar Exalted.md",
-    "Rules Sidebars/Exigent Book/DIVINE PATRONAGE.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Flame Piece.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Composite Bow.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Staff Sling.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/War Boomerang.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Sai.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Short Sword.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Tiger Claws.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Cestus.md",
+    "Items/Mortal Weapons & Armor/Mortal Weapons/Dart.md",
+    "Abilities/Thrown.md",
+    "Abilities/Archery.md",
+    "Rules Reference/Combat/Combat Traits/Accuracy.md",
+    "Attributes & Traits/Health Track.md",
+    "Rules Reference/Fundamental Rules/Dice Rolls.md",
+    "Rules Reference/Combat/Combat Traits/Overwhelm.md",
+    "Rules Reference/Combat/Combat Traits/Soak.md",
+    "Rules Reference/Combat/Combat Traits/Untitled 1.md",
+    "Rules Reference/Combat/Combat Traits/Damage.md",
+    "Rules Reference/Combat/Combat Traits",
+    "Rules Reference/Combat",
+    "Rules Reference/Fundamental Rules/Untitled",
+    "Rules Reference/Fundamental Rules",
     "Rules Sidebars/Exigent Book",
-    "Rules Sidebars/Exigent Book.md",
-    "Character Creation/Solar Exalted.md",
-    "Character Creation/START HERE.md",
-    "Rules Reference/Limit Break.md",
-    "Attributes & Traits/Great Curse/Limit Trigger.md",
-    "Attributes & Traits/Great Curse/Limit.md",
-    "Character Creation/Sidereal Exalted.md",
-    "Rules Sidebars/Sidereal Book/Charms and Abilities.md",
-    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
-    "Attributes & Traits/Great Curse/Arcane Fate.md",
-    "Attributes & Traits/Great Curse/Celestial Hubris/Conspiracy of Silence.md",
-    "Rules Sidebars/Sidereal Book/Constellations and Culture.md",
-    "Rules Sidebars/Sidereal Book/Arcane Fate vs. Merits.md",
     "Rules Sidebars/Sidereal Book",
-    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Endings.md",
-    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
-    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Secrets.md",
-    "Attributes & Traits/Anima/Sidereal Castes/Chosen of Battles.md",
-    "Attributes & Traits/Anima/Sidereal Castes/[Archery.md",
-    "Auspicious Prospects.md",
-    "Attributes & Traits/Anima/The Anima Banner.md",
-    "Attributes & Traits/Anima/Solar Castes/Dawn.md",
     "Rules Reference/Exalted-Specific Rules",
-    "Rules Reference/Lunar Shapeshifting",
+    "Lunar Shapeshifting",
     "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Items/Artifacts & Evocations/The Grand Panoply/Misc",
-    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Armor",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons",
-    "Items/Everyday Wonders/Untitled",
-    "Items/Mortal Weapons & Armor/Mortal Armor",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
     "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",

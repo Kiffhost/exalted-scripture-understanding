@@ -18,25 +18,36 @@ Very next steps, each completable within 1 day - 1 week
 	- [x] Mortal Weapons/Armour
 	- [x] Everyday Wonders
 	- [x] Minor Artifacts
+- [ ] Add ability links to WeaponTags
+- [ ] Rules
+	- [ ] Combat
+		- [x] Core
+		- [x] Initiative
+		- [ ] Traits
+		- [ ] Actions
+		- [ ] Movement
+		- [ ] Damage
+		- [ ] Special
 
 # Medium Term
 
 Overarching goals, completable within 1 month
 
 - [ ] Rules
-	- [ ] Basic rules reference
-	- [ ] Limit & Great Curse
-	- [ ] Combat
+	- [ ] Battle groups
+	- [ ] Strategic warfare
 	- [ ] Social
 	- [ ] Leadership
 	- [ ] Projects
 	- [ ] Environment
 	- [ ] Feats
 	- [ ] Sorcery
-	- [ ] Solar Stuff
-	- [ ] Lunar Stuff
-	- [ ] Sidereal Stuff
-	- [ ] Dragon-Blooded Stuff
+	- [ ] Exalted unique stuff
+		- [ ] Organise?
+		- [ ] Solar Stuff
+		- [ ] Lunar Stuff
+		- [ ] Sidereal Stuff
+		- [ ] Dragon-Blooded Stuff
 	- [ ] Exigent Charm Creation
 	- [ ] Ability-specific
 		- [ ] Crime (Larceny and Investigation)
@@ -49,6 +60,9 @@ Overarching goals, completable within 1 month
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start
+	- [ ] Locations
+	- [ ] Factions
+	- [ ] Historical Events
 - [ ] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar
@@ -101,3 +115,6 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Lunar
 	- [x] Sidereal
 - [x] Version Control
+- [x] Rules
+	- [x] Basic rules reference
+	- [x] Limit & Great Curse

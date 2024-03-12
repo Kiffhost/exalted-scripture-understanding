@@ -21,7 +21,7 @@ The character must be the captain or the helmsman of the sailing vessel to use t
 #### Psyche
 A power with this keyword is an unnatural, hypnotic, or sorcerous power that magically influences, controls, or cripples an opponent’s thoughts or feelings.
 #### Perilous
-Be cautious about your reliance on this Charm! Charms with this keyword cannot be used in Initiative Crash.
+Be cautious about your reliance on this Charm! Charms with this keyword cannot be used in [[Initiative#Crash]].
 #### Salient
 This keyword indicates that the Charm’s cost requires silver, gold, and white points for major, superior, and legendary craft projects, respectively. -Stackable: This Charm’s effects can stack.
 #### Uniform

@@ -8,19 +8,19 @@ Your character’s health track represents his current physical condition: how h
 
 Characters lose health levels when they take damage from decisive attacks (see Chapter Five), environmental hazards, poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: #bashing, #lethal, and #aggravated.
 
-## Bashing damage
+## Bashing
 
 Bashing damage is inflicted by blunt trauma, contusions, and extreme stress placed on the body which doesn’t inflict gross physical injury. Examples of sources of bashing damage include fists, short falls, and heat exhaustion or severe cold. Bashing damage is recorded in the health track by marking through the box with a slash ( / ). If a character’s Incapacitated health box is marked through with a slash, the character is rendered unconscious.
 
 A character whose health track is full of bashing damage, and who continues to take bashing damage, upgrades his existing damaged health levels to lethal damage on a one-for-one basis, moving from left to right across the health track. 
 
-## Lethal damage
+## Lethal
 
 Lethal damage represents lacerations, punctures, burns, and massive tissue trauma. Potential sources of lethal damage include blades, arrows, falls from extreme heights, fire, and the claws and fangs of wild beasts. Lethal damage is recorded in the health track by marking through a box with an X. If a character’s Incapacitated health box is marked through with an X, the character is either dead or dying (which one is up to the Storyteller). 
 
 Bashing damage is always marked in the next unmarked box on the health track, while lethal damage always “enters” at the left end of the track. Thus, a character who has taken three bashing damage already, and who then takes two levels of lethal damage, would mark through his left-most health boxes, “pushing” the bashing damage two boxes to the right, as shown in the illustration on page 173. 
 
-## Aggravated damage
+## Aggravated
 
 Finally, some injuries are considered aggravated damage. Aggravated damage is usually a result of powerful magic modifying damage that would otherwise be lethal. Any aggravated injury cannot be healed by magic, nor can its healing be sped up by magic—only natural rest and healing will mend it. Aggravated damage heals at the same speed as lethal damage, but is always the last damage to heal— mark it on the health track with an asterisk, “pushing” bashing and lethal damage to the right.
 
