@@ -31,6 +31,8 @@ Achieved by [[#Crashing]] an enemy who [[#Crash]]ed you.
 - Then, make a [[Join Battle]] roll, adding the result to your initiative.
 - Your turn is then refreshed: any combat or movement [[Combat Actions|actions]] you have used that turn are reset, allowing you to act again, immediately; however, should this renewed action be used to [[Combat Actions#Attack|attack]], you can only attack the character you Shifted against.
 
-A character who entered [[#Crash]] as a result of his own actions (such as by using a [[Combat Actions#Disengage|disengage action]]) cannot achieve Initiative [[#Shift]].
+A character who entered [[#Crash]] as a result of his own actions (such as by using a [[Combat Movement#Disengage|disengage action]]) cannot achieve Initiative [[#Shift]].
 # Base
 By default, the base initiative value is 3.
+# Damage
+The result of a [[Combat Actions#withering|withering attack]], initiative damage is the amount the target's initiative is lowered by at the end of the attack. It mostly represents bad positioning, tactical disadvantage, and discomfort—at most it might represent a character getting banged around or scratched.

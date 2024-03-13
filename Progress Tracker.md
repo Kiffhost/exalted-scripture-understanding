@@ -23,7 +23,7 @@ Very next steps, each completable within 1 day - 1 week
 	- [ ] Combat
 		- [x] Core
 		- [x] Initiative
-		- [ ] Traits
+		- [x] Traits
 		- [ ] Actions
 		- [ ] Movement
 		- [ ] Damage
@@ -110,7 +110,7 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Dragon-Blooded
 	- [x] Arms of the Chosen
 		- [x] Weapons
-		- [x] Armor
+		- [x] Armour
 		- [x] Misc
 	- [x] Lunar
 	- [x] Sidereal
