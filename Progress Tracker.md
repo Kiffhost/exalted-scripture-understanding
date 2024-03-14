@@ -21,15 +21,14 @@ Very next steps, each completable within 1 day - 1 week
 - [ ] Add ability links to WeaponTags
 - [ ] Rules
 	- [x] Combat
-	- [ ] Battle groups
-
+	- [x] Battle groups
+	- [ ] Strategic warfare
 
 # Medium Term
 
 Overarching goals, completable within 1 month
 
 - [ ] Rules
-	- [ ] Strategic warfare
 	- [ ] Social
 	- [ ] Leadership
 	- [ ] Projects

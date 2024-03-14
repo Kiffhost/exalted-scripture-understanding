@@ -78,7 +78,46 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Rules Reference/Combat/Battle Groups/Battle Group Traits/Size.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80c0f7453e6eb1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules Reference/Combat/Battle Groups/Battle Group Traits/Drill.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce9bc14200bd2428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Progress Tracker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0bf25d1978571a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules Reference/Combat/Grappling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -250,8 +289,27 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5f93cc60efd99fd7",
+  "active": "ce9bc14200bd2428",
   "lastOpenFiles": [
+    "Rules Reference/Combat/Battle Groups/Battle Group.md",
+    "Rules Reference/Combat/Battle Groups/Command.md",
+    "Rules Sidebars/Solar Book/WHY BATTLE GROUPS.md",
+    "Rules Reference/Combat/Battle Groups/Command Actions/Rally for numbers.md",
+    "Rules Reference/Combat/Battle Groups/Command Actions/Rally.md",
+    "Rules Reference/Combat/Battle Groups/Command Actions/Order.md",
+    "Rules Reference/Combat/Battle Groups/Command Actions",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits/Drill.md",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits/Might.md",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits/Magnitude Track.md",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits/Size.md",
+    "Rules Reference/Combat/Grappling.md",
+    "Rules Reference/Combat/Battle Groups/grapple.md",
+    "Rules Reference/Combat/Battle Groups/Rout.md",
+    "Rules Sidebars/Solar Book/NONCOMBATANTS AND TRIVIAL OPPONENTS.md",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits/Battle Group Traits.md",
+    "Rules Reference/Combat/Battle Groups/Battle Group Traits",
+    "Progress Tracker.md",
+    "Rules Reference/Combat/Battle Groups",
     "Rules Sidebars/Solar Book/STORYTELLER ADVICE - RESOLVING BATTLES.md",
     "Rules Reference/Combat/Combat Actions/Surrender.md",
     "Rules Reference/Combat/Stealth.md",
@@ -259,25 +317,9 @@
     "Rules Sidebars/Solar Book/TACKING AND BARDING MOUNTS.md",
     "Rules Reference/Combat/Combat Actions/Go to Ground.md",
     "Rules Reference/Uncountable Damage.md",
-    "Progress Tracker.md",
     "Rules Reference/Combat/Clash.md",
     "Rules Reference/Combat/Combat Actions/Combat Action.md",
     "Rules Reference/Combat/Combat Actions/Attack.md",
-    "Rules Reference/Combat/Combat Traits/Weapon Damage.md",
-    "Rules Reference/Combat/Combat Traits/Soak.md",
-    "Rules Reference/Combat/Combat Traits/Overwhelm.md",
-    "Traits/Health Track.md",
-    "Rules Reference/Combat/Combat Traits/Hardness.md",
-    "Rules Reference/Combat/Combat Traits/Defense.md",
-    "Rules Reference/Combat/Combat Traits/Accuracy.md",
-    "Rules Reference/Combat/Grappling.md",
-    "Rules Reference/Combat/Flurry.md",
-    "Rules Reference/Combat/Combat Traits/Initiative.md",
-    "Rules Reference/Combat/Range.md",
-    "Rules Reference/Combat/Mounted Fighting.md",
-    "Rules Reference/Combat/Difficult Terrain.md",
-    "Rules Reference/Combat/Combat Actions/Miscellaneous.md",
-    "Rules Reference/Combat/Combat Actions/Full Defense.md",
     "Rules Reference/Combat/Combat Actions/Movement Actions",
     "Rules Reference/Combat/Combat Actions/Movement Actions",
     "Draw",
@@ -285,9 +327,6 @@
     "Traits/Attributes",
     "Rules Reference/Combat/Combat Traits",
     "Rules Reference/Combat",
-    "Rules Reference/Fundamental Rules/Untitled",
-    "Rules Reference/Fundamental Rules",
-    "Rules Sidebars/Exigent Book",
     "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
