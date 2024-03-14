@@ -34,3 +34,7 @@ Positive = bonus, negative = penalty. Any change to the usual dice pool for a ro
 
 ## Re-rolls
 ???
+
+## Opposed roll
+
+When resolving an [[Action#Opposed|opposed action]] two players each roll at the same time, where the [[#Difficulty]] for each roll is equal to the other player's number of [[#Successes]].

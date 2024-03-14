@@ -1,12 +1,17 @@
 ---
 tags:
   - trait
+aliases:
+  - Health
+  - Health Levels
 ---
-Your character’s health track represents his current physical condition: how hurt he is right now, and how much punishment he can take before being rendered unconscious or dead. Characters can’t keep functioning at peak efficiency when wounded. The pain and mounting systemic damage of severe injuries can cripple even the hardiest warrior; this is represented in the form of *wound penalties*. **As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as Defense and Resolve.** Damage rolls (p. 191) are exempt. Characters have seven levels in their health track: one -0 health level, two -1 health levels, two -2 health levels, one -4 health level, and one Incapacitated health level. Exalted characters can gain more health levels by purchasing the Charm Ox-Body Technique.
+Your character’s health track represents his current physical condition: how hurt he is right now, and how much punishment he can take before being rendered unconscious or dead. Characters can’t keep functioning at peak efficiency when wounded. The pain and mounting systemic damage of severe injuries can cripple even the hardiest warrior; this is represented in the form of [[#wound penalties]]. 
+
+Characters have seven levels in their health track: one -0 health level, two -1 health levels, two -2 health levels, one -4 health level, and one Incapacitated health level. Exalted characters can gain more health levels by purchasing the Charm [[Ox-Body Technique]].
 
 # Losing Health
 
-Characters lose health levels when they take damage from decisive attacks (see Chapter Five), environmental hazards, poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: #bashing, #lethal, and #aggravated.
+Characters lose health levels when they take damage from decisive attacks (see Chapter Five), environmental hazards, poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: [[#Bashing]], [[#Lethal]], and [[#Aggravated]].
 
 ## Bashing
 
@@ -26,10 +31,15 @@ Finally, some injuries are considered aggravated damage. Aggravated damage is us
 
 # Regaining Health 
 
-Quickly regaining lost health is difficult, requiring rare and powerful magic. The more severely injured a character is, the longer healing takes. Characters heal bashing damage before lethal, and their most severe injuries before their less serious ones—thus, healing “proceeds” across the health track from right to left. The Exalted, gods, and other magical beings with the Exalted Healing Merit (p. 165) replenish their lost health levels at the following rate: 
+Quickly regaining lost health is difficult, requiring rare and powerful magic. The more severely injured a character is, the longer healing takes. Characters heal [[#Bashing]] damage before [[#Lethal]], and their most severe injuries before their less serious ones—thus, healing “proceeds” across the health track from right to left. The Exalted, gods, and other magical beings with the [[Exalted Healing]] Merit replenish their lost health levels at the following rate: 
 - Recovering a -0 health level takes one hour if bashing, or one day if lethal. 
 - Recovering a -1 health level takes 12 hours if bashing, or two days if lethal. 
 - Recovering a -2 health level takes one day if bashing, or three days if lethal. 
 - Recovering a -4 health level takes two days if bashing, or five days if lethal. 
 - Recovery from Incapacitation is up to the Storyteller— in the case of being knocked out by bashing damage, it usually happens at the end of the scene, but might happen in the same scene shortly after the end of combat (if the Storyteller wants to get the player back into the action), or could potentially occur hours later. Incapacitation by lethal damage is usually fatal, though the Storyteller can allow the character to linger at death’s doorstep for a few rounds, giving other characters a chance to stabilize him with emergency medical treatment. In this case, it might take hours, days, or even weeks before the character regains consciousness and heals his Incapacitated health level.
 These times assume characters are primarily resting and avoiding strenuous exertion. If the character remains fully active while injured, double any healing times.
+
+# wound penalties
+**As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as [[Defense]] and [[Resolve]].**
+
+[[Attack#damage roll|Damage rolls]] are exempt from wound penalties.

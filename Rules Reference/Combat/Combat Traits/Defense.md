@@ -2,7 +2,7 @@
 tags:
   - "#trait/combat"
 ---
-Defense is a static value trait representing a character's ability to protect themselves in combat. It acts as the [[Dice Rolls#Difficulty|difficulty]] for opponent's [[Combat Actions#hit roll|hit rolls]] in combat.
+Defense is a static value trait representing a character's ability to protect themselves in combat. It acts as the [[Dice Rolls#Difficulty|difficulty]] for opponent's [[Attack#hit roll|hit rolls]] in combat.
 
 This protection can take the form of [[#Parry]] or [[#Evasion]], each of which are themselves a static value #trait/combat. The highest applicable value between these two is the Defense value. 
 

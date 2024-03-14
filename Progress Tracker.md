@@ -20,21 +20,15 @@ Very next steps, each completable within 1 day - 1 week
 	- [x] Minor Artifacts
 - [ ] Add ability links to WeaponTags
 - [ ] Rules
-	- [ ] Combat
-		- [x] Core
-		- [x] Initiative
-		- [x] Traits
-		- [ ] Actions
-		- [ ] Movement
-		- [ ] Damage
-		- [ ] Special
+	- [x] Combat
+	- [ ] Battle groups
+
 
 # Medium Term
 
 Overarching goals, completable within 1 month
 
 - [ ] Rules
-	- [ ] Battle groups
 	- [ ] Strategic warfare
 	- [ ] Social
 	- [ ] Leadership
@@ -63,6 +57,7 @@ Overarching goals, completable within 1 month
 	- [ ] Locations
 	- [ ] Factions
 	- [ ] Historical Events
+- [ ] Bestiary
 - [ ] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar

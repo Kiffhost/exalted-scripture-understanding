@@ -4,4 +4,4 @@ aliases:
 tags:
   - trait/combat
 ---
-A trait of weapons indicating the minimum amount of [[Initiative#Damage]] that will be dealt after [[Soak]] is applied in a [[Combat Actions#withering|withering attack]].
+A trait of weapons indicating the minimum amount of [[Initiative#Damage]] that will be dealt after [[Soak]] is applied in a [[Attack#withering|withering attack]].

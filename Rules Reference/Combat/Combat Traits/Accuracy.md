@@ -2,4 +2,4 @@
 tags:
   - trait/combat
 ---
-A trait of weapons (including [[Unarmed]]), which is added to the [[Combat Actions#hit roll|hit roll]] in a [[Combat Actions#withering|withering attack]].
+A trait of weapons (including [[Unarmed]]), which is added to the [[Attack#hit roll|hit roll]] in a [[Attack#withering|withering attack]].
