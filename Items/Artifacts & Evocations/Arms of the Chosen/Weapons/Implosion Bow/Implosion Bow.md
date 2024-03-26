@@ -14,4 +14,4 @@ These fearsome weapons are First Age relics whose workings remain beyond the ful
 
 An implosion bow must be powered with a hearthstone. This stone doesn’t provide increased mote recovery to its master, although it still provides its other effects.
 
-[[Collapsing Point of Destruction]]
+[[Collapsing Point of Destruction]] is automatically learned on attunement at no cost.

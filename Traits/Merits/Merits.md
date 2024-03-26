@@ -39,7 +39,7 @@ TABLE WITHOUT ID
 	file.link as Merit,
 	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
-FROM "Attributes & Traits/Merits" and #merit and #Solar 
+FROM "Traits/Merits" and #merit and #Solar 
 SORT contains(file.etags, "Supernatural"), file.etags[0]
 ```
 
@@ -49,7 +49,7 @@ TABLE WITHOUT ID
 	file.link as Merit,
 	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
-FROM "Attributes & Traits/Merits" and #merit and #Lunar 
+FROM "Traits/Merits" and #merit and #Lunar 
 SORT contains(file.etags, "Supernatural"), file.etags[0]
 ```
 
@@ -59,7 +59,7 @@ TABLE WITHOUT ID
 	file.link as Merit,
 	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
-FROM "Attributes & Traits/Merits" and #merit and #Sidereal 
+FROM "Traits/Merits" and #merit and #Sidereal 
 SORT contains(file.etags, "Supernatural"), file.etags[0]
 ```
 
@@ -69,6 +69,6 @@ TABLE WITHOUT ID
 	file.link as Merit,
 	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
-FROM "Attributes & Traits/Merits" and #merit and #Dragon-Blooded  
+FROM "Traits/Merits" and #merit and #Dragon-Blooded  
 SORT contains(file.etags, "Supernatural"), file.etags[0]
 ```

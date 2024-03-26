@@ -13,3 +13,4 @@ When two characters attempt actions that can only result in one of them winning,
 These actions happen without requiring concentration, and at any time that is appropriate.
 # Combat
 Characters may only make one [[Combat Action]] per turn in combat (as opposed to [[#Reflexive]] actions, which have no such limit).
+# [[Combat Action|Social]]

@@ -10,6 +10,9 @@
     "Hearthstone slots": "number",
     "WeaponTags": "multitext",
     "WeaponType": "multitext",
-    "ArmourTags": "multitext"
+    "ArmourTags": "multitext",
+    "Threshold": "number",
+    "Virulence": "number",
+    "Morbidity": "number"
   }
 }

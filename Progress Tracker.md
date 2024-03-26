@@ -22,18 +22,26 @@ Very next steps, each completable within 1 day - 1 week
 - [ ] Rules
 	- [x] Combat
 	- [x] Battle groups
-	- [ ] Strategic warfare
-
+	- [x] Strategic warfare
+	- [x] Social
+	- [x] Leadership
+	- [ ] Ability-specific
+		- [x] Crime (Larceny and Investigation)
+		- [ ] Crafting
+		- [ ] Lore
+		- [x] Survival
+		- [ ] Medicine
+		- [ ] Sail
+	- [x] Environment
+		- [x] Feats
+	- [x] Poison
+	- [x] Disease
 # Medium Term
 
 Overarching goals, completable within 1 month
 
 - [ ] Rules
-	- [ ] Social
-	- [ ] Leadership
 	- [ ] Projects
-	- [ ] Environment
-	- [ ] Feats
 	- [ ] Sorcery
 	- [ ] Exalted unique stuff
 		- [ ] Organise?
@@ -42,14 +50,6 @@ Overarching goals, completable within 1 month
 		- [ ] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
 	- [ ] Exigent Charm Creation
-	- [ ] Ability-specific
-		- [ ] Crime (Larceny and Investigation)
-		- [ ] Leadership
-		- [ ] Crafting
-		- [ ] Lore
-		- [ ] Survival
-		- [ ] Medicine
-		- [ ] Sail
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start

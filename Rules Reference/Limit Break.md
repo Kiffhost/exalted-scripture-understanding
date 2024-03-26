@@ -18,7 +18,7 @@ The precise manifestation the Great Curse takes is known as a Virtue Flaw. Sever
 ## Virtue Flaws
 ```dataview
 LIST
-FROM "Attributes & Traits/Great Curse/Virtue Flaws"
+FROM "Traits/Limit/Virtue Flaws"
 ```
 
 # Lunar
@@ -33,7 +33,7 @@ When the Lunar reaches Limit 10, she’s overtaken by a Monstrous Urge. This may
 ## Monstrous Urges
 ```dataview
 LIST
-FROM "Attributes & Traits/Great Curse/Monstrous Urges"
+FROM "Traits/Limit/Monstrous Urges"
 ```
 # Sidereal
 
@@ -45,5 +45,5 @@ Celestial Hubris works as follows:
 ## Celestial Hubrises
 ```dataview
 LIST
-FROM "Attributes & Traits/Great Curse/Celestial Hubris"
+FROM "Traits/Limit/Celestial Hubris"
 ```
