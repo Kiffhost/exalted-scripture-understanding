@@ -7,7 +7,7 @@ Material: Orichalcum
 Dots: §4
 Type: Warship
 Attunement: 10m
-Speed: "Current +1, empty cargo holds +1, Essence\rpropulsion engine +4, legendary sails +8"
+Speed: "Current +1, empty cargo holds +1, Essence\r-propulsion engine +4, legendary sails +8"
 Maneuverability: "+2"
 Hull: −0x2/−1x4/−2x4/−4/Incap
 ---

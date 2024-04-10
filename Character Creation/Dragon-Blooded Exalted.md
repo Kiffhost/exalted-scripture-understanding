@@ -70,7 +70,7 @@ Select 15 #Dragon-Blooded Charms for which you will meet the minimums and prereq
 These may be exchanged one-for-one for Evocations or sorcerous spells, if available.
 Select 5 additional #Dragon-Blooded Charms with the Excellency keyword from your **Aspect** or **Favoured Abilities**.
 ```dataview
-Table mins
+TABLE WITHOUT ID file.link AS Excellency, mins AS Minimums
 FROM "Charms/Dragon-Blooded"
 WHERE contains(keywords, "Excellency")
 ```

@@ -1,6 +1,7 @@
 ---
 aliases:
   - flurries
+  - flurried
 ---
 When you flurry, you’re allowed to take two [[Combat Action]]s on your turn. However, a character can never flurry two of the same action. Further, when a character flurries, they suffer a -3 [[Dice Rolls#Modifiers|penalty]] to both actions, and a -1 penalty to [[Defense]] until their next turn.
 

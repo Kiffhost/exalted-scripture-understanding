@@ -1,5 +1,7 @@
 # TLDR
-When a character is first exposed to a vector of disease, they roll (Stamina + Resistance) against that disease’s virulence. On a successful roll, they avoid succumbing to the sickness. On a failed roll, they contract the disease at the level of a minor symptom. After each interval of the disease has passed, the character makes another (Stamina + Resistance) roll, this time against the disease’s morbidity. On a failed roll, the symptoms intensify by one step; on a success, they grow one step less intense (or are overcome entirely, if they were already at the minor symptom level).
+When a character is first exposed to a vector of disease, they roll (Stamina + Resistance) against that disease’s [[#virulence]]. On a successful roll, they avoid succumbing to the sickness. On a failed roll, they contract the disease at the level of a [[#minor symptom]]. 
+
+After each [[#interval]] of the disease has passed, the character makes another (Stamina + Resistance) roll, this time against the disease’s [[#morbidity]]. On a failed roll, the symptoms [[#Progression|intensify]] by one step; on a success, they grow one step less intense (or are overcome entirely, if they were already at the minor symptom level).
 # Full text
 In a world of capricious gods, restless dead, and nameless horrors baying at the edges of Creation, common disease still numbers among the greatest enemies of mankind. Cholera breeds in unclean water; lepers wrap their misshapen bodies in rags as their living flesh rots; plagues wipe entire villages out of existence. The gift of Exaltation makes the Chosen immune to the worst perils of disease—they suffer no risk of death from any sickness, save perhaps from extremely potent magical diseases.
 
@@ -24,5 +26,6 @@ The disease has progressed to the point of a serious problem. **Once per session
 The disease defines the character’s lifestyle, interfering in almost everything he does. Now, **the Storyteller may declare an automatic botch once per scene**, rather than once per session, a penalty that may render the character largely helpless in many situations. 
 <details><summary>Storyteller Advice</summary>
 Note that is purely at the Storyteller’s option—if it doesn’t make sense for a botch to occur, there’s no need to force one in ham-handedly. As with major symptoms, the Storyteller may substitute draining a point of Willpower for a botch, but should be judicious in doing so—grinding a character down to zero Willpower over the course of a session isn’t going to make the game very fun. Try to limit Willpower drain from disease to once or twice per session, and stick to botches most of the time. </details>
+
 ### Death
 While the **Exalted and other supernatural beings are immune to death from disease**, mortals do not have such good fortune. Once a mortal’s ailment has progressed to the level of a defining symptom, the next step is death by disease, as narrated by the Storyteller. 

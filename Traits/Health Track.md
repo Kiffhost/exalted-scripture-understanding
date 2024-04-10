@@ -40,6 +40,6 @@ Quickly regaining lost health is difficult, requiring rare and powerful magic. T
 These times assume characters are primarily resting and avoiding strenuous exertion. If the character remains fully active while injured, double any healing times.
 
 # wound penalties
-**As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as [[Defense]] and [[Resolve]].**
+As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as [[Defense]] and [[Resolve]].
 
-[[Attack#damage roll|Damage rolls]] are exempt from wound penalties.
+*[[Attack#damage roll|Damage rolls]] are exempt from wound penalties.*

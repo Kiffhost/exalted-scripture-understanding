@@ -13,6 +13,7 @@
     "ArmourTags": "multitext",
     "Threshold": "number",
     "Virulence": "number",
-    "Morbidity": "number"
+    "Morbidity": "number",
+    "Roll": "multitext"
   }
 }

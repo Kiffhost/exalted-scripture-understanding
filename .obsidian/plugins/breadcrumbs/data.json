@@ -4,7 +4,7 @@
   "aliasesInIndex": false,
   "alphaSortAsc": true,
   "altLinkFields": [],
-  "CSVPaths": "generated_hierarchies_test.csv",
+  "CSVPaths": "generated_hierarchies.csv",
   "createIndexIndent": "  ",
   "dateFormat": "YYYY-MM-DD",
   "dateNoteFormat": "yyyy-MM-dd",

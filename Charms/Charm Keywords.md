@@ -53,7 +53,6 @@ Balanced Charms don’t interfere with the Dragon-Blood’s Aura even if they do
 This keyword indicates Dragon-Blooded Excellencies. 
 #### Signature 
 This keyword marks an Ability’s five elemental Signatures.
-
 ##### Signature Charms 
 Each Ability has five puissant elemental Signatures. A Dragon-Blood can only learn one Signature Charm per Ability. She doesn’t have to pick the Signature Charm that matches her own elemental aspect. At Essence 5, she unlocks the potential to learn one more Signature Charm from each of her Aspect and Favored Abilities. She must use her second choice to learn the Signature Charm that matches her own Aspect if she hasn’t already done so.
 

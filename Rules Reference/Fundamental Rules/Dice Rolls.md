@@ -10,7 +10,7 @@ Each dice which rolls above the target number counts as one success.
 ### Doubling
 Sometimes particular values count as two successes. This is called "doubling Xs" where x is the number which is doubled. For example, most actions requiring a roll count rolls of 10 as two successes, so we can say most rolls *Double 10s*.
 ### Threshold Successes
-When a roll succeeds, 
+When a roll succeeds, each additional success above the [[#Difficulty]] is called a threshold success. Some [[Action|actions]] (such as [[Attack|attacks]] or [[Action#Extended|extended actions]]) take special account of these successes.
 
 ## Non-Successes
 
@@ -22,7 +22,7 @@ The number of successes required for the roll to succeed. Typically from 1 to 5.
 
 ## Target Number
 
-The number above which dice count as a success. Usually 6, can be modified by charms (especially Sidereal charms).
+The minimum number for which dice count as a success. Usually 7, can be modified by charms (especially Sidereal charms). No combination of effects can raise a roll’s target number above 9 or reduce it below 4.
 
 ## Botch
 

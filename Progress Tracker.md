@@ -20,36 +20,23 @@ Very next steps, each completable within 1 day - 1 week
 	- [x] Minor Artifacts
 - [ ] Add ability links to WeaponTags
 - [ ] Rules
-	- [x] Combat
-	- [x] Battle groups
-	- [x] Strategic warfare
-	- [x] Social
-	- [x] Leadership
-	- [ ] Ability-specific
-		- [x] Crime (Larceny and Investigation)
-		- [ ] Crafting
-		- [ ] Lore
-		- [x] Survival
-		- [ ] Medicine
-		- [ ] Sail
-	- [x] Environment
-		- [x] Feats
-	- [x] Poison
-	- [x] Disease
+	- [x] Charms
+	- [x] Sorcery
+		- [x] Shaping rituals
+		- [x] Sorcerous Workings
+	- [x] Thaumaturgy
+	- [ ] Exalted unique stuff
+		- [ ] Organise?
+		- [x] Solar Stuff
+		- [ ] Lunar Stuff
+		- [ ] Sidereal Stuff
+		- [ ] Dragon-Blooded Stuff
+		- [ ] Exigent Charm Creation
+
 # Medium Term
 
 Overarching goals, completable within 1 month
 
-- [ ] Rules
-	- [ ] Projects
-	- [ ] Sorcery
-	- [ ] Exalted unique stuff
-		- [ ] Organise?
-		- [ ] Solar Stuff
-		- [ ] Lunar Stuff
-		- [ ] Sidereal Stuff
-		- [ ] Dragon-Blooded Stuff
-	- [ ] Exigent Charm Creation
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start
@@ -75,7 +62,11 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [ ] Script which adds (or accelerates adding) a charm's rules into a json
 - [ ] Make a foundry module to access compendia
 	- [ ] Compatible with [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3)
-
+- [ ] Make some music for the game
+	- [ ] Battery of motifs
+	- [ ] Select DAW or musescore bounce
+	- [ ] Compose full themes
+- [ ] [More Solar Occult Sorcery Charms?](https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)
 # Completed
 
 - [x] Import Charms
@@ -112,3 +103,12 @@ Possible large-scale project outcomes which will take more than 1 month.
 - [x] Rules
 	- [x] Basic rules reference
 	- [x] Limit & Great Curse
+	- [x] Combat
+	- [x] Battle groups
+	- [x] Strategic warfare
+	- [x] Social
+	- [x] Leadership
+	- [x] Ability-specific
+	- [x] Environment
+	- [x] Poison
+	- [x] Disease

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Merit
+---
 Merits are special features that add distinction to characters. Some Merits are physical advantages (such as Strong Lungs), while others represent specific learned aptitudes—additional languages the character knows how to read and speak are a common example. Still other Merits may represent social advantages, such as great wealth.
 
 In addition to personal quirks and aptitudes, Merits also represent unusual supernatural features and capabilities. The most common source of such “Supernatural Merits” is the transformative power of the Wyld—a gift few seek. Other individuals might gain such features through divine parentage, sorcerous experimentation, or the blessings (or curses) of the many spirits of Creation. Supernatural Merits may offer great power, but those which obviously twist the mind or body also bring suspicion and hatred from the majority of Creation’s residents, who fear the mad touch of the Wyld. 
@@ -26,49 +30,49 @@ In addition to being purchased at character creation as normal, these Merits may
 Once play begins, these Merits may only be obtained or advanced through the course of the story, at the Storyteller’s discretion—Allies, for example, cannot be purchased with experience points, but must be gained through roleplaying and social influence. 
 
 ## Supernatural
-
 These Merits bestow supernatural capabilities, and may generally only be obtained by magical means. The most common source of supernatural Merits in Exalted is exposure to the Wyld. Few seek out such power, both due to the unpredictability of the Wyld’s blessings, and because of the extreme stigma attached to obvious Wyld mutation throughout Creation.
 
 These Merits are primarily presented to represent the warping power of the Wyld, and to aid Storytellers in putting together beastfolk, Wyld mutants, or similar characters. It’s very uncommon for individuals with such Merits to experience Solar Exaltation, but not unheard of. Characters can only begin play with supernatural Merits with explicit permission from the Storyteller.
-
+## Sorcerous
+These merits are each associated with a particular [[Shape Sorcery#Archetypes|archetypes]]. Only sorcerers belonging to that archetype may gain these merits. They are always [[#Purchased]] merits.
 # List
-
+Lists of non-sorcerous merits
 ## Solar Appropriate
 ```dataview
 TABLE WITHOUT ID 
 	file.link as Merit,
-	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	regexreplace(string(filter(file.tags, (t) => contains(t, "merit/"))), "#merit/", "") AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
 FROM "Traits/Merits" and #merit and #Solar 
-SORT contains(file.etags, "Supernatural"), file.etags[0]
+SORT contains(file.etags, "Supernatural"), string(filter(file.tags, (t) => contains(t, "merit/")))
 ```
 
 ## Lunar Appropriate
 ```dataview
 TABLE WITHOUT ID 
 	file.link as Merit,
-	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	regexreplace(string(filter(file.tags, (t) => contains(t, "merit/"))), "#merit/", "") AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
 FROM "Traits/Merits" and #merit and #Lunar 
-SORT contains(file.etags, "Supernatural"), file.etags[0]
+SORT contains(file.etags, "Supernatural"), string(filter(file.tags, (t) => contains(t, "merit/")))
 ```
 
 ## Sidereal Appropriate
 ```dataview
 TABLE WITHOUT ID 
 	file.link as Merit,
-	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	regexreplace(string(filter(file.tags, (t) => contains(t, "merit/"))), "#merit/", "") AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
 FROM "Traits/Merits" and #merit and #Sidereal 
-SORT contains(file.etags, "Supernatural"), file.etags[0]
+SORT contains(file.etags, "Supernatural"), string(filter(file.tags, (t) => contains(t, "merit/")))
 ```
 
 ## Dragon-Blooded Appropriate
 ```dataview
 TABLE WITHOUT ID 
 	file.link as Merit,
-	string(map(file.etags, (t) => split(t,"/")[length(split(t,"/")) - 1])[0]) AS Type,
+	regexreplace(string(filter(file.tags, (t) => contains(t, "merit/"))), "#merit/", "") AS Type,
 	string(filter(file.etags, (t) => contains(t, "Supernatural"))) AS Supernatural
 FROM "Traits/Merits" and #merit and #Dragon-Blooded  
-SORT contains(file.etags, "Supernatural"), file.etags[0]
+SORT contains(file.etags, "Supernatural"), string(filter(file.tags, (t) => contains(t, "merit/")))
 ```

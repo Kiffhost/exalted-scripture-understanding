@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da1c5c5105304bad",
+            "id": "0dfc7aea646548b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseases/Cholera.md",
+                "file": "Rules Reference/Charms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "0a01eb0d12c4a3e7",
+            "id": "e0c45b086c3c22ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseases/Infected Wounds.md",
+                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "74172ed880d5faed",
+            "id": "0f38d5ec18f84e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseases/Leprosy.md",
+                "file": "Rules Reference/Charms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,46 +47,7 @@
             }
           },
           {
-            "id": "051544eba2f41af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseases/Rabies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2128cf3c29c44bc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseases/Plague.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aad060676106de2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseases/Syphilis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6d2beca87382b8a",
+            "id": "cf40f65264b30f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ca9d78e0b81bf53b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Artifacts & Evocations/Arms of the Chosen/Misc/The Golden Viper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:exalted healing",
+                "query": "file:terrestr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,13 +126,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "path:items \"penalty\"",
-                "backlinkCollapsed": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -195,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md"
               }
             }
           },
@@ -240,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md"
               }
             }
           },
@@ -260,7 +208,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -276,44 +225,44 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e6d2beca87382b8a",
+  "active": "e0c45b086c3c22ce",
   "lastOpenFiles": [
-    "Diseases/Puppeteer's Plague.md",
-    "Diseases/Syphilis.md",
-    "Diseases/Plague.md",
-    "Diseases/Rabies.md",
-    "Diseases/Leprosy.md",
-    "Rules Sidebars/Solar Book/INCUBATION.md",
-    "Templates/common disease.md",
-    "Diseases/Infected Wounds.md",
-    "Traits/Merits/Exalted Healing.md",
-    "Diseases/Hemorrhagic Fever.md",
-    "Diseases/Cholera.md",
-    "Rules Reference/Disease.md",
-    "Diseases/Super",
-    "Diseases/Common",
-    "Diseases",
-    "Rules Reference/Poison.md",
-    "Items/Everyday Wonders & Natural Magics/Dawnflower.md",
-    "Items/Everyday Wonders & Natural Magics/Bright Morning.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/The Golden Viper.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Implosion Bow/Collapsing Point of Destruction.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Implosion Bow/Implosion Bow.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Horizon Endeavor.md",
-    "Items/Hearthstones/Hearthstone Keywords.md",
-    "Rules Reference/Social/Social Influence.md",
-    "Items/Hearthstones/Arms of the Chosen/Darting Hand Quickness.md",
-    "Items/Hearthstones/Arms of the Chosen/Spirit-Evicting Strike.md",
-    "Items/Hearthstones/Arms of the Chosen/Frozen Sorcery — Emerald.md",
+    "Charms/Sidereals/House of Secrets/Investigation/Lucid Enigma Labyrinth.md",
+    "Charms/Sidereals/House of Secrets/Investigation/Embracing Life Method.md",
+    "Charms/Sidereals/House of Secrets/Investigation/Efficient Secretary Technique.md",
+    "Charms/Sidereals/House of Secrets/Investigation/Unwritten Words Revelation.md",
+    "Charms/Sidereals/House of Secrets/Investigation/Marvelous Inclusion of Details.md",
+    "Charms/Solar/Athletics/Graceful Crane Stance.md",
     "Progress Tracker.md",
-    "Items/Hearthstones/Arms of the Chosen/Frozen Sorcery — Sapphire.md",
-    "Rules Reference/Environment",
-    "Rules Reference/Crime and Investigation",
-    "Rules Reference/Social/Social Actions",
-    "Rules Reference/Social",
-    "Rules Reference/Stratagems",
-    "Rules Reference/Combat/Battle Groups/Command Actions",
-    "Rules Reference/Combat/Battle Groups/Battle Group Traits",
+    "generated_hierarchies.csv",
+    "Celestial Bureaucracy.md",
+    "Monstrous Urge.md",
+    "Charms/Lunar/Manipulation/Heart's Blood/Argent Trickster’s Rook.md",
+    "Charms/Sidereals/House of Serenity/Craft/Elemental Vision.md",
+    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
+    "Rules Reference/Sorcery/Sorcery.md",
+    "Rules Reference/Leadership.md",
+    "Rules Reference/Crafting/Superior Project.md",
+    "Rules Reference/Crafting/Major Project.md",
+    "Rules Reference/Sorcery/Sorcerous Workings.md",
+    "Rules Reference/Lore & Facts/Introducing a Fact.md",
+    "Rules Reference/Sorcery/Shape Sorcery.md",
+    "Sorceries/Other Shaping Rituals/Power from Song.md",
+    "Sorceries/Other Shaping Rituals/Draw from Geomancy.md",
+    "Sorceries/Other Shaping Rituals/Draw from Weather.md",
+    "Sorceries/Other Shaping Rituals/Sorcerous Scholar.md",
+    "Rules Reference/Thaumaturgy.md",
+    "Thaumaturgic Rituals/Exorcism.md",
+    "Thaumaturgic Rituals/Reading the Tea Leaves.md",
+    "Thaumaturgic Rituals",
+    "Music",
+    "Rules Reference/Sorcery/Untitled",
+    "Rules Reference/Sorcery",
+    "Sorceries/Other Shaping Rituals",
+    "Sorceries/Archetypes/The Talisman of Ten Thousand Eyes",
+    "Sorceries/Archetypes/Soul-Perfecting Elixir",
+    "Sorceries/Archetypes/Scarred by Nightmares",
+    "Sorceries/Archetypes/Pact with an Ifrit Lord",
     "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",

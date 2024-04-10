@@ -13,6 +13,6 @@ Flaws cost nothing and are inconvenient. When they come up they present an oppor
 # List
 ```dataview
 LIST
-FROM "Attributes & Traits/Flaws" and #Flaw 
+FROM "Traits/Flaws" and #Flaw 
 SORT file.ctime ASC
 ```
