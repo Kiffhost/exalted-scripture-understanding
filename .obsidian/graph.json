@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Charms/Martial Arts\"  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 2.80520833333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.408854166666667,
+  "centerStrength": 0.216145833333333,
   "repelStrength": 20,
-  "linkStrength": 0.9296875,
-  "linkDistance": 250,
-  "scale": 0.08317427835927568,
+  "linkStrength": 0.7265625,
+  "linkDistance": 254,
+  "scale": 0.0301828950673242,
   "close": false
 }

@@ -1,7 +1,7 @@
 ---
 kanban-plugin: basic
 ---
-# Short Term 
+# Short Term
 
 Very next steps, each completable within 1 day - 1 week
 

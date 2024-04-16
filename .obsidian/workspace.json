@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
+                "file": "Constellations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44bea4886ab6da8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Celestial Bureaucracy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
+                "file": "Celestial Bureaucracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md",
+                "file": "Celestial Bureaucracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md"
+                "file": "Celestial Bureaucracy.md"
               }
             }
           },
@@ -188,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Charms/Sidereals/House of Secrets/Investigation/Witness Invention Technique.md"
+                "file": "Celestial Bureaucracy.md"
               }
             }
           },
@@ -213,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,35 +238,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e0c45b086c3c22ce",
+  "active": "44bea4886ab6da8a",
   "lastOpenFiles": [
-    "Charms/Sidereals/House of Secrets/Investigation/Lucid Enigma Labyrinth.md",
-    "Charms/Sidereals/House of Secrets/Investigation/Embracing Life Method.md",
-    "Charms/Sidereals/House of Secrets/Investigation/Efficient Secretary Technique.md",
-    "Charms/Sidereals/House of Secrets/Investigation/Unwritten Words Revelation.md",
-    "Charms/Sidereals/House of Secrets/Investigation/Marvelous Inclusion of Details.md",
-    "Charms/Solar/Athletics/Graceful Crane Stance.md",
+    "Auspicious Prospects.md",
+    "something stupid.md",
+    "Constellations.md",
+    "Traits/Health Track.md",
+    "Traits/Essence.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Stormcaller/Stormcaller.md",
+    "Traits/Abilities/Awareness.md",
+    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
+    "Charms/Sidereals/House of Journeys/Resistance/The Center Must Hold.md",
+    "Charms/Sidereals/House of Journeys/Resistance/Strength of the Mast.md",
+    "Charms/Sidereals/House of Journeys/Resistance/Invisible at the Center.md",
+    "Charms/Sidereals/House of Journeys/Resistance/The Mast Sways.md",
     "Progress Tracker.md",
+    "Charms/Martial Arts/Laughing Monster Style/Laughing Monster Form.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Citrine Poxes of Contagion Style/Feverish Essence Infection.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Citrine Poxes of Contagion Style/Perfect Reconstruction Method.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Rain of Unseen Threads.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Grandmother Spider Mastery.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Pattern Spider Touch.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Thumbnail Spider March.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Cannibalistic Heritage Technique.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Dance of the Hungry Spider.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Nest of Living Strands.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Demesne-and-Manse Form.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Soul-Fire Shaper Form.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Four Magical Materials Form.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Prismatic Arrangement of Creation Form.md",
     "generated_hierarchies.csv",
-    "Celestial Bureaucracy.md",
-    "Monstrous Urge.md",
-    "Charms/Lunar/Manipulation/Heart's Blood/Argent Trickster’s Rook.md",
-    "Charms/Sidereals/House of Serenity/Craft/Elemental Vision.md",
-    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
-    "Rules Reference/Sorcery/Sorcery.md",
-    "Rules Reference/Leadership.md",
-    "Rules Reference/Crafting/Superior Project.md",
-    "Rules Reference/Crafting/Major Project.md",
-    "Rules Reference/Sorcery/Sorcerous Workings.md",
-    "Rules Reference/Lore & Facts/Introducing a Fact.md",
-    "Rules Reference/Sorcery/Shape Sorcery.md",
-    "Sorceries/Other Shaping Rituals/Power from Song.md",
-    "Sorceries/Other Shaping Rituals/Draw from Geomancy.md",
-    "Sorceries/Other Shaping Rituals/Draw from Weather.md",
-    "Sorceries/Other Shaping Rituals/Sorcerous Scholar.md",
-    "Rules Reference/Thaumaturgy.md",
-    "Thaumaturgic Rituals/Exorcism.md",
-    "Thaumaturgic Rituals/Reading the Tea Leaves.md",
     "Thaumaturgic Rituals",
     "Music",
     "Rules Reference/Sorcery/Untitled",
@@ -271,7 +285,6 @@
     "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
     "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
     "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas",
-    "Charms/Solar/War/Solar War Charm Tree.canvas"
+    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas"
   ]
 }
