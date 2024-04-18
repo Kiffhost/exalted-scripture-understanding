@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1ahl
 Mins: Survival 5, Essence 4
 Type: Reflexive

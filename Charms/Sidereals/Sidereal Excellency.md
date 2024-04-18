@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1m per die or TN or 2m per point
 Mins: (Ability) 1, Essence 1
 Type: Supplemental or Reflexive

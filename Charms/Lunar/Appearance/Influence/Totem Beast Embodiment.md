@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1wp
 Mins: Appearance 4, Essence 3
 Type: Supplemental

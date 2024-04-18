@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 2m, 1i per die
 Mins: Intelligence 3, Essence 2
 Type: Reflexive

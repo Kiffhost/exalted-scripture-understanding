@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —
 Mins: Stealth 5, Essence 2
 Type: Permanent

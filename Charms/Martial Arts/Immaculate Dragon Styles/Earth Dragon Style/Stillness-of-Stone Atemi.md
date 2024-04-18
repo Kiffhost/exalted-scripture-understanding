@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 2m (+1i per point of penalty)
 Mins: Martial Arts 3, Essence 2
 Type: Supplemental

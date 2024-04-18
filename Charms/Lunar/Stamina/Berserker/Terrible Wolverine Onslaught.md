@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 10m, 1ahl, 1wp
 Mins: Stamina 5, Essence 4
 Type: Simple

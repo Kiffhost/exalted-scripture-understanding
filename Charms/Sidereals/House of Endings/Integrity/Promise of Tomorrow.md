@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 2m
 Mins: Integrity 4, Essence 1
 Type: Reflexive

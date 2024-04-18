@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 20m, 2wp
 Mins: Charisma 2 or Wits 2, Essence 1
 Type: Simple

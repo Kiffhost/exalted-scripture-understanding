@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1m per die or 2m per point
 Mins: (Attribute) 1, Essence 1
 Type: Supplemental or Reflexive

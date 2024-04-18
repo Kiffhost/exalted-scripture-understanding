@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 4m, 1wp
 Mins: Melee 5, Essence 4
 Type: Supplemental

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —
 Mins: Intelligence 3, Essence 3
 Type: Permanent

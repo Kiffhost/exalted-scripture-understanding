@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1m
 Mins: Charisma 3, Essence 1
 Type: Supplemental

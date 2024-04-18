@@ -5,6 +5,11 @@ kanban-plugin: basic
 
 Very next steps, each completable within 1 day - 1 week
 
+- [ ] add source tags
+	- [ ] solar charms
+	- [ ] items
+	- [ ] sorceries
+	- [ ] other
 - [ ] Character creation walkthrough
 	- [x] Generic
 	- [x] Solar
@@ -13,11 +18,6 @@ Very next steps, each completable within 1 day - 1 week
 	- [x] Sidereal
 	- [x] Exigent
 	- [ ] Mortal
-- [ ] Import other items
-	- [ ] Hearthstones
-	- [x] Mortal Weapons/Armour
-	- [x] Everyday Wonders
-	- [x] Minor Artifacts
 - [ ] Add ability links to WeaponTags
 - [ ] Rules
 	- [x] Charms
@@ -84,8 +84,6 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Dragon-Blooded
 	- [x] Sidereal
 - [x] Flaws
-	- [x] Solar
-	- [x] Dragon-Blooded
 - [x] Great Curse
 	- [x] Solar
 	- [x] Lunar
@@ -94,9 +92,6 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Solar
 	- [x] Dragon-Blooded
 	- [x] Arms of the Chosen
-		- [x] Weapons
-		- [x] Armour
-		- [x] Misc
 	- [x] Lunar
 	- [x] Sidereal
 - [x] Version Control
@@ -112,3 +107,8 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Environment
 	- [x] Poison
 	- [x] Disease
+- [x] Import other items
+	- [x] Hearthstones
+	- [x] Mortal Weapons/Armour
+	- [x] Everyday Wonders
+	- [x] Minor Artifacts

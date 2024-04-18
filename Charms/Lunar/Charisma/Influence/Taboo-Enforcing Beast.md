@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 3m, 1wp
 Mins: Charisma 4, Essence 3
 Type: Reflexive

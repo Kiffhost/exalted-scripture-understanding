@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(+2m)
 Mins: Thrown 4, Essence 1
 Type: Permanent

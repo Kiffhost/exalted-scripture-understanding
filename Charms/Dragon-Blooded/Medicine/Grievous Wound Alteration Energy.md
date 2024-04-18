@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(+1wp)
 Mins: Medicine 5, Essence 2
 Type: Permanent

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —
 Mins: Any Secrets Ability 3, Essence 2
 Type: Permanent

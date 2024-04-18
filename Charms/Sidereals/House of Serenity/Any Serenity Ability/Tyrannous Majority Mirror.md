@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m, 1wp
 Mins: Any Serenity Ability 5, Essence 4
 Type: Simple

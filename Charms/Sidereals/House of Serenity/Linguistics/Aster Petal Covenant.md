@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 3m per Charm
 Mins: Linguistics 5, Essence 3
 Type: Reflexive

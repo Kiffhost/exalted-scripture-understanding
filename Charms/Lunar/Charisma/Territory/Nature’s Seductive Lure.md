@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(+8m, 2a)
 Mins: Charisma 5, Essence 4
 Type: Permanent

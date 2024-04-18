@@ -1,3 +1,7 @@
+---
+tags:
+  - source/dragon-book
+---
 # Adding Bonus Dice
 Unlike the Solar Exalted, the Dragon-Blooded don’t have generic Excellencies. Instead, each Ability has its own Excellency Charm. At character creation, a Dragon-Blood gains five Excellencies from any of her Aspect or Favored Abilities for free; the rest must be purchased normally. A Dragon-Blood cannot add more than (Ability + Specialty) dice to a roll. Automatic successes count as two dice each towards this limit. Static values such as Evasion or Resolve can be raised by half this amount, rounded down. The only exceptions are rarer “nonCharm” dice or successes, which don’t count towards the limit at all. Example: A Dragon-Blood with Melee 4 and a specialty of (Spears) could add up to five dice on an attack roll or raise her Melee Parry by 3 while wielding a spear, but only add four dice to a roll or raise her Parry by 2 with any other weapon. 
 

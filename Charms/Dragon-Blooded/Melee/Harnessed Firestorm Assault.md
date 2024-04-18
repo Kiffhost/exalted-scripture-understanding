@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 10m, 1wp, expend Fire Aura
 Mins: Melee 5, Essence 3
 Type: Simple

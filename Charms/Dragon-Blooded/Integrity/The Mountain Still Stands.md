@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —
 Mins: Integrity 5, Essence 4
 Type: Reflexive

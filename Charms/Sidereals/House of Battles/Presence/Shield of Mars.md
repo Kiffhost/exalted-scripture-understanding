@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 3m, 2i
 Mins: Presence 4, Essence 1
 Type: Reflexive

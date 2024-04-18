@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m, 1wp (5m per round/hour)
 Mins: Survival 5, Essence 3
 Type: Supplemental

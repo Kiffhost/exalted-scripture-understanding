@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 4m, 1wp
 Mins: Brawl 5, Essence 2
 Type: Simple

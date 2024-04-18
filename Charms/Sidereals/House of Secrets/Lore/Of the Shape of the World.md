@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —
 Mins: Lore 5, Essence 1
 Type: Permanent

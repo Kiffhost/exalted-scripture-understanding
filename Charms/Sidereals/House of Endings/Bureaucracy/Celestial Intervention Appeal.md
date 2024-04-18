@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 20m, 2wp
 Mins: Bureaucracy 4, Essence 2
 Type: Simple

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(+7m)
 Mins: Survival 4, Essence 3
 Type: Permanent

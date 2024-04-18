@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —
 Mins: Any Battles Ability 2, Essence 1
 Type: Permanent

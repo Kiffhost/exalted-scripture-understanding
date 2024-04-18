@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m
 Mins: Occult 2, Essence 1
 Type: Simple

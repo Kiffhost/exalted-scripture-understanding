@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1m
 Mins: Melee 1, Essence 1
 Type: Reflexive

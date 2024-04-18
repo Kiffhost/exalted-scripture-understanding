@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(4m per turn)
 Mins: Dexterity 5, Essence 4
 Type: Permanent

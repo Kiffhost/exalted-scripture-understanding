@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(+2i)
 Mins: Essence 1
 Type: Permanent

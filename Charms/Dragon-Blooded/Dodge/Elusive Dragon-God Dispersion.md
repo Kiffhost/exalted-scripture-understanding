@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —
 Mins: Dodge 5, Essence 5
 Type: Permanent

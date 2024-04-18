@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 8m, 1wp
 Mins: Survival 4, Essence 2
 Type: Simple

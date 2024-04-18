@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5i
 Mins: Athletics 5, Essence 4
 Type: Reflexive

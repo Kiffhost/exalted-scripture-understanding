@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m
 Mins: Any Battles Ability 5, Essence 3
 Type: Reflexive

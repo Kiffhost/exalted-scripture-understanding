@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 6m, 1a
 Mins: Dodge 5, Essence 3
 Type: Reflexive

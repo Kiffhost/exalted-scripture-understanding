@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 1m per die, 1i
 Mins: Brawl 3, Essence 2
 Type: Reflexive

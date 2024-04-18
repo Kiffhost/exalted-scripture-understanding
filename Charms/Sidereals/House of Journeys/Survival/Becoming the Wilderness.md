@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 4m
 Mins: Survival 1, Essence 1
 Type: Simple

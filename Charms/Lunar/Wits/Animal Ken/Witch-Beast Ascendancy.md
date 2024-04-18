@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —
 Mins: Wits 5, Intelligence 4, Essence 5
 Type: Permanent

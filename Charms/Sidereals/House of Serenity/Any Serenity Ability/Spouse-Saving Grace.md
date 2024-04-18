@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m
 Mins: Any Serenity Ability 3, Essence 1
 Type: Reflexive

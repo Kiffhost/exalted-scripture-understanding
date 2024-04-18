@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 2m
 Mins: Socialize 5, Essence 2
 Type: Supplemental

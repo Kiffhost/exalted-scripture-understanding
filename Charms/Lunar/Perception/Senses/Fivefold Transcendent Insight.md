@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(+1wp)
 Mins: Perception 4, Essence 3
 Type: Permanent

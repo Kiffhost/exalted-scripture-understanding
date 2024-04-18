@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1wp or 3a
 Mins: Occult 3, Essence 2
 Type: Reflexive

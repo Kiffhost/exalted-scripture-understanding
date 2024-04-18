@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 1m per die or 2m per +1 Parry
 Mins: Brawl 1, Essence 1
 Type: Supplemental or Reflexive

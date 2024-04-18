@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m, 4i, 1wp, 1ahl
 Mins: Athletics 5, Essence 2
 Type: Simple

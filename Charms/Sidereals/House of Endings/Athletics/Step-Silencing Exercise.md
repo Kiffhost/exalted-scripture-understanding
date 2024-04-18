@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 3m
 Mins: Athletics 4, Essence 2
 Type: Supplemental

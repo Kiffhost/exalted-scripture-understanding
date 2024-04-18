@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m
 Mins: Resistance 5, Essence 2
 Type: Reflexive

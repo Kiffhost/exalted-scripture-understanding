@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 2m, 2i
 Mins: Dexterity 4, Essence 2
 Type: Supplemental

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m, 3wp
 Mins: Any Journeys Ability 5, Essence 4
 Type: Reflexive

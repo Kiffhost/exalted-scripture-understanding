@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m
 Mins: Sail 3, Essence 1
 Type: Simple

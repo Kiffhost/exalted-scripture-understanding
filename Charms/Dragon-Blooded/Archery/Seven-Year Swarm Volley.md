@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 6m, 1wp, expend Wood Aura
 Mins: Archery 5, Essence 3
 Type: Simple

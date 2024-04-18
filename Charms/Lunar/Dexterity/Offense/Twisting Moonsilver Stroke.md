@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 4m, 2i
 Mins: Dexterity 5, Essence 4
 Type: Reflexive

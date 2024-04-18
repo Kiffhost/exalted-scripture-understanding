@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 2m, 1wp
 Mins: Perception 5, Essence 3
 Type: Supplemental

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 3m, 2i
 Mins: Archery 4, Essence 2
 Type: Simple

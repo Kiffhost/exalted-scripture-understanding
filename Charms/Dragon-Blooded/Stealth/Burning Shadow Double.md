@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 1m, 1wp
 Mins: Stealth 4, Essence 3
 Type: Simple

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(+1wp)
 Mins: Ride 3, Essence 1
 Type: Permanent

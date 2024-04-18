@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 2m per +1 Resolve or success
 Mins: Integrity 1, Essence 1
 Type: Supplemental or Reflexive

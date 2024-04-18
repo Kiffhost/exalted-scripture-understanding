@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(+3m)
 Mins: Bureaucracy 3, Essence 2
 Type: Permanent

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m, 1wp
 Mins: Bureaucracy 5, Essence 3
 Type: Supplemental

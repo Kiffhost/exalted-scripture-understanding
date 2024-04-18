@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1m, 1wp
 Mins: Performance 3, Essence 1
 Type: Simple

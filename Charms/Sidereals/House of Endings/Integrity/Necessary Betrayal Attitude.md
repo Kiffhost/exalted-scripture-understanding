@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(2m)
 Mins: Integrity 2, Essence 1
 Type: Permanent

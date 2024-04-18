@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m (5m or 5i per round/minute)
 Mins: Performance 3, Essence 2
 Type: Reflexive

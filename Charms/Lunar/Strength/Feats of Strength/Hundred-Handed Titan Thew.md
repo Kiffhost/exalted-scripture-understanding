@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1m, 2a
 Mins: Strength 5, Essence 5
 Type: Supplemental

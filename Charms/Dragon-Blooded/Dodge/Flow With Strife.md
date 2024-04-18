@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 3i per level of damage, expend Water Aura
 Mins: Dodge 5, Essence 3
 Type: Reflexive

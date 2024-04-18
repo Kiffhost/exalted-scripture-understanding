@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: Varies
 Mins: Occult 2, Essence 1
 Type: Simple

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 2m, +1i per die or 2i per +1
 Mins: Wits 4, Essence 3
 Type: Reflexive

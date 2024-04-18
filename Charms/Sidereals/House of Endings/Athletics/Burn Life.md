@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 3m per dot, 1wp, 1ahl
 Mins: Athletics 3, Essence 1
 Type: Simple

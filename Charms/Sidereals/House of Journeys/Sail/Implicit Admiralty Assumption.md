@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m, 1wp
 Mins: Sail 5, Essence 3
 Type: Reflexive

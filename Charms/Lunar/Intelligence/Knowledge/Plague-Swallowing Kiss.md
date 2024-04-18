@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 6m
 Mins: Intelligence 3, Essence 1
 Type: Simple

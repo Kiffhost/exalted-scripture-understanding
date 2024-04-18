@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1m per dot of mutation
 Mins: Essence 2
 Type: Reflexive

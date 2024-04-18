@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 3m, 3i, expend Fire Aura
 Mins: Survival 5, Essence 3
 Type: Reflexive

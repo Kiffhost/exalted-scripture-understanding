@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(+5m)
 Mins: Wits 3, Essence 3
 Type: Permanent

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m, 1wp, expend Fire Aura
 Mins: Athletics 5, Essence 3
 Type: Supplemental

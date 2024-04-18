@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(8m, 1a, 1wp, expend Water Aura)
 Mins: Brawl 5, Essence 5
 Type: Permanent

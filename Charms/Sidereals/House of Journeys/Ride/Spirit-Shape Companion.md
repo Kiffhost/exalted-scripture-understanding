@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m, 1wp, 1xp
 Mins: Ride 3, Essence 2
 Type: Simple

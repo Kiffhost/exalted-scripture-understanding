@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1m per point of penalty
 Mins: Medicine 2, Essence 1
 Type: Reflexive

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 1m or 3m, 1wp
 Mins: Any Secrets Ability 3, Essence 1
 Type: Simple

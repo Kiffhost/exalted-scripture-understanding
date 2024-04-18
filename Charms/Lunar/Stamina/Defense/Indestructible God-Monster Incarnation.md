@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 4m, 3a, 1wp
 Mins: Stamina 5, Essence 4
 Type: Reflexive

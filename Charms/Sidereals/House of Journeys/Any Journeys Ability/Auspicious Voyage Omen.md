@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(10m, 1wp)
 Mins: Any Journeys Ability 4, Essence 2
 Type: Simple

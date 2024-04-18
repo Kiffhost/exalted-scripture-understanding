@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dfc7aea646548b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules Reference/Charms.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0c45b086c3c22ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Constellations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44bea4886ab6da8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Celestial Bureaucracy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0f38d5ec18f84e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules Reference/Charms.md",
+                "file": "Progress Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:terrestr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celestial Bureaucracy.md",
+                "file": "Progress Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celestial Bureaucracy.md",
+                "file": "Progress Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Celestial Bureaucracy.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -201,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Celestial Bureaucracy.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -238,45 +198,45 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "44bea4886ab6da8a",
+  "active": "0f38d5ec18f84e10",
   "lastOpenFiles": [
-    "Auspicious Prospects.md",
-    "something stupid.md",
-    "Constellations.md",
-    "Traits/Health Track.md",
-    "Traits/Essence.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Stormcaller/Stormcaller.md",
-    "Traits/Abilities/Awareness.md",
+    "Items/Hearthstones/Abyssal/Stone of Hatred.md",
+    "Items/Hearthstones/Abyssal/Blood-Drinking Jewel.md",
+    "Items/Hearthstones/Abyssal/Gem of Ghostly Protection.md",
+    "Items/Hearthstones/Abyssal/Walking Corpse Stone.md",
+    "Items/Hearthstones/Abyssal/Stone of the Nightly Reunion.md",
+    "Charms/Charm Keywords.md",
+    "Items/Hearthstones/Lunar/Mount-and-Rider Onyx.md",
+    "Items/Hearthstones/Lunar/Beast Gem.md",
+    "Items/Hearthstones/Lunar/Chameleon Stone.md",
+    "Items/Hearthstones/Sidereal/Stone of One Voice.md",
+    "Items/Hearthstones/Sidereal/Exorcist’s Jewel.md",
+    "Items/Hearthstones/Lunar/Twin Crescent Stone.md",
+    "Items/Hearthstones/Lunar/Key to the Dream Palace.md",
+    "Items/Hearthstones/Solar/Key of Mastery.md",
+    "Items/Hearthstones/Solar/Jewel of Hero’s Panoply.md",
+    "Items/Hearthstones/Solar/Jewel of the Shining Heart.md",
+    "Items/Hearthstones/Wood/Stone of Resilient Bamboo.md",
+    "Items/Hearthstones/Wood/Faerie-Ring Jewel.md",
+    "Items/Hearthstones/Water/Fighting-the-Tide Gemstone.md",
+    "Items/Hearthstones/Water/Sapphire Duck Stone.md",
+    "Items/Hearthstones/Fire/Gem of Perfect Mobility.md",
+    "Items/Hearthstones/Water/Stone of Aquatic Prowess.md",
+    "Items/Hearthstones/Fire/Ardor-Igniting Gemstone.md",
+    "Items/Hearthstones/Wood/Ivy-Hilt Gemstone.md",
+    "Items/Hearthstones/Water/Stone of the Vanisher.md",
+    "Items/Hearthstones/Fire/Trance-Scorching Sardonyx.md",
+    "Autogen/Untitled",
+    "Items/Hearthstones/Sidereal",
+    "Items/Hearthstones/Lunar",
+    "Items/Hearthstones/Abyssal",
+    "Items/Hearthstones/Solar",
+    "Items/Hearthstones/Wood",
+    "AAAA",
+    "Items/Hearthstones/Water",
+    "Items/Hearthstones/Fire",
+    "Items/Hearthstones/Earth",
     "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
-    "Charms/Sidereals/House of Journeys/Resistance/The Center Must Hold.md",
-    "Charms/Sidereals/House of Journeys/Resistance/Strength of the Mast.md",
-    "Charms/Sidereals/House of Journeys/Resistance/Invisible at the Center.md",
-    "Charms/Sidereals/House of Journeys/Resistance/The Mast Sways.md",
-    "Progress Tracker.md",
-    "Charms/Martial Arts/Laughing Monster Style/Laughing Monster Form.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Citrine Poxes of Contagion Style/Feverish Essence Infection.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Citrine Poxes of Contagion Style/Perfect Reconstruction Method.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Rain of Unseen Threads.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Grandmother Spider Mastery.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Pattern Spider Touch.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Thumbnail Spider March.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Cannibalistic Heritage Technique.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Dance of the Hungry Spider.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Charcoal March of Spiders Style/Nest of Living Strands.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Demesne-and-Manse Form.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Soul-Fire Shaper Form.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Four Magical Materials Form.md",
-    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Prismatic Arrangement of Creation Form.md",
-    "generated_hierarchies.csv",
-    "Thaumaturgic Rituals",
-    "Music",
-    "Rules Reference/Sorcery/Untitled",
-    "Rules Reference/Sorcery",
-    "Sorceries/Other Shaping Rituals",
-    "Sorceries/Archetypes/The Talisman of Ten Thousand Eyes",
-    "Sorceries/Archetypes/Soul-Perfecting Elixir",
-    "Sorceries/Archetypes/Scarred by Nightmares",
-    "Sorceries/Archetypes/Pact with an Ifrit Lord",
     "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
     "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",

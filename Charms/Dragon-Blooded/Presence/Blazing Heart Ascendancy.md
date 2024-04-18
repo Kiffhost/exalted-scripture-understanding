@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 6m
 Mins: Presence 4, Essence 3
 Type: Supplemental

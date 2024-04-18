@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 1m per die
 Mins: Medicine 1, Essence 1
 Type: Supplemental

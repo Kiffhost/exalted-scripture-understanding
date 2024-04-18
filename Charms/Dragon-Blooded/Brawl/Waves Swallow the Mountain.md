@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 2m, 1i, one round of control
 Mins: Brawl 4, Essence 3
 Type: Reflexive

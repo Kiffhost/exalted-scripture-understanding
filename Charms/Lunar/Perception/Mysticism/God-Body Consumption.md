@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 3m per Charm
 Mins: Perception 5, Essence 3
 Type: Reflexive

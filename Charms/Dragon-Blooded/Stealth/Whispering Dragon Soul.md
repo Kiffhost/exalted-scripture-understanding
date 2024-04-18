@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(2m per Charm)
 Mins: Stealth 5, Essence 3
 Type: Permanent

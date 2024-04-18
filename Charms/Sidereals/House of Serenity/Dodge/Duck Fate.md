@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 7m
 Mins: Dodge 4, Essence 2
 Type: Reflexive

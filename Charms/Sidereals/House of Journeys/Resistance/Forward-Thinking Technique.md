@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: —(+1wp)
 Mins: Resistance 4, Essence 2
 Type: Permanent

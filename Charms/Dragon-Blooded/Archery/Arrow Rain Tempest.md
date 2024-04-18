@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 6m, 5i, 1wp, expend Water Aura
 Mins: Archery 5, Essence 5
 Type: Simple

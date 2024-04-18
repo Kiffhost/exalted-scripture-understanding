@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(+1lhl or 1wp)
 Mins: Lore 3, Essence 2
 Type: Permanent

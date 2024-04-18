@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m, 1ahl
 Mins: Medicine 5, Essence 5
 Type: Supplemental

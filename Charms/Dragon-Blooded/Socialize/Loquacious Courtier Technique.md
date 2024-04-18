@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 2m per success or +1 Guile
 Mins: Socialize 1, Essence 1
 Type: Supplemental or Reflexive

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 5m (1m)
 Mins: Dexterity 5, Essence 1
 Type: Simple

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m
 Mins: Socialize 4, Essence 2
 Type: Reflexive

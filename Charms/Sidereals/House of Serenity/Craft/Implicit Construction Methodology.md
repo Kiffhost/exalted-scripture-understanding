@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 10m, 1wp, 1wxp per dot
 Mins: Craft 5, Essence 5
 Type: Simple

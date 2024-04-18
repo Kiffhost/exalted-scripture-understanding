@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 6m, 1wp
 Mins: Investigation 4, Essence 3
 Type: Reflexive

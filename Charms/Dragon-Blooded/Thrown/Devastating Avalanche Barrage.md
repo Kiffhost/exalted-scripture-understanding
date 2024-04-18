@@ -2,6 +2,7 @@
 tags:
   - charm
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m, 4i, 1wp, expend Earth Aura (+1a)
 Mins: Thrown 5, Essence 3
 Type: Simple

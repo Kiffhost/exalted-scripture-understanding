@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 1m, 3a, 1wp (1wp)
 Mins: Wits 4, Essence 3
 Type: Simple

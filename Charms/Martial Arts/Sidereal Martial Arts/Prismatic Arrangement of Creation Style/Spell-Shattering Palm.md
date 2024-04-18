@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 5m (+0-3wp)
 Mins: Martial Arts 5, Essence 3
 Type: Reflexive

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Sidereal
+  - source/sidereal-book
 Cost: 2m, 1wp
 Mins: Any Battles Ability 4, Essence 2
 Type: Supplemental
