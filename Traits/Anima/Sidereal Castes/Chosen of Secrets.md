@@ -1,3 +1,7 @@
+---
+tags:
+  - Sidereal
+---
 Oldest and most mysterious of her sisters, Jupiter knows much and speaks little. She presides over mystery and revelation, truth and falsehood, ignorance and understanding, and the lines between them. Her Chosen ensure that all things are hidden or revealed as destiny demands, thwarting seekers after forbidden knowledge or wresting secrets whose time has come from their keepers. They are savants and spies, mystics and masterminds, distinguished by their foresight even among their Sidereal peers. In Heaven’s name, they’ve put great libraries to the torch, deposed monarchs to expose their secret sins, and sought out long-forgotten lore from demons, ghosts, and worse.
 
 The First Age’s Oracles explored the mysteries of the unknown cosmos, infiltrated the courts of Creation’s enemies, investigated crimes committed by or against the Chosen, and oversaw great libraries and academies fit for a glorious age. At the same time, they sealed away baleful remnants of the world’s makers, censored dangerous secrets from discovery by their fellow Exalted, and kept knowledge of Creation’s vulnerabilities from the world’s foes. Their foresight guided the Old Realm through many trials, from the akuma Canticle Shrike’s blighting of the omphalos to the Skyeater Moth’s emergence from the Wyld beneath the world’s depths. 
@@ -25,6 +29,10 @@ Oracles can divine destiny’s plans for deception and revelation or make Jupite
 # Caste Abilities
 
 Investigation, Larceny, Lore, Occult, Stealth. 
+
+# Experience Triggers
+
+Learning something that helps advance her or her Circle’s goals; using knowledge to solve significant problems; upholding a Major or Defining Intimacy by meddling in someone’s private affairs; advancing her or her Circle’s goals by concealing or falsifying information.
 
 # Associations
 

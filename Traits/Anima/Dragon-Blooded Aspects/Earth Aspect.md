@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon-Blooded
+---
 Earth is the foundation of Creation, the mighty pillar that upholds all things. Earth is unassailable, enduring both physical force and the taint of chaos. Its stability keeps the balance of the world, from the mountains that have weathered centuries unchanged to the purity of cold iron. When storms fade, rivers dry up, fires burn out, and forests die, only the unforgiving earth remains. 
 
 Those who Exalt as Earth Aspects inherit the stoic calm and enduring stability of their element. They turn their minds from trifles and ill-conceived dreams as they come to appreciate the importance of ritual and tradition, the tried and tested wisdom passed down across generations of Dragon-Blooded. They value that which lasts, whether it’s a long-standing relationship with a lover or friend, constructing a manse that will weather the passing of ages, or inflicting a total defeat from which a foe can never hope to recover. They’re slow to make up their minds, but unshakable in their conviction once they’ve done so.
@@ -34,7 +38,7 @@ Children of Pasiap, Ivory Dragons, Stone Fists.
 
 Master architect, craftsman, hidebound minister, itinerant monk, military strategist, historian, spycatcher, city protector, dedicated magistrate.
 
-# Dragon-Blooded Experience Bonus
+# Experience Trigger
 
 Defending, supporting, or expanding an institution or tradition in support of a Major or Defining Intimacy; enduring significant peril to defend an ally; creating a lasting and meaningful institution, tradition, or work of craftsmanship or mystical power; resolving a meaningful dispute between one’s allies or a group one belongs to.
 

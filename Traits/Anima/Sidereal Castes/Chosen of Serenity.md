@@ -1,3 +1,7 @@
+---
+tags:
+  - Sidereal
+---
 When Venus laughs, all the world’s suffering seems worth it; when she weeps, all joy dies. The Maiden of Serenity oversees all forms of relationships and societies, and her Joybringers ensure that these unfold in accordance with Heaven’s agenda. Artists, diplomats, intriguers, artificers, and tempters, they undertake the delicate work of weaving the fates of those with free will. They unite or separate starcrossed lovers, bring peace in times of conflict, play kingmaker in matters of politics and commerce, shape societies, and safeguard Creation’s peoples from suffering and sorrow.
 
 In the First Age, Joybringers safeguarded Creation’s peace and prosperity against threats from within and without. They negotiated treaties among warring Exalted, led efforts to rebuild in the aftermath of cataclysm, and mended the damage done to Creation by otherworldly incursions. As Heaven’s Envoys, they negotiated with otherworldly courts in Yu-Shan’s name, negotiating the Seven-Limbed Pact, the Dispensation of Verumpira, and the Black Moon Accords that brought peace with the devil-stars. And, as friends, advisors, matchmakers, and muses, they counseled the Chosen in their personal lives, helping bring together auspicious pairings of Exalted in sacred marriages and other relationships.
@@ -25,6 +29,10 @@ Joybringers can divine destiny’s plans for social interactions and make Venus�
 # Caste Abilities
 
 Craft, Dodge, Linguistics, Performance, Socialize. 
+
+# Experience Trigger
+
+Resolving meaningful disputes; soothing the feelings of narratively significant characters to her own advantage; upholding Major or Defining Ties by bringing others together in partnerships (romantic or otherwise); creating or restoring lasting institutions, infrastructure, artifacts, or blessings that improves people’s lives.
 
 # Associations
 

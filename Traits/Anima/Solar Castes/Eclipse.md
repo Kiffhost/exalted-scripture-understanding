@@ -1,6 +1,7 @@
 ---
 tags:
   - Anima
+  - Solar
 ---
 Few events in Creation are rarer or more portentous than a solar eclipse. The sun, the moon, and the stars share the sky, united in a grand display of celestial harmony. It is the duty of the Eclipse Caste to bring such harmony to the rest of Creation. As diplomats, they travel to the far reaches of the world—and beyond—braving the wilds and treating with strange peoples. The treaties they forge help bind the world together, encouraging the exchange of both riches and ideas. As ministers, they run cartels and nations with skill and aplomb, expanding their interests far and wide. As explorers, they seek out new opportunities for themselves, their Circlemates, and Creation. Regardless of his surroundings, an Eclipse is confident, versatile, and eager to rise to any challenge.
 
@@ -39,7 +40,6 @@ Crowned Suns, Harmonious Voices, Wheels of Peace, Solar Winds, Quicksilver Falco
 
 Translator, ambitious young noble, village shaman, diplomat, merchant prince, adventurous sailor, royal advisor, gentleman explorer, speaker-to-gods, professional courier, government minister
 
-
-# Solar Experience Trigger
+# Experience Trigger
 
 Bringing two or more parties with a meaningful dispute to accords, gaining a noteworthy advantage for the character or the Circle through diplomatic means, successfully navigating and thwarting social or geographical obstacles preventing the character or Circle from achieving a significant goal, exploiting a cultural tradition or legal system in furtherance of a Major or Defining Intimacy, bringing someone’s Intimacies closer to aligning with those of the Eclipse or with the goals of his Circle, inspiring or taking part in the creation or transformation of a social institution.

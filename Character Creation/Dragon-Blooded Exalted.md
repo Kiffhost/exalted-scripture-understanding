@@ -28,7 +28,7 @@ Select 5 **Favoured** **Abilities**.
 Divide 28 dots among your abilities.
 Maximum of 3 dots per ability (before bonus points are applied).
 
-Choose 3 *Specialties*.
+Choose 4 [[Specialty|Specialties]].
 
 ## Background
 ### Dynast of The Realm
@@ -61,6 +61,8 @@ If you chose the Dynast, Prasadi or Lookshyan Background, assign 5 additional do
 Some Merits can make different options for charms available:
 - [[Artifact]] may allow Evocations.
 - [[Martial Artist]] allows Martial Arts Styles and Charms.
+
+All Exalted gain [[Exalted Healing]] for free.
 
 Optionally take [[Flaws]] for additional experience triggers during play.
 # Charms

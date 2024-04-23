@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon-Blooded
+---
 Fire is the energy of Creation, the dynamic power that is ever restless, never satisfied. It engulfs all that it touches, consuming to burn brighter and hotter, spreading beyond control until there’s nothing left to burn. It knows no restraint, no half-measures, and even when reduced to nothing more than smoldering coals, it can still ignite a deadly wildfire. But it’s not wholly without subtlety, for there would be no shadow without the light of the flame, and no smoke without the ferocious heat of its blaze. 
 
 Exalting as a Fire Aspect intensifies every feeling and emotion, kindling the flames of passion in even the stoniest hearts. Those who were serene or stoic before Exaltation learn to embrace the spontaneity of their emotions, while those who were already passionate grow more so, perhaps even hot-headed. When they love, they love with all their hearts. When they hate, they hate with the burning intensity of an inferno. No action is meaningless to a Fire Aspect — everything they do, they believe in whole-heartedly. 
@@ -36,7 +40,7 @@ Children of Hesiesh, Crimson Dragons, Burning Swords.
 
 Master duelist, irrepressible socialite, righteous crusader, passionate musician, devoted legionnaire, social critic, warrior monk, dedicated scholar, notorious libertine.
 
-# Dragon-Blooded Experience Bonus
+# Experience Trigger
 
 Defeating a powerful enemy in a way that upholds an emotion-based Major or Defining Intimacy; taking needless risks or plunging into unnecessary danger to uphold a Major or Defining Intimacy; inspiring others to uphold one of the character’s emotion-based Major or Defining Intimacies in a significant way; directly furthering the character’s or her allies’ goals by causing another character to question one of his Major or Defining Intimacies
 

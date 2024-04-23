@@ -10,14 +10,6 @@ Very next steps, each completable within 1 day - 1 week
 	- [ ] items
 	- [ ] sorceries
 	- [ ] other
-- [ ] Character creation walkthrough
-	- [x] Generic
-	- [x] Solar
-	- [x] Dragon-Blooded
-	- [x] Lunar
-	- [x] Sidereal
-	- [x] Exigent
-	- [ ] Mortal
 - [ ] Add ability links to WeaponTags
 - [ ] Rules
 	- [x] Charms
@@ -25,6 +17,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [x] Shaping rituals
 		- [x] Sorcerous Workings
 	- [x] Thaumaturgy
+	- [x] Character Advancement
 	- [ ] Exalted unique stuff
 		- [ ] Organise?
 		- [x] Solar Stuff
@@ -32,6 +25,8 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
 		- [ ] Exigent Charm Creation
+	- [ ] [[Mortal]] Exaltation
+
 
 # Medium Term
 
@@ -112,3 +107,11 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Mortal Weapons/Armour
 	- [x] Everyday Wonders
 	- [x] Minor Artifacts
+- [x] Character creation walkthrough
+	- [x] Generic
+	- [x] Solar
+	- [x] Dragon-Blooded
+	- [x] Lunar
+	- [x] Sidereal
+	- [x] Exigent
+	- [x] Mortal

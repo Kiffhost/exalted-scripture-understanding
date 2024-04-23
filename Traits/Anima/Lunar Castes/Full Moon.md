@@ -1,3 +1,7 @@
+---
+tags:
+  - Lunar
+---
 The moon’s radiance pierces night’s depths, illuminating unspeakable horrors that stalk their prey under cover of darkness. Though monsters may skulk in the shadows’ safety, the Full Moons will hunt them down wherever they cower, dragging them into the cold light of Luna’s judgement.
 
 Implacable hunters and terrifying warriors, the Full Moons are Creation’s ultimate survivors and the Silver Pact’s warlords, their mighty bodies empowered by divine fury. No matter what shape they wear, they triumph over any obstacle in their path, whether rending foes limb from limb as a river dragon, scaling sheer cliffs with a mountain goat’s hooves, assassinating tyrants with a scorpion’s venom, or wielding a daiklave with superhuman might and speed in their own human shape. 
@@ -24,6 +28,10 @@ Mighty warriors, the Full Moons’ animas suffuse them with physical power, bols
 # Caste Attributes
 
 Full Moons hone their bodies unto physical perfection, choosing Caste Attributes from Strength, Dexterity and Stamina. 
+
+# Experience Trigger
+
+Defeating a powerful enemy; removing a major impediment to her or her Circle’s goals through physical prowess; traversing hostile environments or enduring great physical abuse for a Major or Defining Intimacy’s sake; protecting or rescuing someone she has a Major or Defining Tie toward from danger.
 
 # Associations
 

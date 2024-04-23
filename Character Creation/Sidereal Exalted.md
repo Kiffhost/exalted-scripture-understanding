@@ -31,7 +31,7 @@ Select 5 **Favoured** **Abilities**.
 Divide 28 dots among your abilities.
 Maximum of 3 dots per ability (before bonus points are applied).
 
-Choose 4 *Specialties*.
+Choose 4 [[Specialty|Specialties]].
 
 # Merits
 
@@ -41,11 +41,13 @@ Assign up to 10 dots to [[Merits]].
 - [[Merits#Story|Story Merits]] may be purchased now, or with Storyteller permission.
 - [[Merits#Purchased|Purchased Merits]] may be purchased at any time.
 
-If your character is employed by the Bureau of Destiny, distribute 5 additional points among: Backing, Contacts, Manse, Mentor, Resources, and Retainers.
+If your character is employed by the Bureau of Destiny, distribute 5 additional points among: [[Backing]], [[Contacts]], [[Manse]], [[Mentor]], [[Resources]], and [[Retainers]].
 
 Some Merits can make different options for charms available:
 - [[Artifact]] may allow Evocations.
 - [[Martial Artist]] allows Martial Arts Styles and Charms.
+
+All Exalted gain [[Exalted Healing]] for free.
 
 Optionally take [[Flaws]] for additional experience triggers during play.
 # Charms

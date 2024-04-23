@@ -1,3 +1,7 @@
+---
+tags:
+  - Sidereal
+---
 Grim Saturn sees every possible ending, smiling only when they come to pass at their appointed hour. Her Chosen ensure these endings come to pass only as Heaven wills. They are assassins of those who defy their destined deaths, exorcists and psychopomps guiding the undead to reincarnation within fate’s order, magistrates purging institutional corruption, and physicians battling plagues. But their sobriquet as Destiny’s Gardeners isn’t just a euphemism. They’re guardians, healers, and caretakers as often as they are killers, lest an untimely ending snarl destiny. The tapestry of fate is Heaven’s garden, and it must be nourished and pruned in equal measure.
 
 The First Age’s Reckoners were hunters and slayers of Creation’s foes, the sword to the shield of Mars’ Chosen. They led preemptive strikes that decapitated the leadership of faerie warbands and monstrous armies, passed judgment on forbidden gods escaped from their gaols, and banished prehuman horrors awakened from the Underworld by the Neverborn’s death. They warned their fellow Chosen of future perils, whether fending off night-grim assassins as a sorcerer-queen’s consort and sentinel or seeking out corruption and disloyalty within a god-kings’ dominion.
@@ -20,6 +24,10 @@ Funereal monuments, grand tombs, and age-worn cenotaphs; jackals, raitons, scara
 # Anima Effects
 
 Reckoners can divine destiny’s plans for endings or make Saturn’s sign to bless attacks with killing power or doom enemies who stand against them (p. XX). 
+
+# Experience Triggers
+
+Advancing her or her Circle’s goals by killing powerful enemies; bringing longstanding problems to decisive conclusion; saving others from mortal peril or organizations from ruin; defeating powerful undead or necromancers or undoing their baleful magics.
 
 # Caste Abilities
 

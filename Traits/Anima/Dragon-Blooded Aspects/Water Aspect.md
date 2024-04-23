@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon-Blooded
+---
 Water is the flow of Creation, descending from Heaven and travelling to the corners of the world. It clings to neither shape nor form, shifting and changing to adapt to its surroundings. It’s not stopped by dams, but merely diverted, finding another path to the goal it inexorably seeks. It needs only the slightest crack to permeate any barrier, and with time, it will wear the mountains down to dust. Its depths conceal many things, whether the glinting treasures of sunken ships or the unseen menace of the riptide.
 
 Exaltation as a Water Aspect breaks down fixed and stagnant ways, suffusing the Dragon-Blood with the mercurial adaptability of water. She learns to see things from many perspectives, pursuing countless paths until she finds the one that leads to victory. If conventional methods prove unsuccessful, she tries the unconventional. If honorable means are unavailing, then underhanded ones must be employed. Challenge and conflict is the wellspring of all growth, and the only sin is conceding failure.
@@ -38,7 +42,7 @@ Children of Danaa’d, Sable Dragons, Drowning Hands.
 
 Renowned ship captain, martial arts sifu, political fixer, ruthless magistrate, master spy, diplomat, wealthy crime lord, information broker, dilettante artist.
 
-# Dragon-Blooded Experience Bonus
+# Experience Trigger
 
 Solving a significant problem or defeating a powerful enemy using a new approach after failing before; removing a major impediment to the character’s or her allies’ goals using unconventional or underhanded means; exploiting the rules or customs of a government, bureaucracy, or criminal association to support a Major or Defining Intimacy; helping an ally recover or learn from a major defeat or setback in a way that grants a significant advantage.
 

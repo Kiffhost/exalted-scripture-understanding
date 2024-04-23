@@ -1,3 +1,7 @@
+---
+tags:
+  - Lunar
+---
 The full moon, the new moon, and every phase in between are all the same moon, each a different aspect of Luna’s glory lighting the night sky. It’s with this protean potential, inchoate and manifold, that Luna blesses Casteless Lunars. Theirs is the freedom to discover who they truly are, and to decide who they’ll be. 
 
 Every Lunar is Casteless when she Exalts. Some are found swiftly by the Silver Pact and receive the moonsilver tattoos that let them define their caste. For them, Castelessness is a brief and transitory period, though still a meaningful one.
@@ -25,9 +29,13 @@ Shifting and unconstrained, the Casteless’ animas ease their transformations. 
 
 The Casteless lack Caste Attributes but have greater aptitude at mastering unfavored Attributes. 
 
-# Associations
-The season of autumn, the element of wood, the color gray, the Maiden of Journeys. 
+# Experience Trigger
 
+Overcoming a significant enemy or obstacle in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining Intimacy by completing a sacred hunt; removing a major impediment to her or her Circle’s goals through shapeshifting; protecting a Major or Defining Intimacy to an institution or community in which she’s made a place for herself.
+
+# Associations
+
+The season of autumn, the element of wood, the color gray, the Maiden of Journeys. 
 
 # Sobriquets
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Sidereal
+---
 Light-footed Mercury, Maiden of Journeys, sees every path that could be taken and knows what lies at their ends. It is her Chosen’s duty to ensure that all things go where Heaven wills them. Her Harbingers are the invisible hand on the ship’s till, the rider whose message comes just in time, the guide who knows the secret ways through the wilderness. When uncertainty, fear, or distraction keep travelers from their destined paths, Mercury’s Chosen guide them back on course; when obstacles stand in his way, they intercede to remove them.
 
 In the First Age, Heaven’s Messengers charted Creation’s most perilous wildernesses, the writhing chaos of the deep Wyld, the Demon City’s alien geometries, the Underworld’s dark waterways, and more. As navigators and advisors, they guided diplomatic missions and armies on the march, blessing them with Mercury’s favor and coordinating their movements with destiny. At sea, they bedeviled the likes of Lintha, the Niobraran League, and the Orphan Maelstrom born of the Dreaming Sea. The First Age’s wondrous conveyances came under their oversight: skyships, gates of auspicious passage, dragon line rails that once spanned Creation’s geomancy, distant starspires, and more.
@@ -25,6 +29,10 @@ Harbingers can divine destiny’s plans for journeys and make Mercury’s sign t
 # Caste Abilities
 
 Resistance, Ride, Sail, Survival, Thrown. 
+
+# Experience Trigger
+
+Solving significant problems through the path of least resistance; traversing hostile environments or enduring severe harm for a Major or Defining Intimacy’s sake; upholding Major or Defining Intimacies by seeking out new experiences; guiding others through unfamiliar territory — literal or figurative — in furtherance of her or her Circle’s goals.
 
 # Associations
 

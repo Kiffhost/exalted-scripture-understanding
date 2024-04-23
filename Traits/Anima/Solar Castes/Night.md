@@ -1,6 +1,7 @@
 ---
 tags:
   - Anima
+  - Solar
 ---
 Darkness seems welcoming to those who cannot abide the Sun’s light. The night is home to many threats, from thieves and murderers to outcast gods and the walking dead. Some think themselves safe, for the eyes of the Sun are not upon them. They are wrong. The Solars of the Night Caste are the hidden hands of the Unconquered Sun—they fight the enemies of righteousness on their foes’ terms, using the arts of spycraft and assassination to bring their quarry low. While some might think their methods unsavory, the Iron Wolves know they’re simply doing what must be done. 
 
@@ -37,6 +38,6 @@ Hidden Suns, Concealing Shadows, Nightbringers, Iron Wolves, the Daggers of Heav
 
 Cat burglar, escaped fugitive, bounty hunter, nobleman’s mistress, confidence man, vigilante hero, neglected youngest sister, smuggler, former prostitute, spy extraordinaire, underworld kingpin, assassin, highwayman, acrobat.
 
-# Solar Experience Trigger
+# Experience Trigger
 
 Removing a major impediment to the character’s or Circle’s goals through assassination, blackmail, or other underhanded means; stealing something that directly furthers the character’s or Circle’s goals; gaining a significant advantage over a dangerous enemy through infiltration or stealth; upholding or protecting a Major or Defining Principle through “criminal” means (larcenous association, robbery, poisoning, and so forth).

@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon-Blooded
+---
 Air is the breath of Creation, all-encompassing and ever-present. It’s the subtlest of the elements, unseen and untouchable. It can be felt but never grasped. Yet those who overlook the air that surrounds them are fools. Its wrath may strike swiftly, the tempest and the thunderbolt, or it can kill slowly, the wind that scatters sands and the chill that leeches away heat.
 
 Exalting as an Air Aspect often leads a Dragon-Blood to take on a new perspective. Her thoughts turn from mundane details to lofty thoughts, seeing Creation with a bird’s-eye view. She eschews conventional wisdom to pursue grand dreams and high-minded idealism, forsaking the obvious for the subtle and the inspired. Short-term goals become trivial and unimportant in her estimation, as she focuses on what her actions may accomplish in the long run.
@@ -32,7 +36,7 @@ Children of Mela, Azure Dragons, Tempestuous Knives.
 
 Renowned savant, idealistic monk, visionary senator, criminal mastermind, military philosopher, seeker of forbidden wisdom, political puppetmaster, languid dreamer, earnest bureaucrat.
 
-# Dragon-Blooded Experience Bonus
+# Experience Trigger
 
 Accomplishing a long-term plan that upholds a Major or Defining Intimacy; uncovering knowledge through study or subterfuge that furthers the character’s or an ally’s goals; solving a significant problem through the application of knowledge; guiding an ally in using his talents or abilities to advance his or the Dragon-Blood’s goals.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Lunar
+---
 The moon’s brilliance shifts as it wanes and waxes, showing a different face each night. Ephemeral moonlight fascinates and enraptures the unwary, promising mystery and denying revelation. Luna’s Tricksters take their divine patron’s lessons to heart, triumphing over enemies with honeyed tongues, magnetic personalities, and mysterious duplicity.
 
 The Changing Moons are silver-tongued devils, beautiful seducers, inspiring warlords, and sly charlatans. They slip unnoticed through tightly guarded checkpoints in the skins of trusted couriers or animals beneath sentries’ notice, infiltrate enemies’ courts wearing faces stolen from confidantes and conspirators, and whisper into the ears of princes and tyrants in the guises of trusted advisors, beloved spouses, or favored children. Few can match their cunning, ingenuity, or charm, and many have fallen prey to their tricks without ever realizing it.
@@ -24,6 +28,10 @@ Cunning tricksters, the Changing Moons’ animas lend captivating allure, cloak 
 # Caste Attributes
 
 Changing Moons rely on social graces, choosing Caste Attributes from Charisma, Manipulation and Appearance. 
+
+# Experience Trigger
+
+Learning something that helps advance a Major or Defining Intimacy; banishing, binding, purifying, or curing a dangerous supernatural force; creating a lasting and meaningful work of magic, like an artifact or sorcerous working; resolving a meaningful dispute or conflict between mortals and the supernatural.
 
 # Associations
 

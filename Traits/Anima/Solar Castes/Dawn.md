@@ -1,6 +1,7 @@
 ---
 tags:
   - Anima
+  - Solar
 ---
 The darkness quails and cowers as the sun’s first rays illuminate the world. The scuttling horrors of the night flee in the face of the dawn, retreating to those few places its light doesn’t touch. This will not save them from the Dawn Caste, whose arrows, blades, and fists are as relentless as the rising sun. Peerless warriors one and all, these Solars exemplify martial might, taking battle with them wherever they go. They leave behind fields soaked with the blood of their enemies, red as sunrise. 
 
@@ -39,8 +40,6 @@ Ascending Suns, Children of the Dawn, Lightbringers, Spears of Morning, Swords o
 
 Bodyguard, genius tactician, city guardsman, wandering swordsman, barbarian warlord, repentant brigand, martial monk, former slave gladiator, veteran soldier, daring young farm girl, swordsmith, arena brawler.
 
-
-
-# Solar Experience Trigger
+# Experience Trigger
 
 Defeating a powerful enemy, defending a vulnerable Circlemate through skill of arms, using martial prowess to directly advance a Major or Defining Principle, or using martial prowess to directly protect a Major or Defining Tie.

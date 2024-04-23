@@ -1,3 +1,7 @@
+---
+tags:
+  - Dragon-Blooded
+---
 Wood is the life of Creation, that which changes in the bloom of birth or the rot of death. It lives, grows, and dies to make way for new growth, the only element that undergoes the cycle of life and death. Wood is life-sustaining, nourishing man and beast with fruits and grain. Wood is life-ending, its thorns dripping with deadly poison. The five elements are intricately interwoven, and wood is that which unites them. It lays its roots in the earth and draws nourishment from water, air, and the light of the fiery sun, bringing them together as it reaches full bloom. 
 
 To Exalt as a Wood Aspect is to blossom with sensuality, developing a newfound appreciation for each and every experience. This need not be hedonistic or lascivious (though it certainly can be). There’s as much satisfaction to be had in the profound epiphany of spiritual enlightenment or the exhilaration of feeling a hated foe’s blood splatter against one’s face as there is in banquets, wine, or sex. Every experience and sensation is an opportunity for growth and self-discovery, if only one will take the time to properly notice it.
@@ -36,7 +40,7 @@ Children of Sextes Jylis, Emerald Dragons, Ashen Bows.
 
 Master healer, cunning courtier, traveling performer, assassin, Immaculate inquisitor, explorer, worldly epicure, woodland outlaw, meticulous merchant prince.
 
-# Dragon-Blooded Experience Bonus
+# Experience Trigger
 
 Learning something from firsthand experience that helps advance or protect a Major or Defining Tie; navigating geographical obstacles or curing dangerous ailments preventing the character or an ally from achieving a significant goal; upholding a Major or Defining Intimacy by pursuing a new experience; helping an ally cultivate a strength or remedy a weakness in a way that grants a significant advantage.
 

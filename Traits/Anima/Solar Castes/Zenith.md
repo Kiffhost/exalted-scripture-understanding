@@ -1,6 +1,7 @@
 ---
 tags:
   - Anima
+  - Solar
 ---
 The noonday sun hangs high over Creation, its glory visible to all who walk in the light. In its sight, there can be no shadow—only endless radiance. So it is with the Solars of the Zenith Caste, heroes chosen to exemplify the Sun’s divine authority. These priest-kings are masters of oratory, but their actions speak even louder than their words— lesser priests might be satisfied with delivering sermons, but the Resplendent Suns let their faith shine through in their deeds as well. Virtue is the Zeniths’ duty, and they do not shirk it.
 
@@ -39,6 +40,6 @@ Resplendent Suns, the Unyielding, Pillars of the Sun, Hammers of Heaven, Golden 
 
 Firebrand revolutionary, master orator, two-fisted laborer, village chief, wandering mendicant, peasant rebel, itinerant physician, former priest or shaman of another god, inspirational artist, runaway slave, hermit, musician.
 
-# Solar Experience Trigger
+# Experience Trigger
 
 Inspiring others to uphold one of your Major or Defining Principles in a significant way, enduring great hardship in the name of a Major or Defining Intimacy, accomplishing a great deed that furthers a Major or Defining Principle, or creating, defending, or advancing the fortunes of some edifice or institution that expresses or furthers a Major or Defining Principle.

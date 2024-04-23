@@ -51,9 +51,3 @@ More common and less powerful. Do not suffer from Limit.
 Wield the *elemental*, *grounded* powers of the Elemental Dragons.
 Unique powers in harnessing Air, Earth, Fire, Water and Wood.
 Most common in the heartlands of Creation, such as the Blessed Isle.
-
-# Merits
-
-# Intimacies 
-
-# Bonus Points

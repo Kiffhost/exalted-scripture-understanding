@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Character Creation/START HERE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,8 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8bfc027a716fc822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progress Tracker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f7904c8ba275ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits/Anima/Lunar Castes/Casteless.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,34 +225,34 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "0f38d5ec18f84e10",
+  "active": "8bfc027a716fc822",
   "lastOpenFiles": [
-    "Items/Hearthstones/Abyssal/Stone of Hatred.md",
-    "Items/Hearthstones/Abyssal/Blood-Drinking Jewel.md",
-    "Items/Hearthstones/Abyssal/Gem of Ghostly Protection.md",
-    "Items/Hearthstones/Abyssal/Walking Corpse Stone.md",
-    "Items/Hearthstones/Abyssal/Stone of the Nightly Reunion.md",
-    "Charms/Charm Keywords.md",
-    "Items/Hearthstones/Lunar/Mount-and-Rider Onyx.md",
-    "Items/Hearthstones/Lunar/Beast Gem.md",
-    "Items/Hearthstones/Lunar/Chameleon Stone.md",
-    "Items/Hearthstones/Sidereal/Stone of One Voice.md",
-    "Items/Hearthstones/Sidereal/Exorcist’s Jewel.md",
-    "Items/Hearthstones/Lunar/Twin Crescent Stone.md",
-    "Items/Hearthstones/Lunar/Key to the Dream Palace.md",
-    "Items/Hearthstones/Solar/Key of Mastery.md",
-    "Items/Hearthstones/Solar/Jewel of Hero’s Panoply.md",
-    "Items/Hearthstones/Solar/Jewel of the Shining Heart.md",
-    "Items/Hearthstones/Wood/Stone of Resilient Bamboo.md",
-    "Items/Hearthstones/Wood/Faerie-Ring Jewel.md",
-    "Items/Hearthstones/Water/Fighting-the-Tide Gemstone.md",
-    "Items/Hearthstones/Water/Sapphire Duck Stone.md",
-    "Items/Hearthstones/Fire/Gem of Perfect Mobility.md",
-    "Items/Hearthstones/Water/Stone of Aquatic Prowess.md",
-    "Items/Hearthstones/Fire/Ardor-Igniting Gemstone.md",
-    "Items/Hearthstones/Wood/Ivy-Hilt Gemstone.md",
-    "Items/Hearthstones/Water/Stone of the Vanisher.md",
-    "Items/Hearthstones/Fire/Trance-Scorching Sardonyx.md",
+    "Character Advancement.md",
+    "Character Creation/Sidereal Exalted.md",
+    "^1.md",
+    "Traits/Anima/Sidereal Castes/Chosen of Endings.md",
+    "Traits/Anima/Sidereal Castes/Chosen of Secrets.md",
+    "Traits/Anima/Sidereal Castes/Chosen of Battles.md",
+    "Rules Reference/Strategic Maneuver.md",
+    "Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
+    "Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
+    "Traits/Anima/The Anima Banner.md",
+    "Traits/Anima/Dragon-Blooded Aspects/Air Aspect.md",
+    "Progress Tracker.md",
+    "Character Creation/START HERE.md",
+    "Traits/Anima/Solar Castes/Eclipse.md",
+    "Traits/Anima/Solar Castes/Night.md",
+    "Traits/Anima/Solar Castes/Twilight.md",
+    "Traits/Anima/Solar Castes/Zenith.md",
+    "Traits/Anima/Solar Castes/Dawn.md",
+    "Traits/Anima/Dragon-Blooded Aspects/Wood Aspect.md",
+    "Traits/Anima/Dragon-Blooded Aspects/Water Aspect.md",
+    "Traits/Anima/Dragon-Blooded Aspects/Fire Aspect.md",
+    "Traits/Anima/Dragon-Blooded Aspects/Earth Aspect.md",
+    "Traits/Anima/Lunar Castes/Casteless.md",
+    "Traits/Anima/Lunar Castes/Changing Moon.md",
+    "Traits/Anima/Lunar Castes/No Moon.md",
+    "Traits/Anima/Lunar Castes/Full Moon.md",
     "Autogen/Untitled",
     "Items/Hearthstones/Sidereal",
     "Items/Hearthstones/Lunar",

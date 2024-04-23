@@ -1,3 +1,7 @@
+---
+tags:
+  - Sidereal
+---
 Stern Mars, the Maiden of Battles, oversees all fated strife: clashing armies, political rivals vying for supremacy, words spoken in anger between young lovers. All conflicts fall under her Chosen’s remit, a duty that calls them to battlefields and boudoirs, alehouses and courtrooms. Heaven’s Soldiers incite hostility and discord when peace outlasts its appointed span, lend their skill at arms and strategy to destined victors, and thwart untimely resolutions to necessary conflicts. Destiny demands their intervention in battles great and small, whether plunging kingdoms into war or teaching a child how to fight back against a bully.
 
 The First Age’s Shieldbearers devoted themselves to Creation’s defense, driving back otherworldly incursions, hunting down terrors that slipped past their watch, and sowing discord among fate’s enemies: playing the Scorpion Empire against the Southern Fair Folk in the Split-Second War, outwitting the thinking-engine Jazex IX’s betrayal of Heaven, holding the Loom of Fate against the Omen-Spore Infestation. They led armies of martial gods to battle, counseled their fellow Exalted in strategy, and coordinated deployments of the Aerial Legion with the Old Realm’s forces. When complacency and world-weariness bred stagnation, Mars’ Chosen provoked their fellow Chosen to action with blunt words, harsh truths, and sound counsel.
@@ -25,6 +29,10 @@ Shieldbearers can divine destiny’s plans for conflict or make Mars’ sign to 
 # Caste Abilities
 
 Archery, Brawl, Melee, Presence, War. 
+
+# Experience Trigger
+
+Inciting violent conflicts in furtherance of her or her Circle’s goals; gaining a tactical advantage that can benefit a [[Strategic Warfare|Strategic Maneuver]] roll; training soldiers or stockpiling materiel in preparation for significant battles; inspiring others to uphold Major or Defining Intimacies through violence or forceful argument.
 
 # Associations
 

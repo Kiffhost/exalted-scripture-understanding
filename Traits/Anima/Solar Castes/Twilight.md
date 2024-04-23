@@ -1,6 +1,7 @@
 ---
 tags:
   - Anima
+  - Solar
 ---
 The proud institutions of the First Age lie in ruins, and knowledge is the province of an exclusive few. In this fallen world, a man can live and die knowing of nothing beyond his meager village. To the Solars of the Twilight Caste, this state of affairs is unacceptable—as scholars, craftsmen and sorcerers, it is their duty to carry the light of learning into the darkness of ignorance. They are among mankind’s most brilliant minds, and they are not content to spend their lives in a library, sanctum, or workshop—they need to be out in the world, putting their learning to use.
 
@@ -38,6 +39,6 @@ Descending Suns, Children of Twilight, Copper Spiders, Arrows of Heaven, Solar L
 
 Radical scholar, destitute student, master geomancer, child prodigy, architect, cunning tailor, blacksmith, demonologist, relentless detective, court astrologer, young scavenger lord, master chef, village wise woman.
 
-# Solar Experience Trigger
+# Experience Trigger
 
 Learning lost lore of the First Age or similarly valuable knowledge, learning something that helps advance or protect a Major or Defining Intimacy, discovering a supernatural being’s mystic secrets (such as a ghost’s lingering passions, the obsession that drives a demon’s nature, or an ancient oath that still binds one of the Fair Folk), solving a significant problem or crisis through the application of knowledge or through education, or creating a lasting and meaningful work of mystical power in the world (such as forging a sorcerous working or artifact, or binding a demon to protect a valley until the end of the age).

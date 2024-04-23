@@ -1,3 +1,7 @@
+---
+tags:
+  - Lunar
+---
 The moon turns its face away, plunging Creation into deep darkness that teems with inscrutable mysteries. None can say where its light falls on the night of the new moon; does it illumine the Wyld that laps at Creation’s edge, or the invisible world of spirits? Luna’s Shamans are seekers of knowledge, uncovering wisdom hidden by the night and traveling beyond the world to learn the secrets of spirits and monsters. 
 
 No Moons are lorekeepers and storytellers who learn and pass on the collective wisdom of both mortal societies and the Silver Pact, as well as mystics and shamans who intercede with gods, demons, and stranger things on humanity’s behalf. They travel Creation and beyond on hooves, wings, or fins borrowed from countless beasts, offer guidance to chieftains and princes in the guise of trusted advisors or wandering wise women, and petition gods with the voices of their favored priests. 
@@ -21,6 +25,10 @@ Mystics and witches, the No Moons’ anima lets them shroud themselves in shadow
 # Caste Attributes
 
 No Moons excel in mental acumen, choosing Caste Attributes from Perception, Intelligence, and Wits. 
+
+# Experience Trigger
+
+Inflicting a significant setback or defeat on an adversary by influencing him or those around him; exploiting a cultural tradition or legal system to support a Major or Defining Intimacy; advancing her or her Circle’s goals by fundamentally changing or teaching a significant lesson to a culture; accomplishing a major character or story goal by solving a problem she created.
 
 # Associations
 

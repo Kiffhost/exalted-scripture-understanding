@@ -35,7 +35,7 @@ In return, they do not have to meet trait minimums for their Charms.
 Divide 28 dots among your abilities.
 Maximum of 3 dots per ability (before bonus points are applied).
 
-Choose 4 *Specialties*.
+Choose 4 [[Specialty|Specialties]].
 *Some Exigents may* receive additional specific specialties relating to particular extensive training.
 # Merits
 
@@ -48,6 +48,8 @@ Assign up to 10 dots to [[Merits]].
 Some Merits *may* make different options for charms available:
 - [[Artifact]] *may* allow Evocations.
 - [[Martial Artist]] *may* allow Martial Arts Styles and Charms.
+
+All Exalted gain [[Exalted Healing]] for free.
 
 Optionally take [[Flaws]] for additional experience triggers during play.
 # Charms
