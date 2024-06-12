@@ -1,6 +1,6 @@
 ---
 tags:
-  - rule
+  - reference
 ---
 # Melee Weapon Tags
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 3m, 2i
 Mins: Essence 3
 Type: Reflexive

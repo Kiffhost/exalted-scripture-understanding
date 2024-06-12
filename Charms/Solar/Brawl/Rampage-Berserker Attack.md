@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 7m, 3i, 1wp
 Mins: Brawl 5, Essence 4
 Type: Simple

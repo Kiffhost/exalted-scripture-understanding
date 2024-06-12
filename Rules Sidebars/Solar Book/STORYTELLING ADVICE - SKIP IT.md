@@ -1,1 +1,5 @@
+---
+tags:
+  - source/solar-book
+---
 We offer one final word of advice about the combat rules: sometimes you should ignore them. In some situations, breaking into a detailed blow-by-blow battle would slow things down rather than spicing the game up. For example: Six months into an ongoing chronicle, a mighty Dawn Caste warrior wielding a formidable artifact weapon comes upon an inexperienced sentry walking the walls of a fortress the Solar is storming. Deciding there’s little doubt as to the fight’s outcome, the Storyteller decides to simply offer the Dawn’s player a chance to make a difficulty 2 (Dexterity + Melee) roll to dispatch her hapless and outmatched foe before he is able to raise an alarm. Alternately, if an infiltrating Night Caste wants to sneak up on a patrolling mortal house guard and knock him out with a sap or headlock, a simple (Dexterity + [Brawl, Melee, or Martial Arts]) roll will probably take care of the problem. If he wants to knock out Octavian, the Living Tower… that’s a job for the combat engine. Ultimately, when to skip over combat is up to the judgment of the Storyteller

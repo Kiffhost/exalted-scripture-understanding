@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 3m, 1wp and 1m per damage die
 Mins: Archery 5, Essence 5
 Type: Simple

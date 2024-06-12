@@ -3,6 +3,7 @@ tags:
   - object
   - Artifact
   - Ship
+  - source/arms-book
 Material: Orichalcum
 Dots: §4
 Type: Warship

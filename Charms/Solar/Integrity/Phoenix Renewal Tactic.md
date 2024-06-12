@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —(Varies)
 Mins: Integrity 5, Essence 2
 Type: Permanent

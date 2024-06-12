@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 2m, 1i
 Mins: Essence 1
 Type: Reflexive
@@ -10,7 +11,7 @@ Keywords:
   - Uniform
 Duration: Instant
 Prerequisite Charms:
-  -  None
+  - None
 ---
 Five Edicts Dominion rebukes those who lack the strength to pierce it, channeling dead gods’ whispers to speak an incomprehensible word — one lost to all languages, but universally understood as a command to kneel. When the wearer is hit by an attack but takes no damage, she may use this Evocation to knock her attacker prone as an invisible weight forces him to his knees. She gains a Minor Tie of contempt for her attacker, or strengthens such an Intimacy by one step if she already has one. 
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Grapple
+tags:
+  - source/solar-book
 ---
 Grapples are initiated through a [[Attack#Gambit#Grapple|grapple gambit]]. Upon succeeding at the [[Attack#Gambit|gambit]], the grappler makes a [[#control roll]], which determines how long she can keep the grapple locked on. These *rounds of control* are used to take further actions within the grapple.
 

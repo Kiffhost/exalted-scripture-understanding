@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Opponents fighting from horseback (or from atop any similarly-sized mount) enjoy a number of advantages and a few disadvantages over combatants on foot. 
 
 # Movement

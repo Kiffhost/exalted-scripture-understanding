@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 3m
 Mins: Socialize 4, Essence 1
 Type: Reflexive

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Concealment
+tags:
+  - source/solar-book
 ---
 Stealth is a powerful advantage in battle, affording the opportunity to strike when an opponent least expects it, or when he doesn’t realize he’s in danger at all. 
 

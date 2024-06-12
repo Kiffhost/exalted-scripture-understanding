@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —
 Mins: Performance 4, Essence 2
 Type: Permanent

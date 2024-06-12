@@ -3,6 +3,7 @@ tags:
   - object
   - Artifact
   - Ship
+  - source/solar-book
 Dots: 4
 Attunement: 7m
 ---

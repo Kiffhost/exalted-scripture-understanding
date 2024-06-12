@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m
 Mins: Larceny 2, Essence 1
 Type: Supplemental

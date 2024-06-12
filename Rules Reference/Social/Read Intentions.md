@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/social
+  - source/solar-book
 ---
 The read intentions action allows a character to discern what another character wants to achieve in a scene of interaction. Reading someone’s intentions is not an [[Social Influence#Influence roll|influence roll]]—instead, it is a (Perception + Socialize) roll against the target’s [[Guile]]. On a success, the Storyteller should give a brief description of what the character wants out of the interaction: “He’s seducing you to get you alone,” or “She’s making polite small talk and waiting for this party to end.”
 

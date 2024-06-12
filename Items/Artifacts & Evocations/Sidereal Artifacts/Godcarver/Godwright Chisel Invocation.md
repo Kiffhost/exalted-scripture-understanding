@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: 20m, 1wp
 Mins: Essence 5
 Type: Simple

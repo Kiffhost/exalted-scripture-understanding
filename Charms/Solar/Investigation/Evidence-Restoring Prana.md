@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —(6m)
 Mins: Investigation 5, Essence 3
 Type: Reflexive

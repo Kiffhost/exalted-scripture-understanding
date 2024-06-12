@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4m, 1wp
 Mins: Martial Arts 4, Essence 2
 Type: Reflexive

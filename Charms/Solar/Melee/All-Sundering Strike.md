@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 3m, 1wp
 Mins: Melee 5, Essence 3
 Type: Supplemental

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: —
 Mins: Larceny 3, Essence 2;
 Type: Permanent

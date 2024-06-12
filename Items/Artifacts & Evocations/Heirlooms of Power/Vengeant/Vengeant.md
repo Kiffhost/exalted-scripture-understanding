@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/dragon-book
 WeaponType:
   - Razor Claws
 Material: Black Jade

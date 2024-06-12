@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
   - Bashing

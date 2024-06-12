@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: 2m, 1wp
 Mins: Martial Arts 3, Essence 1
 Type: Simple

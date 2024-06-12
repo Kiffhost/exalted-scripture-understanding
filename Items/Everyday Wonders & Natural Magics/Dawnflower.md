@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/arms-book
 Cost: Resources ••• in the far East, •••• elsewhere
 ---
 This golden blossom — also called firstflower or eastern gift — is said by Ixcoatli merchants to come from a single mile-high tree that’s the first thing touched each morning by the rising sun’s rays. It is difficult to procure even in the far East, and rarer still in more distant lands. Fresh dawnflower withers before it can be brought back to civilization, but even dried, it holds mystical potency. 

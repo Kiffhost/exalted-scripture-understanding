@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 10m, 1wp (+1m per round)
 Mins: Athletics 5, Essence 5
 Type: Simple

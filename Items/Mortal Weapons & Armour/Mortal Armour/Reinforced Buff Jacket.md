@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/solar-book
 Type: Medium (Soak +5, Hardness 0, Mobility Penalty −1)
 ArmourTags:
   - Silent

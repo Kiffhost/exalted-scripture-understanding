@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/solar-book
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - Bashing

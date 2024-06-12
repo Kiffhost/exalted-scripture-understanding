@@ -1,6 +1,7 @@
 ---
 tags:
   - Sidereal
+  - source/sidereal-book
 ---
 Stern Mars, the Maiden of Battles, oversees all fated strife: clashing armies, political rivals vying for supremacy, words spoken in anger between young lovers. All conflicts fall under her Chosen’s remit, a duty that calls them to battlefields and boudoirs, alehouses and courtrooms. Heaven’s Soldiers incite hostility and discord when peace outlasts its appointed span, lend their skill at arms and strategy to destined victors, and thwart untimely resolutions to necessary conflicts. Destiny demands their intervention in battles great and small, whether plunging kingdoms into war or teaching a child how to fight back against a bully.
 

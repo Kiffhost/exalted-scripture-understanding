@@ -1,6 +1,7 @@
 ---
 tags:
   - Disease/supernatural
+  - source/solar-book
 Virulence: 4
 Morbidity: 3
 Interval: 1 week

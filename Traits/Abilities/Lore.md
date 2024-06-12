@@ -2,6 +2,7 @@
 tags:
   - trait
   - Ability/artifact
+  - source/solar-book
 ---
 **This Ability is necessary to create artifacts.** 
 

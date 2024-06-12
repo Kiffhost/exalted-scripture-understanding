@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 Duration: Session or Scene
 ---
 The Lunar’s hunger drowns out all else. Her player chooses a category of living creature — an animal species, all animals whose shapes she lacks, Dynasts, anything currently bleeding, etc. She’s driven to hunt her chosen prey and devour it thoroughly (killing it first is optional). If someone interferes with her hunt, she’ll violently subdue them. She can refrain from harming individuals toward whom she has positive Ties, but a Tie toward a group isn’t sufficient. The Storyteller can veto a choice if it wouldn’t be possible to encounter any creatures falling under it that session.

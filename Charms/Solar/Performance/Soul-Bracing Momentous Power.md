@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: Varies
 Mins: Performance 5, Essence 3
 Type: Reflexive

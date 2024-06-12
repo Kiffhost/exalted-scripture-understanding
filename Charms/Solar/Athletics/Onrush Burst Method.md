@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —
 Mins: Athletics 3, Essence 2
 Type: Permanent

@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 Type: Heavy (+14 DMG, OVW 5)
 WeaponTags:
   - Lethal

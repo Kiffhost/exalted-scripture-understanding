@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m per die or success
 Mins: Melee 3, Essence 1
 Type: Supplemental

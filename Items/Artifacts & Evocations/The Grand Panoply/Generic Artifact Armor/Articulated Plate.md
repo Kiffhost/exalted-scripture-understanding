@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmourTags:
   - None
 Attunement: 6m

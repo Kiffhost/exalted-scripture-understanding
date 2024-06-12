@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Once Charms get into play, a character’s Initiative value can bounce up and down very quickly during a round. What if a character who has not yet taken her turn suddenly gains a great deal of Initiative, and finds herself with a higher Initiative value than other characters who have already taken their turns? What if this Initiative value is higher than the current tick the round is moving through? 
 
 Characters cannot be forced to miss out on taking a turn during a round because of situations like this. If a character’s Initiative suddenly changes in such a way that it indicates she should have already taken her turn, she takes her turn on the following tick. 

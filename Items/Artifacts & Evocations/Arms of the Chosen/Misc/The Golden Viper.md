@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Dots: §5
 ---
 With arts lost to time, the First Age’s mighty sorcererartisans breathed life into inanimate matter, creating a bewildering menagerie of clockwork creatures to act as servants, companions, ornaments, and weapons. Second Age artificers have sought to replicate these miracles, crafting golems, homunculi, and simulacra animated by Essence or bound spirits, but these automatons are either of animalistic intelligence or dangerously free-willed. Of those few sapient automata to survive into the Time of Tumult, the Golden Viper may be the most notorious. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/solar-book
 Type: Light (+7 DMG, OVW 1)
 WeaponTags:
   - Lethal

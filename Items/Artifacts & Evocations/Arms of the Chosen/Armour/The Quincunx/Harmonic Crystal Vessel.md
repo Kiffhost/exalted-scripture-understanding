@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 3m, 1i
 Mins: Essence 1
 Type: Supplemental

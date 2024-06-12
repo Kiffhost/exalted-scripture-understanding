@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
   - Lethal

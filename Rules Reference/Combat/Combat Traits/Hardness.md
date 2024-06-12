@@ -1,6 +1,7 @@
 ---
 tags:
   - trait/combat
+  - source/solar-book
 ---
 Hardness is a static value trait gained from Charms or magical armour. It represents some degree of supernatural invulnerability.
 

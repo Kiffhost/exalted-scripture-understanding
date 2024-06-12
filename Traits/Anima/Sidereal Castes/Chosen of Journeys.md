@@ -1,6 +1,7 @@
 ---
 tags:
   - Sidereal
+  - source/sidereal-book
 ---
 Light-footed Mercury, Maiden of Journeys, sees every path that could be taken and knows what lies at their ends. It is her Chosen’s duty to ensure that all things go where Heaven wills them. Her Harbingers are the invisible hand on the ship’s till, the rider whose message comes just in time, the guide who knows the secret ways through the wilderness. When uncertainty, fear, or distraction keep travelers from their destined paths, Mercury’s Chosen guide them back on course; when obstacles stand in his way, they intercede to remove them.
 

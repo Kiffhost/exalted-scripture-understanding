@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 4m
 Mins: Essence 1
 Type: Reflexive
@@ -11,7 +12,7 @@ Keywords:
   - Resonant
 Duration: Instant
 Prerequisite Charms:
-  -  None
+  - None
 ---
 The Distaff’s threads are quick to catch at enemy limbs and blades. This Evocation allows the wielder to make a disarm or grapple gambit as a counterattack, after the attack is rolled but before damage is rolled. This doesn’t count as her combat action for the round. 
 

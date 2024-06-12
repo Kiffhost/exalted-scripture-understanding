@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 10m, 1wp
 Mins: Craft 5, Essence 4
 Type: Reflexive

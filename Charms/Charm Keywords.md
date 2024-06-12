@@ -1,3 +1,7 @@
+---
+tags:
+  - reference
+---
 Keywords are used to quickly and easily denote that a Charm is using a special rule, or belongs to a particular category that other effects may interact with. A list of keywords follows:
 
 # Solar

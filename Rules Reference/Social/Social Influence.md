@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 In Exalted, the words of prophets, courtiers, and princes carry as much power as a warrior’s sword or a sorcerer’s magic. Social influence is the system used for resolving interactions in which characters attempt to manipulate, persuade, or coerce each other. With the social actions listed below, characters can gain the trust of others and then use that to influence them, changing or shaping their beliefs over the course of a conversation, oration, or artistic performance.
 # Overview
 Social influence in Exalted revolves around [[Intimacy|Intimacies]]. In terms of gameplay, you’re either going to be *influencing someone’s outlook* (by creating, destroying, strengthening, or weakening Intimacies), or using Intimacies to *persuade someone to do what you want*. Intimacies are the core of this system.

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m
 Mins: Archery 5, Essence 5
 Type: Supplemental

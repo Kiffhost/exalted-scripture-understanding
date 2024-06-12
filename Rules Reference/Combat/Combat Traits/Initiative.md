@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Initiative is a very important element of combat. Initiative may be increased by [[Attack#withering|withering attacks]], and spent on Charms and [[Attack#decisive|decisive attacks]]. Starting initiative is determined each combat by a [[Join Battle]] roll.
 
 There is no upper or lower limit on Initiative. A character of initiative of 0 or below is in a vulnerable state called [[#Initiative Crash]]. 

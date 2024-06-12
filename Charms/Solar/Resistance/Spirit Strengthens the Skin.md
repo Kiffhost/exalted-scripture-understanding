@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m per damage die removed
 Mins: Resistance 2, Essence 1
 Type: Reflexive

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Sail is a bit of an odd Ability—it’s generally either central to a chronicle or not used at all. The following rules and guidelines exist to add excitement and drama to a sailing-centric chronicle, such as tales of piracy and naval conquest among the Western archipelagos or the Dreaming Sea, or trade, travel, piracy, and war along the great rivers of the near East. If you’re going to run or play in a game focusing on palace intrigues, greedy merchants, and scheming sorcerers in a shining city deep in the Southern desert, you can probably skip this section.
 # Sailing Rules
 For the most part, sailing works like any other Ability—a player wants to do something and the Storyteller asks for an (Attribute + Ability) roll and sets a difficulty. (Intelligence + Sail) might be used to gauge the weather and tides, while (Wits + Sail) might be used to navigate through treacherous rocks. In addition, the quality and nature of your ship has a significant impact on your rolls, adding modifiers in many situations.

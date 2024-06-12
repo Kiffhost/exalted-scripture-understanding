@@ -1,6 +1,7 @@
 ---
 tags:
   - trait
+  - source/solar-book
 aliases:
   - Health
   - Health Levels

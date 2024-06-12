@@ -3,6 +3,7 @@ tags:
   - object
   - Artifact
   - unique
+  - source/dragon-book
 WeaponType:
   - Grand Goremaul
 Material: White Jade

@@ -1,6 +1,7 @@
 ---
 tags:
   - trait
+  - source/solar-book
 ---
 Exaltation instills a mortal soul with the power of the gods, opening the recipient’s eyes to the energies within. This Essence grants an Exalt power, and as the Chosen grow in power and enlightenment, so too does the Essence within them. As they perfect and purify their inner might, they can accomplish ever greater feats. Your character’s Essence rating represents both the cultivation of her Essence, and her overall level of Exalted prowess. All Exalted begin with an Essence rating of one dot. **Essence rating is one of two main prerequisites for your character’s Charms—as her Essence rating increases, she can purchase more powerful Charms.** Additionally, Essence rating helps determine the capacity of her Essence pools. 
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 1v per point of penalty, 1wp
 Mins: Essence 3
 Type: Reflexive

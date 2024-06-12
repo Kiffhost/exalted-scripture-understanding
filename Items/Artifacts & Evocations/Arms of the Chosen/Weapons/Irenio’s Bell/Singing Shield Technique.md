@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —(2v per round)
 Mins: Essence 3
 Type: Permanent

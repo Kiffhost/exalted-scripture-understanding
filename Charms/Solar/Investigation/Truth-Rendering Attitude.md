@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 3m
 Mins: Investigation 4, Essence 2
 Type: Simple

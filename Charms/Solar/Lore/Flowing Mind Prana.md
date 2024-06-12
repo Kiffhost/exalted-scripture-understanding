@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1xp+
 Mins: Lore 5, Essence 1
 Type: Simple

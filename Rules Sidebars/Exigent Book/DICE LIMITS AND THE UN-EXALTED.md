@@ -1,3 +1,7 @@
+---
+tags:
+  - source/exigent-book
+---
 Many Charms allow one character to add bonuses to a roll made by another. This isn’t a problem when that other character is Exalted — they all have their own intrinsic limits on how many bonus dice they can add to a roll. This isn’t the case when it comes to mortal allies, animal familiars, summoned demons, or the countless other un-Exalted characters in Creation. Some powerful supernatural beings, like the war-god Ahlat (Exalted, p. 514) and the demon Octavian (Exalted, p. 530) have their own magic that’s capable of adding dice or automatic successes to their rolls. For such characters, you can apply whatever limit those Charms specify to any magic that adds bonuses to those character’s rolls. 
 
 For characters without such magic, the following table provides guidelines based on Quick Character traits. The “powerful supernatural” column provides dice limits for puissant beings such as Second Circle Demons, Fair Folk nobles, and major gods; the “weak supernatural” column provides dice limits for lesser beings such as First Circle demons, God-Blooded, and most ghosts; the “mortal” column provides dice limits for mortals, animals, and other non-magical creatures. 

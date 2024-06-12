@@ -1,6 +1,7 @@
 ---
 tags:
   - sorcery
+  - source/solar-book
 Cost: Ritual, 4wp
 Keywords:
   - None

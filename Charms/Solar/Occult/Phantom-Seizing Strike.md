@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m, 1wp
 Mins: Occult 4, Essence 1
 Type: Reflexive

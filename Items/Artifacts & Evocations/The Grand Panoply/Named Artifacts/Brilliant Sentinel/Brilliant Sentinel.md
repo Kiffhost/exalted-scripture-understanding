@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmourType: Heavy Plate
 Material: Orichalcum
 ArmourTags:

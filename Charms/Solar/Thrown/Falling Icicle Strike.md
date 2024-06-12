@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 6m
 Mins: Thrown 5, Essence 3
 Type: Supplemental

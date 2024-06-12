@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/lunar-book
 WeaponType:
   - Infinite Chakram
 Material: Moonsilver

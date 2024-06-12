@@ -1,6 +1,7 @@
 ---
 tags:
   - Stratagem/naval
+  - source/solar-book
 Cost: 12 Momentum
 Roll:
   - "[[Sail]]"

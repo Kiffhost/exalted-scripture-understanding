@@ -1,6 +1,7 @@
 ---
 tags:
   - Solar
+  - source/solar-book
 Duration: Session
 ---
 The Solar is filled with rampant greed, no longer willing to let anything come between him and what he wants.

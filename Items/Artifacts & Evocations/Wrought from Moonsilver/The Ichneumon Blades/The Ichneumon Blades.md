@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/lunar-book
 WeaponType:
   - Slayer Khatars
 Material: Moonsilver

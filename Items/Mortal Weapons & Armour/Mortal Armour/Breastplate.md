@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/solar-book
 Type: Light (Soak +3, Hardness 0, Mobility Penalty 0)
 ArmourTags:
   - None

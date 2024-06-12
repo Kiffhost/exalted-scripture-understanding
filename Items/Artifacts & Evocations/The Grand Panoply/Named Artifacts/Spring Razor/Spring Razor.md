@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 WeaponType:
   - Daiklave
 Material: Green Jade

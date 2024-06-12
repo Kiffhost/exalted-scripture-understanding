@@ -1,6 +1,7 @@
 ---
 tags:
   - trait/social
+  - source/solar-book
 aliases:
   - Tie
   - Principle

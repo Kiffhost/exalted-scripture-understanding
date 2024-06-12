@@ -1,6 +1,7 @@
 ---
 tags:
   - Sidereal
+  - source/sidereal-book
 ---
 Grim Saturn sees every possible ending, smiling only when they come to pass at their appointed hour. Her Chosen ensure these endings come to pass only as Heaven wills. They are assassins of those who defy their destined deaths, exorcists and psychopomps guiding the undead to reincarnation within fate’s order, magistrates purging institutional corruption, and physicians battling plagues. But their sobriquet as Destiny’s Gardeners isn’t just a euphemism. They’re guardians, healers, and caretakers as often as they are killers, lest an untimely ending snarl destiny. The tapestry of fate is Heaven’s garden, and it must be nourished and pruned in equal measure.
 

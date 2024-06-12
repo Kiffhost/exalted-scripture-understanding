@@ -1,1 +1,5 @@
+---
+tags:
+  - source/solar-book
+---
 While a character may gain Talisman of Ten Thousand Eyes at character creation by learning one of its shaping rituals, rather than investing dots in the Artifact background, it is still a four-dot artifact, as are any other relics of comparable sorcerous power. A character attempting to craft such a wonder must first design the perfect shape of a relic to channel mystical energies. This is an Ambition 1 working of the Celestial Circle. If the sorcerous working succeeds, the character may then begin crafting the artifact using the usual rules (p. 241), unlocking one of its shaping rituals for free upon completion. If the working fails, then the design is intrinsically flawed, and the sorcerer may not attempt to recreate it again without some source of inspiration for a new design.

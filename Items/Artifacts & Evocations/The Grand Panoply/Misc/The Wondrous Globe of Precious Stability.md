@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 Dots: 5
 Attunement: 5m or Hearthstone
 ---

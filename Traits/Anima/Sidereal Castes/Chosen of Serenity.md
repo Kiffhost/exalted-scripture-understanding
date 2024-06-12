@@ -1,6 +1,7 @@
 ---
 tags:
   - Sidereal
+  - source/sidereal-book
 ---
 When Venus laughs, all the world’s suffering seems worth it; when she weeps, all joy dies. The Maiden of Serenity oversees all forms of relationships and societies, and her Joybringers ensure that these unfold in accordance with Heaven’s agenda. Artists, diplomats, intriguers, artificers, and tempters, they undertake the delicate work of weaving the fates of those with free will. They unite or separate starcrossed lovers, bring peace in times of conflict, play kingmaker in matters of politics and commerce, shape societies, and safeguard Creation’s peoples from suffering and sorrow.
 

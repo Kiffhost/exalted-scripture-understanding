@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 5m
 Mins: Bureaucracy 2, Essence 1
 Type: Simple

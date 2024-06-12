@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/dragon-book
 WeaponType:
   - Infinite Chakram
 Material: Blue Jade

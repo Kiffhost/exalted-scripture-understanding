@@ -1,7 +1,8 @@
 ---
 tags:
-    - object
-    - Artifact
+  - object
+  - Artifact
+  - source/arms-book
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 5)
 WeaponTags:
@@ -9,7 +10,7 @@ WeaponTags:
   - Melee
   - Balanced
 Hearthstone slots: 2
-Era: Unknown 
+Era: Unknown
 ---
 Also known as the Sword of Forgetfulness, this peculiar weapon’s provenance is lost to history. Its name is a watchword in the Second Age for the elusiveness of memory — for the joy and pain of remembrance and forgetfulness — but few know it exists as more than metaphor. Indeed, almost everything about it has been forgotten, and the rare few books and stories that describe its activities agree on little other than its mysterious nature, its power to destroy memories, and its habit of vanishing from mortal ken when its owner dies. Scholarly records of the weapon’s appearance are both cryptic and contradictory, ranging from “As gray as lost dreams” to “Of a golden hue so glorious as to transcend the unforgettable.” Facet Raven’s Twelve Murders in Meru, the most accessible First Age source, describes the Sword of Forgetfulness’ blade as pure starmetal — a fabulous extravagance — bonded to a cutting edge of jet-black soulsteel. But Twelve Murders in Meru is a work of fiction and therefore unreliable. 
  

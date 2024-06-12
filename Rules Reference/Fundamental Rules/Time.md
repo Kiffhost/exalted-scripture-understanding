@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Exalted has a several general measurements to describe the division of time within the game, progressing from the largest to the smallest unit: 
 # Chronicle
 A complete game focusing on a continuous series of characters or events. Similar to the full run of a television series or cycle of books. 

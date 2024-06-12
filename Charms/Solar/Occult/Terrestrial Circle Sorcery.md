@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —
 Mins: Occult 3, Essence 1
 Type: Permanent

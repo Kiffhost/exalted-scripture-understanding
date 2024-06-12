@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Material: Orichalcum and Moonsilver
 Dots: 3
 ---

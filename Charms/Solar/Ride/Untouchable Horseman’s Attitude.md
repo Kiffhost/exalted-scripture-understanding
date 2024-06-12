@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m, 2i, 1wp
 Mins: Ride 4, Essence 2
 Type: Reflexive

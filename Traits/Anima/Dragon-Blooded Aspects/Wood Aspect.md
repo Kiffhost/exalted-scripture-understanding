@@ -1,6 +1,7 @@
 ---
 tags:
   - Dragon-Blooded
+  - source/dragon-book
 ---
 Wood is the life of Creation, that which changes in the bloom of birth or the rot of death. It lives, grows, and dies to make way for new growth, the only element that undergoes the cycle of life and death. Wood is life-sustaining, nourishing man and beast with fruits and grain. Wood is life-ending, its thorns dripping with deadly poison. The five elements are intricately interwoven, and wood is that which unites them. It lays its roots in the earth and draws nourishment from water, air, and the light of the fiery sun, bringing them together as it reaches full bloom. 
 

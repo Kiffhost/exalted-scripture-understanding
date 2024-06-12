@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m
 Mins: Ride 4, Essence 2
 Type: Supplemental

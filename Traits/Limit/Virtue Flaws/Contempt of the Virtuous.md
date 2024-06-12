@@ -1,6 +1,7 @@
 ---
 tags:
   - Solar
+  - source/solar-book
 Duration: Session
 ---
 The Solar becomes unfalteringly sure in his own moral righteousness, and strives to correct the failings of those around him. If he sees another person engaging in immoderacy, indulgence, or dishonesty, he will strive to correct them, lecturing them on their failings. If his instruction is mocked or rejected, he may even turn to force in preventing them from sin.

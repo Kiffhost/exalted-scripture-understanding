@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 1m
 Mins: Melee 1, Essence 1
 Type: Reflexive

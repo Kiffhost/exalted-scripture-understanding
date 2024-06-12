@@ -1,3 +1,7 @@
+---
+tags:
+  - source/lunar-book
+---
 The Lunars are peerless shapeshifters, clothing themselves in the skins of fierce beasts or stolen faces. Their protean power evinces their predatory nature; before a Lunar can take a shape, she must claim it with a [[Sacred Hunt]]. 
 
 A Lunar may enter an animal or human shape she possesses as a miscellaneous action, committing four motes for the transformation’s duration. This can be flurried, but not with attack actions. She may reflexively revert back to her true human form by releasing this commitment. 

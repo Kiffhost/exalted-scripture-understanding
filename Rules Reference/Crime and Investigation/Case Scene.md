@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/investigation
+  - source/solar-book
 ---
 A character can use a case scene action to search an area for anything of interest that might be hidden: an incriminating letter hidden in a vizier’s chambers, the concealed lever that disarms a First Age deathtrap, or a cache of contraband on a smuggler’s ship. The character’s player rolls (Perception + Investigation) as a dramatic action that takes fifteen minutes of searching. The base difficulty is determined by the Storyteller, and the conceal evidence action (p. 224) may be used to increase it. On a success, the character finds anything hidden.
 

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m
 Mins: Survival 1, Essence 1
 Type: Simple

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 15m, 1wp
 Mins: Brawl 5, Essence 5
 Type: Simple

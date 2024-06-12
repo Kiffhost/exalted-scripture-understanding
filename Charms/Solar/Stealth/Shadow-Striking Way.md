@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 4m
 Mins: Stealth 5, Essence 3
 Type: Supplemental

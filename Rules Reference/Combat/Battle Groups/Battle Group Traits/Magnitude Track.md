@@ -1,6 +1,7 @@
 ---
 tags:
   - trait/group
+  - source/solar-book
 aliases:
   - Magnitude
 ---

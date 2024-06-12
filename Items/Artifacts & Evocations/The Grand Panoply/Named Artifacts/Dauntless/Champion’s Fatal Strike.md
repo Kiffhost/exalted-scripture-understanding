@@ -2,8 +2,9 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: –
-Mins: Essence 3; 
+Mins: Essence 3;
 Type: Supplemental
 Keywords:
   - Decisive-only

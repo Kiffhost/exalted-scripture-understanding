@@ -2,6 +2,7 @@
 tags:
   - object
   - Hearthstone/Wood
+  - source/solar-book
 power: Standard
 Keywords:
   - Linked

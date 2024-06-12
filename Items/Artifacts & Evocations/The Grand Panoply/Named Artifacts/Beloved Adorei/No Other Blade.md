@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 1m
 Mins: Essence 1
 Type: Supplemental

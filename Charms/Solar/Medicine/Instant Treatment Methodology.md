@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 5m, 1wp or 5i, 1wp
 Mins: Medicine 4, Essence 2
 Type: Reflexive

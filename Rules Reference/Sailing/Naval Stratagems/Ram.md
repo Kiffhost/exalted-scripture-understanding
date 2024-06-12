@@ -1,6 +1,7 @@
 ---
 tags:
   - Stratagem/naval
+  - source/solar-book
 Roll:
   - "[[Maneuverability]]"
   - "[[Sail]]"

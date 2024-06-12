@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m per -1
 Mins: Dodge 5, Essence 2
 Type: Reflexive

@@ -2,9 +2,10 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —
 Mins: Dodge 5, Essence 3
-Type: Permanent 
+Type: Permanent
 Keywords:
   - None
 Duration: Permanent

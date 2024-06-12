@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m, 1wp
 Mins: Dodge 5, Essence 3
 Type: Simple

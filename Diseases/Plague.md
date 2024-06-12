@@ -1,6 +1,7 @@
 ---
 tags:
   - Disease/common
+  - source/solar-book
 Virulence: 5
 Morbidity: 4
 Interval: 3 days

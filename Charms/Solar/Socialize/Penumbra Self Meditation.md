@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m per Intimacy
 Mins: Socialize 5, Essence 2
 Type: Simple

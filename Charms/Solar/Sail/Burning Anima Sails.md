@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 6m, 1wp, 3a
 Mins: Sail 5, Essence 3
 Type: Reflexive

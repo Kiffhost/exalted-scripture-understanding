@@ -1,6 +1,7 @@
 ---
 tags:
   - sorcery
+  - source/solar-book
 Cost: 40sm, 3wp
 Keywords:
   - Aggravated

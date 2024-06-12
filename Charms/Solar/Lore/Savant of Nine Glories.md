@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —
 Mins: Lore 5, Essence 5
 Type: Permanent

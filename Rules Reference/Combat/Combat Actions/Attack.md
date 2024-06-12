@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/combat
+  - source/solar-book
 ---
 # Attack
 The goal of combat is to damage your opponent's [[Health Track]]. This is achieved using [[#decisive]] attacks, which spend [[Initiative]]. [[#Withering]] attacks lower your opponent's initiative while increasing your own, but usually do not affect Health Track. 

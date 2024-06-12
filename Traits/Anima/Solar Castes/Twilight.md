@@ -2,6 +2,7 @@
 tags:
   - Anima
   - Solar
+  - source/solar-book
 ---
 The proud institutions of the First Age lie in ruins, and knowledge is the province of an exclusive few. In this fallen world, a man can live and die knowing of nothing beyond his meager village. To the Solars of the Twilight Caste, this state of affairs is unacceptable—as scholars, craftsmen and sorcerers, it is their duty to carry the light of learning into the darkness of ignorance. They are among mankind’s most brilliant minds, and they are not content to spend their lives in a library, sanctum, or workshop—they need to be out in the world, putting their learning to use.
 

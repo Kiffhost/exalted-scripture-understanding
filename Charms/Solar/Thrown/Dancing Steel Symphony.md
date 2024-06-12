@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 9m, 1wp
 Mins: Thrown 5, Essence 3
 Type: Simple

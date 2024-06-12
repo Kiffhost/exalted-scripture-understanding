@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 Duration: Session
 ---
 The Lunar casts off all limitations that fetter her needs and desires. Her player designates some type of object she values, craves, or wishes to amass — currency, jewels, liquor, artwork, burnt offerings, drugs, etc.

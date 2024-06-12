@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/arms-book
 Cost: Resources ••••
 ---
 No remedy in Creation has so great a reputation as seven bounties paste. Made from the roots of seven medicinal plants mixed with alcohol, this spicy, bitter red paste is typically mixed with rice and broth to make it palatable. Salubrious under any circumstances, it is a panacea when administered by a trained physician, able to cure almost any mundane illness other than leprosy. 

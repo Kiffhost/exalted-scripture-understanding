@@ -3,6 +3,7 @@ tags:
   - trait
   - Ability/artifact
   - "#Ability/sorcery"
+  - source/solar-book
 ---
 **This Ability is necessary to create artifacts or to use sorcery.** 
 

@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Material: Black Jade and Starmetal
 Dots: 3
 Hearthstone slots: 1

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 3m
 Mins: Resistance 2, Essence 1
 Type: Reflexive

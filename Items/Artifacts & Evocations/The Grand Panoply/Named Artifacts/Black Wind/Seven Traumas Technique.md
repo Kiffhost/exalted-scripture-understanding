@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 3m, 1+ blades
 Mins: Essence 2
 Type: Supplemental

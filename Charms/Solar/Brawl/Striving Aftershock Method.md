@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m
 Mins: Brawl 5, Essence 3
 Type: Reflexive

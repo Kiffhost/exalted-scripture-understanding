@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4m, 1wp, plus 3m per language
 Mins: Linguistics 5, Essence 1
 Type: Reflexive

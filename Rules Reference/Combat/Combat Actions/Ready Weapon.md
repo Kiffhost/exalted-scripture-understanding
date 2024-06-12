@@ -4,6 +4,7 @@ aliases:
   - Draw/Ready Weapon
 tags:
   - Action/combat
+  - source/solar-book
 ---
 The character draws a close-range weapon, or readies a long-range weapon for use (stringing a bow, adjusting a brace of throwing knives, and so on). If a character wishes to change weapons during battle, he must use a draw/ready weapon action to do so. 
 

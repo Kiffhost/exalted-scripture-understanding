@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Arguably an [[Environmental Hazards|environmental hazard]].
 
 Sometimes you don’t need fire, acid, or the killing winds of Hell to put an end to a hero—gravity is more than able to do the job. For whatever reason, Exalts seem particularly prone to reckless acrobatics near long drops. 

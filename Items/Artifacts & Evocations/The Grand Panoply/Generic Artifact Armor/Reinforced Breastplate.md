@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmourTags:
   - None
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)

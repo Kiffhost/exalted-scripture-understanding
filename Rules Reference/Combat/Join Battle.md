@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Roll (Wits + Awareness), count the successes and add 3.
 This is your starting Initiative rating in the first round of battle. Because Join Battle is a commonly-used value, a space is provided to record it on your character sheet. Join Battle cannot be botched.
 

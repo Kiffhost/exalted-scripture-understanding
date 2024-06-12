@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/dragon-book
 WeaponType:
   - Daiklave
 Material: White Jade

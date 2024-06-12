@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: —
 Mins: Essence 3
 Type: Permanent

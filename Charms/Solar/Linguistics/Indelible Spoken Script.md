@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 5m (+1wp)
 Mins: Linguistics 5, Essence 3
 Type: Simple

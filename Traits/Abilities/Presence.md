@@ -2,6 +2,7 @@
 tags:
   - trait
   - "#Ability/influence"
+  - source/solar-book
 ---
 **This Ability is important in social influence.** 
 

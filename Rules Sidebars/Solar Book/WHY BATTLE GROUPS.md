@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 # ? 
 Lone heroes fighting many times their number in nameless lackeys is a staple of many of the sources Exalted draws on. Additionally, because of the scope of martial conflicts often present in Exalted, it’s impractical to depict each soldier in a war scene individually. Battle groups satisfy the demands of both huge-scale mass combat scenes and more modestly scaled scenes where the heroes smash up two dozen thugs in a furious display of their martial prowess.
 

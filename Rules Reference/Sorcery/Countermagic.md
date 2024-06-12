@@ -2,6 +2,7 @@
 tags:
   - Action/sorcery
   - Action/combat
+  - source/solar-book
 ---
 
 Countering a spell as it’s cast is an (Intelligence + Occult) roll, with every 2 successes draining 1 sorcerous mote from the spell’s completion. If the sorcerer knows the spell she is attempting to counter, then each success drains 1 mote. This action can only be used against sorcerers within [[Range#Short|short range]].

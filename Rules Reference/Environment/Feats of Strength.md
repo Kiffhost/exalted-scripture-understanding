@@ -1,6 +1,8 @@
 ---
 aliases:
   - Feats of Demolition
+tags:
+  - source/solar-book
 ---
 Feats of strength and feats of destruction are Strength + Athletics actions, with a difficulty determined by the [[#chart]] below. Light objects can just be picked up—no roll is necessary to lift a sword or saddle. If you want to lift a boulder blocking a mountain pass or kick down an iron-banded oak door, that’s a feat of strength. ***Characters must have a Strength rating of at least 3 to attempt any feat of strength, with more extraordinary feats having higher minimums per the [[#Chart]].***
 

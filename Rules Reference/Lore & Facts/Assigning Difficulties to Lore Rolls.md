@@ -1,6 +1,7 @@
 ---
 tags:
   - advice/storyteller
+  - source/solar-book
 ---
 # TLDR
 Plot-critical information should be difficulty 1-4. 

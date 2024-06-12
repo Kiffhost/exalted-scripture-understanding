@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —
 Mins: Essence 2
 Type: Permanent

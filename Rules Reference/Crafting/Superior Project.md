@@ -1,12 +1,14 @@
 ---
 aliases:
   - superior projects
+tags:
+  - source/solar-book
 ---
 Superior projects describe two sorts of endeavor: [[Artifact|Artifacts]] ([[Daiklave]]s and magical armour) and largescale construction (palaces and warships). Mortals may perform Superior Projects to the purpose of largescale construction, but not artifacts.
 # Beginning
 Creating artifacts requires the crafter be a character capable of manipulating Essence (such as an Exalt or sorcerer), have at least Lore 3, Occult 3, a relevant Craft Ability rated to at least 4, and must then purchase dots of Craft (Artifacts). In addition, all artifacts require high-quality tools and significant amounts of the magical materials; most also demand various exotic or mystical reagents such as frozen flame, behemoth bones, the captured love of a raksha noble, or other such wonders. Designing and building an artifact is a massive drain on a crafter, and as such these superior projects require a superior crafting [[#Slot]]. 
 # Slot
-Creating a superior slot requires that the character temporarily fuse together a number of [[Major Project#Slot]]s equal to the rating of the [[artifact]] she wishes to create, and spend a number of [[Crafting Projects#Crafting Experience|gold points]] equal to the artifact’s rating. 
+Creating a superior slot requires that the character temporarily fuse together a number of [[Major Project#Slot]]s equal to the rating of the [[Artifact]] she wishes to create, and spend a number of [[Crafting Projects#Crafting Experience|gold points]] equal to the artifact’s rating. 
 <details><summary>Example</summary>If Shen wanted to design an Artifact ••• daiklave, he would need to fuse three major slots and spend 3 gold experience points in order to create a superior slot capable of sustaining the project. If the character lacks sufficient major slots, she can temporarily create new major slots for 5 silver points each, as with starting a major project. </details>
 
 Created superior slots vanish when the superior project they’re sustaining ends. Large construction projects are treated as 2 or 3-dot artifacts at the Storyteller’s discretion. 

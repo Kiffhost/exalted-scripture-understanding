@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Material: Green Jade
 Attunement: 4m
 Dots: 3

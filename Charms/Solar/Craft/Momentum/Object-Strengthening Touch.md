@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 6m
 Mins: Craft 5, Essence 2
 Type: Simple

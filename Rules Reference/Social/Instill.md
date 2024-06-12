@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/social/influence
+  - source/solar-book
 ---
 This action is the main mechanism for [[Intimacy#Gaining Intimacies|gaining]] and [[Intimacy#Losing Intimacies|losing intimacies]].
 

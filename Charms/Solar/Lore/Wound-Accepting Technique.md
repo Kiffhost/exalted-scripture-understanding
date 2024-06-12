@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m per health level, 1wp
 Mins: Lore 4, Essence 2
 Type: Simple

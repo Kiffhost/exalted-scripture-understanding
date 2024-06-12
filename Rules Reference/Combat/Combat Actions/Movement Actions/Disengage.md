@@ -2,6 +2,7 @@
 tags:
   - Action/combat
   - Action/movement
+  - source/solar-book
 ---
 This action *must* be taken when a character at close range with one or more hostile opponents wishes to retreat to [[Range#Short]]—the standard reflexive [[#Move]] action cannot be used to do so. 
 

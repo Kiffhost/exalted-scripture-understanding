@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 5m
 Mins: Sail 4, Essence 1
 Type: Simple

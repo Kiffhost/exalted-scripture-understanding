@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 6m
 Mins: Essence 1
 Type: Simple
@@ -9,7 +10,7 @@ Keywords:
   - Terrestrial
 Duration: One scene
 Prerequisite Charms:
-  -  None
+  - None
 ---
 Blade in hand, the Exalt moves with Seren’s cautious grace, alert to every threat. While Wise Steel Form is active, the wielder adds +1 to her Parry and adds (Essence) bonus dice on disengage actions and rolls to contest rush actions. She waives the Initiative cost for disengage actions, and gains one Initiative whenever she successfully disengages or contests a rush action. 
 

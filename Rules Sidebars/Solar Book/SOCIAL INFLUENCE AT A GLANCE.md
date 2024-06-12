@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 ### SOCIAL INFLUENCE AT A GLANCE SOCIAL INFLUENCE IS ABOUT: 
 
 - Discovering the Intimacies of others. 

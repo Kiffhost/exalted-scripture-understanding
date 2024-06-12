@@ -1,6 +1,8 @@
 ---
 aliases:
   - legendary projects
+tags:
+  - source/solar-book
 ---
 Legendary projects deal with the creation of the mightiest works of magical artifice known to the Chosen, and the resurrection of the lost glories of the First Age. Arduous and demanding even for the creative masters of the [[Twilight|Twilight Caste]], few legendary projects have even been attempted since the murder and exile of the Solar Exalted, and their undertaking is widely considered a lost art in the Realm.
 # Beginning

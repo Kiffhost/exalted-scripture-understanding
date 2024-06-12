@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4m, 1wp, 2xp
 Mins: Presence 5, Essence 3
 Type: Simple

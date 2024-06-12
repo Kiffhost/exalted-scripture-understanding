@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: —
 Mins: Lore 5, Essence 2
 Type: Permanent

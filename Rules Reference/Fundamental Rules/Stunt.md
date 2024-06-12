@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 # TLDR
 A stunt is a narration of an in-game action. Stunting (narrating/roleplaying) grants a mechanical bonus to its action (or static value, like Parry or Guile). The better the narration/roleplaying, the bigger the bonus.
 

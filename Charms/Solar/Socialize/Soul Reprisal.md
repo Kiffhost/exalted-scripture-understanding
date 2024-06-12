@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 16m, 1wp, 20xp
 Mins: Socialize 5, Essence 5
 Type: Reflexive

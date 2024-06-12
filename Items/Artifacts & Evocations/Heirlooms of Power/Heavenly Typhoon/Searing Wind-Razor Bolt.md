@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 3m, 1wp
 Mins: Essence 2
 Type: Simple

@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 3m, 3i, 3sxp
 Mins: Essence 3
 Type: Supplemental

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4m, 1hl or 4m, 1lhl
 Mins: Ride 5, Essence 2
 Type: Simple

@@ -1,6 +1,7 @@
 ---
 tags:
   - Dragon-Blooded
+  - source/dragon-book
 ---
 Fire is the energy of Creation, the dynamic power that is ever restless, never satisfied. It engulfs all that it touches, consuming to burn brighter and hotter, spreading beyond control until there’s nothing left to burn. It knows no restraint, no half-measures, and even when reduced to nothing more than smoldering coals, it can still ignite a deadly wildfire. But it’s not wholly without subtlety, for there would be no shadow without the light of the flame, and no smoke without the ferocious heat of its blaze. 
 

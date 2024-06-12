@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Personas are a tool developed by the master socialites of the Solar Exalted to more comfortably and effectively lead multiple lives. The Solar can use personas to maintain a number of different alliances, loyalties, and ways of thinking. She can use a persona to solve problems that are not suited to her natural disposition, and to more comfortably and invisibly ally herself with the enemies of her friends in order to learn their weaknesses. Though there are a few Charm-based exceptions, personas are not metaphysically different people from the Solar. The Solar’s masks, genders, and personalities are all entirely performative, and created through her social environment. Through her mastery of social skills, she is able to adapt to a situation so completely that her true self almost disappears. Such freedom and flexibility also has a few downsides:
 - Personas cannot use Hundred-Faced Stranger to create their own personas. 
 - Personas do not benefit from Supernal Abilities. 

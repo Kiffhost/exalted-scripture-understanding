@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 6m
 Mins: Archery 4, Essence 2
 Type: Reflexive

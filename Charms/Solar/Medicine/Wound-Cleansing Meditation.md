@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 10m
 Mins: Medicine 3, Essence 1
 Type: Simple

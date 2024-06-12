@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4m per damage removed
 Mins: Dodge 5,Essence 2
 Type: Reflexive

@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 3m, 2i, 1a from Sunflash
 Mins: Essence 2
 Type: Simple

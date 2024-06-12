@@ -1,6 +1,7 @@
 ---
 tags:
   - Stratagem/naval
+  - source/solar-book
 Cost: None
 Roll:
   - "[[Wits]]"

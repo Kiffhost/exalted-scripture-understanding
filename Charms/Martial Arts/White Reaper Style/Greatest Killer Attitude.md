@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m, 1wp
 Mins: Martial Arts 5, Essence 2
 Type: Supplemental

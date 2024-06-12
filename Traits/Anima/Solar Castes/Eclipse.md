@@ -2,6 +2,7 @@
 tags:
   - Anima
   - Solar
+  - source/solar-book
 ---
 Few events in Creation are rarer or more portentous than a solar eclipse. The sun, the moon, and the stars share the sky, united in a grand display of celestial harmony. It is the duty of the Eclipse Caste to bring such harmony to the rest of Creation. As diplomats, they travel to the far reaches of the world—and beyond—braving the wilds and treating with strange peoples. The treaties they forge help bind the world together, encouraging the exchange of both riches and ideas. As ministers, they run cartels and nations with skill and aplomb, expanding their interests far and wide. As explorers, they seek out new opportunities for themselves, their Circlemates, and Creation. Regardless of his surroundings, an Eclipse is confident, versatile, and eager to rise to any challenge.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Even the most modest Exalt tends to accumulate power as a rock gathers moss; those with the ambition to rule find little difficulty in amassing followers and authority. The challenge is in ruling well and holding power once gained. The following rules help to tell stories about Exalts dedicated to the leading of companies, cities, cults, and empires. 
 # Projects
 Leadership is exercised by leading **Projects**. Projects can consist of almost anything involving leading the to a defined goal. A successful project grants the character who initiated it some form of measurable gain; this usually means obtaining a new story Merit, raising the rating of an existing story Merit, or procuring some advantage relevant to the current story.

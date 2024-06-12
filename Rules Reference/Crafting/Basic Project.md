@@ -1,6 +1,8 @@
 ---
 aliases:
   - basic projects
+tags:
+  - source/solar-book
 ---
 Basic projects are the simplest tasks a craftsman can undertake, such as making a chair, forging basic tools, shoeing a horse, cooking a meal, or fletching an arrow. They normally demand little from the character in time or crafting materials. 
 # Beginning 

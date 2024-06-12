@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmourType: Lamellar Armor
 Material: Orichalcum
 ArmourTags:

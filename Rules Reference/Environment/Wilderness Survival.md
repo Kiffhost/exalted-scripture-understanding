@@ -1,6 +1,7 @@
 ---
 tags:
   - Action
+  - source/solar-book
 ---
 See also: [[Environmental Hazards]]
 

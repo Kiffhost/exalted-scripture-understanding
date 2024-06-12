@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Sometimes, a player will attempt to simply sway a mass of people with social influence, rather than appealing to any one character or specific group. While a player character or significant NPC should always be allowed to resist influence with her Resolve, if all the characters in the audience are effectively minor, unimportant characters who would not normally be given their own mechanical definition, the Storyteller can simply treat the entire audience as a single entity with a single Resolve rating. 
 
 Most mortal audiences will have a Resolve of 1 or 2, while audiences of exceptional mental resilience, such as ascetic monks or spiritually powerful beings, may have a Resolve of 3 or 5 (though there are few cases when it would be appropriate to lump magical creatures into an audience) The Storyteller can assign Intimacies to the audience based on the general feelings of the crowd—an audience composed of Gem citizens is likely to have a Tie of patriotism towards Gem, for example. 

@@ -3,6 +3,7 @@ tags:
   - charm
   - Solar
   - Apocryphal
+  - source/solar-miracles-book
 Cost: 10m, 3a, 1wp
 Mins: Essence 3
 Type: Simple

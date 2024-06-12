@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 8m
 Mins: Bureaucracy 5, Essence 4
 Type: Simple

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/lunar-book
+---
 A Lunar begins with her own human shape and spirit shape, and any forms granted by the Heart’s Blood and Stolen Faces Merits (p. XX). Gaining new forms requires a sacred hunt.
 
 The hunt begins when the Lunar’s player declares her intention to take a specific quarry’s shape. She must then hunt and kill her prey. There’s no minimum time she must spend hunting, but she must declare her intention beforehand — she can’t declare a sacred hunt mid-combat. Others may assist her, but she must kill her prey herself, either directly or through traps, poison, etc. She then claims her prey’s shape by drinking its heart’s blood — the blood that flows through its heart, or the nearest analogue. 

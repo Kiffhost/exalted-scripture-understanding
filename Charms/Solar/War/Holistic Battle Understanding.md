@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m
 Mins: War 2, Essence 1
 Type: Supplemental

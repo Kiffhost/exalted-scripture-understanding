@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 WeaponType:
   - Reaper Daiklave
 Material: Blue Jade

@@ -1,6 +1,7 @@
 ---
 tags:
   - Dragon-Blooded
+  - source/dragon-book
 ---
 Air is the breath of Creation, all-encompassing and ever-present. It’s the subtlest of the elements, unseen and untouchable. It can be felt but never grasped. Yet those who overlook the air that surrounds them are fools. Its wrath may strike swiftly, the tempest and the thunderbolt, or it can kill slowly, the wind that scatters sands and the chill that leeches away heat.
 

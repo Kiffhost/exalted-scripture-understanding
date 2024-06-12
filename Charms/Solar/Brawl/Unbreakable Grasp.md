@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m per round preserved
 Mins: Brawl 3, Essence 1
 Type: Reflexive

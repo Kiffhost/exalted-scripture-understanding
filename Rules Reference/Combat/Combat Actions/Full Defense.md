@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/combat
+  - source/solar-book
 ---
 Full Defense costs 1 [[Initiative]], and grants +2 [[Defense]] as the character dedicates themself completely to protecting themself. 
 

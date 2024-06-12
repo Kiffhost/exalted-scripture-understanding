@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 Duration: Session
 ---
 The Lunar’s predatory instincts fixate on someone unfortunate enough to catch her interest, watching his every movement from the shadows. Her player designates a Storyteller character (either present or nearby). She devotes herself to pursuing and observing him from a distance with as much stealth and subtlety as possible and making him fear whatever pursues him. She can’t directly interact with him, except to menacingly reveal her presence at suitably dramatic moments, but she can leave hints or signs of her hunt.

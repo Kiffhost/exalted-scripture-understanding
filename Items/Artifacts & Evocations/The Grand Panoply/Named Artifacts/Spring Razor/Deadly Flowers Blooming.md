@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 2m, 2i
 Mins: Essence 2
 Type: Reflexive

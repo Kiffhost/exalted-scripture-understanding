@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 5m
 Mins: Essence 1
 Type: Reflexive
@@ -9,7 +10,7 @@ Keywords:
   - Resonant
 Duration: One scene
 Prerequisite Charms:
-  -  None
+  - None
 ---
 The wearer veils her spirit beneath the Cataphract of Keys’ illusory identity. While this Evocation is active, she gains +1 Guile. If a character fails an attempt to discern the wearer’s intentions or Intimacies, she sees only Sozen. The demon persona’s intentions are always mercenary, and her Intimacies are as follows: 
 - Defining Principle: “I am the greatest thief that Hell will ever know.” 

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 # TLDR
 Poison lasts its [[#Duration]] - <successes on (Stamina+Resistance) roll>, applying its [[#Penalty]] and dealing its [[#Damage]] every [[#Interval]]. Poisoning with an envenomed weapon requires a [[Attack#decisive|decisive attack]].
 # Full text

@@ -3,6 +3,7 @@ tags:
   - charm
   - Solar
   - Apocryphal
+  - source/solar-miracles-book
 Cost: 10m, 1wp
 Mins: Sail 5, Essence 3
 Type: Reflexive

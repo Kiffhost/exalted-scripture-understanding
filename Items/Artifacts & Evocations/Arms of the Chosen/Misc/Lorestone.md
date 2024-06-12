@@ -2,6 +2,7 @@
 tags:
   - Artifact
   - object
+  - source/arms-book
 Dots: 2
 ---
 Each of these cold, fist-sized aquamarine orbs contains a First Age savant’s knowledge of a particular subject — such as mathematics, geology, First Age cuisine, or the history of Meru — crystallized through a sorcerous working into an accessible form. Their manufacture is a lost art. 

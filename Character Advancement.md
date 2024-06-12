@@ -45,11 +45,12 @@
 
 Each character gains 5 experience points at the end of every session. These points may be spent immediately, or saved to be spent later.
 ## Exalted Experience
-#custom/note This section has ben generalised, each book lists each type of Exalted x separately.
+#custom/note This section has been generalised, each book lists each type of Exalted Experience separately.
 
 In addition to normal experience points, players have the opportunity to gain Exalted experience in each session. **Exalted experience may be spent on anything except Charms specific to that type of Exalted.**
 
 <details><summary>Specifically</summary>Attributes, Abilities, Specialties, Merits, Willpower, Martial Arts Charms, Evocations, and spells are all valid, as are things like spirit Charms learned with the Eclipse anima power, sorcerous workings, or Charms with experience point costs in their activation. </details>
+
 Players have two opportunities to gain Exalted experience per session. They may earn up to one [[#Expression Bonus]], and one [[#Role Bonus]], for a total of up to 4 Solar experience per session.
 
 ### Expression Bonus
@@ -76,7 +77,7 @@ The [[#Experience Points|above]] training times assume characters spend a signif
 - Many forms of training may potentially benefit multiple Traits. 
 - Practical experience also counts as a significant amount of training. 
 	- This is especially true for [[Charms]], which are often largely instinctive.
-	- [[Evocations]] require training but also rapport with the [[artifact]], often developed in battle.
+	- [[Evocations]] require training but also rapport with the [[Artifact]], often developed in battle.
 	- [[Martial Arts]] Charms always require rigorous training.
 	- Learning spells requires a mentor or a text copy of the spell, and many hours of study.
 - Mentors and similarly skilled trainers should also reduce training times, proportionate to their skill at teaching.

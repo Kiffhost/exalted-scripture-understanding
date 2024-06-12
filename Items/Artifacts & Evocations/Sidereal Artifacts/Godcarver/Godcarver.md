@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/sidereal-book
 WeaponType:
   - Chisel
   - (not a weapon)

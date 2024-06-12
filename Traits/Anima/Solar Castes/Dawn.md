@@ -2,6 +2,7 @@
 tags:
   - Anima
   - Solar
+  - source/solar-book
 ---
 The darkness quails and cowers as the sun’s first rays illuminate the world. The scuttling horrors of the night flee in the face of the dawn, retreating to those few places its light doesn’t touch. This will not save them from the Dawn Caste, whose arrows, blades, and fists are as relentless as the rising sun. Peerless warriors one and all, these Solars exemplify martial might, taking battle with them wherever they go. They leave behind fields soaked with the blood of their enemies, red as sunrise. 
 

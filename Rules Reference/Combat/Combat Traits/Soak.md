@@ -1,6 +1,7 @@
 ---
 tags:
   - "#trait/combat"
+  - source/solar-book
 ---
 Soak is a static value trait used to resist [[Attack#withering|withering attacks]]. It represents the extent to which a character protect their momentum in a fight. 
 

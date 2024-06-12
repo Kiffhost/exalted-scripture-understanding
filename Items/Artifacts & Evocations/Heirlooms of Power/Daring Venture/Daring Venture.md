@@ -3,6 +3,7 @@ tags:
   - object
   - Artifact
   - unique
+  - source/dragon-book
 WeaponType:
   - Powerbow
 WeaponTags:

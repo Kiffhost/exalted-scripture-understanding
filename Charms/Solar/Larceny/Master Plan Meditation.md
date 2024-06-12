@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 6m, 1wp
 Mins: Larceny 5, Essence 2
 Type: Simple

@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/solar-book
 Cost: "1"
 WeaponTags:
   - Bashing

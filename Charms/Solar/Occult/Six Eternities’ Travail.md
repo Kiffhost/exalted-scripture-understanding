@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: —(1wp)
 Mins: Occult 5, Essence 2
 Type: Permanent

@@ -1,6 +1,7 @@
 ---
 tags:
   - Sidereal
+  - source/sidereal-book
 ---
 Oldest and most mysterious of her sisters, Jupiter knows much and speaks little. She presides over mystery and revelation, truth and falsehood, ignorance and understanding, and the lines between them. Her Chosen ensure that all things are hidden or revealed as destiny demands, thwarting seekers after forbidden knowledge or wresting secrets whose time has come from their keepers. They are savants and spies, mystics and masterminds, distinguished by their foresight even among their Sidereal peers. In Heaven’s name, they’ve put great libraries to the torch, deposed monarchs to expose their secret sins, and sought out long-forgotten lore from demons, ghosts, and worse.
 

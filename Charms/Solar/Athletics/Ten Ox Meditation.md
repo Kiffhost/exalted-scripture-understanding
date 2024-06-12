@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m, 3 successes per dot
 Mins: Athletics 5, Essence 1
 Type: Supplemental

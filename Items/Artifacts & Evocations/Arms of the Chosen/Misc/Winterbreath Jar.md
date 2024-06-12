@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Material: Blue Jade
 Dots: 2
 Hearthstone slots: 1

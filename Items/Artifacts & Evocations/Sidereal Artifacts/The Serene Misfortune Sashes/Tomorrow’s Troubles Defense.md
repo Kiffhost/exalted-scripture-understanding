@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: 2m per health level
 Mins: Essence 1
 Type: Reflexive

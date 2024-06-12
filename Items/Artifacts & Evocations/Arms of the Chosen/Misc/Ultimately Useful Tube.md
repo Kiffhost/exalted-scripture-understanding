@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 WeaponType:
   - Staff
   - Blowgun

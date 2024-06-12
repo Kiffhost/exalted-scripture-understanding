@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Few large-scale battles end when all the soldiers of one side kill all the soldiers of the other side. At some point in almost every battle, one side breaks, and soldiers begin to flee, or if that is impossible, to cast down their weapons and attempt to surrender. These moments when a battle group’s will is tested are known as rout checks.
 
 A rout check occurs whenever a [[battle group]]’s [[Magnitude Track]] fills up with damage and it loses a point of [[Size]]. Having so many of its soldiers whittled away causes the group to hesitate, and there’s always the danger that this hesitation could spread into full-blown panic and retreat—a sufficiently daunting assault by a small, elite group may even cause a vastly superior force to panic and collapse into disorder.

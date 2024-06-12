@@ -1,6 +1,7 @@
 ---
 tags:
   - trait
+  - source/solar-book
 ---
 Allies, magic, and even personal might will only take a hero so far—the rest comes from within. Your character’s Willpower represents her drive and determination, quantifying her dedication on a scale of one through ten. Characters on the lower end of the scale tend to be meek and hesitant, while characters on the higher end are confident and certain. Like Attributes and Abilities, Willpower is a rating, and it may be increased by spending bonus points or experience. By default, Solar characters begin play with a Willpower rating of five dots—Exaltation does not favor the weak of heart. 
 

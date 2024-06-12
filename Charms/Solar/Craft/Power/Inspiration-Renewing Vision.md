@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 12m, 1wp, 2wxp
 Mins: Craft 5, Essence 3
 Type: Supplemental

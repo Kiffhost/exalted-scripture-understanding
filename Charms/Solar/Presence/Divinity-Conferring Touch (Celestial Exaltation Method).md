@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 10m
 Mins: Presence 5, Essence 5
 Type: Simple

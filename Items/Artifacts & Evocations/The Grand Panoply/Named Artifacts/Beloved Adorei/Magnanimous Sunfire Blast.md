@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 1m per revealed Intimacy
 Mins: Essence 2
 Type: Reflexive

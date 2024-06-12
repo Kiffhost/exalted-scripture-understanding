@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 10m
 Mins: Resistance 2, Essence 1
 Type: Simple

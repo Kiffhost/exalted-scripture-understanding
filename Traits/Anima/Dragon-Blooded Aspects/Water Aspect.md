@@ -1,6 +1,7 @@
 ---
 tags:
   - Dragon-Blooded
+  - source/dragon-book
 ---
 Water is the flow of Creation, descending from Heaven and travelling to the corners of the world. It clings to neither shape nor form, shifting and changing to adapt to its surroundings. It’s not stopped by dams, but merely diverted, finding another path to the goal it inexorably seeks. It needs only the slightest crack to permeate any barrier, and with time, it will wear the mountains down to dust. Its depths conceal many things, whether the glinting treasures of sunken ships or the unseen menace of the riptide.
 

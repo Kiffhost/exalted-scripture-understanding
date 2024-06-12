@@ -1,6 +1,7 @@
 ---
 tags:
   - Disease/common
+  - source/solar-book
 Virulence: 3
 Morbidity: 1
 Interval: 1 year, never fatal

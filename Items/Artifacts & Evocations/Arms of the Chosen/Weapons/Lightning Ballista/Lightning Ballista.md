@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Dots: §4
 Attunement: 5m
 WeaponTags:

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1hl per three successes
 Mins: Ride 3, Essence 1
 Type: Reflexive

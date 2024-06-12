@@ -2,6 +2,7 @@
 Dots: 1 or 2
 tags:
   - Thaumaturgy
+  - source/solar-book
 ---
 The one-dot ritual involves the taking of tea in order to divine a character’s destiny. The character whose destiny is to be read must empty tea leaves into a hot teacup, then dwell over the steam and reflections in the cup, and drink it down while emptying his mind of clutter. When the tea is gone, only the leaves remain, and the mystic may divine her target’s greater destiny with a difficulty 2 (Perception + Occult) roll. A greater destiny informs the character’s next defining accomplishment. It is not a prediction of where the character’s life will end, but rather the next major course it will take. The mystic may also read a character’s immediate destiny to get an idea of the most important life-event the character will engage in that day, though it is difficulty 4. Failing this roll still gives the thaumaturgist an accurate result, but the details are extremely hazy. Even when successful, the tea-reader often cannot explain or doesn’t understand what she sees. She might see her client bumping into a woman on a nearby dock at sunset, but this doesn’t mean she knows who the woman is or why the event is significant.
 

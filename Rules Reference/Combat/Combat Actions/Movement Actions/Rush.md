@@ -2,6 +2,7 @@
 tags:
   - Action/combat
   - Action/movement
+  - source/solar-book
 ---
 This action may only be directed at an opponent within short range of the character, and *it may explicitly be used even after taking a reflexive [[#Move]] action*. 
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —
 Mins: Essence 1
 Type: Permanent
@@ -8,7 +9,7 @@ Keywords:
   - None
 Duration: Permanent
 Prerequisite Charms:
-  -  Any one Charm this Evocation enhances
+  - Any one Charm this Evocation enhances
 ---
 When hurled, Vainglory shines with a terrible golden fire. This Evocation enhances the following Charms as described below: 
 - The wounding effect of Joint-Wounding Attack (Exalted, p. 415) manifests as a painful scar in the shape of the Exalt’s personal sigil or insignia; mortals cannot heal this without magic. She may then spend two motes to reflexively roll a threaten or inspire action against the target to incite fear, anger, or hatred. 

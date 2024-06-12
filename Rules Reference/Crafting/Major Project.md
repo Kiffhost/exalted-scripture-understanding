@@ -1,6 +1,8 @@
 ---
 aliases:
   - major projects
+tags:
+  - source/solar-book
 ---
 Major projects are significant endeavors within a craftsman’s trade. They include forging battle-ready arms and armor, preparing a banquet fit for a prince’s table or a god’s festival, or sculpting a statue. They place a significant burden on the character in terms of time, materials, or both. 
 # Beginning 

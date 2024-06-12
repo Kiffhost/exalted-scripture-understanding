@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 ---
 The moon turns its face away, plunging Creation into deep darkness that teems with inscrutable mysteries. None can say where its light falls on the night of the new moon; does it illumine the Wyld that laps at Creation’s edge, or the invisible world of spirits? Luna’s Shamans are seekers of knowledge, uncovering wisdom hidden by the night and traveling beyond the world to learn the secrets of spirits and monsters. 
 

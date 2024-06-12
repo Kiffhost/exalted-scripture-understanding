@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmourTags:
   - Concealable
 Attunement: 4m

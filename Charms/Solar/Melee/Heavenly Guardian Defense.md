@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1i per success +4m or 4m or 4m, 1wp
 Mins: Melee 5, Essence 2
 Type: Reflexive

@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 5m, 1wp
 Mins: Essence 3
 Type: Reflexive

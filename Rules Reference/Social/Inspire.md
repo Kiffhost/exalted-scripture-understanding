@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/social/influence
+  - source/solar-book
 ---
 The inspire action is used to incite emotions and strong passions in the hearts of others, usually with the [[Performance]] Ability, which those others then act on. When a player takes an inspire action, he chooses which emotion he is attempting to inspire—anger, sorrow, hope, lust, hatred, delight, or any other. On a successful [[Influence roll|inspire roll]], the target is impassioned according to the emotion evoked—but the *target’s player* chooses what form that passion takes.
 

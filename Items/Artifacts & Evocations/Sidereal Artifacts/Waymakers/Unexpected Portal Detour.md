@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: 2m, 1wp
 Mins: Essence 2
 Type: Reflexive

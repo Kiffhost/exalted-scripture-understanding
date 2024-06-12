@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 1m + 2m, 1a per health level
 Mins: Occult 5, Essence 3
 Type: Reflexive

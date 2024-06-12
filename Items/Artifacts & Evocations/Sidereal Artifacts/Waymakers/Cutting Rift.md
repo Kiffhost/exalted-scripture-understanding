@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: 5m
 Mins: Essence 1
 Type: Supplemental
@@ -9,7 +10,7 @@ Keywords:
   - Uniform
 Duration: Instant
 Prerequisite Charms:
-  -  None
+  - None
 ---
 The Waymakers wound space itself, cutting open a portal to strike at distant foes. The wielder’s attack can strike out to short range and ignores light and heavy cover. Full cover remains impassable. With Essence 2, the wielder can attack out to medium range, but requires an aim action to do so. 
 

@@ -2,6 +2,7 @@
 tags:
   - Anima
   - Solar
+  - source/solar-book
 ---
 The noonday sun hangs high over Creation, its glory visible to all who walk in the light. In its sight, there can be no shadow—only endless radiance. So it is with the Solars of the Zenith Caste, heroes chosen to exemplify the Sun’s divine authority. These priest-kings are masters of oratory, but their actions speak even louder than their words— lesser priests might be satisfied with delivering sermons, but the Resplendent Suns let their faith shine through in their deeds as well. Virtue is the Zeniths’ duty, and they do not shirk it.
 

@@ -2,6 +2,7 @@
 tags:
   - "#trait/combat"
   - trait/group
+  - source/solar-book
 ---
 Size is simple—it measures how big a [[battle group]] is, in terms of how many fighters are in it. The greater a battle group’s Size, the harder it hits and the tougher it is; Size is the single greatest source of a battle group’s power. 
 

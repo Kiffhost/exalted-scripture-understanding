@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 When characters in-world take time or effort to attempt something, we abstract those efforts as an action.
 # Extended
 In situations where how long something takes is important. The player makes repeated [[Dice Rolls]], tracking progress (by counting the number of [[Dice Rolls#Successes|successes]] which **meet or exceed** the [[Dice Rolls#Difficulty|difficulty]] each roll) until a specific *goal number* or *terminus* is reached.

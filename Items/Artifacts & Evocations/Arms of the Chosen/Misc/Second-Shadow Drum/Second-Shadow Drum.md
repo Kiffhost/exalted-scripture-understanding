@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Attunement: 2m
 Dots: 3
 ---

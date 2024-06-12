@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 ---
 The full moon, the new moon, and every phase in between are all the same moon, each a different aspect of Luna’s glory lighting the night sky. It’s with this protean potential, inchoate and manifold, that Luna blesses Casteless Lunars. Theirs is the freedom to discover who they truly are, and to decide who they’ll be. 
 

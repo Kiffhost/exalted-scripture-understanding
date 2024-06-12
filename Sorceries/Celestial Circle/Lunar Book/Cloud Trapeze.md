@@ -1,9 +1,0 @@
----
-tags:
-  - sorcery
-Cost: 30sm, 1wp
-Keywords:
-  - None
-Duration: Until dismissed
----
-Wrapping her fingers in a fiendish cat’s cradle, the sorcerer weaves vapor and Essence into a massive barge of cloud stuff. It lifts the sorcerer and (Essence x 10) tons of cargo and willing characters within long range, flying at (Essence x 10) miles per hour. Strong winds might propel it at faster or slower speeds. If the sorcerer must navigate through obstacles or perils, she rolls (Wits + Occult) to do so. In combat, the sorcerer may move the cloud and everything in it one range band in any direction as a miscellaneous action, which counts as her movement action that turn. Its passengers aren’t affected by ill weather and the cold of high altitudes. The cloud conceals those within it, imposing a –3 penalty on vision-based rolls made against those within it from outside. Those within the trapeze can see out of it as though it were transparent. If it ascends high enough to travel among other clouds, it requires a difficulty 5 (Perception + [Occult or Survival]) roll or the use of weather-predicting magic to discern. The sorcerer must remain aboard the trapeze to direct its course, though she need not constantly focus on piloting it. If she disembarks, the cloud descends swiftly, depositing its passengers and cargo as safely as possible before dissipating. A sorcerer with this as her control spell adds (Intelligence/2, rounded up) to her Essence when determining the trapeze’s carrying capacity and speed. While within medium range of mist, fog, or a body of water, she can make a difficulty 2 (Intelligence + Occult) roll as a miscellaneous action to shape water vapor into a solid bridge, ladder, etc. spanning one range band. Distortion (Goal Number: 10): Distorting a cloud trapeze inverts its opacity, rendering it transparent to those outside while obscuring the view of those within.

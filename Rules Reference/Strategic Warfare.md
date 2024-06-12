@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Long before armies and heroes clash on the field of battle, the strategies of their generals shape the conflict to come.
 
 # Overview

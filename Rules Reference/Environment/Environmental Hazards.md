@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Sometimes the world is trying to kill you outright—it’s unendurably cold, or scouring away your skin with a sandstorm, or everything is on fire. These are environmental hazards, represented as areas that inflict damage on any character within them. They can generally be mitigated to some degree with a roll, which characters are permitted every time an environmental hazard attempts to harm them. 
 
 Environmental hazards are presented with a **damage value**, an **interval**, and a **difficulty** for the associated [[#mitigation roll]].

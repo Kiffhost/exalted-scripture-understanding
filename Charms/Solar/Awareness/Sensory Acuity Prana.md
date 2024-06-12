@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 5m
 Mins: Awareness 2, Essence 1
 Type: Reflexive

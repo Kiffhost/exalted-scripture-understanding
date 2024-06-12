@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 7m
 Mins: Sail 5, Essence 3
 Type: Simple

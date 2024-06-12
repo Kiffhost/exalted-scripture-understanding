@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1m to 3m or 5m, 1wp
 Mins: Ride 5, Essence 3
 Type: Reflexive

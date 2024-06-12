@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Material: White Jade and Starmetal
 Attunement: 3m
 Dots: 4

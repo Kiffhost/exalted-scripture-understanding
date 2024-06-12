@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Bureau of Destiny
 
 ## Division of Journeys

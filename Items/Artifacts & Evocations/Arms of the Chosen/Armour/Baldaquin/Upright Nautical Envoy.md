@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —
 Mins: Essence 1
 Type: Permanent
@@ -8,7 +9,7 @@ Keywords:
   - None
 Duration: Permanent
 Prerequisite Charms:
-  -  Any one Charm this Evocation augments
+  - Any one Charm this Evocation augments
 ---
 Countless journeys across the Great Western Ocean have impregnated Baldaquin with the Essence of ship and sea. This Evocation enhances the following Charms as described below: 
 - Fathoms-Fed Spirit (Exalted, p. 386) offers its benefits (Essence + 1) times per day. 

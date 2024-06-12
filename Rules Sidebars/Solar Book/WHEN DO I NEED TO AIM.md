@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Exalted 3rd p. 260
 
 Characters at medium or long range must typically take an aim action before they can attack. But this is not always true. A character does not need to aim if:

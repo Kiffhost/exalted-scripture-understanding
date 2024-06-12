@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 ---
 The moon’s brilliance shifts as it wanes and waxes, showing a different face each night. Ephemeral moonlight fascinates and enraptures the unwary, promising mystery and denying revelation. Luna’s Tricksters take their divine patron’s lessons to heart, triumphing over enemies with honeyed tongues, magnetic personalities, and mysterious duplicity.
 

@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Lunar
+  - source/lunar-book
 Cost: —
 Mins: Essence 3
 Type: Permanent

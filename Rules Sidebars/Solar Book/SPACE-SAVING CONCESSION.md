@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Exalted 3rd p.270
 
 DEVELOPER 5, ESSENCE 3 

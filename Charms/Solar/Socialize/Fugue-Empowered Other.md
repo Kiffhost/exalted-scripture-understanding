@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1 Limit
 Mins: Socialize 5, Essence 5
 Type: Reflexive

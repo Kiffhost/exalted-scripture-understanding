@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 Dots: 2
 ---
 This extraordinarily valuable yellow gemstone can trap minor spirits and newly made ghosts. To imprison a spirit, the user must touch the spirit and spend a point of Willpower, then make a contested Willpower roll against the spirit; success imprisons the spirit in the crystal. The spirit cannot typically have an Essence greater than 2. Each stone can hold only a single spirit at a time, and anyone holding the stone can free the spirit at will.

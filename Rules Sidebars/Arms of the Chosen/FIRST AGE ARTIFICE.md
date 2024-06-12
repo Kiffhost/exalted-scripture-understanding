@@ -1,6 +1,8 @@
 ---
 aliases:
   - §
+tags:
+  - source/arms-book
 ---
 By incorporating sorcery and other arcana into their work, First Age artificers achieved feats beyond the grasp of latter-day smiths. This, specifically, is what is meant by First Age artifice (Exalted, pp. 243-244). Most artifacts constructed even in the First Age employed the more straightforward techniques of contemporary artificers. First Age artifice was reserved for grand and sublime feats that couldn’t otherwise be achieved.
 

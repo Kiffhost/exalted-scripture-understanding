@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 1m
 Mins: Performance 4, Essence 2
 Type: Supplemental

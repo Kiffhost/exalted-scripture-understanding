@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m
 Mins: Sail 5, Essence 2
 Type: Supplemental

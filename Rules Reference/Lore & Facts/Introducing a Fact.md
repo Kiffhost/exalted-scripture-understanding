@@ -1,6 +1,7 @@
 ---
 tags:
   - Action
+  - source/solar-book
 ---
 One of the basic functions of [[Lore]] in Exalted is to allow the player to spice up narrative drama, forward the plot, or become the object of positive [[Intimacy|Intimacies]] by demonstrating valuable knowledge. 
 

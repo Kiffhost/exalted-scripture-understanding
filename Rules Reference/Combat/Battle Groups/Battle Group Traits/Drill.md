@@ -2,6 +2,7 @@
 tags:
   - trait/group
   - trait/combat
+  - source/solar-book
 ---
 While the traits of the average character making up a [[battle group]] determines the quality of the group overall, Drill measures how well the combatants within that group work together. In mass combat, Drill is one of the most important traits a group of fighters can have. It represents hours of training and familiarity—the ability to know what the soldier to the left or right of you will do at any given moment because you’ve been through these maneuvers with them countless times. Well-drilled units hold together better in the face of sudden catastrophe, respond more readily to orders, and are generally much more difficult to defeat than low-Drill units of greater [[Size]]. As a result, Drill modifies [[rout]] rolls, provides modifiers to [[Rules Reference/Combat/Battle Groups/Command]], and enhances a unit’s [[Defense]]. In short, high-Drill battle groups are tougher to defeat, and respond better to commands.
 

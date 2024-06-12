@@ -2,6 +2,7 @@
 tags:
   - Anima
   - Solar
+  - source/solar-book
 ---
 Darkness seems welcoming to those who cannot abide the Sun’s light. The night is home to many threats, from thieves and murderers to outcast gods and the walking dead. Some think themselves safe, for the eyes of the Sun are not upon them. They are wrong. The Solars of the Night Caste are the hidden hands of the Unconquered Sun—they fight the enemies of righteousness on their foes’ terms, using the arts of spycraft and assassination to bring their quarry low. While some might think their methods unsavory, the Iron Wolves know they’re simply doing what must be done. 
 

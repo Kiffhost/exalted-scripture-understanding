@@ -1,3 +1,7 @@
+---
+tags:
+  - source/sidereal-book
+---
 Several Sidereal Charms have unorthodox effects for their Ability. You may want to consider taking certain Abilities at character creation in addition to the usual Abilities. 
 **Combat**: Medicine, Performance, Presence. 
 **Mobility, Speed, and Travel**: Investigation, Resistance. 

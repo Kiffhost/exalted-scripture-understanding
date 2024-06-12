@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/lunar-book
 ArmourType: Articulated Plate
 Material: Moonsilver
 ArmourTags: 

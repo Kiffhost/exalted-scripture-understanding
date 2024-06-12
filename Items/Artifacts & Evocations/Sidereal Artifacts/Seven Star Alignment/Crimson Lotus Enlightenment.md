@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/sidereal-book
 Cost: 5m, 1wp (+10m, 1wp)
 Mins: Essence 5
 Type: Supplemental

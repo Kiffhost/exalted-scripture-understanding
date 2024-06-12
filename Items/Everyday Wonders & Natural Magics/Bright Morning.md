@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - source/arms-book
 Cost: Resources •••
 ---
 Colloquially known as vision dust, this purple powder is made from a mixture of exotic Eastern herbs, including the rare skullweed found only in shadowlands. When smoked, it creates a sense of euphoria. A psychedelic and an entheogen, it induces all manner of hallucinations and allows the user to perceive Essence flows and dematerialized characters. She takes a −3 penalty on all actions based on Perception or Wits due to her distorted awareness. One dose of the drug lasts for roughly three hours. 

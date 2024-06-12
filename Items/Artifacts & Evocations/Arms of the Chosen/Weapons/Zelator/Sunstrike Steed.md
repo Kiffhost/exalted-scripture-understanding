@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —
 Mins: Essence 1
 Type: Permanent
@@ -8,7 +9,7 @@ Keywords:
   - Dissonant
 Duration: Permanent
 Prerequisite Charms:
-  -  None
+  - None
 ---
 While the Exalt is mounted, her mount gains Zelator’s power to make baneful attacks. In addition, whenever the Exalt can perceive an immaterial entity, her mount can both see and strike that entity. 
 

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 1m
 Mins: Thrown 3, Essence 1
 Type: Reflexive
@@ -15,4 +16,4 @@ The Solar draws her weapon and hurls it with blazing speed. This Charm allows th
 
 ### On Spitting Hand Technique
 
-Novia drunkenly tangled her bandoliers on a chair and insteadhurledeverybottleandglassoffthebaratherassailant, whirling, spinning, making blind around-the-back throws, every glass arcing and connecting until her attacker fled.
+Novia drunkenly tangled her bandoliers on a chair and instead hurled every bottle and glass off the bar at her assailant, whirling, spinning, making blind around-the-back throws, every glass arcing and connecting until her attacker fled.

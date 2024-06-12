@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 4m, 2i, 1wp
 Mins: Essence 2
 Type: Simple

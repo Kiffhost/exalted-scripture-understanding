@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Simply put, a battle group is treated as a character with the traits of the average combatant making up the group, plus a few other traits which modify these capabilities.
 
 Battle groups are an abstraction used whenever there are more than two combatants on the battlefield who are reasonably similar to one another in terms of capabilities and equipment, who aren’t especially noteworthy to the story as individuals, and who aren’t potent supernatural beings such as Exalts. Battle groups can represent small groups, such as a squad of a dozen of the Tri-Khan of Chiaroscuro’s palace guards, or vast forces such as 1,000 men-at-arms riding to war.

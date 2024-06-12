@@ -1,7 +1,8 @@
 ---
 tags:
-    - object
-    - Artifact
+  - object
+  - Artifact
+  - source/arms-book
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 5)
 WeaponTags:
@@ -10,7 +11,7 @@ WeaponTags:
   - Balanced
 Hearthstone slots: 3
 Era: War of the Gods
-Special: Stormcaller can be wielded while sheathed, gain- ing the Bashing tag instead of Lethal. 
+Special: Stormcaller can be wielded while sheathed, gain- ing the Bashing tag instead of Lethal.
 ---
 The storm demon Akavadra was among the mightiest enemies that the Exalted faced in the Divine Revolution. The demon trampled armies beneath dancing feet of lightning, cast great winds to scuttle the armadas of the gods, and slew even the Chosen with her spear of lightning. In the end, it took a saint to defeat the devil. Stone Leaf Kon walked through Akavadra’s storms unscathed, made untouchable to the demon’s fury by virtue of his pure heart. He could not strike her down — for he had sworn an oath against killing — but instead bound her in a sealing circle, and began to speak. Though he could not win the demon to his own ethics, he convinced her to consent to being bound away in a daiklave, so that she might witness the deeds of heroes across the ages and finally make up her mind. Broken Thunder, the Twilight of Kon’s Circle, folded layers after countless layers of orichalcum around Akavadra’s demonic Essence, perfecting the internal geometries of the weapon’s composition to seal away the devil. The blade was slender, an elegant and curving sword, but its weight is far greater than it should be even in an attuned master’s hands — the spiritual pressure of Akavadra’s malice. To abate this, Broken Thunder forged a scabbard of white jade to contain Stormcaller and ground its power. Even so, the blade must be purified with rice wine at each new moon to keep the storm demon’s wrath at bay. Stone Leaf Kon never drew Stormcaller from its sheath. Instead, he passed it onto the young reincarnation of his Circle’s Dawn, Rusal Ji, hoping that both hero and demon mightlearnfromeachother.Youngandimpetuous,Rusal became a favorite of Akavadra, unleashing her lightning indiscriminately to satisfy his own rage. He burned the sacred grove of Jupiter to the ground to roust an enemy of the gods that had taken shelter there, cut down the legions of two nations in a single battle to win a passing fancy’s heart, and drove the six-eyed mystics of the Karsi tribe to extinction to satisfy his anger after being rejected. He died at the hands of his own Circle’s Night, who could no longer stand these atrocities. Heartbrokenandguilty,StoneLeafKonsealedStormcaller away, locking it inside a one-ton puzzlebox of white jade that’s buried in a dungeon filled with death traps, sorcerous wardings, and bound demons. Though the Sidereal Exalted searched frantically for the daiklave in their preparations for the Usurpation, they never found its hiding place. They keep a watchful eye out for any sign of the seal being broken and Stormcaller returning to the world. 
  

@@ -1,6 +1,8 @@
 ---
 aliases:
   - command actions
+tags:
+  - source/solar-book
 ---
 [[Battle group]]s are mostly self-contained and self-directed entities, under the Storyteller’s control—even battle groups allied with or “owned by” players’ characters. Sometimes, however, individual heroes wish to exercise more direct command over a battle group. This is done with command actions.
 

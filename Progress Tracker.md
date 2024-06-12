@@ -5,12 +5,16 @@ kanban-plugin: basic
 
 Very next steps, each completable within 1 day - 1 week
 
-- [ ] add source tags
-	- [ ] solar charms
-	- [ ] items
-	- [ ] sorceries
-	- [ ] other
 - [ ] Add ability links to WeaponTags
+- [ ] Import
+	- [ ] Many Faced Strangers 
+		- [ ] Charms
+		- [ ] Martial arts
+		- [ ] Sorcery
+		- [ ] Evocations
+	- [ ] Dragon-blooded Heirs to the Shogunate 
+		- [ ] Charms
+		- [ ] Evocations
 - [ ] Rules
 	- [x] Charms
 	- [x] Sorcery
@@ -26,6 +30,9 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Dragon-Blooded Stuff
 		- [ ] Exigent Charm Creation
 	- [ ] [[Mortal]] Exaltation
+- [ ] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
+	- [ ] *Direct script to import rather than JSON*
+	- [ ] Make txt importers for each full charmset
 
 
 # Medium Term
@@ -38,7 +45,8 @@ Overarching goals, completable within 1 month
 	- [ ] Locations
 	- [ ] Factions
 	- [ ] Historical Events
-- [ ] Bestiary
+- [ ] Put all collected sidebars into appropriate rules
+- [ ] Bestiary?
 - [ ] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar
@@ -46,7 +54,7 @@ Overarching goals, completable within 1 month
 	- [ ] Lunar
 	- [ ] Sidereal
 	- [x] Martial Arts
-- [ ] Sharing system
+
 
 # Long Term
 
@@ -57,10 +65,6 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [ ] Script which adds (or accelerates adding) a charm's rules into a json
 - [ ] Make a foundry module to access compendia
 	- [ ] Compatible with [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3)
-- [ ] Make some music for the game
-	- [ ] Battery of motifs
-	- [ ] Select DAW or musescore bounce
-	- [ ] Compose full themes
 - [ ] [More Solar Occult Sorcery Charms?](https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)
 # Completed
 
@@ -115,3 +119,12 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Sidereal
 	- [x] Exigent
 	- [x] Mortal
+- [x] add source tags
+	- [x] solar charms
+	- [x] items
+		- [x] Hearthstones
+		- [x] Grand Panoply
+		- [x] Mortal Weapons/armour
+		- [x] Ships
+	- [x] sorceries
+	- [x] other

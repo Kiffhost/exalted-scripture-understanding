@@ -56,7 +56,7 @@ Assign up to 13 dots to [[Merits]].
 - [[Merits#Story|Story Merits]] may be purchased now, or with Storyteller permission.
 - [[Merits#Purchased|Purchased Merits]] may be purchased at any time.
 
-If you chose the Dynast, Prasadi or Lookshyan Background, assign 5 additional dots among: [[Backing]], [[Traits/Merits/Command]], [[Contacts]], [[Followers]], [[Influence]], [[Language]], [[Resources]], and [[Retainers]]. 
+If you chose the Dynast, Prasadi or Lookshyan Background, assign 5 additional dots among: [[Backing]], [[Merits/Command]], [[Contacts]], [[Followers]], [[Influence]], [[Language]], [[Resources]], and [[Retainers]]. 
 
 Some Merits can make different options for charms available:
 - [[Artifact]] may allow Evocations.

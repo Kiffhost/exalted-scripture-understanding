@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 8m, 1wp, 2a from Sea’s Verdict (2i per enemy)
 Mins: Essence 3
 Type: Simple

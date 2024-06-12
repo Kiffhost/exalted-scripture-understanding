@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 When helping players create custom Charms, Storytellers should keep the following rules of thumb in mind. 
 
 # Efficiency

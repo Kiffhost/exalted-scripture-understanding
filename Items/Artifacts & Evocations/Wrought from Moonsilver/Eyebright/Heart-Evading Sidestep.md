@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Lunar
+  - source/lunar-book
 Cost: 1i
 Mins: Essence 1
 Type: Reflexive

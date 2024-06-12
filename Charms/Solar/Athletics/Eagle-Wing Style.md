@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 5m, 1wp
 Mins: Athletics 5, Essence 3
 Type: Reflexive

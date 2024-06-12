@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 While this book devotes itself to the greater magic of the Exalted—Charms, Evocations, and Sorcery—there is a fourth type of power, a species of unique occult miracles and holistic, ritualized magic known collectively as thaumaturgy. As a form of magic, it is nowhere near as versatile as the Charms of the Exalted, nor as powerful as sorcery. 
 
 Just as thaumaturgists (most of whom are mortals) are unique individuals, so too are their rituals. This means that the instinctive secret or trick developed by one thaumaturgist might be completely unique to him, unseen in the world before his birth, and lost to the world after his death—unless he passes it on.

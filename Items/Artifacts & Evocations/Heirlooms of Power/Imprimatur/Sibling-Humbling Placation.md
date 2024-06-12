@@ -2,8 +2,9 @@
 tags:
   - evocation
   - Dragon-Blooded
+  - source/dragon-book
 Cost: 3m, 2 Renown
-Mins: Essence 1; 
+Mins: Essence 1;
 Type: Supplemental
 Keywords:
   - Decisive-only

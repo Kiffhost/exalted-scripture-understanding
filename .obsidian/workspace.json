@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f38d5ec18f84e10",
+            "id": "8067dba90dd19f76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/START HERE.md",
+                "file": "Items/Hearthstones/Sidereal/Exorcist's Jewel/Exorcist’s Jewel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "cf40f65264b30f62",
+            "id": "8bd2cba465a9efe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Merits/Wings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8bfc027a716fc822",
+            "id": "d4aa7470acfeabe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Traits/Flaws.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "8f7904c8ba275ea0",
+            "id": "76e4f4fbbe2400e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Anima/Lunar Castes/Casteless.md",
+                "file": "Character Creation/Lunar Exalted.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Character Creation/Lunar Exalted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Character Creation/Lunar Exalted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Character Creation/Lunar Exalted.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Character Creation/Lunar Exalted.md"
               }
             }
           },
@@ -225,44 +225,45 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8bfc027a716fc822",
+  "active": "76e4f4fbbe2400e3",
   "lastOpenFiles": [
-    "Character Advancement.md",
-    "Character Creation/Sidereal Exalted.md",
-    "^1.md",
-    "Traits/Anima/Sidereal Castes/Chosen of Endings.md",
-    "Traits/Anima/Sidereal Castes/Chosen of Secrets.md",
-    "Traits/Anima/Sidereal Castes/Chosen of Battles.md",
-    "Rules Reference/Strategic Maneuver.md",
-    "Traits/Anima/Sidereal Castes/Chosen of Serenity.md",
-    "Traits/Anima/Sidereal Castes/Chosen of Journeys.md",
-    "Traits/Anima/The Anima Banner.md",
-    "Traits/Anima/Dragon-Blooded Aspects/Air Aspect.md",
+    "Items/Hearthstones/Sidereal/Exorcist's Jewel/Exorcist’s Jewel.md",
     "Progress Tracker.md",
-    "Character Creation/START HERE.md",
-    "Traits/Anima/Solar Castes/Eclipse.md",
-    "Traits/Anima/Solar Castes/Night.md",
-    "Traits/Anima/Solar Castes/Twilight.md",
-    "Traits/Anima/Solar Castes/Zenith.md",
-    "Traits/Anima/Solar Castes/Dawn.md",
-    "Traits/Anima/Dragon-Blooded Aspects/Wood Aspect.md",
-    "Traits/Anima/Dragon-Blooded Aspects/Water Aspect.md",
-    "Traits/Anima/Dragon-Blooded Aspects/Fire Aspect.md",
-    "Traits/Anima/Dragon-Blooded Aspects/Earth Aspect.md",
-    "Traits/Anima/Lunar Castes/Casteless.md",
-    "Traits/Anima/Lunar Castes/Changing Moon.md",
-    "Traits/Anima/Lunar Castes/No Moon.md",
-    "Traits/Anima/Lunar Castes/Full Moon.md",
+    "Charms/Charm Keywords.md",
+    "Templates/weapon.md",
+    "Templates/artifact weapon.md",
+    "Items/Mortal Weapons & Armour/Item Tags.md",
+    "Items/Materials.md",
+    "Items/Hearthstones/Hearthstone Keywords.md",
+    "Templates/hearthstone.md",
+    "Templates/evocation.md",
+    "Templates/charm.md",
+    "Exaltation.md",
+    "Character Creation/Mortal.md",
+    "Celestial Bureaucracy.md",
+    "Rules Reference/Excellencies.md",
+    "Rules Reference/Charms.md",
+    "Templates/ship.md",
+    "Templates/common disease.md",
+    "Rules Reference/Environment/Environmental Hazards.md",
+    "Rules Reference/Social/Instill.md",
+    "Rules Reference/Social/Social Influence.md",
+    "Arcane Fate.md",
+    "Traits/Limit/Limit.md",
+    "Traits/Limit/Limit Trigger.md",
+    "Traits/Limit/Monstrous Urges/Avaricious Hoard-Beast Craving.md",
+    "Traits/Limit/Celestial Hubris/Doomsayer’s Warning.md",
+    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
+    "Items/Hearthstones/Sidereal/Exorcist's Jewel",
+    "Items/Hearthstones/Solar/Key of Mastery",
+    "Items/Hearthstones/Water/The Freedom Stone",
+    "Items/Hearthstones/Water/Stone of Aquatic Prowess",
+    "Items/Hearthstones/Fire/Gem of Perfect Mobility",
+    "Items/Hearthstones/Fire/Candent Carbuncle",
+    "Items/Hearthstones/Earth/Caryatid Orb",
+    "Items/Hearthstones/Air/Gem of Sapphire and Emerald",
+    "Lunars",
     "Autogen/Untitled",
-    "Items/Hearthstones/Sidereal",
-    "Items/Hearthstones/Lunar",
-    "Items/Hearthstones/Abyssal",
-    "Items/Hearthstones/Solar",
-    "Items/Hearthstones/Wood",
-    "AAAA",
-    "Items/Hearthstones/Water",
-    "Items/Hearthstones/Fire",
-    "Items/Hearthstones/Earth",
     "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
     "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
     "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
@@ -271,7 +272,6 @@
     "Charms/Dragon-Blooded/Resistance/Dragon-Blooded Resistance Charm Tree.canvas",
     "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
     "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
-    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas"
+    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas"
   ]
 }

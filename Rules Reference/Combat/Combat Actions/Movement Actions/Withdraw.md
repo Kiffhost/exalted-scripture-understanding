@@ -2,6 +2,7 @@
 tags:
   - Action/combat
   - Action/movement
+  - source/solar-book
 ---
 This action is used to escape from the battlefield completely, losing any pursuit that may be following. It is an [[Action#Extended|extended]] (Dexterity + Athletics) roll, difficulty 1, goal number 10, interval one round. It may only be attempted if the character is at [[Range#Medium]] or greater from all opponents. 
 

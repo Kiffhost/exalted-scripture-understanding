@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/social/influence
+  - source/solar-book
 aliases:
   - persuasion
 ---

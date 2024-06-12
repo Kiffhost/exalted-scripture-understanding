@@ -2,6 +2,7 @@
 tags:
   - object
   - Ship
+  - source/solar-book
 Speed: Current +1, sail +2, oars +2, no marines aboard +1
 Maneuverability: "+2"
 Hull: -1/-2/-4/Incapacitated

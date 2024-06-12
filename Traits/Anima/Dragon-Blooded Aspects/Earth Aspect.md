@@ -1,6 +1,7 @@
 ---
 tags:
   - Dragon-Blooded
+  - source/dragon-book
 ---
 Earth is the foundation of Creation, the mighty pillar that upholds all things. Earth is unassailable, enduring both physical force and the taint of chaos. Its stability keeps the balance of the world, from the mountains that have weathered centuries unchanged to the purity of cold iron. When storms fade, rivers dry up, fires burn out, and forests die, only the unforgiving earth remains. 
 

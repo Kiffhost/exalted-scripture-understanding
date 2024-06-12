@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 Duration: Session
 ---
 The Lunar destroys illusions of stability and security, a trickster-mentor revealing harsh truths. She conveys these lessons by intervening in Storyteller characters’ lives to sow discord, create problems, and incite chaos.

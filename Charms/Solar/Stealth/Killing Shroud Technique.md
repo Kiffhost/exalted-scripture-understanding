@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: 5m, 1wp
 Mins: Stealth 5, Essence 2
 Type: Reflexive

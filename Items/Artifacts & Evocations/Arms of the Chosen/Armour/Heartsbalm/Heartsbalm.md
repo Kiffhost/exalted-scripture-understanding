@@ -1,13 +1,14 @@
 ---
 tags:
-    - object
-    - Artifact
+  - object
+  - Artifact
+  - source/arms-book
 Attunement: 6m
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
 WeaponTags:
   - None
 Hearthstone slots: 2
-Era: Falling Stars Interregnum 
+Era: Falling Stars Interregnum
 ---
 The love song of Laughing Sky and Oak Ring Prince is one of Creation’s greatest romances, still sung by skalds and storytellers millennia after their death. The seventh lay of their cycle tells how the bold Oak Ring Prince sustained a grievous scar after defending his husband from a behemoth’s envenomed talons. Laughing Sky swore not to rest until he’d forged armor to keep his beloved safe and redouble the beauty he had lost. From that day forward, Oak Ring Prince wore Heartsbalm into every battle, making him as invincible as his love for Laughing Sky. Their romance tells of the incredible perils that he withstood for love’s sake, from single-handedly holding off the legions of the Chatoyant Sovereignty to braving the Thousand Razors Labyrinth to free his husband from Hell. After the Oak Ring Prince’s final battle against the Usurpation forces at the Calibration Feast, Laughing Sky took up his armor in a revenge-driven rampage against his killers. 
  

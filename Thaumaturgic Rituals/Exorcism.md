@@ -2,6 +2,7 @@
 Dots: 1 or 2
 tags:
   - Thaumaturgy
+  - source/solar-book
 ---
 With the one dot ritual the exorcist may attempt to banish a ghost with chanting, ritual gestures, and a variety of mystical appurtenances. She may pay one Willpower to begin an extended action with a difficulty of the ghost’s Essence and a goal number of its Willpower, rolling (Intelligence + Occult) dice at each interval. Each roll is a combat action that cannot be placed in a flurry. She must remain within short range of the ghost she’s exorcising, which takes a -3 penalty on all actions while the exorcism is underway. Success dispatches it back to the Underworld. The exorcist must maintain concentration, and automatically fails if she is damaged by a decisive attack or crashed. 
 

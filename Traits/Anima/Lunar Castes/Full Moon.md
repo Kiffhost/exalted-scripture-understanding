@@ -1,6 +1,7 @@
 ---
 tags:
   - Lunar
+  - source/lunar-book
 ---
 The moon’s radiance pierces night’s depths, illuminating unspeakable horrors that stalk their prey under cover of darkness. Though monsters may skulk in the shadows’ safety, the Full Moons will hunt them down wherever they cower, dragging them into the cold light of Luna’s judgement.
 

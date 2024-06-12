@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Across Creation, sorcerers are known and feared as figures of great and dangerous power, said to be capable of slaying a man with a gesture or calling up storms with a glance. The magic of sorcery is fundamentally different from Charms. A Charm is an expression of the Exalt’s own Essence. Sorcery is the art of shaping the Essence of the world itself, willing it into accordance with the sorcerer’s whims. To work sorcery is to command essential forces, consort with strange spirits, and call up impossible wonders.
 
 The powers of sorcery are divided into [[#spells]] and [[sorcerous workings]]. A spell is a discrete power with a defined cost and effects. Sorcerous workings, on the other hand, are great feats and projects. 

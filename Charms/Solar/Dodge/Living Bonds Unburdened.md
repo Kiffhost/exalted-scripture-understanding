@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m, 3i +1m, 1i per hl
 Mins: Dodge 5, Essence 3
 Type: Simple

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Shaping rituals are an abstraction of the many and varied ways a sorcerer might gain [[Sorcery#Motes]]. 
 
 #custom/note: shaping rituals do not have names. Names presented here and elsewhere are purely for convenience of file reference.

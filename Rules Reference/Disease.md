@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 # TLDR
 When a character is first exposed to a vector of disease, they roll (Stamina + Resistance) against that disease’s [[#virulence]]. On a successful roll, they avoid succumbing to the sickness. On a failed roll, they contract the disease at the level of a [[#minor symptom]]. 
 

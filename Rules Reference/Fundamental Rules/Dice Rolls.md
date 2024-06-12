@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Exalted uses a d10s successes system. Whenever a character attempts something that they might fail at, they make a dice roll, rolling a number of d10s equal to their [[#Dice Pool]]. If there are more [[#Successes]] than the [[#Target Number]], then the roll (and the attempt) *succeeds*, if not then it *fails*, rarely resulting in [[#Botch]].
 
 ## Dice Pool

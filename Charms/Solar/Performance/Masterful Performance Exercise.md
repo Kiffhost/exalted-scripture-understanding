@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 2m
 Mins: Performance 3, Essence 1
 Type: Supplemental

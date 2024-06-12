@@ -1,6 +1,7 @@
 ---
 tags:
   - Action/combat
+  - source/solar-book
 ---
 Sometimes a character needs to get out of a fight, but surrender isn’t an option and the hopes of escaping by way of a [[withdraw]] action seem slim. In these situations, the character may attempt to escape the fight by going to ground.
 

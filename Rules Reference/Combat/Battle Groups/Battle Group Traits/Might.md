@@ -2,6 +2,7 @@
 tags:
   - trait/group
   - trait/combat
+  - source/solar-book
 ---
 Might is an uncommon trait in the Age of Sorrows, measuring the supernatural power of a [[battle group]]. A battle group only possesses might if the average member composing it is supernaturally powerful in some martially relevant fashion. As a result, the overwhelming majority of battle groups have Might 0; very few battle groups with Might above 2 have been fielded since the founding of the Realm. Might goes from 0 to 3, and adds to the [[accuracy]], [[Attack#raw damage|damage]], and [[Defense]] of a unit.
 # Might 0

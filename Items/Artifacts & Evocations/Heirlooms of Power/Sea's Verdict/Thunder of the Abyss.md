@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Dragon-Blooded
+  - source/dragon-book
 Cost: —(+1-3a from Sea’s Verdict)
 Mins: Essence 4
 Type: Permanent

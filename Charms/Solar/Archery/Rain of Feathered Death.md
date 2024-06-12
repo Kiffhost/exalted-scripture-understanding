@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m per duplicate, 1wp
 Mins: Archery 5, Essence 3
 Type: Simple

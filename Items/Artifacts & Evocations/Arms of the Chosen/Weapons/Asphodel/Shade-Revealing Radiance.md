@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: 5m, 1wp
 Mins: Essence 2
 Type: Simple

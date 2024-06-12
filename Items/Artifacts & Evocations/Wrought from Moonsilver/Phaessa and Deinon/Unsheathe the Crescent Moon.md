@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Lunar
+  - source/lunar-book
 Cost: 1m, 1i (+1a)
 Mins: Essence 1
 Type: Reflexive
@@ -10,7 +11,7 @@ Keywords:
   - Resonant
 Duration: Instant
 Prerequisite Charms:
-  -  None
+  - None
 ---
 As the wielder’s combat stance shifts, Phaessa and Deinon follow suit. After successfully rushing a nontrivial opponent, she may activate this Evocation to make the swords waxing. After successfully establishing concealment against at least one nontrivial enemy, she may make the swords waning. 
 

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 5m per 1wp
 Mins: Integrity 3, Essence 2
 Type: Reflexive

@@ -1,6 +1,7 @@
 ---
 tags:
   - Stratagem/naval/boarding
+  - source/solar-book
 Cost: 8 Momentum
 Roll:
   - "[[Maneuverability]]"

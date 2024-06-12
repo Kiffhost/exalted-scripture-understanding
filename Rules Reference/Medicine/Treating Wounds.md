@@ -1,6 +1,7 @@
 ---
 tags:
   - Action
+  - source/solar-book
 ---
 While mundane medicine can do little to speed the healing of actual wounds, certain procedures can drastically increase the likelihood of survival for the injured. 
 

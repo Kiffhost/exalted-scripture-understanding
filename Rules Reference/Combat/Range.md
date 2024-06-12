@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 The [[accuracy]] of ranged weapons generally varies with range.
 
 There are several range categories that two characters can potentially occupy in relation to one another:

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: —(3m)
 Mins: Brawl 5, Essence 1
 Type: Permanent

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-miracles-book
 Cost: —
 Mins: Survival 5, Essence 5
 Type: Reflexive

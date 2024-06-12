@@ -1,13 +1,14 @@
 ---
 tags:
-    - object
-    - Artifact
+  - object
+  - Artifact
+  - source/arms-book
 Attunement: 3m
 Type: NotAWeapon
 WeaponTags:
   - None
 Hearthstone slots: 0
-Era: Before Interregnum 
+Era: Before Interregnum
 ---
 In Joyous Lance’s youth, mounted raiders attacked her village. Unable to fight, her parents and neighbors dead or dying, she seized her infant brother Sand and ran with him for safety. Heart hammering and racing, she was pressed beyond endurance as she fled and dodged — until she Exalted, and left her galloping pursuers far behind. Years later, upon learning that Sand’s caravan was raided by the Fair Folk, Joyous Lance raced a thousand miles to his rescue, but lost his trail when his captors outpaced her into the Wyld. Ever after, she could not stand still. She cozened from Ruvia, god of roads, his ever-swift sandals, and had them forged into the soles of orichalcum boots that could outrace any quarry and trace any spoor. Thus shod, she vanished into the Wyld to rescue her brother. Sleek and aerodynamic, these orichalcum and simhataleather boots gleam brighter when in motion, eventually flashing and throwing sparks when their wearer moves with preternatural haste. They cost three motes to attune. 
  

@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 1sxp per cap increase, 1wxp
 Mins: Craft 5, Essence 3
 Type: Reflexive

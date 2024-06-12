@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Solar
+  - source/solar-book
 Cost: 3m per successful attack
 Mins: Essence 2
 Type: Reflexive

@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/solar-book
 ArmorType: Chain Shirt
 Material: Starmetal
 Dots: 4

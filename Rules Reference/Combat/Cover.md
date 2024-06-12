@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Cover raises a character’s [[Defense]] against attacks by 1 for [[#Light]] cover or 2 for [[#Heavy]] cover. [[#Full]] cover makes ranged attacks impossible. Attackers at close range also enjoy equal cover against attacks from the character in cover— crossing blades across a fence or around a tree is equally impairing for both parties.
 
 Cover is subject to common-sense limitations. A wall provides cover only to opponents on the other side, for example.

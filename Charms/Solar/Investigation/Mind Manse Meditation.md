@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 12m, 1wp
 Mins: Investigation 5, Essence 5
 Type: Simple

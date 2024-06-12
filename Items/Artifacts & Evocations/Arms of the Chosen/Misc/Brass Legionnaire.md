@@ -1,3 +1,7 @@
+---
+tags:
+  - source/arms-book
+---
 In the latter days of the First Age, Mizhra Starshaper forged five legions of brass soldiers for the Southern despot Her Blazing Majesty. Constructed without hearts, they policed districts and crushed rebellions with cold, clinical practicality. Knowing no personal loyalty, they obeyed anyone who spoke their command codes. When Her Blazing Majesty sought safety from the Usurpation behind the protection of her Brass Legionnaires, this proved her doom, as her own Dragon-Blooded lieutenants ordered the automatons to murder her as she slept.
 
 After the Usurpation, the Brass Legions were disbanded and ordered destroyed, for fear that their maker had — like many artificers and sorcerers — left behind some cunning mechanism for revenge. But certain ambitious or thoughtful Dragon-Bloods quietly failed to follow through, keeping the remaining legionnaires in reserve for the wars to come. Most were cached in hidden places across the South, used only rarely and in secret.

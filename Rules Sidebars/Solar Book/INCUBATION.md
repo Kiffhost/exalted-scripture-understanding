@@ -1,1 +1,5 @@
+---
+tags:
+  - source/solar-book
+---
 Most diseases don’t take effect instantly—instead, they incubate inside their victim’s bodies for hours, days, or even weeks before manifesting their symptoms. Rather than modeling this mechanically, the Storyteller can simply handle incubation by waiting until a dramatically appropriate moment to call for a character’s first roll to resist the disease. For example, while a circle of Exalted might first be exposed to malaria while trekking through a mosquito-ridden jungle, the Storyteller may choose to put off calling for rolls to resist the disease until they have reached the lair of the forbidden god who haunts the jungle, upping the stakes of the boss battle. Alternatively, he might wait until after they have successfully struck down the wicked spirit and returned to the nearest seraglio to celebrate their victory before calling for the roll, tarnishing their heroic victory with real world consequences.

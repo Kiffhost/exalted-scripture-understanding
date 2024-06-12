@@ -1,6 +1,8 @@
 ---
 aliases:
   - Hundred Rivers
+tags:
+  - source/dragon-book
 ---
 
 Hundred Rivers has a Minor Tie of kinship towards his master upon first being summoned. At the end of each session, this Intimacy is strengthened one step if the Storyteller deems he had a positive experience with his master at any point during it. If he had a negative experience he deems his master’s fault, the Tie instead weakens by one step, and he flees her side to wander the wilderness. She cannot summon him again with Beckon the Wandering Wolf until a week has passed. Hundred Rivers, like Daring Venture itself, yearns to explore Creation. He won’t enter buildings, and exhibits great discomfort on paved surfaces. He especially loves sweet citrus fruits.

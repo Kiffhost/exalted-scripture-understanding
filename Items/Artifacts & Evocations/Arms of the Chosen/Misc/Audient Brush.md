@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/arms-book
 Dots: 2
 Attunement: 1m
 Material: Orichalcum

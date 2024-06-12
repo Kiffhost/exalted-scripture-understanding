@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 3m, 1wp
 Mins: Occult 4, Essence 2
 Type: Simple

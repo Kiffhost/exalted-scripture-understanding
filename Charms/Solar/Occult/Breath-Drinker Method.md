@@ -2,6 +2,7 @@
 tags:
   - charm
   - Solar
+  - source/solar-book
 Cost: 4i
 Mins: Occult 4, Essence 2
 Type: Supplemental

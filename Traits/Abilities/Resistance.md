@@ -2,6 +2,7 @@
 tags:
   - trait
   - Ability/combat
+  - source/solar-book
 ---
 **This Ability is important in combat.** 
 

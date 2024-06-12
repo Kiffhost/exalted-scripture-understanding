@@ -1,3 +1,7 @@
+---
+tags:
+  - source/solar-book
+---
 Workings require considerable time and effort to complete, and their expansive scope often requires the Storyteller and the sorcerer’s player to work together in defining its precise effects.
 
 Sorcerous workings allow characters to permanently reshape the world through their occult skill, enacting blessing, curses, or transformations. Renewing the fertility of a barren field, creating life in a vat of alchemical reagents, raising a city up from its foundations to sit in the sky— all of these miracles can be achieved through sorcerous workings.

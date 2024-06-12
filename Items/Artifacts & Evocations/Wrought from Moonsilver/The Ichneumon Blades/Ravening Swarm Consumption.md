@@ -2,6 +2,7 @@
 tags:
   - evocation
   - Lunar
+  - source/lunar-book
 Cost: 8m, 4i, 1wp
 Mins: Essence 3
 Type: Simple

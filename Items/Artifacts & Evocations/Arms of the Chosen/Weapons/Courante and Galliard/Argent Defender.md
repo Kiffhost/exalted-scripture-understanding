@@ -1,6 +1,7 @@
 ---
 tags:
   - evocation
+  - source/arms-book
 Cost: —
 Mins: Essence 1
 Type: Permanent
@@ -8,7 +9,7 @@ Keywords:
   - Resonant
 Duration: Permanent
 Prerequisite Charms:
-  - "None (Galliard only)"
+  - None (Galliard only)
 ---
 Galliard: Swift to Assist. Whenever the Exalt successfully defends her swordsibling with a defend other action, she gains one Initiative. 
 

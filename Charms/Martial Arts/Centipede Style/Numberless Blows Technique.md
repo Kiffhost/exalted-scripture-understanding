@@ -2,6 +2,7 @@
 tags:
   - charm
   - Lunar
+  - source/lunar-book
 Cost: —(+7m, 3a)
 Mins: Martial Arts 5, Essence 3
 Type: Permanent

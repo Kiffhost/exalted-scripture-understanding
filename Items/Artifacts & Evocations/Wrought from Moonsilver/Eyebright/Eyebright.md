@@ -2,6 +2,7 @@
 tags:
   - object
   - Artifact
+  - source/lunar-book
 ArmourType: Lamellar Armor
 Material: Moonsilver
 ArmourTags: 
