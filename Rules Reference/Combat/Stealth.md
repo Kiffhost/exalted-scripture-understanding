@@ -20,6 +20,6 @@ If the target chooses to cooperate, the hostage-taker’s Resolve and Guile are 
 # Surprise Attack 
 A surprise attack is an attack launched from hiding against an opponent who knows he’s in battle and who is actively on the lookout for attacks, even if he isn’t sure exactly where all of his opponents are at the moment. A target faced with a surprise attack suffers a -2 [[Defense]] penalty against that attack. 
 
-Attempting to re-establish surprise is a combat action that cannot be placed in a [[flurry]]. 
+Attempting to re-establish surprise is a combat action that cannot be placed in a [[Flurry]]. 
 
 A character in stealth cannot take [[Attack#Rush|Rush]] actions. If he wants to move normally in combat while maintaining concealment, he must have some adequate place to hide in the spot he’s moving to, and must make another [[Action#Reflexive|reflexive]] (Dexterity + Stealth) roll when he moves, to keep from being spotted while moving. If this movement crosses wide-open terrain with no appreciable cover, the Stealth roll’s penalty climbs from the usual -3 (for attempting stealth while already in combat) to -5.

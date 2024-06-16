@@ -4,9 +4,9 @@ tags:
   - trait/group
   - source/solar-book
 ---
-Size is simple—it measures how big a [[battle group]] is, in terms of how many fighters are in it. The greater a battle group’s Size, the harder it hits and the tougher it is; Size is the single greatest source of a battle group’s power. 
+Size is simple—it measures how big a [[Battle Group]] is, in terms of how many fighters are in it. The greater a battle group’s Size, the harder it hits and the tougher it is; Size is the single greatest source of a battle group’s power. 
 
-Battle groups enjoy a bonus to their [[attack]] rolls, [[Attack#raw damage|damage]], [[Magnitude Track|Magnitude]], and [[soak]] equal to their Size. Thus, a Size 3 battle group adds +3 to its attack pools, +3 to its raw damage, +3 to its soak, and has 3 extra points of Magnitude.
+Battle groups enjoy a bonus to their [[Attack]] rolls, [[Attack#raw damage|damage]], [[Magnitude Track|Magnitude]], and [[Soak]] equal to their Size. Thus, a Size 3 battle group adds +3 to its attack pools, +3 to its raw damage, +3 to its soak, and has 3 extra points of Magnitude.
 # Size 0
 One or two fighters. These should be modeled as individual combatants, not as a battle group. Any battle group reduced to Size 0 through Magnitude loss effectively ceases to exist—all of its members are either dead, fled, or surrendered. 
 # Size 1

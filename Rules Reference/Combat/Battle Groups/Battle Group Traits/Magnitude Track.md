@@ -5,9 +5,9 @@ tags:
 aliases:
   - Magnitude
 ---
-[[Battle group]]s don’t have [[Health Track]]s. Instead, they have a number of points of Magnitude equal to the number of health levels contained in the Health Track of the average fighter in the group (usually seven), plus their current [[Size]].
+[[Battle Group]]s don’t have [[Health Track]]s. Instead, they have a number of points of Magnitude equal to the number of health levels contained in the Health Track of the average fighter in the group (usually seven), plus their current [[Size]].
 
-When a battle group loses all of its Magnitude, it must check for [[rout]]. If the battle group survives its rout check, its Magnitude rating re-fills completely, and it loses a point of [[Size]]. Any damage in excess of the unit’s Magnitude Track during a rout check ‘rolls over’ into the new Magnitude Track—it’s even potentially possible for a strong enough attack to fill up this new track immediately, forcing another rout check!
+When a battle group loses all of its Magnitude, it must check for [[Rout]]. If the battle group survives its rout check, its Magnitude rating re-fills completely, and it loses a point of [[Size]]. Any damage in excess of the unit’s Magnitude Track during a rout check ‘rolls over’ into the new Magnitude Track—it’s even potentially possible for a strong enough attack to fill up this new track immediately, forcing another rout check!
 
 If a character causes a battle group to lose a point of Size or to dissolve, she gains an [[Initiative#Break]] bonus, just as though she’d sent an opponent into [[Initiative#Crash]].
 

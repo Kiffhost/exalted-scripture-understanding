@@ -6,7 +6,7 @@ Sometimes the world is trying to kill you outright—it’s unendurably cold, or
 
 Environmental hazards are presented with a **damage value**, an **interval**, and a **difficulty** for the associated [[#mitigation roll]].
 
-An environmental hazard’s **damage** is the number of dice rolled against characters subject to the hazard, as well as what kind of damage is being inflicted. ***This damage ignores [[soak]] and [[hardness]], and is applied directly to the character’s [[health track]], like a [[Attack#decisive|decisive attack]]***.
+An environmental hazard’s **damage** is the number of dice rolled against characters subject to the hazard, as well as what kind of damage is being inflicted. ***This damage ignores [[Soak]] and [[Hardness]], and is applied directly to the character’s [[Health Track]], like a [[Attack#decisive|decisive attack]]***.
 
 An environmental hazard’s **interval** denotes how often its damage is applied. If a hazard lists an interval of one round, it is applied to characters on their turn.
 

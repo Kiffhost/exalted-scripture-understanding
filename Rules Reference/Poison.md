@@ -24,7 +24,7 @@ The time between instances of [[#damage]] over the poison's [[#duration]].
 
 Note that most poisons that have an interval short enough to recur multiple times throughout a combat deal [[Initiative]] damage, rather than [[Health Track#Bashing|bashing]] or [[Health Track#Lethal|lethal]] damage. **In combat, poison damage is rolled at the end of a round, after all characters have acted**. 
 
-While a character is in [[Initiative#Crash]], Initiative poisons instead apply their damage directly to the character’s [[health track]]—usually as lethal damage, although some poisons may deal bashing damage, as noted in their description. 
+While a character is in [[Initiative#Crash]], Initiative poisons instead apply their damage directly to the character’s [[Health Track]]—usually as lethal damage, although some poisons may deal bashing damage, as noted in their description. 
 # Duration
 The base (usually worst-case) length of time that the poison lasts. 
 

@@ -19,7 +19,7 @@ Once a failure condition appears, it has to be dealt with somehow, or else the p
 
 Most often, a ruler will use her [[Merits]] to address the failure condition: the character draws on her Resources, calls in favors from [[Allies]], deploys [[Followers]] with skills well-suited to the situation, and so on. Finally, the character might attempt to address [[#failure conditions]] directly with her own Abilities and Charms, or through mighty sorcery. This is often an attractive option, given the prowess of the Exalted, but a leader off personally resolving problems may be neglecting other matters close to home.
 ### Advisors
-In courts with multiple advisors, this is resolved through the [[social influence]] system—a crisis is a ripe time for ambitious members of the court to attempt to bend a ruler’s ear and suggest solutions which will both salvage the project and help advance their own agendas.
+In courts with multiple advisors, this is resolved through the [[Social Influence]] system—a crisis is a ripe time for ambitious members of the court to attempt to bend a ruler’s ear and suggest solutions which will both salvage the project and help advance their own agendas.
 
 Contacts and advisors can also help the character learn more about the nuances of the failure condition before she attempts to address it, and knowledge is almost always helpful in resolving a crisis. 
 ## Step Four: Dealing With the Result
@@ -49,10 +49,10 @@ War, if not resolved quickly, can lead to: [[#Assassins]], [[#Enemies]], [[#Poli
 #### Enemies
 This often occurs when a project’s success (or failure) directly harms some powerful individual who develops a grudge over it. 
 
-Enemies will work against the leader’s interests when the opportunity presents itself, making failure conditions more common until they’re dealt with somehow. Some enemies can be won over through [[social influence]] or bribery; others must be dispatched with force. Of course, incautiously disposing of one enemy can lead to the appearance of others… 
+Enemies will work against the leader’s interests when the opportunity presents itself, making failure conditions more common until they’re dealt with somehow. Some enemies can be won over through [[Social Influence]] or bribery; others must be dispatched with force. Of course, incautiously disposing of one enemy can lead to the appearance of others… 
 
 Enemies, left to fester, could potentially lead to [[#Assassins]] or [[#War]].
 #### Assassins
 This often occurs as the result of trying to undertake projects while suffering the un-addressed consequences of previous projects, such as [[#political unrest]] or [[#enemies]]. Assassins represent direct attempts to take a leader’s life, or at the very least, remove her from power. These don’t tend to threaten [[#projects]] (although they can, if aimed at key personnel rather than the leader herself ) so much as they threaten the leader’s continued ability to draw breath, and are often confronted in combat scenes, when least expected. The Second Age is full of those willing to kill for money, and so resolving assassins is often contingent on resolving the pre-existing complication giving rise to them; simply killing the assassins may not be sufficient (although bribery might work).
 #### New Merits
-Sometimes complications are good. These often occur as a result of hands-on intervention, as the leader recognizes opportunities for gain outside the initial scope of the project and seizes them. New [[Merits]] often take the form of new [[Allies]] (won over through [[social influence]]), additional [[Resources]] (gained through quick and cunning action), or even [[Artifacts]] (seized from the battlefield).
+Sometimes complications are good. These often occur as a result of hands-on intervention, as the leader recognizes opportunities for gain outside the initial scope of the project and seizes them. New [[Merits]] often take the form of new [[Allies]] (won over through [[Social Influence]]), additional [[Resources]] (gained through quick and cunning action), or even [[Artifacts]] (seized from the battlefield).

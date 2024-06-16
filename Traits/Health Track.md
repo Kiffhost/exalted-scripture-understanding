@@ -8,7 +8,7 @@ aliases:
 ---
 Your character’s health track represents his current physical condition: how hurt he is right now, and how much punishment he can take before being rendered unconscious or dead. Characters can’t keep functioning at peak efficiency when wounded. The pain and mounting systemic damage of severe injuries can cripple even the hardiest warrior; this is represented in the form of [[#wound penalties]]. 
 
-Characters have seven levels in their health track: one -0 health level, two -1 health levels, two -2 health levels, one -4 health level, and one Incapacitated health level. Exalted characters can gain more health levels by purchasing the Charm [[Ox-Body Technique]].
+Characters have seven levels in their health track: one -0 health level, two -1 health levels, two -2 health levels, one -4 health level, and one Incapacitated health level. Exalted characters can gain more health levels by purchasing the Charm [[Charms/Solar/Resistance/Ox-Body Technique]].
 
 # Losing Health
 

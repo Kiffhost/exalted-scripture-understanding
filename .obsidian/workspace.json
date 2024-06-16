@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "d5cec0f9e28acf2b",
+    "id": "b72933b16ed16a7f",
     "type": "split",
     "children": [
       {
-        "id": "f0995c8ce077e808",
+        "id": "c8ede93a001d99ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8067dba90dd19f76",
+            "id": "10016b19b474f3d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Hearthstones/Sidereal/Exorcist's Jewel/Exorcist’s Jewel.md",
+                "file": "Constellations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "8bd2cba465a9efe3",
+            "id": "db058a9c488651d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merits/Wings.md",
+                "file": "Lore Sidebars/Realm Book/DYNASTIC WEDDINGS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "d4aa7470acfeabe0",
+            "id": "3b800fc9a13acaf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Flaws.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e4f4fbbe2400e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Creation/Lunar Exalted.md",
+                "file": "Hierarchy of the Realm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,31 +47,31 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9bc4d08a68799cf7",
+    "id": "1c701d3d11cb2c89",
     "type": "split",
     "children": [
       {
-        "id": "07975790ae996fdb",
+        "id": "efa76635d91e53ba",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5d214276320e48",
+            "id": "eb7e12047dcdaaf3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "654ff318f4cd4494",
+            "id": "f85bada80dbe5699",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,12 +81,12 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "59aad9b80729329d",
+            "id": "968eaec64089cf6e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,47 +97,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 300
   },
   "right": {
-    "id": "d3f03f9e2c185d65",
+    "id": "4b53c59ba61292de",
     "type": "split",
     "children": [
       {
-        "id": "7e9ef189849b1725",
+        "id": "4fc51fd5645173e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f681cbbf25eaff6e",
+            "id": "23da432eb9e70508",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/Lunar Exalted.md",
+                "file": "Hierarchy of the Realm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ac35b303648da84c",
+            "id": "02a25d6a67e6628b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/Lunar Exalted.md",
+                "file": "Hierarchy of the Realm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2cb6185f52419552",
+            "id": "ad11f3352f2560a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,59 +148,32 @@
             }
           },
           {
-            "id": "c8687db642245369",
+            "id": "fcd07002a6f01b6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/Lunar Exalted.md"
+                "file": "Hierarchy of the Realm.md"
               }
             }
           },
           {
-            "id": "19b2474784eea866",
+            "id": "a3cab215d0e3ce26",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "1de4e1116e1d7f9c",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Character Creation/Lunar Exalted.md"
-              }
-            }
-          },
-          {
-            "id": "1a8c5271dfe7db8a",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "19dfe583876070d4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -222,57 +182,56 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "76e4f4fbbe2400e3",
+  "active": "3b800fc9a13acaf0",
   "lastOpenFiles": [
-    "Items/Hearthstones/Sidereal/Exorcist's Jewel/Exorcist’s Jewel.md",
+    "Lore Sidebars/Realm Book/SORCEROUS SOCIETIES.md",
+    "Hierarchy of the Realm.md",
+    "Lore Sidebars/Realm Book/DYNASTIC WEDDINGS.md",
+    "Lore Sidebars/THE WRETCHED.md",
+    "Lore Sidebars/THE UNCLEAN.md",
+    "Lore Sidebars/THE BLASPHEMOUS.md",
+    "Lore Sidebars/THE DECEIVERS.md",
+    "Lore Sidebars/THE FACE-STEALERS.md",
+    "Lore Sidebars/THE FORSAKEN.md",
+    "Lore Sidebars/THE FRENZIED.md",
+    "Lore Sidebars/THE MOON-MAD.md",
+    "Lore Sidebars/Realm Book",
+    "Timeline of Creation.md",
+    "Realm Geography.md",
+    "Organisations of the Realm.md",
+    "Constellations.md",
     "Progress Tracker.md",
-    "Charms/Charm Keywords.md",
-    "Templates/weapon.md",
-    "Templates/artifact weapon.md",
-    "Items/Mortal Weapons & Armour/Item Tags.md",
-    "Items/Materials.md",
-    "Items/Hearthstones/Hearthstone Keywords.md",
-    "Templates/hearthstone.md",
-    "Templates/evocation.md",
-    "Templates/charm.md",
+    "The Solar Bond.md",
+    "Moonsilver Tattoos.md",
+    "generated_hierarchies_test.csv",
+    "generated_hierarchies.csv",
     "Exaltation.md",
-    "Character Creation/Mortal.md",
-    "Celestial Bureaucracy.md",
-    "Rules Reference/Excellencies.md",
-    "Rules Reference/Charms.md",
-    "Templates/ship.md",
-    "Templates/common disease.md",
-    "Rules Reference/Environment/Environmental Hazards.md",
-    "Rules Reference/Social/Instill.md",
-    "Rules Reference/Social/Social Influence.md",
     "Arcane Fate.md",
-    "Traits/Limit/Limit.md",
-    "Traits/Limit/Limit Trigger.md",
-    "Traits/Limit/Monstrous Urges/Avaricious Hoard-Beast Craving.md",
-    "Traits/Limit/Celestial Hubris/Doomsayer’s Warning.md",
-    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
-    "Items/Hearthstones/Sidereal/Exorcist's Jewel",
-    "Items/Hearthstones/Solar/Key of Mastery",
-    "Items/Hearthstones/Water/The Freedom Stone",
-    "Items/Hearthstones/Water/Stone of Aquatic Prowess",
-    "Items/Hearthstones/Fire/Gem of Perfect Mobility",
-    "Items/Hearthstones/Fire/Candent Carbuncle",
-    "Items/Hearthstones/Earth/Caryatid Orb",
-    "Items/Hearthstones/Air/Gem of Sapphire and Emerald",
-    "Lunars",
-    "Autogen/Untitled",
-    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Resistance/Dragon-Blooded Resistance Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
-    "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
-    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas"
+    "exalted-scripture-understanding/generated_hierarchies_test.csv",
+    "exalted-scripture-understanding/generated_hierarchies.csv",
+    "Thaumaturgic Rituals/Unquenchable Flame.md",
+    "Thaumaturgic Rituals/Speak with Ozashun.md",
+    "Thaumaturgic Rituals/Second Bread.md",
+    "Thaumaturgic Rituals/Exorcism.md",
+    "Thaumaturgic Rituals/Reading the Tea Leaves.md",
+    "Thaumaturgic Rituals",
+    "Lunar Shapeshifting/Tell.md",
+    "Lunar Shapeshifting",
+    "Lore Sidebars",
+    "Flaws",
+    "Traits/Limit/Virtue Flaws",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Wood Dragon Style/Wood Dragon Style.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Style.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Earth Dragon Style/Earth Dragon Tree.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Air Dragon Style/Air Dragon Tree.canvas",
+    "Charms/Martial Arts/White Veil Style/White Veil Style.canvas",
+    "Charms/Martial Arts/White Reaper Style/White Reaper Style.canvas",
+    "Charms/Martial Arts/Tiger Style/Tiger Style.canvas",
+    "Charms/Martial Arts/Steel Devil Style/Steel Devil Style.canvas",
+    "Charms/Martial Arts/Snake Style/Snake Style.canvas"
   ]
 }

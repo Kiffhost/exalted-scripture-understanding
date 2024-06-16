@@ -27,7 +27,7 @@ The just and cleansing nature of the Unconquered Sun burns powerfully in the Ess
 
 # Caste Abilities
 
-Zeniths are beacons of leadership, inspiring their people with words and deeds. They excel in [[Athletics]], [[Integrity]], [[Performance]], [[Traits/Abilities/Lore]], Presence, Resistance, Survival and War. 
+Zeniths are beacons of leadership, inspiring their people with words and deeds. They excel in [[Athletics]], [[Integrity]], [[Performance]], [[Lore]], Presence, Resistance, Survival and War. 
 
 # Associations
 

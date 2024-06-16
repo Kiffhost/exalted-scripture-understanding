@@ -2,7 +2,7 @@
 tags:
   - source/solar-book
 ---
-Repair works largely the same as creation—repairing a simple tool is a [[basic project]], while re-forging a broken sword is a [[major project]]. Repairing [[Artifact|artifacts]], similarly, requires a [[Superior Project|superior]] or [[legendary project]], although depending on how badly damaged the item is, the Storyteller may opt to set the goal number lower than if the character were forging the artifact anew. The Storyteller may also significantly reduce the minimum time spent working on repairs, again based on the severity of the damage. Unlike standard superior or legendary projects, artifact repairs have no [[Action#Extended#Terminus|terminus]].
+Repair works largely the same as creation—repairing a simple tool is a [[Basic Project]], while re-forging a broken sword is a [[Major Project]]. Repairing [[Artifact|artifacts]], similarly, requires a [[Superior Project|superior]] or [[Legendary Project]], although depending on how badly damaged the item is, the Storyteller may opt to set the goal number lower than if the character were forging the artifact anew. The Storyteller may also significantly reduce the minimum time spent working on repairs, again based on the severity of the damage. Unlike standard superior or legendary projects, artifact repairs have no [[Action#Extended#Terminus|terminus]].
 
 Repairing damage to structures such as manses or ships requires a series of major projects, as the character repairs damaged rooms or elements of the vessel one by one. Such repairs generally require hours or days of work. When dealing with ships, a single major project is sufficient to restore one lost hull point (p. 244).
 # Rewards

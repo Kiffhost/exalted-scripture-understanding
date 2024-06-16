@@ -2,7 +2,7 @@
 tags:
   - source/solar-book
 ---
-From repairing a wagon wheel to forging a [[daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
+From repairing a wagon wheel to forging a [[Daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
 # Elements of Crafting
 Crafting projects have two special concerns, described below: [[#Project Slots]] and [[#Crafting Experience]]. In brief, characters can only support a certain number of simultaneous crafting projects, which take a toll on their creative energies—these are abstracted into project slots. By contrast, successfully finishing projects renews the character’s inspiration and helps further her skill and ambitions, allowing her to take on greater numbers of projects and to see more difficult and demanding projects to completion. This is modeled as the character gaining crafting experience.
 # Crafting Experience
@@ -38,6 +38,6 @@ That Age is long gone today. In the Solars’ absence, the infrastructure they f
 </details>
 
 Creating and repairing such First Age wonders requires a depth of genius and resources largely unavailable in the current Age. It follows the same rules as [[Superior Project|creating]] or [[Repair|repairing]] any other [[Artifact]], with the following important exceptions: 
-- The character must perform these repairs and construction with the Craft (First Age Artifice) Ability. The character cannot begin buying this Ability unless she possesses Lore 5, Occult 5, Craft (Artifacts) 5, and is capable of at least [[Terrestrial Circle Sorcery]]. 
+- The character must perform these repairs and construction with the Craft (First Age Artifice) Ability. The character cannot begin buying this Ability unless she possesses Lore 5, Occult 5, Craft (Artifacts) 5, and is capable of at least [[Charms/Solar/Occult/Terrestrial Circle Sorcery]]. 
 - All crafting and repairs must be done with [[#Crafting Experience|white points]], regardless of the artifact’s dot rating. 
 - Each attempt to finish the project or to roll to repair such an artifact must generally be preceded by a sorcerous project (p. 483) to design key components or replacements for damaged parts (the Storyteller may opt to waive this requirement for very basic repairs). The most standard example is to use sorcery to craft a slate of solidified Essence which can be carved or fused into circuit-like channels, conductors for the artifact’s subtle miracles. Crafting or repairing an artifact rated 2 or 3 requires Terrestrial Circle workings, 4 and 5 require at least one Celestial Circle working in addition to Terrestrial Circle workings, and an N/A example of First Age artifice requires at least one Solar Circle working and multiple Celestial Circle workings.

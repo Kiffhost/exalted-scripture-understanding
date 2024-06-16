@@ -1,7 +1,3 @@
 {
-  "accentColor": "",
-  "cssTheme": "Material Gruvbox",
-  "theme": "moonstone",
-  "translucency": false,
-  "baseFontSize": 16
+  "cssTheme": "Obsidian gruvbox"
 }

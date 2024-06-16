@@ -1,6 +1,6 @@
 The fundamental magic of the Exalted, charms are a codified set of talents, tricks and techniques each of which are beyond the abilities of most mortals. Charms are a gameplay abstraction, a character in Creation might understand that some Exalted are particularly hard to kill, but they would not understand any reference to [[Charms/Solar/Resistance/Ox-Body Technique|Ox-Body Technique]] or similar. One exception to this is Martial Arts charms, which are taught from one Exalted to another, and named in so doing.
 # Charm Limitations
-Many Charms raise a character’s [[dice rolls#Dice Pool|dice pool]] or static values. Such increases have limits, which vary by [[#Charm Style]]. 
+Many Charms raise a character’s [[Dice Rolls#Dice Pool|dice pool]] or static values. Such increases have limits, which vary by [[#Charm Style]]. 
 
 **The only exception to this rule exists in the form of rare magic which adds “non-Charm” dice to certain rolls**.
 
@@ -24,7 +24,7 @@ In this table, Attribute or Ability refers to the relevant traits to the roll, o
 
 <sup>1</sup>Where listed, a relevant specialty in the associated ability adds 1 to the maximum. 
 
-<sup>2</sup>Where listed, stunted Attribute indicates that a Storyteller accepted [[stunt]] will allow second different attribute to be added to the total.
+<sup>2</sup>Where listed, stunted Attribute indicates that a Storyteller accepted [[Stunt]] will allow second different attribute to be added to the total.
 # Order of Operations
 Charms that reroll or otherwise remove numbers from a roll’s result perform this action before other Charms can act upon them. If an attacker’s Charm rerolls 1s, a defender’s Charm which turns 1s on the attack roll into negative successes will not function unless the Charm’s text specifically says that it does. 
 
@@ -51,15 +51,15 @@ One example of a rerolling Charm is [[Excellent Strike]], while [[Rumor of Form]
 ## Types
 Charms come in one of four types, which determine when and how the Charm can be used: [[#Simple]], [[#supplemental]], [[#reflexive]], or [[#permanent]].
 ### Simple
-A simple Charm counts as a [[combat action]] in and of itself, and obeys the normal timing rules of combat actions: it can only be used on the character’s turn. Simple Charms cannot be placed in a [[flurry]], and as a result, a character can only use one simple Charm per round. Simple Charms generally create actions using their governing Ability, unless otherwise indicated.
+A simple Charm counts as a [[Combat Action]] in and of itself, and obeys the normal timing rules of combat actions: it can only be used on the character’s turn. Simple Charms cannot be placed in a [[Flurry]], and as a result, a character can only use one simple Charm per round. Simple Charms generally create actions using their governing Ability, unless otherwise indicated.
 ### Supplemental
-Supplemental Charms enhance an [[action]], such as an [[attack]] roll, [[Crafting Projects|crafting]] roll, or [[social influence]] roll. Supplemental Charms can generally only benefit rolls using the Ability they’re listed under, unless otherwise stated. A character may use as many supplemental Charms as she desires during a round, so long as she is taking valid actions for them to enhance. She cannot, however, activate the same Charm on the same action multiple times to stack its effect.
+Supplemental Charms enhance an [[Action]], such as an [[Attack]] roll, [[Crafting Projects|crafting]] roll, or [[Social Influence]] roll. Supplemental Charms can generally only benefit rolls using the Ability they’re listed under, unless otherwise stated. A character may use as many supplemental Charms as she desires during a round, so long as she is taking valid actions for them to enhance. She cannot, however, activate the same Charm on the same action multiple times to stack its effect.
 ### Reflexive
-A reflexive Charm creates a [[Action#Reflexive|reflexive action]] or enhances a non-dice action, such as applying [[Defense]] against an [[attack]], or holding one’s breath. In some cases, such as reflexive Charms to anticipate surprise attacks or to passively notice hidden details, the character may not even realize she is using the Charm until she already has! 
+A reflexive Charm creates a [[Action#Reflexive|reflexive action]] or enhances a non-dice action, such as applying [[Defense]] against an [[Attack]], or holding one’s breath. In some cases, such as reflexive Charms to anticipate surprise attacks or to passively notice hidden details, the character may not even realize she is using the Charm until she already has! 
 
 Characters may use any of their reflexive Charms at any time, so long as it makes sense for them to do so, but they can’t “stack” enhancing reflexive Charms. Reflexive Charms which create attacks generally do so with the Ability they belong to, unless the governing Ability can’t normally attack or unless otherwise noted. Reflexive Charms which enhance static values may generally only enhance static values deriving from their governing Ability, unless otherwise indicated.
 ### Permanent
-A permanent Charm is just that—a permanent enhancement to the character’s prowess, normally costing nothing to enjoy and providing its benefits passively at all times. The best example of a permanent Charm is [[Ox-Body Technique]], which permanently grants characters additional health levels.
+A permanent Charm is just that—a permanent enhancement to the character’s prowess, normally costing nothing to enjoy and providing its benefits passively at all times. The best example of a permanent Charm is [[Charms/Solar/Resistance/Ox-Body Technique]], which permanently grants characters additional health levels.
 ## Duration
 With the exception of *permanent* Charms, any Charm with a duration longer than “instant” requires that any Essence spent on it be **committed**. **Committed** [[Essence]] is “tied up” for the listed duration of the Charm—it cannot be regained until the commitment has been released. Unless specified otherwise, Exalted can reflexively end any such charms by releasing the Essence sustaining them. This Essence can then be regained as normal.
 ## Prerequisite Charms

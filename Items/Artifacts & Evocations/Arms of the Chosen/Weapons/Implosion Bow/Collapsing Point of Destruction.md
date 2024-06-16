@@ -15,4 +15,4 @@ After a turn spent aiming, an implosion bow’s master can use this Evocation to
 
 ## Special activation rules
 
-This Evocation awakens at no cost when a character attunes to an [[implosion bow]].
+This Evocation awakens at no cost when a character attunes to an [[Implosion Bow]].

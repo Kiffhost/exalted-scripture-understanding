@@ -5,7 +5,7 @@ tags:
 ---
 Physicians can treat cases of poisoning by administering remedies and antivenins, hoping to neutralize the harmful venoms with their medical skill. Ordinarily, treating a victim of poisoning requires at least an hour and access to appropriate remedies. At the conclusion of the treatment, the physician rolls (Intelligence + Medicine) at a difficulty based on the severity of the poison—common or relatively harmless poison may be only difficulty 1 or 2 to treat, while life-threatening poisons, exotic venoms, and magical toxins might be difficulty 3 to 4. Every [[Dice Rolls#Threshold Successes|threshold success]] garnered on this roll reduces the duration of the poisoning by one [[Poison#Interval|interval]]. Multiple instances of treatment cannot stack their benefits—only the highest reduction of duration is applied.
 
-On the battlefield, there is rarely time to properly treat an ally wounded by a poisoned blade or a venomous monster. A physician can treat an ally for poison as a [[miscellaneous]] action, but doing so adds 2 to the difficulty of the roll, above and beyond any difficulty increases he might suffer for lacking access to proper medical materials.
+On the battlefield, there is rarely time to properly treat an ally wounded by a poisoned blade or a venomous monster. A physician can treat an ally for poison as a [[Miscellaneous]] action, but doing so adds 2 to the difficulty of the roll, above and beyond any difficulty increases he might suffer for lacking access to proper medical materials.
 
 <details>
 <summary>Example</summary>

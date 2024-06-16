@@ -11,7 +11,7 @@ Intimacies represent loves, hatreds, ideals, and goals—the things in this worl
 
 Intimacies come in three levels of intensity: [[#Minor]], [[#Major]], and [[#Defining]].
 
-Intimacies help characters to regain [[Willpower]], and govern what actions they can be persuaded to take via [[social influence]].
+Intimacies help characters to regain [[Willpower]], and govern what actions they can be persuaded to take via [[Social Influence]].
 # Rating
 
 Charms will sometimes become empowered by Intimacies, such as by granting a character extra strength to fight to protect his loved ones. In these circumstances, a Minor intimacy is "valued at" 2 points, Major 3 and Defining 4—thus, a Charm granting dice equal to an Intimacy’s rating would grant 3 dice if keying off of a Major Intimacy. 
@@ -33,7 +33,7 @@ Principles describe your character’s beliefs and ideals. Principles are genera
 # Gaining Intimacies
 
 Characters may gain new Intimacies in several ways, all subject to Storyteller approval. The key to changing Intimacies is that the change must make sense given the roleplaying going on during the scene and in the broader context of the story. Characters can’t gain beneficial new Intimacies if it doesn’t match how they’ve been played.
-- Intimacies can be created at Minor intensity or strengthened by one level by the [[social influence]] of other characters. 
+- Intimacies can be created at Minor intensity or strengthened by one level by the [[Social Influence]] of other characters. 
 - Whenever the player feels it is appropriate and the Storyteller agrees, the character may add a new Minor Intimacy or intensify an existing Intimacy at the end of a scene by one degree. 
 - In extraordinary situations, the character may gain a new Intimacy at Major or Defining Intensity based on the events of the story
 <details>
@@ -45,7 +45,7 @@ Because your Intimacies are the key to avoiding [[Social Influence|influence]] y
 # Losing Intimacies
 
 Losing Intimacies is similar to [[#Gaining Intimacies|gaining them]], and likewise subject to Storyteller discretion.
-- Intimacies can be degraded by one level or removed entirely (if Minor) by the [[social influence]] of other characters.
+- Intimacies can be degraded by one level or removed entirely (if Minor) by the [[Social Influence]] of other characters.
 - Whenever the player feels it is appropriate *and the Storyteller agrees*, the character may remove a Minor Intimacy or degrade an existing Major or Defining Intimacy at the end of a scene. Generally, this should follow several sessions in which the subject of the Intimacy hasn’t come up—characters should rarely drop or degrade an Intimacy right after it has been created, even if the Intimacy is undesirable. Alternately, this might follow several sessions showing the character resolving or working to conquer unwanted Intimacies, such as Intimacies of fear or hatred. 
 - Whenever the Storyteller judges that a player hasn’t reflected an Intimacy in her roleplaying for a while, she may declare that it has degraded or even disappeared completely. 
 This last point is mostly to keep characters from accumulating a lot of Defining Intimacies, which should be reflected in the character’s actions at least once per story. Few characters can sustain the kind of intensity needed for more than a small handful of Defining Intimacies, and the Storyteller’s pruning helps keep down the clutter.
@@ -64,7 +64,7 @@ If more than one Intimacy supports or opposes a social action, only the most rel
 For example, If you have a Major Tie of hatred against the Realm, and a Defining Tie of hatred toward Ragara Jirun, and Ragara Jirun tries to convince you to act in support of the Realm, both Intimacies would logically oppose the influence, but only the Defining Tie of “Ragara Jirun (Hatred)” boosts your Resolve, as it has the strongest intensity.
 </details>
 
-Sometimes [[Social influence]] is supported by one Intimacy and opposed by another at the same time. 
+Sometimes [[Social Influence]] is supported by one Intimacy and opposed by another at the same time. 
 <details>
 <summary>Example</summary>
 If Righteous Thorn has a Defining Tie of hatred toward the Realm, but the Major Principle “Violence solves nothing,” then an attempt to convince him to support an armed revolt against Realm occupation would face no bonus or penalty to his Resolve since the two cancel one another out (-3 for the Defining Intimacy in support, +3 for the Major Intimacy in opposition).

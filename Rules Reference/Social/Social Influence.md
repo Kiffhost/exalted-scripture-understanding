@@ -28,13 +28,13 @@ Each [[#Social Actions|social action]] has different conditions under which it m
 # Appearance
 While the [[Appearance]] Attribute may be rolled as part of social actions, it also has another function in social influence, granting a bonus against weak-willed characters. Those of low [[Resolve]] are more easily impressed and awed by striking, beautiful individuals, or easily [[Threaten|intimidated]] by the [[Hideous|profoundly ugly]].
 
-If a character’s Appearance rating is higher than his target’s Resolve, then he gains a dice bonus on all [[instill]] and [[Persuade|persuasion]] attempts against that individual equal to the difference. Thus, a character with Appearance 5 attempting to use a persuade action on an individual with Resolve 3 would gain a +2 bonus. This comparison is made before any bonuses to Resolve are factored in.
+If a character’s Appearance rating is higher than his target’s Resolve, then he gains a dice bonus on all [[Instill]] and [[Persuade|persuasion]] attempts against that individual equal to the difference. Thus, a character with Appearance 5 attempting to use a persuade action on an individual with Resolve 3 would gain a +2 bonus. This comparison is made before any bonuses to Resolve are factored in.
 
 If addressing a group (p. 220), compare Appearance to the average Resolve of the group (usually 2 or 3) to determine any appropriate bonus.
 # Social Complications
 A number of considerations may arise when winning friends and influencing people:
 ## One Target vs. Many Targets
-Sometimes, a character may wish to make a single [[influence roll]] against multiple characters. He can choose to target only a select group, or to apply the influence roll against anyone who hears him. However, people find it easier to ignore arguments that are not directly addressed to them. **Whenever an influence roll targets more than one character, it suffers a -3 penalty.**
+Sometimes, a character may wish to make a single [[Influence roll]] against multiple characters. He can choose to target only a select group, or to apply the influence roll against anyone who hears him. However, people find it easier to ignore arguments that are not directly addressed to them. **Whenever an influence roll targets more than one character, it suffers a -3 penalty.**
 
 Because the different targets of an influence roll can have varying [[Resolve]] ratings, the success or failure of the action is determined separately for each target.
 <details><summary>Example</summary>A Dawn Caste who rolls four successes to threaten a mercenary cadre into backing down from a fight might successfully intimidate the rank and file with Resolve 2, but not the unit’s God-Blooded leader with Resolve 5.</details>
@@ -45,7 +45,7 @@ The Ability used when rolling for a written social action is always [[Linguistic
 ## Gestures and Body Language
 When a character attempts to communicate through gestures, appearance, and body language alone, the target of such silent influence adds +2 to his [[Resolve]]. This is normally only useful for attempts at intimidation or seduction, but players are free to be creative and think up with other applications. Many things are impossible to communicate silently—no amount of hand-waving or quirked eyebrows can explain the intricacies of a First Age relic or the intricate politics of a Dynastic household. 
 
-This penalty doesn’t apply to any true [[Language#Sign languages|sign language]], or [[inspire]] actions using dance.
+This penalty doesn’t apply to any true [[Language#Sign languages|sign language]], or [[Inspire]] actions using dance.
 ## Overturning Influence
 <details><summary>Imagine this scenario—</summary>
 Rellus the Glorious Mantle of Dawn, warrior of the Dawn Caste, is speaking with his Lunar lover, who has a standing grudge against the Mask of Winters. She persuades him to round up his Marukani followers and ride against the Mask’s armies, using a persuade action. Upon hearing of his forces mobilizing, a Sidereal approaches Rellus and attempts to convince him that his planned war is ill-omened, and that he would be better off seeking allies rather than taking on the Deathlord alone. Rellus has already been persuaded—how to resolve this situation?

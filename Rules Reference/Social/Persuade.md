@@ -5,7 +5,7 @@ tags:
 aliases:
   - persuasion
 ---
-The persuade action allows you to convince other characters to perform an [[action]] or task that you give to them. The extent of the action you can compel with persuade depends on the Intimacies of your target.
+The persuade action allows you to convince other characters to perform an [[Action]] or task that you give to them. The extent of the action you can compel with persuade depends on the Intimacies of your target.
 
 Without an [[Intimacy]] to support your [[Social Influence#Influence roll|influence roll]], you can only convince others to take relatively trivial and riskfree actions—begging a coin from a passing stranger is about the limit. On the other hand, characters who have an appropriate Tie or Principle can be convinced to undertake great risks, dedicate their lives to a cause, or even die in your name. There are three categories of tasks characters might be asked to undertake, each based on the Intimacy being exploited:
 # Inconvenient Tasks
@@ -33,4 +33,4 @@ Characters who have a Defining Intimacy can be made to do almost anything. At th
 There are three ways to retry a failed persuade action. 
 - By making a different argument, playing on a different Intimacy of equal or greater strength. 
 - Wait and try again during the next story.
-- Wait until the Intimacy that supported your [[influence roll]] has been strengthened to a higher level of intensity—either by using a different social action to strengthen it, or by waiting until the character has strengthened it himself—and then try again.
+- Wait until the Intimacy that supported your [[Influence roll]] has been strengthened to a higher level of intensity—either by using a different social action to strengthen it, or by waiting until the character has strengthened it himself—and then try again.
