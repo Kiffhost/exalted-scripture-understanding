@@ -14,7 +14,7 @@ Not all spells can be distorted. If a spells states that it can be, the [[Action
 
 To use a **distort action**, the sorcerer needs to be within [[Range#Short|short range]] of the spell’s target or effect, and must be initiated into that spell’s circle. Attempting to distort a spell that the sorcerer does not know imposes a -2 penalty on all distortion rolls. Distortion is a [[Combat Action]] that cannot be placed in a [[Flurry]].
 # Undoing a Spell
-Sometimes, a sorcerer may want to completely revoke the effects of a long-term spell. Such feats require a [[Sorcery#Sorcerous Workings|sorcerous working]] of Ambition 3 and the same circle as the spell to be undone. 
+Sometimes, a sorcerer may want to completely revoke the effects of a long-term spell. Such feats require a [[Rules Reference/Sorcery/Sorcery#Sorcerous Workings|sorcerous working]] of Ambition 3 and the same circle as the spell to be undone. 
 
 #### #advice/storyteller 
 The Storyteller may adjust these guidelines to better suit the circumstances or narrative, making it harder or even impossible to dispel an effect if doing so would utterly undermine the functionality of that spell, or making it easier to undo effects that he feels the players should be able to remove more easily.

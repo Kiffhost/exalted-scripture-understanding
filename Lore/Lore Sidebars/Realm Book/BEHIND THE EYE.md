@@ -1,0 +1,3 @@
+Few are aware that several of the Eye’s handlers belong to the disgraced House Iselsi. These spies funnel information to their house elders, and without the Empress to leash them, they aim to suborn the rest of the Eye to the family’s service. 
+
+Fewer still have any inkling of the role the Bronze Faction of the Sidereal Exalted has played in the Eye since its inception. A few Sidereals in deep cover serve as intelligencers, deploying the Eye for their own mysterious ends.

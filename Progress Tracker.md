@@ -7,13 +7,8 @@ Very next steps, each completable within 1 day - 1 week
 
 - [ ] Add ability links to WeaponTags
 - [ ] Import
-	- [ ] Many Faced Strangers 
-		- [ ] Charms
-		- [ ] Martial arts
-		- [ ] Sorcery
-		- [ ] Evocations
 	- [ ] Dragon-blooded Heirs to the Shogunate 
-		- [ ] Charms
+		- [x] Charms
 		- [ ] Evocations
 - [ ] Rules
 	- [x] Charms
@@ -47,6 +42,7 @@ Overarching goals, completable within 1 month
 	- [ ] Historical Events
 - [ ] Put all collected sidebars into appropriate rules
 - [ ] Bestiary?
+	- [ ] Inhuman Charms
 - [ ] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar
@@ -54,6 +50,9 @@ Overarching goals, completable within 1 month
 	- [ ] Lunar
 	- [ ] Sidereal
 	- [x] Martial Arts
+- [ ] Mon svg/png
+	- [ ] Five Dragons
+	- [ ] Great Houses
 
 
 # Long Term
@@ -74,6 +73,7 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Dragon-Blooded
 	- [x] Lunar
 	- [x] Sidereal manuscipt
+	- [x] Many Faced Strangers 
 - [x] Import Sorceries
 	- [x] Lunar
 	- [x] Sidereal

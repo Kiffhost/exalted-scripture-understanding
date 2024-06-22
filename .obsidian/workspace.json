@@ -1,77 +1,50 @@
 {
   "main": {
-    "id": "b72933b16ed16a7f",
+    "id": "d5cec0f9e28acf2b",
     "type": "split",
     "children": [
       {
-        "id": "c8ede93a001d99ff",
+        "id": "38778dfdbf255c8d",
         "type": "tabs",
         "children": [
           {
-            "id": "10016b19b474f3d6",
+            "id": "f1e0d5f2081dcd87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constellations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db058a9c488651d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore Sidebars/Realm Book/DYNASTIC WEDDINGS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b800fc9a13acaf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hierarchy of the Realm.md",
+                "file": "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Aurochs-King Prowess.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1c701d3d11cb2c89",
+    "id": "9bc4d08a68799cf7",
     "type": "split",
     "children": [
       {
-        "id": "efa76635d91e53ba",
+        "id": "07975790ae996fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7e12047dcdaaf3",
+            "id": "3a5d214276320e48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "f85bada80dbe5699",
+            "id": "654ff318f4cd4494",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,12 +54,12 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
           {
-            "id": "968eaec64089cf6e",
+            "id": "59aad9b80729329d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,47 +70,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "right": {
-    "id": "4b53c59ba61292de",
+    "id": "d3f03f9e2c185d65",
     "type": "split",
     "children": [
       {
-        "id": "4fc51fd5645173e7",
+        "id": "7e9ef189849b1725",
         "type": "tabs",
         "children": [
           {
-            "id": "23da432eb9e70508",
+            "id": "f681cbbf25eaff6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hierarchy of the Realm.md",
+                "file": "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Aurochs-King Prowess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "02a25d6a67e6628b",
+            "id": "ac35b303648da84c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hierarchy of the Realm.md",
+                "file": "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Aurochs-King Prowess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ad11f3352f2560a2",
+            "id": "2cb6185f52419552",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,32 +121,59 @@
             }
           },
           {
-            "id": "fcd07002a6f01b6c",
+            "id": "c8687db642245369",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hierarchy of the Realm.md"
+                "file": "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Aurochs-King Prowess.md"
               }
             }
           },
           {
-            "id": "a3cab215d0e3ce26",
+            "id": "19b2474784eea866",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "1de4e1116e1d7f9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Aurochs-King Prowess.md"
+              }
+            }
+          },
+          {
+            "id": "1a8c5271dfe7db8a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "19dfe583876070d4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,53 +185,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b800fc9a13acaf0",
+  "active": "f1e0d5f2081dcd87",
   "lastOpenFiles": [
-    "Lore Sidebars/Realm Book/SORCEROUS SOCIETIES.md",
-    "Hierarchy of the Realm.md",
-    "Lore Sidebars/Realm Book/DYNASTIC WEDDINGS.md",
-    "Lore Sidebars/THE WRETCHED.md",
-    "Lore Sidebars/THE UNCLEAN.md",
-    "Lore Sidebars/THE BLASPHEMOUS.md",
-    "Lore Sidebars/THE DECEIVERS.md",
-    "Lore Sidebars/THE FACE-STEALERS.md",
-    "Lore Sidebars/THE FORSAKEN.md",
-    "Lore Sidebars/THE FRENZIED.md",
-    "Lore Sidebars/THE MOON-MAD.md",
-    "Lore Sidebars/Realm Book",
-    "Timeline of Creation.md",
-    "Realm Geography.md",
-    "Organisations of the Realm.md",
-    "Constellations.md",
-    "Progress Tracker.md",
-    "The Solar Bond.md",
-    "Moonsilver Tattoos.md",
-    "generated_hierarchies_test.csv",
-    "generated_hierarchies.csv",
-    "Exaltation.md",
-    "Arcane Fate.md",
-    "exalted-scripture-understanding/generated_hierarchies_test.csv",
-    "exalted-scripture-understanding/generated_hierarchies.csv",
-    "Thaumaturgic Rituals/Unquenchable Flame.md",
-    "Thaumaturgic Rituals/Speak with Ozashun.md",
-    "Thaumaturgic Rituals/Second Bread.md",
-    "Thaumaturgic Rituals/Exorcism.md",
-    "Thaumaturgic Rituals/Reading the Tea Leaves.md",
-    "Thaumaturgic Rituals",
-    "Lunar Shapeshifting/Tell.md",
-    "Lunar Shapeshifting",
-    "Lore Sidebars",
-    "Flaws",
-    "Traits/Limit/Virtue Flaws",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Wood Dragon Style/Wood Dragon Style.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Water Dragon Style/Water Dragon Style.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Style.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Earth Dragon Style/Earth Dragon Tree.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Air Dragon Style/Air Dragon Tree.canvas",
-    "Charms/Martial Arts/White Veil Style/White Veil Style.canvas",
-    "Charms/Martial Arts/White Reaper Style/White Reaper Style.canvas",
-    "Charms/Martial Arts/Tiger Style/Tiger Style.canvas",
-    "Charms/Martial Arts/Steel Devil Style/Steel Devil Style.canvas",
-    "Charms/Martial Arts/Snake Style/Snake Style.canvas"
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)",
+    "Items/Artifacts & Evocations/Heirlooms of Power/Untitled",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/Master Herder’s Brand.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue/White Lizard’s Tongue.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Dragon’s Blazing Wake.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Racing Flame Method.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Flying Dragon Fang.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Blazerider.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Majestic Nightmare Visage/Endless Dreaming Masquerade.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Majestic Nightmare Visage/Becoming Midnight’s Childe.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Majestic Nightmare Visage/A Stranger in the Court.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Majestic Nightmare Visage/Majestic Nightmare Visage.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Scarlet Banner Inspiration.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Streaming Flames Spear.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/General-Demoting Joust.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Dragon-General Puissance.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Sunset Blaze.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Glacial Mantle/Glacial Mantle.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart/the Earth’s Beating Heart.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power/The Revelation Sphere/Gunzosha Armour/Sensory Augmentation Visor.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Safety in Numbers.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Rising Phoenix Banner.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Rally the Upright Soldier.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze/Pride of the Greatest General.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart/Unfaltering Sentinel Attitude.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart/Iron Will Aegis.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart/Earth’s Heart Awakens.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/The Revelation Sphere",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Glacial Mantle",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Fivefold Dragons’ Grasp",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Conquering Tide",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/White Lizard’s Tongue",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Majestic Nightmare Visage",
+    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
+    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
+    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
+    "Charms/Dragon-Blooded/Resistance/Dragon-Blooded Resistance Charm Tree.canvas",
+    "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
+    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas"
   ]
 }

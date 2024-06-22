@@ -68,16 +68,19 @@ A Protean Charm gains greater power when the Lunar uses it while shapeshifted in
 #### Totemic
 Lunars with certain spirit shapes may learn a Totemic Charm as a Charm of a different Attribute than it normally belongs to, using different minimum Attributes and potentially enjoying Caste or Favored Attribute discounts. Totemic Charms have alternative prerequisite Charms from this second Attribute, unless they have no prerequisite Charms, or their prerequisites are Totemic themselves. This extends to the Attribute minimums of any automatic upgrades or repurchases of the Charm, but not to any dice rolls or other calculations involved.
 
+#### Archetype
+A synonym of [[#Totemic]] used in the Many-Faced Strangers book.
+
 # Sidereal
 
-### Divination
+#### Divination
 Divination Charms are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal Charms that predict the future, like God-King’s Shrike, aren’t Divination Charms. 
 
-### Shaping
+#### Shaping
 Shaping effects transforms characters’ bodies, minds, souls, or fates. They can be defended against with magic like Destiny-Manifesting Method (Exalted, p. 304). 
 
-### Versatile
+#### Versatile
 Archery, Brawl, Melee, and Thrown Charms with this keyword can enhance attacks and parries with Martial Arts if the Sidereal uses a weapon compatible with that Ability. Versatile Charms from multiple Abilities can’t enhance the same action.
 
-### Enlightenment 
+#### Enlightenment 
 Attaining the apex of Sidereal Martial Arts’ power demands an understanding of subtle cosmic principles and a harmony with the nature of reality beyond many students. Sidereals always gain the benefits of a Sidereal Martial Arts’ Enlightenment effects. Getimians access Enlightenment effects based on whether their Essence’s current nature is Flowing or Still. Other Exalted can’t ordinarily access Enlightenment effects.

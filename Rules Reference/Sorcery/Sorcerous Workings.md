@@ -10,7 +10,7 @@ Every working begins with the sorcerer’s intention: what she wishes to accompl
 
 While most of the actual process of performing the sorcerous working over a span of weeks can be relegated to downtime or off-screen, the sorcerer must remain active in its completion, spending time performing ritual actions, arcane experiments, or whatever methodology fits her aesthetic of sorcery to bring about the working. **If the sorcerer is unable to attend to these duties for at least part of an interval, then no roll can be made for that interval (though it does not count towards the terminus)**.
 
-Once a sorcerous working has been successfully completed, the sorcerer must pay experience points to finalize it based on its [[#Ambition]]. If the sorcerer is performing a working of a Circle below her level of mastery, the cost is reduced by two experience points per Circle of difference, to a minimum of 1xp. It is also possible for a sorcerer to attempt a working [[#Beyond the Boundaries]] of the Circles she is initiated in (this is impossible with [[Sorcery#Spells]]).
+Once a sorcerous working has been successfully completed, the sorcerer must pay experience points to finalize it based on its [[#Ambition]]. If the sorcerer is performing a working of a Circle below her level of mastery, the cost is reduced by two experience points per Circle of difference, to a minimum of 1xp. It is also possible for a sorcerer to attempt a working [[#Beyond the Boundaries]] of the Circles she is initiated in (this is impossible with [[Rules Reference/Sorcery/Sorcery#Spells]]).
 ^3f970d
 
 ##  #advice/storyteller 
