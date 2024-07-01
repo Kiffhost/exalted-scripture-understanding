@@ -8,9 +8,9 @@ Very next steps, each completable within 1 day - 1 week
 - [ ] Add ability links to WeaponTags
 - [ ] Evocation keywords page
 - [ ] Import
-	- [ ] Dragon-blooded Heirs to the Shogunate 
+	- [x] Dragon-blooded Heirs to the Shogunate 
 		- [x] Charms
-		- [ ] Evocations
+		- [x] Evocations
 - [ ] Rules
 	- [x] Charms
 	- [x] Sorcery
@@ -75,9 +75,11 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Lunar
 	- [x] Sidereal manuscipt
 	- [x] Many Faced Strangers 
+	- [x] Dragon-blooded Heirs to the Shogunate 
 - [x] Import Sorceries
 	- [x] Lunar
 	- [x] Sidereal
+	- [x] Many Faced Strangers 
 - [x] Merits
 	- [x] Solar
 	- [x] Lunar
@@ -94,6 +96,8 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Arms of the Chosen
 	- [x] Lunar
 	- [x] Sidereal
+	- [ ] Many Faced Strangers 
+	- [x] Dragon-blooded Heirs to the Shogunate 
 - [x] Version Control
 - [x] Rules
 	- [x] Basic rules reference
