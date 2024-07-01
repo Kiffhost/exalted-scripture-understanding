@@ -4,7 +4,7 @@ aliases:
 tags:
   - source/solar-book
 ---
-Superior projects describe two sorts of endeavor: [[Artifact|Artifacts]] ([[Daiklave]]s and magical armour) and largescale construction (palaces and warships). Mortals may perform Superior Projects to the purpose of largescale construction, but not artifacts.
+Superior projects describe two sorts of endeavor: [[Artifact|Artifacts]] ([[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Daiklave]]s and magical armour) and largescale construction (palaces and warships). Mortals may perform Superior Projects to the purpose of largescale construction, but not artifacts.
 # Beginning
 Creating artifacts requires the crafter be a character capable of manipulating Essence (such as an Exalt or sorcerer), have at least Lore 3, Occult 3, a relevant Craft Ability rated to at least 4, and must then purchase dots of Craft (Artifacts). In addition, all artifacts require high-quality tools and significant amounts of the magical materials; most also demand various exotic or mystical reagents such as frozen flame, behemoth bones, the captured love of a raksha noble, or other such wonders. Designing and building an artifact is a massive drain on a crafter, and as such these superior projects require a superior crafting [[#Slot]]. 
 # Slot

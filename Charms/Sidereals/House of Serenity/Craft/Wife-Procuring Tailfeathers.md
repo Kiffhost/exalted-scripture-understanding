@@ -17,4 +17,6 @@ The Sidereal’s elegant bearing, unmatched fashion sense, and artistic talent m
 - Characters with Ties toward her spouse count as having the same Ties to her at Minor intensity. A significant number of group members are assured to have positive Ties toward him. 
 - She gains a position of influence equivalent to two-dot Backing or Influence the group her spouse belongs to. 
 - She waives Excellencies’ mote costs to reduce the target numbers of Bureaucracy, Lore, or Socialize rolls involving the group her spouse belongs to. 
-- She waives the mote cost to use Suitor-Measuring Eye on members of her spouse’s group and to reduce its roll’s target number with Excellencies. In cultures without marriage, this Charm instead applies to whatever local custom comes closest to a lifelong partnership in which finances are intermingled. Reset: Once per story unless reset by accomplishing a major character or story goal with the help of a spouse or through financial dealings. Joybringers can reset it by fulfilling an auspicious prospect.
+- She waives the mote cost to use Suitor-Measuring Eye on members of her spouse’s group and to reduce its roll’s target number with Excellencies. In cultures without marriage, this Charm instead applies to whatever local custom comes closest to a lifelong partnership in which finances are intermingled. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal with the help of a spouse or through financial dealings. Joybringers can reset it by fulfilling an auspicious prospect.

@@ -17,4 +17,6 @@ Strumming the threads of fate like a drunken lutist, the Sidereal brings herself
 -  Her coterie and other characters within their social milieu accept her as one of their own. This counts as a Minor Tie. 
 -  At the start of a scene, she may declare that a coterie member with skills equivalent to a mortal two-dot Retainer is with her, either having just arrived or been with her all along. She can’t choose a new Retainer until he leaves, there’s a downtime, or the session ends. 
 -  She can introduce facts relevant to her coterie’s social milieu or about local rumors with (Wits + Performance). 
--  She waives Excellencies’ mote costs to reduce the target number of Craft, Larceny, or Performance rolls similar to those involved in her coterie’s activities. Reset: Once per story unless reset by accomplishing a major character or story goal by engaging in hedonistic pursuits or giving aid to a group of outcasts or the like. Joybringers can reset it by fulfilling an auspicious prospect.
+-  She waives Excellencies’ mote costs to reduce the target number of Craft, Larceny, or Performance rolls similar to those involved in her coterie’s activities. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal by engaging in hedonistic pursuits or giving aid to a group of outcasts or the like. Joybringers can reset it by fulfilling an auspicious prospect.

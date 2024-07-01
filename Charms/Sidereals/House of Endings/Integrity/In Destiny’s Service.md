@@ -17,4 +17,6 @@ Without dreams, without hope, the Sidereal becomes a creature of absolute duty. 
 -  Serenity: Joybringer can cite relationships — romantic or otherwise — that they’ve created, protected, or improved against influence opposing the best interests of a character in that relationship or the relationship’s overall emotional tenor. 
 -  Battles: Shieldbearers can cite memories of a battle, argument, or competition against influence that opposes her motivation for it or a lesson she learned from it. 
 -  Secrets: Oracles can cite secrets entrusted to them or one of their own secrets against influence opposing her reasons for keeping the secret or the best interests of someone whose secret she keeps. 
--  Endings: Reckoners can cite people they’ve killed or narratively relevant things they’ve otherwise ended against influence opposing her motivation for doing so or the memory or legacy of what she ended. Reset: Once per story unless reset by fulfilling an auspicious prospect in a way that meaningfully advances the story.
+-  Endings: Reckoners can cite people they’ve killed or narratively relevant things they’ve otherwise ended against influence opposing her motivation for doing so or the memory or legacy of what she ended. 
+## Reset
+Once per story unless reset by fulfilling an auspicious prospect in a way that meaningfully advances the story.

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Autogen  ",
+  "search": "path:\"Charms/Martial Arts/Bear Style\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457404,
-  "close": false
+  "scale": 0.3213363860503611,
+  "close": true
 }

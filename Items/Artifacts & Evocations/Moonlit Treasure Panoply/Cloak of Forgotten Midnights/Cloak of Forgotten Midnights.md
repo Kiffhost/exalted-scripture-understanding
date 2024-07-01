@@ -1,16 +1,14 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
+  - object
+  - Artifact
+  - source/lunar-strangers-book
 Attunement: 5m
-Type: IGNORE
-WeaponTags:
-  - NOT
-  - APPLICABLE
 Hearthstone slots: None
 Era: Rise of the Second Deliberative
-Backer: Déan Pijpker 
+Backer: Déan Pijpker
+Material: Moonsilver
+Dots: "4"
 ---
 In the oldest legends, the first night came to Creation wrapped around Luna’s shoulders, spreading from horizon to horizon like a cloak unfolding. Many among the Old Realm’s savants considered this cloak of night an allegory or a metaphor, but not Ashla Hidden-Key.
 Captivated by the myth, the young sorcerer offered up prayers and sacrifices to Luna, petitioning the Incarna for but a single thread of their cloak of night. When no answer came, Ashla found herself a laughingstock among her peers, the subject of endless jests and satires.

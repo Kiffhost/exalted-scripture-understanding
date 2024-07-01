@@ -1,16 +1,14 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
+  - object
+  - Artifact
+  - source/lunar-strangers-book
 Attunement: 2m
-Type: IGNORE
-WeaponTags:
-  - NOT
-  - APPLICABLE
-Hearthstone slots: None
+Hearthstone slots: 0
 Era: Dreams of the First Age
-Backer: Chase Burton 
+Backer: Chase Burton
+Material: Moonsilver
+Dots: "4"
 ---
 The sorcerer Chi-E-Su cared little for his own fame. In his eyes, the First Age’s greatest injustice was that the Exalted shone too bright in their glory, denying mortals of great skill and greater passion the chance to make their mark on history. He created Inkwarden to elevate the creations and works of mortals, turning his power to the ennoblement of others.
 The seal is a finger-length rod, ending in a blank disc of moonsilver that’s shaped to make Inkwarden’s mark.

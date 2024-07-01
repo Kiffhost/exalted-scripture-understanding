@@ -1,9 +1,9 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/lunar-strangers-book
+Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
   - Lethal
@@ -12,9 +12,14 @@ WeaponTags:
   - Special
 Hearthstone slots: 1
 Era: The First Fracturing
-Accuracy: Close +5; Short +4; Medium +3; Long +0; Extreme −2
+Accuracy:
+  - Close +5; Short +4; Medium +3; Long +0; Extreme −2
 Special: Magpie’s Wing returns to its wielder when thrown unless she botches the roll to throw it.
-Backer: Michael Brewer 
+Backer: Michael Brewer
+WeaponType:
+  - Skycutter
+Material: Moonsilver
+Dots: "3"
 ---
 Vorsay Red-Veiled forged Magpie’s Wing in his early days as one of Luna’s Chosen, before he rose to fame as a legendary thief-king of the First Age. In his mortal life, he’d been a criminal, running contraband past the Old Realm’s enforcers, and he put every smuggler’s trick he’d learned into Magpie’s Wing’s ingenious design.
 More than just a weapon, its mirrored surface conceals hidden chambers, thieves’ tools, and intricate mechanisms of fluid moonsilver.

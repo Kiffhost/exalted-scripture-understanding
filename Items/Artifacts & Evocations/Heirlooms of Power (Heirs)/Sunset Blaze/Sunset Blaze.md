@@ -1,17 +1,21 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/dragon-heirs-book
+Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)
 WeaponTags:
   - Lethal
   - Melee
   - Piercing
-  - Reaching Two-Handed when on foot
+  - Reaching
+  - Two-Handed when on foot
 Hearthstone slots: 2
-Era: Reign of the Scarlet Empress 
+Era: Reign of the Scarlet Empress
+Dots: "3"
+WeaponType:
+  - Direlance
 ---
 Commissioned by Cathak herself from the renowned smith and sublime armiger Tepet Sothal, the direlance Sunset Blaze — adorned with a banner of cloth-of-jade — accompanied her in many of her famed battles. She wielded it in the Realm’s war against the Blood-Sand Sultan, burning the man who feared no flame; in the great Siege of Houshou, when she seemed to slay the Anathema Sha’a Oka; in her famed duel with Ahlat.
 In the hands of Cathak and her children, Sunset Blaze has become an emblem for her Great House’s martial prowess and emulation of Hesiesh in war. In the Wyld Hunt against the Lady of Crimson Nectar, Cathak Meti Lonova rallied her shikari with the sight of its flaming banner after the Anathema filled their minds with rot and death. Cathak Orina bore it in suppressing the Amaranth Uprising and in the execution of the revolt’s instigator, the renegade magistrate Haruka Mir. Cathak Fari defended Fajad’s gates from the army of the heretical Abhari prophet Kigal Whose-Name-Cuts, and burned away the rogue god’s blasphemous tongue.

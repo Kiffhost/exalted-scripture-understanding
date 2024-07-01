@@ -1,14 +1,12 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 2m
-Type: N/A
-WeaponTags:
-  - N/A
-Hearthstone slots: N/A
-Era: Disputed 
+Era: Disputed
+Dots: "4"
+Material: Blue Jade
 ---
 Amilar Mia awoke in the frozen North, a sphere of dreams clutched in her fist. She knew not how she’d found it, had no memory of her journeys over the last months, but she could feel the power slumbering within the fist-sized orb of rune-etched jade, banded with orichalcum rings. Though seemingly solid, an attuned wielder can twist and manipulate segments of the sphere like a puzzle-box, manipulating it into various configurations of uncertain purpose.
 It’s since been passed down through the generations, along with the study of its ancient origins, whether researched in the ruins of Shogunate archives or translated from archaic runes that occasionally drift to the puzzle-sphere’s surface.

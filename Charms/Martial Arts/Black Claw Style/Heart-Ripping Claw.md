@@ -15,7 +15,9 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Outrage-Kindling Cry]]"
 ---
-Eight wisdoms lie at the heart of the Black Claw style: Love is a lie, innocence is a lie, blame is a lie—lies are inescapable; children betray their parents, gods betray their makers, students betray their teachers—betrayal, too, is inescapable. Those who are truly wise are always first to strike, and strike to kill. The Heart-Ripping Claw wreathes the martial artist’shandinscreamingblackshadows,lashingandrazoredged. She adds half her current temporary Willpower to the raw damage of the attack (round up). If the victim has a positive Tie for the martial artist, double the damage, or triple it if the Tie is Defining. Incapacitating a character with this Charm is a gruesome spectacle, as the Black Claw master tears the victim’s heart from his chest, clutching it in her fist as it crumbles to ash. 
+*Eight wisdoms lie at the heart of the Black Claw style: Love is a lie, innocence is a lie, blame is a lie—lies are inescapable; children betray their parents, gods betray their makers, students betray their teachers—betrayal, too, is inescapable. Those who are truly wise are always first to strike, and strike to kill.
+The Heart-Ripping Claw wreathes the martial artist’s hand in screaming black shadows, lashing and razor edged.*
+She adds half her current temporary Willpower to the raw damage of the attack (round up). If the victim has a positive Tie for the martial artist, double the damage, or triple it if the Tie is Defining. Incapacitating a character with this Charm is a gruesome spectacle, as the Black Claw master tears the victim’s heart from his chest, clutching it in her fist as it crumbles to ash. 
 
 ## Special activation rules
 
@@ -27,4 +29,5 @@ A Dragon-Blood uses the lower of her Essence or temporary Willpower when calcula
 
 ## Mastery
 
-Holding the still-beating heart of a slain enemy in her hand, the martial artist draws vitality and beauty from it. Incapacitating an enemy with this Charm allows the martial artist to heal one level of damage, and adds +1 to her Appearance for the rest of the fight. 
+*Holding the still-beating heart of a slain enemy in her hand, the martial artist draws vitality and beauty from it.*
+Incapacitating an enemy with this Charm allows the martial artist to heal one level of damage, and adds +1 to her Appearance for the rest of the fight. 

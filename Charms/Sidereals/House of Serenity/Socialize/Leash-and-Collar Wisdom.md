@@ -17,4 +17,6 @@ The more the Sidereal’s master thinks he can control her, the more vulnerable 
 
 ## Special activation rules
 
-If the Sidereal fails and her target’s action lets her curse him with a Descending (Caste) Horoscope, she waives its Willpower cost. Reset: Once per scene.
+If the Sidereal fails and her target’s action lets her curse him with a Descending (Caste) Horoscope, she waives its Willpower cost. 
+## Reset
+Once per scene.

@@ -14,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Bear Form]]"
 ---
-Moving with terrifying speed, the stylist grabs hold of an enemy before he can even try to move away from her.
+*Moving with terrifying speed, the stylist grabs hold of an enemy before he can even try to move away from her.*
 When an enemy disengages from the stylist, she can oppose it with a reflexive grapple gambit. If she succeeds, she gains the Initiative her enemy lost from disengaging after after she pays the gambit’s Initiative cost.
 
 ## Mastery

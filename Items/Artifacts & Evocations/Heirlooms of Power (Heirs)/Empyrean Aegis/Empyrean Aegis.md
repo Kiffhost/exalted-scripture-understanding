@@ -1,8 +1,8 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 5m;
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
@@ -10,7 +10,11 @@ WeaponTags:
   - Melee
   - Shield
 Hearthstone slots: 1
-Era: Shadows of the Usurpation 
+Era: Shadows of the Usurpation
+Material: Blue Jade
+Dots: "3"
+WeaponType:
+  - Thunderbolt Shield
 ---
 Aria Skysinger forged Empyrean Aegis from blue jade and feathersteel, with the Tyrant Glacier’s frozen heart for her anvil and her fallen mother’s goremaul, stained with Solar blood, for her hammer. The Shogunate’s early days were marred by internecine conflict and civil war, and Aria sought a shield to defend her gens through the fray.
 Empyrean Aegis was passed down along Aria’s descendants. Ikke the Bastion-Breaker fended off the spears of the Storm That Rode. Madrigan Azure, honor guard to the shogun, wielded it to thwart a Silver Pact assassination attempt against her, though it cost him his life.

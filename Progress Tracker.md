@@ -6,6 +6,7 @@ kanban-plugin: basic
 Very next steps, each completable within 1 day - 1 week
 
 - [ ] Add ability links to WeaponTags
+- [ ] Evocation keywords page
 - [ ] Import
 	- [ ] Dragon-blooded Heirs to the Shogunate 
 		- [x] Charms

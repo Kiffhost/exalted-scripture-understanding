@@ -17,4 +17,6 @@ All humanity is the Sidereal’s friend; she need never want for a place to lay 
 -  She’s welcomed into her friends’ community; its members treat negative Ties toward foreigners, strangers, or outsiders as one step weaker for her. 
 -  When she sleeps in her host’s house, she gains an additional Willpower from a full night’s rest. 
 -  It’s difficult to keep track of her as she moves from home to home; Investigation and tracking rolls against her suffer +1 target number. 
--  She can use Favorable Inflection Procedure against multiple members of her friends’ community, waiving multiple target penalties. Reset: Once per story unless reset by accomplishing a major character or story goal with the help of the Sidereal’s new friends. Joybringers can reset it by fulfilling an auspicious prospect.
+-  She can use Favorable Inflection Procedure against multiple members of her friends’ community, waiving multiple target penalties. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal with the help of the Sidereal’s new friends. Joybringers can reset it by fulfilling an auspicious prospect.

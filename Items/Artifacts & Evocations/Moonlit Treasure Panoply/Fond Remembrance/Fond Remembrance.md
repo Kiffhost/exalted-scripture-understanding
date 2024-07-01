@@ -1,9 +1,9 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/lunar-strangers-book
+Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
   - Lethal
@@ -11,7 +11,11 @@ WeaponTags:
   - Balanced
 Hearthstone slots: 2
 Era: Dreams of the First Age
-Backer: Benjamin Bowley-Bryant 
+Backer: Benjamin Bowley-Bryant
+Dots: "5"
+Material: Moonsilver
+WeaponType:
+  - Reaper Daiklave
 ---
 When the behemoth Entalion broke free of its imprisonment in Zen-Mu and escaped into Creation, it was greeted by the sorcerer-swordsman Kindu Slays-the-Cloud. The grotesque beast of coiling flesh fell easily to the Dawn Caste’s blade — but that was not Entalion, only his host.
 Formless and immaterial, Entalion hid itself in Kindu’s daiklave, biding its time until it could find another host.

@@ -17,4 +17,6 @@ The Sidereal’s performance heals a troubled world, shaping its Essence into a 
 
 ## Special activation rules
 
-The Sidereal can’t use this Charm if she or an ally’s taken a hostile action this scene. Reset: Once per story unless reset by upholding a Major or Defining Intimacy or accomplishing a major character or story goal by helping opposing parties reach peace or helping a community weather a crisis. Joybringers can reset it by fulfilling an auspicious prospect this way.
+The Sidereal can’t use this Charm if she or an ally’s taken a hostile action this scene. 
+## Reset
+Once per story unless reset by upholding a Major or Defining Intimacy or accomplishing a major character or story goal by helping opposing parties reach peace or helping a community weather a crisis. Joybringers can reset it by fulfilling an auspicious prospect this way.

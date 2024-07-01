@@ -16,4 +16,6 @@ The Sidereal shrouds herself amid corruption, hunting iniquity in meetings, junk
 -  Group members and members of similar organizations assume she’s just as corrupt as they are. This counts as a Minor Tie. 
 -  She gains Backing 2 in that organization. 
 -  She waives Excellencies’ mote costs to reduce the target number of Bureaucracy, Lore, and Socialize rolls involving her organization, similar groups, or the subject matter of their official business. 
--  Underling Invisibility Presence applies to group members and members of similar organizations even if they don’t consider themselves her superior; such characters don’t need an Intimacy to resist with Willpower. Reset: Once per story unless reset by accomplishing a major character or story goal through bureaucratic or business acumen or by abusing the privileges of one’s office. Reckoners can reset it by fulfilling an auspicious prospect.
+-  Underling Invisibility Presence applies to group members and members of similar organizations even if they don’t consider themselves her superior; such characters don’t need an Intimacy to resist with Willpower. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal through bureaucratic or business acumen or by abusing the privileges of one’s office. Reckoners can reset it by fulfilling an auspicious prospect.

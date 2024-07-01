@@ -1,14 +1,12 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 2m
-Type: N/A
-WeaponTags:
-  - N/A
-Hearthstone slots: N/A
-Era: The Second Quest Against the Parliament Amethystine 
+Era: The Second Quest Against the Parliament Amethystine
+Dots: "3"
+Material: Green Jade
 ---
 When Gerold Bronze-Arm set out from the Cult of the Violet Fang’s cathedral to quest against his fae ancestor, Magnanimous Gwenyant, he donned the mask of a raksha prince, proclaiming himself the Childe of Midnights Unremembered as he stole into Gwenyant’s court.
 Living and scheming alongside the Fair Folk, Gerold unraveled the court’s deepest secrets, and forged a conspiracy against Gwenyant through blackmail, intrigue, and backroom dealing. When Gerold ousted the raksha noble from his throne, he won Gwenyant’s favor and boon, for such has e’er been the compact between Gwenyant and his children in the Violet Fang.

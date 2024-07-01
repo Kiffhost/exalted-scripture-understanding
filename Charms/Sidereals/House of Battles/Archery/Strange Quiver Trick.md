@@ -16,4 +16,6 @@ The Sidereal’s quiver is stocked with the right arrow for every eventuality. R
 
 ## Special activation rules
 
-This Charm can be placed in a flurry. If the Sidereal flurries it with an attack to fire the object using Generalized Ammunition Technique, uses her attack in place of this Charm’s roll. Reset: Once per scene.
+This Charm can be placed in a flurry. If the Sidereal flurries it with an attack to fire the object using Generalized Ammunition Technique, uses her attack in place of this Charm’s roll. 
+## Reset
+Once per scene.

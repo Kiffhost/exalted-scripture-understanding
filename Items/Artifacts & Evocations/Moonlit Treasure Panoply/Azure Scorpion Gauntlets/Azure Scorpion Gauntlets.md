@@ -1,9 +1,9 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/lunar-strangers-book
+Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
   - Lethal
@@ -14,7 +14,11 @@ WeaponTags:
   - Worn
 Hearthstone slots: 2
 Era: The Era of Limitless Light
-Backer: Michael Maitan 
+Backer: Michael Maitan
+Dots: "3"
+Material: Moonsilver
+WeaponType:
+  - Razor Claws
 ---
 Most of Katja Narrow-Pupils’ peers in the Old Realm saw her as a brilliant but eccentric alchemist. She kept a poison garden the size of a forest, raised beasts of resplendent liquids bred to yield exotic toxins, and wore venomous insects as jewelry on the floor of the Deliberative. Few suspected that the soft-spoken genius was among the First Age’s deadliest poisoners. Katja chose her victims carefully, each death the antidote to some infirmity she saw in the Old Realm.
 In time, Katja’s crimes were discovered by a Sidereal named Crucible Knife, part of the growing conspiracy behind the Usurpation. Instead of confronting her, he sought her out as an ally, arguing for the necessity of his cause. Katja found his rationale compelling. She too had seen horrors born of Exalted folly or hubris, symptoms of a disease beyond her power to cure. Crucible Knife gave Katja the Azure Scorpion Gauntlets to seal their alliance, forged by one of Luna’s divine descendants to imprison Smiling Yathe, a cruel and mocking scorpion-spirit.

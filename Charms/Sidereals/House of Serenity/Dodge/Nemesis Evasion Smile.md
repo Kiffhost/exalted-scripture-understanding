@@ -16,4 +16,6 @@ The Sidereal seeks out the strand of fate for one of her troubles, ensuring her 
 -  She’s immune to fear-based influence by the chosen character or that relies on the threat of the chosen woe. 
 -  She waives Duck Fate’s cost against that character or woe (but not its repurchase’s surcharge). 
 -  Once per scene, she can waive the cost of reducing the target number of a roll with any Ability with Excellencies to avoid harm or discomfort from it. 
--  Magic that predicts her future won’t show any outcome in which she comes to suffering because of it. Reset: Once per story unless reset by decisively resolving the problems posed to the Sidereal by the chosen character or woe. If she maintains this Charm for multiple stories, she can’t reuse until the next story or she resets it.
+-  Magic that predicts her future won’t show any outcome in which she comes to suffering because of it. 
+## Reset
+Once per story unless reset by decisively resolving the problems posed to the Sidereal by the chosen character or woe. If she maintains this Charm for multiple stories, she can’t reuse until the next story or she resets it.

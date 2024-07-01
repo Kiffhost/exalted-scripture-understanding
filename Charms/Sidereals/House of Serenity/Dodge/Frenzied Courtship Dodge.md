@@ -17,4 +17,6 @@ The Sidereal dodges into the path of romance, making herself an easy target for 
 -  She gains +2 Resolve against rolls to instill Ties of romantic or sexual desire to anyone but her partner. 
 -  Non-Hideous characters other than her partner don’t add dice from Appearance on influence rolls against her. 
 -  She must treat other character’ bargain and persuade rolls for seduction and instill rolls to weaken Ties of romantic or sexual desire toward her partner as unacceptable. 
--  She shines with the joy of heedless love, waiving Excellencies’ mote costs to reduce the target number of rolls to instill positive Ties or inspire positive emotions. If the Sidereal marries her partner or joins with him in a similar custom, this Charm ends and she can’t use it with him again. Reset: Once per story unless reset by accomplishing a major character or story goal with the help of a romantic partner or by seducing someone. Joybringers can reset it by fulfilling an auspicious prospect.
+-  She shines with the joy of heedless love, waiving Excellencies’ mote costs to reduce the target number of rolls to instill positive Ties or inspire positive emotions. If the Sidereal marries her partner or joins with him in a similar custom, this Charm ends and she can’t use it with him again. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal with the help of a romantic partner or by seducing someone. Joybringers can reset it by fulfilling an auspicious prospect.

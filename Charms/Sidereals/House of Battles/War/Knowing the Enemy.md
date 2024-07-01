@@ -16,4 +16,6 @@ The Sidereal sees her enemy’s true face revealed in his strategy. The Sidereal
 -  What’s his motivation for fighting? 
 -  What should I watch out for in the coming battle? 
 -  What are his forces’ greatest weakness? 
--  Which of my positive Ties does he pose the greatest threat to? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. Reset: Once per scene.
+-  Which of my positive Ties does he pose the greatest threat to? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+## Reset
+Once per scene.

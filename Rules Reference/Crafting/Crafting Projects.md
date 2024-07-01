@@ -2,7 +2,7 @@
 tags:
   - source/solar-book
 ---
-From repairing a wagon wheel to forging a [[Daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
+From repairing a wagon wheel to forging a [[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
 # Elements of Crafting
 Crafting projects have two special concerns, described below: [[#Project Slots]] and [[#Crafting Experience]]. In brief, characters can only support a certain number of simultaneous crafting projects, which take a toll on their creative energies—these are abstracted into project slots. By contrast, successfully finishing projects renews the character’s inspiration and helps further her skill and ambitions, allowing her to take on greater numbers of projects and to see more difficult and demanding projects to completion. This is modeled as the character gaining crafting experience.
 # Crafting Experience

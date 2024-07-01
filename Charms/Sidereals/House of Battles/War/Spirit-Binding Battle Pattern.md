@@ -17,4 +17,6 @@ The Sidereal prayer strip bearing the Scripture of the Maiden at War, scattering
 
 ## Special activation rules
 
-The Sidereal may use this Charm when an allied battle group loses a dot of Size or fails a rout check. Reset: Once per story.
+The Sidereal may use this Charm when an allied battle group loses a dot of Size or fails a rout check. 
+## Reset
+Once per story.

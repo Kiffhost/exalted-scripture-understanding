@@ -1,15 +1,22 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/lunar-strangers-book
+Attunement: 4m
 Type: Light (Soak +5, Hardness 4, Mobility Penalty −0)
 WeaponTags:
   - Silent
-Hearthstone slots: None
+Hearthstone slots: 0
 Era: The Hundred Thrones War
-Backer: Robert “Jefepato” Dall 
+Backer: Robert “Jefepato” Dall
+ArmourTags:
+  - Silent
+  - Special
+Dots: "4"
+Material: Moonsilver
+ArmorType:
+  - Silken Armour
 ---
 The Azure Dawn Players are a famed troupe of traveling actors in the Hundred Kingdoms, performers to many of the region’s sundry princes and queens. Unbeknownst to their audience, the troupe is also a secret sect of White Veil stylists, using performances as a front for covert assassinations. They do so in the name of unifying the Hundred Kingdoms, the unrealized ambition of their long-ago founder, grandmaster Ondari Witherroot.
 None among the troupe today realize that Ondari was one of Luna’s Chosen, but their nigh-religious devotion to her is no less for it.

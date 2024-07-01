@@ -1,9 +1,9 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/lunar-strangers-book
-Attunement: 5m;
+  - object
+  - Artifact
+  - source/lunar-strangers-book
+Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
   - Lethal
@@ -14,7 +14,11 @@ WeaponTags:
   - Reaching
 Hearthstone slots: 1
 Era: The Eight Directions Embassy
-Backer: Brian Rivers 
+Backer: Brian Rivers
+Dots: "4"
+WeaponType:
+  - Direlash
+Material: Moonsilver
 ---
 Long ago, when the Old Realm still was young, a witch came to a faerie queen’s palace. A sorcerer and spirit-binder, Thousand Rainbow Petals had come to the Court of Unlit Candles as an emissary of the Exalted host, seeking to pact with the court’s leader, Kethara of Sere Autumn. Kethara welcomed them as an honored guest, giving great consideration to the Lunar envoy’s words.
 Therein lay the trap. Kethara was obsession personified, and sought to claim the Lunar as her champion. She hid words of binding within the terms of their treaty, twisting the pact to trick Thousand Rainbow Petals into swearing eternal service to her.
@@ -27,4 +31,3 @@ The Night Hag’s Braid has had many masters since Thousand Rainbow Petals. Lost
 
 This direlash’s Evocations curse enemies with a fae delirium that echoes Kethara’s curse, sapping their strength to empower the direlash’s wielder. Its Evocations also aid sorcerers who rely on spells in combat.
 Upon attuning to the Night Hag’s Braid, the wielder awakens Accursed Lash for free.
-# MOONREAVER’S PENALTIES The penalties inflicted by Beneath a Strange Sky and Moonlit Horizon Reaper count for Evocations that gain additional benefits against enemies penalized by Cold Breath of the Moon.

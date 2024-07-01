@@ -13,7 +13,8 @@ Duration: Until released
 Prerequisite Charms:
   - "[[Black Claw Form]]"
 ---
-Despite being cruelly assaulted, the martial artist clasps her foes to herself. Swallowing her rancor, she seeks no revenge for her wounds—such virtue! Storm-Calming Embrace applies double 8s on the (Strength + Martial Arts) control roll of a grapple and adds one success to the roll. However, it also limits the martial artist’s options in the grapple, preventing her from savaging her enemy or throwing him. An enemy who’s poisoned does not count rounds clinched by the Storm-Calming Embrace against the duration of the poison—although he still suffer damage, the poison’s duration doesn’t decrease. 
+*Despite being cruelly assaulted, the martial artist clasps her foes to herself. Swallowing her rancor, she seeks no revenge for her wounds—such virtue!*
+Storm-Calming Embrace applies double 8s on the (Strength + Martial Arts) control roll of a grapple and adds one success to the roll. However, it also limits the martial artist’s options in the grapple, preventing her from savaging her enemy or throwing him. An enemy who’s poisoned does not count rounds clinched by the Storm-Calming Embrace against the duration of the poison—although he still suffer damage, the poison’s duration doesn’t decrease. 
 
 ## Mastery
 

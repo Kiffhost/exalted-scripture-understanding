@@ -17,4 +17,6 @@ So long as the Sidereal commits herself to a meek life of toil beneath her stati
 -  Once per day, she may waive an Excellency’s cost to reduce the target number of an Athletics or Resistance roll related to her job. 
 -  She gains +2 Guile against any rolls that would reveal she’s anything more than an impoverished laborer. 
 -  Investigation rolls and tracking rolls against her suffer +1 target number. 
--  Bureaucratic processes involving her falter, taking twice as long as usual to complete. Reset: Once per story unless reset by accomplishing a major character or story goal through physical exertion. Harbingers can reset it by fulfilling an auspicious prospect.
+-  Bureaucratic processes involving her falter, taking twice as long as usual to complete. 
+## Reset
+Once per story unless reset by accomplishing a major character or story goal through physical exertion. Harbingers can reset it by fulfilling an auspicious prospect.
