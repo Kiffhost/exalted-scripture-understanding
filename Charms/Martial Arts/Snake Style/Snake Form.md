@@ -3,6 +3,7 @@ tags:
   - charm
   - Solar
   - source/solar-book
+  - Martial-Arts
 Cost: 8m
 Mins: Martial Arts 4, Essence 1
 Type: Simple

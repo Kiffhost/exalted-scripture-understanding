@@ -3,6 +3,7 @@ tags:
   - charm
   - Lunar
   - source/lunar-strangers-book
+  - Martial-Arts
 Cost: 7m (2i per counterattack)
 Mins: Martial Arts 4, Essence 1
 Type: Simple

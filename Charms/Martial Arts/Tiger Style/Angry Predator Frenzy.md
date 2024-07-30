@@ -3,6 +3,7 @@ tags:
   - charm
   - Solar
   - source/solar-book
+  - Martial-Arts
 Cost: — (+5m, 1wp)
 Mins: Martial Arts 5, Essence 3
 Type: Permanent

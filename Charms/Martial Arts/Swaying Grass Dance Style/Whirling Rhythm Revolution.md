@@ -3,6 +3,7 @@ tags:
   - charm
   - Lunar
   - source/lunar-book
+  - Martial-Arts
 Cost: 4m, 1wp
 Mins: Martial Arts 5, Essence 2
 Type: Reflexive

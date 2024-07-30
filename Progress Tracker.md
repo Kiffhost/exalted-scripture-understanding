@@ -4,13 +4,20 @@ kanban-plugin: basic
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
-
+- [x] Fully-generic weapons
+- [ ] Sidereal Sorcerous Archetypes
+- [ ] Split armor and weapon Type text into Traits list
 - [ ] Add ability links to WeaponTags
 - [ ] Evocation keywords page
-- [ ] Import
-	- [x] Dragon-blooded Heirs to the Shogunate 
-		- [x] Charms
-		- [x] Evocations
+- [ ] Merits
+	- [ ] Animal/bestiary
+		- [ ] Solar
+		- [ ] Lunar
+		- [ ] Strangers
+		- [ ] Exigents
+		- [ ] Other?
+- [ ] Clean Sidereals Evocation prereqs
+- [ ] Sort out double spaces after bullet points
 - [ ] Rules
 	- [x] Charms
 	- [x] Sorcery
@@ -34,13 +41,7 @@ Very next steps, each completable within 1 day - 1 week
 # Medium Term
 
 Overarching goals, completable within 1 month
-
-- [ ] Lore
-	- [ ] Glossary
-	- [ ] Quick start
-	- [ ] Locations
-	- [ ] Factions
-	- [ ] Historical Events
+- [ ] Convert some headings (Mastery, Reset) into yaml properties as appropriate
 - [ ] Put all collected sidebars into appropriate rules
 - [ ] Bestiary?
 	- [ ] Inhuman Charms
@@ -59,7 +60,12 @@ Overarching goals, completable within 1 month
 # Long Term
 
 Possible large-scale project outcomes which will take more than 1 month.
-
+- [ ] Lore
+	- [ ] Glossary
+	- [ ] Quick start
+	- [ ] Locations
+	- [ ] Factions
+	- [ ] Historical Events
 - [ ] Make a charms compendium in foundry
 	- [ ] Script which converts charms-as-notes to charms-as-json in compendium
 	- [ ] Script which adds (or accelerates adding) a charm's rules into a json
@@ -96,7 +102,7 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [x] Arms of the Chosen
 	- [x] Lunar
 	- [x] Sidereal
-	- [ ] Many Faced Strangers 
+	- [x] Many Faced Strangers 
 	- [x] Dragon-blooded Heirs to the Shogunate 
 - [x] Version Control
 - [x] Rules

@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"a99667702504b1cb","x":-325,"y":240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Iron-Arm Block.md"},
-		{"id":"cdc54fcc5bd42d51","x":235,"y":240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Crushing Claw Technique.md"},
-		{"id":"c470432b7fe31e1d","x":-325,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Grasping Claw Method.md"},
-		{"id":"939bda9b1b9a10aa","x":235,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Joint-Locking Technique.md"},
-		{"id":"bc92a994c68841e9","x":795,"y":-880,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Leaping Mantis Technique.md"},
-		{"id":"30278aa856338147","x":-325,"y":-1440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Grasping Mantis Defense.md"},
-		{"id":"f3c16e0a0b486816","x":-325,"y":-2000,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Unfolding Retribution Strike.md"},
-		{"id":"5e888a5d0aab9c8f","x":235,"y":-1440,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Joint-Breaking Attack.md"},
-		{"id":"826a3a32ae7398c6","x":235,"y":-320,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Mantis Style/Mantis Form.md"}
+		{"id":"a99667702504b1cb","type":"file","file":"Charms/Martial Arts/Mantis Style/Iron-Arm Block.md","x":-325,"y":240,"width":400,"height":400},
+		{"id":"cdc54fcc5bd42d51","type":"file","file":"Charms/Martial Arts/Mantis Style/Crushing Claw Technique.md","x":235,"y":240,"width":400,"height":400},
+		{"id":"c470432b7fe31e1d","type":"file","file":"Charms/Martial Arts/Mantis Style/Grasping Claw Method.md","x":-325,"y":-880,"width":400,"height":400},
+		{"id":"939bda9b1b9a10aa","type":"file","file":"Charms/Martial Arts/Mantis Style/Joint-Locking Technique.md","x":235,"y":-880,"width":400,"height":400},
+		{"id":"bc92a994c68841e9","type":"file","file":"Charms/Martial Arts/Mantis Style/Leaping Mantis Technique.md","x":795,"y":-880,"width":400,"height":400},
+		{"id":"30278aa856338147","type":"file","file":"Charms/Martial Arts/Mantis Style/Grasping Mantis Defense.md","x":-325,"y":-1440,"width":400,"height":400},
+		{"id":"f3c16e0a0b486816","type":"file","file":"Charms/Martial Arts/Mantis Style/Unfolding Retribution Strike.md","x":-325,"y":-2000,"width":400,"height":400},
+		{"id":"5e888a5d0aab9c8f","type":"file","file":"Charms/Martial Arts/Mantis Style/Joint-Breaking Attack.md","x":235,"y":-1440,"width":400,"height":400},
+		{"id":"826a3a32ae7398c6","type":"file","file":"Charms/Martial Arts/Mantis Style/Mantis Form.md","x":235,"y":-320,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"83f8c809ea4a96e9","fromNode":"826a3a32ae7398c6","fromSide":"top","toNode":"c470432b7fe31e1d","toSide":"bottom"},
@@ -17,6 +17,8 @@
 		{"id":"19fa4e0c53371c0c","fromNode":"cdc54fcc5bd42d51","fromSide":"top","toNode":"826a3a32ae7398c6","toSide":"bottom"},
 		{"id":"a1466a16357aaced","fromNode":"c470432b7fe31e1d","fromSide":"top","toNode":"30278aa856338147","toSide":"bottom"},
 		{"id":"51b9c0b4c5e99c91","fromNode":"30278aa856338147","fromSide":"top","toNode":"f3c16e0a0b486816","toSide":"bottom"},
-		{"id":"5aaaa32c5bd8ae80","fromNode":"939bda9b1b9a10aa","fromSide":"top","toNode":"5e888a5d0aab9c8f","toSide":"bottom"}
+		{"id":"5aaaa32c5bd8ae80","fromNode":"939bda9b1b9a10aa","fromSide":"top","toNode":"5e888a5d0aab9c8f","toSide":"bottom"},
+		{"id":"b8058aa139418cef","fromNode":"5e888a5d0aab9c8f","fromSide":"top","toNode":"f3c16e0a0b486816","toSide":"bottom"},
+		{"id":"8cb757373da82c99","fromNode":"bc92a994c68841e9","fromSide":"top","toNode":"f3c16e0a0b486816","toSide":"bottom"}
 	]
 }

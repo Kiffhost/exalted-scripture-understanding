@@ -1,0 +1,6 @@
+.markdown-preview-view br {
+    content: '';
+    display: block;
+    margin-bottom: 1.5ex;
+}
+

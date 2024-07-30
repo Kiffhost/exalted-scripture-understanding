@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6800dc8496a0484d",
+        "id": "38778dfdbf255c8d",
         "type": "tabs",
         "children": [
           {
-            "id": "9a8e0cdfb53aba8a",
+            "id": "f1e0d5f2081dcd87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,24 +19,16 @@
                 "source": false
               }
             },
-            "group": "f2c4260c5a405b37"
-          },
-          {
-            "id": "7fd7dfa8ac263009",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            "group": "87e178db08f39f80"
           }
         ]
       },
       {
-        "id": "458848ba2520d129",
+        "id": "81510a84cd5e79cb",
         "type": "tabs",
         "children": [
           {
-            "id": "41f959ded7dab78a",
+            "id": "0861b5a380eb259b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -45,7 +37,7 @@
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -56,20 +48,20 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 2.67760416666667,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.40625,
+                  "repelStrength": 14.375,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224421,
+                  "linkDistance": 177,
+                  "scale": 0.5087618855792604,
                   "close": true
                 }
               }
             },
-            "group": "f2c4260c5a405b37"
+            "group": "87e178db08f39f80"
           }
         ]
       }
@@ -100,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"decision point\" path:\"Rules Reference\"  ",
+                "query": "mobility penalty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,53 +228,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a8e0cdfb53aba8a",
+  "active": "f1e0d5f2081dcd87",
   "lastOpenFiles": [
-    "Charms/Martial Arts/Dreaming Pearl Courtesan Style/Demure Carp Feint.md",
-    "Charms/Martial Arts/Crane Style/Feather-Stirred Arrow Deflection.md",
-    "Charms/Martial Arts/Crane Style/Fluttering Cry of Warning.md",
-    "Charms/Martial Arts/Crane Style/Humbling Enlightenment Commentary.md",
-    "Charms/Martial Arts/Crane Style/Mournful Crane’s Cry.md",
-    "Charms/Martial Arts/Crane Style/Wings Spread to Sky.md",
-    "Charms/Martial Arts/Crane Style/Wisdom of the Celestial Crane.md",
-    "Charms/Martial Arts/Crane Style/Kindly Sifu’s Quill.md",
-    "Charms/Martial Arts/Crane Style/Crossed Wings Denial.md",
-    "Charms/Martial Arts/Crane Style/Crane Form.md",
-    "Charms/Martial Arts/Crane Style/Empowering Justice Redirection.md",
-    "Charms/Martial Arts/Centipede Style/Tenacious Centipede Technique.md",
-    "Charms/Martial Arts/Centipede Style/Venom-Dripping Mandible.md",
-    "Charms/Martial Arts/Centipede Style/Numberless Blows Technique.md",
-    "Charms/Martial Arts/Centipede Style/Motion of Myriad Legs.md",
-    "Charms/Martial Arts/Centipede Style/Hundred-Leg Embrace.md",
-    "Charms/Martial Arts/Centipede Style/Chitinous Centipede Shell.md",
-    "Charms/Martial Arts/Centipede Style/Centipede Form.md",
-    "Charms/Martial Arts/Centipede Style/Agony-of-One-Hundred-Hells Technique.md",
-    "Charms/Martial Arts/Centipede Style/Blurring Scurry Prana.md",
-    "Charms/Martial Arts/Black Claw Style/Black Claw Form.md",
-    "Charms/Martial Arts/Black Claw Style/Doe Eyes Defense.md",
-    "Charms/Martial Arts/Black Claw Style/Flexing the Emerald Claw.md",
-    "Charms/Martial Arts/Black Claw Style/Heart-Ripping Claw.md",
-    "Charms/Martial Arts/Black Claw Style/Outrage-Kindling Cry.md",
-    "Charms/Martial Arts/Black Claw Style/Open Palm Caress.md",
+    "Charms/Martial Arts/Single Point Shining Into the Void Style/Gathering Light Concentration.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Voice of the Night Bird.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Inspiring Battle Hymn.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Terrifying Battle Shriek.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Silver-Voiced Nightingale Form.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Hearing the Heart’s Song.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Harmony in Opposition Stance.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Haunting Heart-Rending Melody.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Resounding Songbird’s Cry.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Flashing Blade Harmony.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Aria of Victory.md",
+    "Charms/Martial Arts/Silver-Voiced Nightingale Style/Shattering Discord Cacophony.md",
+    "Templates/mundane light melee weapon.md",
+    "Templates/mundane medium thrown weapon.md",
+    "Templates/mundane light thrown weapon.md",
+    "Templates/light artifact melee weapon.md",
+    "Templates/mundane heavy archery weapon.md",
+    "Templates/mundane medium archery weapon.md",
+    "Templates/mundane light archery weapon.md",
+    "Templates/mundane heavy thrown weapon.md",
+    "Templates/mundane heavy melee weapon.md",
+    "Templates/mundane medium melee weapon.md",
+    "Items/Artifacts & Evocations/Moonlit Treasure Panoply/Thousand-Winged Fiddle/Dulcet Song of Battle.md",
+    "Charms/Martial Arts/Sidereal Martial Arts/Prismatic Arrangement of Creation Style/Prismatic Arrangement of Creation Form.md",
+    "Templates/medium artifact archery weapon.md",
+    "Templates/artifact armour.md",
+    "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
+    "Charms/Martial Arts/Mantis Style/Mantis Style.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Style.canvas",
+    "Charms/Martial Arts/Immaculate Dragon Styles/Air Dragon Style/Air Dragon Tree.canvas",
+    "Charms/Martial Arts/Golden Janissary Style/Golden Janissary Style.canvas",
+    "Charms/Martial Arts/Crane Style/Crane Charm Tree.canvas",
+    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
+    "Charms/Martial Arts/Dreaming Pearl Courtesan Style/Dreaming Pearl Courtesan Tree.canvas",
     "Diseases/Supernatural",
-    "Diseases/Common",
     "Sorceries/Archetypes/Simendor Sorcery",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Seralawi, the Earth’s Beating Heart",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Gunzosha Armour",
+    "Diseases/Common",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)",
     "Items/Artifacts & Evocations/Heirlooms of Power/Untitled",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Seralawi, the Earth’s Beating Heart",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/the Earth’s Beating Heart",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/The Revelation Sphere",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Glacial Mantle",
     "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
-    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
-    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Archery/Dragon-Blooded Archery Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Brawl/Dragon-Blooded Brawl Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Investigation/Dragon-Blooded Investigation Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Larceny/Dragon-Blooded Larceny Charm Tree.canvas",
-    "Charms/Dragon-Blooded/Resistance/Dragon-Blooded Resistance Charm Tree.canvas",
-    "Charms/Solar/Melee/Solar Melee Charm Tree.canvas",
-    "Charms/Solar/Resistance/Solar Resistance Charm Tree.canvas"
+    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas"
   ]
 }

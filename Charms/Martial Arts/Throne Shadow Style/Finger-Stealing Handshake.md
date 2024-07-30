@@ -3,6 +3,7 @@ tags:
   - charm
   - Sidereal
   - source/sidereal-book
+  - Martial-Arts
 Cost: 10m, 1wp
 Mins: Martial Arts 5, Essence 3
 Type: Simple

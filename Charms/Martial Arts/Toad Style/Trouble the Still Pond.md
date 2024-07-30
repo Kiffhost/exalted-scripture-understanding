@@ -3,6 +3,7 @@ tags:
   - charm
   - Lunar
   - source/lunar-strangers-book
+  - Martial-Arts
 Cost: 3m, 1wp
 Mins: Martial Arts 4, Essence 2
 Type: Simple

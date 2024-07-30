@@ -1,8 +1,8 @@
 ---
 tags:
   - charm
-  - Lunar
   - source/lunar-strangers-book
+  - Martial-Arts
 Cost: 5m
 Mins: Martial Arts 2, Essence 1
 Type: Supplemental

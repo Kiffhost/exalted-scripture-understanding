@@ -3,6 +3,7 @@ tags:
   - charm
   - Dragon-Blooded
   - source/dragon-book
+  - Martial-Arts
 Cost: 10m, 7i, 1wp
 Mins: Martial Arts 5, Essence 3
 Type: Simple
