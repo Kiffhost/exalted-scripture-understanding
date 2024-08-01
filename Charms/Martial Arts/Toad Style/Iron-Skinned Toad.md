@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Lunar
   - source/lunar-strangers-book
   - Martial-Arts
 Cost: 3m
@@ -13,8 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Hardening her body with precise control of her muscles and Essence, the stylist becomes unbreakable.
+*Hardening her body with precise control of her muscles and Essence, the stylist becomes unbreakable.*
 The stylist gains (Stamina + 1) armored soak. She still counts as unarmored for Martial Arts and similar effects.
-
 ## Mastery
 This Charm can be used after the attack roll.

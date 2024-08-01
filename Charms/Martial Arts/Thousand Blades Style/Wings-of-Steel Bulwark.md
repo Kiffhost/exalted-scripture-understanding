@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Lunar
   - source/lunar-strangers-book
   - Martial-Arts
 Cost: 3m, 1i
@@ -15,9 +14,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Thousand Blades Unsheathed]]"
 ---
-The stylist’s weapons whirl into formation, forming a bladed aegis to fend off attack.
+*The stylist’s weapons whirl into formation, forming a bladed aegis to fend off attack.*
 The stylist gains +1 Parry. On a successful block, if her Arsenal equals or exceeds her current onslaught, that attack doesn’t inflict onslaught.
 With Arsenal 3+ the Parry bonus is replaced by a +1 Defense bonus from light cover (Cover bonuses are non-Charm). This becomes a +2 bonus from heavy cover with Arsenal 5+.
-
 ## Mastery
 If the stylist’s Arsenal equals or exceeds her current onslaught penalty, she can use this Charm after the attack roll.

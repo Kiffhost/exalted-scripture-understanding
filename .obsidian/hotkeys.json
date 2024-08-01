@@ -25,5 +25,13 @@
       ],
       "key": "M"
     }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }

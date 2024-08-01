@@ -25,5 +25,4 @@ The piercing tag applies to accessories that are small or sharp enough to concei
 #### Shield
 The shield tag applies to accessories and garments that seem well-suited to fending off attacks with their broad surface, such as paper fans, hand mirrors, or the long sleeves of a robe. These weapons usually also have the bashing tag. 
 ## Master
-
 Elegant Weapon Repertoire adds +1 to the Overwhelming value of any weapon readied with it for the duration of the fight.

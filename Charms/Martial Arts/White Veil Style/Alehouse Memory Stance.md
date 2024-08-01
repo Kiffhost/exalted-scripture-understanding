@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Dragon-Blooded
   - source/dragon-book
   - Martial-Arts
 Cost: 3m, 2i
@@ -14,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Appearing relaxed and comfortable, the stylist’s demeanor gives every indication that she wants nothing more than to sit back and gossip. She adds her base Guile in bonus dice to a Stealth roll. As long as no character present has witnessed her make an attack this scene, she ignores the penalty for attempting Stealth in combat.
+*Appearing relaxed and comfortable, the stylist’s demeanor gives every indication that she wants nothing more than to sit back and gossip.*
+She adds her base Guile in bonus dice to a Stealth roll. As long as no character present has witnessed her make an attack this scene, she ignores the penalty for attempting Stealth in combat.

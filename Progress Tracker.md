@@ -4,8 +4,9 @@ kanban-plugin: basic
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
-- [x] Fully-generic weapons
-- [ ] Sidereal Sorcerous Archetypes
+- [x] Check martial arts charms
+- [x] Sidereal Sorcerous Archetypes
+- [x] Add martial arts summary/detail pages
 - [ ] Split armor and weapon Type text into Traits list
 - [ ] Add ability links to WeaponTags
 - [ ] Evocation keywords page

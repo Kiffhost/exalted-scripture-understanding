@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Solar
   - source/solar-book
   - Martial-Arts
 Cost: 4m, 1 charge per success
@@ -13,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Steel Devil Form]]"
 ---
-The Steel Devil’s killing blade hums with lethal readiness, carrying her swiftly toward prey. This Charm supplements a rush action (p. 197), allowing the Exalt to pay one point of Charge per automatic success on the rush. If the rush succeeds, the Exalt retains the points of Charge that were spent.
+*The Steel Devil’s killing blade hums with lethal readiness, carrying her swiftly toward prey.*
+This Charm supplements a rush action (p. 197), allowing the Exalt to pay one point of Charge per automatic success on the rush. If the rush succeeds, the Exalt retains the points of Charge that were spent.

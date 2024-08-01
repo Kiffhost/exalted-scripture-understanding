@@ -1,0 +1,6 @@
+---
+tags:
+  - shapingRitual
+  - source/sidereal-book
+---
+The sorcerer may seek patronage from a prominent god of the Celestial Bureaucracy: one of the most high-ranking of terrestrial gods or a celestial god who has their own purview. This patronage is formally submitted to the Celestial Bureaucracy by burning a silk petition signed by both sorcerer and patron. Once per day, she can invoke her patron to gain (his Essence/4, round up) sorcerous motes, which last until the scene ends. If her patron has a positive Major or Defining Tie to her, she gains (his Essence) motes instead. If she spends these sorcerous motes on a spell that’s thematically related to her patron’s purview, each mote spent counts as two. She can have any number of patrons, but can only benefit from one each day. Gods don’t give their patronage freely, as they can be punished under Heaven’s law for spells cast under their auspices. For purposes of persuasion, it’s typically a serious task (Exalted, p. 216), though it may be life-changing for sorcerers known to have abused past patrons’ trust. Gods may revoke their patronage if it’s misused. The Storyteller should make it clear to a player in advance when a course of action will risk her patronage. Gods might also revoke their patronage out of political convenience if it’s central to a story involving political intrigues among spirits.

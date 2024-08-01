@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Sidereal
   - source/sidereal-book
   - Martial-Arts
 Cost: 2i
@@ -15,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Secrets of Future Strife]]"
 ---
-Savoring each breath as though it were her last, the martial artist finds joy in each moment that postpones her end. The stylist gains +1 Defense. Successfully defending awards motes equal to the attack roll’s 1s, which can’t exceed the motes spent defending against it. 
+*Savoring each breath as though it were her last, the martial artist finds joy in each moment that postpones her end.*
+The stylist gains +1 Defense. Successfully defending awards motes equal to the attack roll’s 1s, which can’t exceed the motes spent defending against it. 
 ## Terrestrial
-
 These motes are lost if not spent by the end of the stylist’s next turn.

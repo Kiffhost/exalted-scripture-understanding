@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "readableLineLength": false
 }
