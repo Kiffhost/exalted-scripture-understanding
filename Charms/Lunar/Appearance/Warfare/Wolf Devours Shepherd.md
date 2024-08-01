@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Glorious Battle Presence]]"
 ---
-Chaos breaks across the battlefield as the Lunar comes into view. When an enemy takes a command action targeting a battle group that can see the Lunar, he suffers a −(her Appearance − his Resolve) penalty, minimum −1. If he fails, he loses Initiative (which the Lunar doesn’t gain) equal to the 1s on his roll and the battle group suffers a −3 penalty on all actions until its next turn ends. 
+Chaos breaks across the battlefield as the Lunar comes into view. When an enemy takes a command action targeting a battle group that can see the Lunar, he suffers a −(her [[Appearance]] − his [[Resolve]]) penalty, minimum −1. If he fails, he loses [[Initiative]] (which the Lunar doesn’t gain) equal to the 1s on his roll and the battle group suffers a −3 penalty on all actions until its next turn ends. 
 ## Totemic 
 
-A Lunar whose spirit shape is a creature that hunts in groups may learn this as a Strength Charm.
+A Lunar whose spirit shape is a creature that hunts in groups may learn this as a [[Strength]] Charm.

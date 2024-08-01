@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Humble the Wicked]]"
 ---
-However much righteous rage Talion’s wielder may expend, she inevitably finds cause to gather more. Talion gains a pool of Willpower, capped at the wielder’s (Essence), that the Exalt can spend as though it were her own to oppose the offender and his minions. Once per scene, when the Exalt is further wronged by the offender, or she witnesses or learns of a new wrong that the offender has dealt to another, Talion gains one Willpower. Concluding or abandoning a grievance empties Talion’s Willpower pool.
+However much righteous rage Talion’s wielder may expend, she inevitably finds cause to gather more. [[Talion]] gains a pool of [[Willpower]], capped at the wielder’s ([[Essence]]), that the Exalt can spend as though it were her own to oppose the offender and his minions. Once per scene, when the Exalt is further wronged by the offender, or she witnesses or learns of a new wrong that the offender has dealt to another, [[Talion]] gains one [[Willpower]]. Concluding or abandoning a grievance empties Talion’s [[Willpower]] pool.
 
 ## Special activation rules
 

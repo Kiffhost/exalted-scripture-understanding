@@ -8,7 +8,7 @@ Very next steps, each completable within 1 day - 1 week
 - [x] Sidereal Sorcerous Archetypes
 - [x] Add martial arts summary/detail pages
 - [ ] Split armor and weapon Type text into Traits list
-- [ ] Add ability links to WeaponTags
+- [x] Add ability links to WeaponTags
 - [x] Evocation keywords page
 - [ ] Merits
 	- [ ] Animal/bestiary
@@ -46,7 +46,7 @@ Overarching goals, completable within 1 month
 - [ ] Put all collected sidebars into appropriate rules
 - [ ] Bestiary?
 	- [ ] Inhuman Charms
-- [ ] In-text cross-links
+- [x] In-text cross-links
 - [ ] Charm Trees
 	- [x] Solar
 	- [x] Dragon-Blooded

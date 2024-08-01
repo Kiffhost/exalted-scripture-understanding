@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The serenity of earth focuses and heightens all of the senses. The Exalt may add dice to an Awareness roll for one mote each, or automatic successes for two motes each.
+The serenity of earth focuses and heightens all of the senses. The Exalt may add dice to an [[Awareness]] roll for one mote each, or automatic successes for two motes each.

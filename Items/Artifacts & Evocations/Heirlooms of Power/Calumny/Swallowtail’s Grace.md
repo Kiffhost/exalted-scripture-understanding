@@ -19,4 +19,4 @@ He who denies, attacks; she who knows, invites. After parrying an attack made by
 
 ## Resonant
 
-The wielder may reflexively make an influence roll in place of a counterattack, leveraging one of the attacker’s secrets against him. She steals a point of Initiative from him for each threshold success, maximum (Manipulation).
+The wielder may reflexively make an influence roll in place of a counterattack, leveraging one of the attacker’s secrets against him. She steals a point of [[Initiative]] from him for each threshold success, maximum ([[Manipulation]]).

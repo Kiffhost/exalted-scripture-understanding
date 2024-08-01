@@ -14,7 +14,7 @@ Prerequisite Charms:
   - x2
 ---
 
-As the Exalt fights, the world around her stops and starts at her whim, confounding those confronted with her seemingly impossible battle-prowess. After the wielder successfully lands a decisive attack made at Initiative 15+, she may use Step Between Seconds on her next turn.
+As the Exalt fights, the world around her stops and starts at her whim, confounding those confronted with her seemingly impossible battle-prowess. After the wielder successfully lands a decisive attack made at [[Initiative]] 15+, she may use [[Step Between Seconds]] on her next turn.
 
 ## Resonant
 

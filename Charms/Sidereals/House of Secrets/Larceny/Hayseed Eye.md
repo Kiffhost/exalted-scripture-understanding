@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Honorable Thief Spirit]]"
 ---
-Criminals and con artists seeking to prey on the Sidereal soon learn the folly of trying to cheat a master cheater. The Sidereal makes a special (Perception + Larceny) read intentions roll against a character. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
+Criminals and con artists seeking to prey on the Sidereal soon learn the folly of trying to cheat a master cheater. The Sidereal makes a special ([[Perception]] + [[Larceny]]) read intentions roll against a character. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
 -  Is he planning to cheat, exploit, or take advantage of me? 
 -  Is he planning to commit a crime? 
 -  Does he think I suspect him? 

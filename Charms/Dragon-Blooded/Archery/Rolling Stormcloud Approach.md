@@ -14,4 +14,4 @@ Duration: One turn
 Prerequisite Charms:
   - "[[Drawing Lightning Style]]"
 ---
-The Dragon-Blood sweeps across the battlefield like a swift-moving storm. She may aim and take a move action in the same turn, and can flurry an aim with a rush or disengage. If she successfully rushes or disengages, she ignores the Defense penalty from flurrying.
+The Dragon-Blood sweeps across the battlefield like a swift-moving storm. She may aim and take a move action in the same turn, and can flurry an aim with a rush or disengage. If she successfully rushes or disengages, she ignores the [[Defense]] penalty from flurrying.

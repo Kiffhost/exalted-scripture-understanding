@@ -8,7 +8,7 @@ Long before armies and heroes clash on the field of battle, the strategies of th
 This is how strategic conflict works: 
 - The strategic decision-maker (generally a general or strategos) for each side decides upon a desired [[stratagem]]. 
 - The players of each involved general tally up any advantages they may have that would provide [[#Potential Modifiers|modifiers]] to their attempt to implement their strategy. 
-- The players make an opposed (Intelligence + War) [[Strategic Maneuver]] roll. If one side or the other manages to triumph, then the battle that follows plays out according to the terms of the stratagem they’ve selected. 
+- The players make an opposed ([[Intelligence]] + [[War]]) [[Strategic Maneuver]] roll. If one side or the other manages to triumph, then the battle that follows plays out according to the terms of the stratagem they’ve selected. 
 - The battle is then played out in the combat system as usual, subject to the selected stratagem.
 
 # Potential Modifiers
@@ -17,7 +17,7 @@ This is how strategic conflict works:
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | -1       | General knows nothing at all about opposing general                                                                                                                                                                                           |
 | -1       | General knows little to nothing about the forces he is to face                                                                                                                                                                                |
-| -1       | General commands troops with poor Drill                                                                                                                                                                                                       |
+| -1       | General commands troops with poor [[Drill]]                                                                                                                                                                                                       |
 | +1       | General has extensively studied his opponent’s past strategies                                                                                                                                                                                |
 | +1       | General has spies and informants within the enemy’s ranks                                                                                                                                                                                     |
 | +2       | General has a high-placed traitor within enemy ranks                                                                                                                                                                                          |

@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Increasing Strength Exercise]]"
 ---
-Through intense muscle control, the Solar’s insides erupt with surging Essence power. Reroll all non-successes on a feat of strength.
+Through intense muscle control, the Solar’s insides erupt with surging [[Essence]] power. Reroll all non-successes on a feat of strength.

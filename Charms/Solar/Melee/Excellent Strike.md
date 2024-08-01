@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Exalt channels Essence through skill, honing her accuracy in order to strike true. Her attack gains one automatic success. Additionally, all 1s are rerolled until 1s no longer appear.
+The Exalt channels [[Essence]] through skill, honing her accuracy in order to strike true. Her attack gains one automatic success. Additionally, all 1s are rerolled until 1s no longer appear.

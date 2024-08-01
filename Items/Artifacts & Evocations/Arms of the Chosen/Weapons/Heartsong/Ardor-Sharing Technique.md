@@ -16,4 +16,4 @@ Words and arrows alike convey the Exalt’s ardor. The wielder can supplement a 
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with jade, this Evocation awakens at no cost when she upholds a Major or Defining Intimacy based on a strong emotion.
+As long as the wielder isn’t dissonant with jade, this Evocation awakens at no cost when she upholds a Major or Defining [[Intimacy]] based on a strong emotion.

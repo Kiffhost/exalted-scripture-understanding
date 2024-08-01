@@ -16,4 +16,4 @@ The Lunar stands witness to pacts that bind families and nations, a sacred monst
 
 ## Special activation rules
 
-If the Lunar’s Solar mate seals an oath using his anima power, she waives this Charm’s Willpower cost, and may use it on that oath even if it’s not made to or by her.
+If the Lunar’s Solar mate seals an oath using his anima power, she waives this Charm’s [[Willpower]] cost, and may use it on that oath even if it’s not made to or by her.

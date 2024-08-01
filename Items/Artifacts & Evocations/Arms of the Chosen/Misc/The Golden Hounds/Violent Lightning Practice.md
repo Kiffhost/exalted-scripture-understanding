@@ -15,6 +15,6 @@ Prerequisite Charms:
   - OR
   - "[[Lightning Strikes Twice]]"
 ---
-This Evocation enhances the following Charms:
-- One With Violence (Exalted, p. 278) adds (Celerity) to the extra Initiative.
-- When the wearer incapacitates an opponent using Lightning Strikes Twice (Exalted, p. 281), she regains one temporary Willpower.
+This Evocation enhances the following [[Charms]]:
+- [[One With Violence]] (Exalted, p. 278) adds (Celerity) to the extra [[Initiative]].
+- When the wearer incapacitates an opponent using [[Lightning Strikes Twice]] (Exalted, p. 281), she regains one temporary [[Willpower]].

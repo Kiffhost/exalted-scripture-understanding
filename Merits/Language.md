@@ -9,7 +9,7 @@ tags:
 Cost: 1
 ---
 This Merit may be re-purchased as many times as desired.
-Each purchase grants the character fluency in one language in addition to his native tongue. If the character possesses Linguistics 1+, then they are also literate in any written forms of the language.
+Each purchase grants the character fluency in one language in addition to his native tongue. If the character possesses [[Linguistics]] 1+, then they are also literate in any written forms of the language.
 The ‘civilized’ inhabitants of each of the outer Directions speak a different language (actually a number of closely-related regional dialects), while the Scavenger Lands has its own particular language and the mighty Realm has two official languages. There are also countless local languages that are only spoken by tribal or ethnic groups spread around Creation’s rim.
 The major languages of Creation are:
 ### High Realm
@@ -18,7 +18,7 @@ Its written form is a phonetic alphabet of complex brush work characters.
 ### Low Realm
 The tongue of the Realm’s commoners, generally constituting local bastardizations of High Realm drifted into near-incomprehensibility to outsiders. It shares the written stylings of High Realm, but often uses simplified character depictions which can be rendered without brushes or careful calligraphy.
 ### Old Realm
-The native language of the spirits and those that created them, as well as of the Fair Folk. It was widely spoken in the First Age, especially by savants and sorcerer-engineers, and used for many official documents. Characters must have Lore 1+ or Occult 1+ to learn this language. There exist several styles for writing Old Realm, the most extravagant of which is a complex glyphic system where symbol arrangement is as important as symbol choice, and the same phrase might be read in several ways, often as a deliberate choice by the writer intended to impart subtle and layered meaning.
+The native language of the spirits and those that created them, as well as of the Fair Folk. It was widely spoken in the First Age, especially by savants and sorcerer-engineers, and used for many official documents. Characters must have [[Lore]] 1+ or [[Occult]] 1+ to learn this language. There exist several styles for writing Old Realm, the most extravagant of which is a complex glyphic system where symbol arrangement is as important as symbol choice, and the same phrase might be read in several ways, often as a deliberate choice by the writer intended to impart subtle and layered meaning.
 #### Sidereal
 Old Realm is Yu-Shan’s native tongue, though many gods speak at least one mortal language.
 ### Dragontongue

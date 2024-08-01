@@ -11,7 +11,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Shared Battle-Instinct]]"
 ---
-When one sword-sibling gains command of the battle, the other is ever ready to share that advantage. The wielder gains two Initiative whenever her sword-sibling gains an Initiative Break bonus from crashing an enemy. She can only gain this bonus once per round. 
+When one sword-sibling gains command of the battle, the other is ever ready to share that advantage. The wielder gains two [[Initiative]] whenever her sword-sibling gains an [[Initiative]] Break bonus from crashing an enemy. She can only gain this bonus once per round. 
 
 ## Dissonant
 

@@ -10,4 +10,4 @@ Repairing items generally requires a smaller investment of time and materials th
 - A basic repair project awards 1 [[Crafting Projects#Crafting Experience|silver point]] per [[Crafting Projects#Basic Objectives|basic objective]] triggered. 
 - A major repair project grants 1 [[Crafting Projects#Crafting Experience|gold point]] per basic objective triggered. 
 - Repairing a broken artifact with a superior repair project awards (Artifact’s rating - 1) [[Crafting Projects#Crafting Experience|white experience points]]. 
-- Repairing a broken N/A artifact with a legendary repair project grants no crafting experience points—the reward for such endeavor is restoring the Essence and power of a lost wonder of the ages.
+- Repairing a broken N/A artifact with a legendary repair project grants no crafting experience points—the reward for such endeavor is restoring the [[Essence]] and power of a lost wonder of the ages.

@@ -23,11 +23,11 @@ A number of example environmental hazards are listed below:
 | The Silent Wind of Hell | 4 Aggravated                                 | [[Time#Round\|Round]] | 4                                     |
 ## Mitigation roll
 A mitigation roll for an environmental hazard can take many forms:
-- Toughing out the cold of the tundra (Stamina + Resistance)
-- Dancing through the maze of swinging blades (Dexterity + Dodge)
-- Modifying clothing to weather the desert sun (Wits + Survival)
-- Holding open crushing traps (Strength + Athletics)
+- Toughing out the cold of the tundra ([[Stamina]] + [[Resistance]])
+- Dancing through the maze of swinging blades ([[Dexterity]] + [[Dodge]])
+- Modifying clothing to weather the desert sun ([[Wits]] + [[Survival]])
+- Holding open crushing traps ([[Strength]] + [[Athletics]])
 
 A character who succeeds at a mitigation roll manages to avoid injury, at least until the next roll. 
 # Traps
-Traps work the same way as environmental hazards, save that characters are allowed a (Perception + Awareness) roll to spot them before setting them off, and they *usually* take effect instantly, with no ongoing **interval**.
+Traps work the same way as environmental hazards, save that characters are allowed a ([[Perception]] + [[Awareness]]) roll to spot them before setting them off, and they *usually* take effect instantly, with no ongoing **interval**.

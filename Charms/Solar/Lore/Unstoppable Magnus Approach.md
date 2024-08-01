@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Incalculable Flowing Mind]]"
   - "[[Surging Inner Fire]]"
 ---
-With mental skill beyond comparison, the Solar deftly converts the flow of combat into restorative power. In combat, the Lawgiver may use this Charm to gain one point of temporary Willpower.
+With mental skill beyond comparison, the Solar deftly converts the flow of combat into restorative power. In combat, the Lawgiver may use this Charm to gain one point of temporary [[Willpower]].

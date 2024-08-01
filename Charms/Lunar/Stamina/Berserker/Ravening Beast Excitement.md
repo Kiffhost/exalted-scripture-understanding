@@ -13,7 +13,7 @@ Prerequisite Charms:
   - None
 ---
 Great forces sent against the Lunar merely multiply her opportunities for carnage.
-The Lunar adds a non-Charm die to her Join Battle roll for each nontrivial enemy she faces, maximum (higher of Essence or 3). If she wins Join Battle, on her first turn, she ignores penalties from flurrying and can flurry an attack with a shapeshifting action.
+The Lunar adds a non-Charm die to her [[Join Battle]] roll for each nontrivial enemy she faces, maximum (higher of [[Essence]] or 3). If she wins [[Join Battle]], on her first turn, she ignores penalties from flurrying and can flurry an attack with a shapeshifting action.
 
 ## Archetype 
-Lunars with predatory spirit shapes may learn this as a Wits Charm.
+Lunars with predatory spirit shapes may learn this as a [[Wits]] Charm.

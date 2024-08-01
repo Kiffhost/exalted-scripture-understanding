@@ -7,7 +7,7 @@ Many of Creation’s beasts are touched by strange magics. Some have fed upon th
 
 Witch-beasts are always three-dot familiars (Exalted, p. 161) for the supernatural powers they possess. Examples include a Fae-Blooded cat that walks through mirrors, a death-tainted raiton, or an oracular pig. Three-dot familiars that are apex predators, like tyrant lizards, don’t qualify. A character must already have an appropriate familiar to take this initiation. 
 
-# Shaping Rituals
+# [[Shaping Rituals]]
 ```dataview
 LIST
 FROM "Sorceries/Archetypes/Witch-Beast Pact" AND #ShapingRitual

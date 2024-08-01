@@ -17,4 +17,4 @@ Far-Ranging Eye’s attentions are unswerving. The wielder reflexively aims agai
 
 ## Resonant
 
-With Essence 3, if both of this Evocation’s conditions are met, the wielder takes two aim actions instead.
+With [[Essence]] 3, if both of this Evocation’s conditions are met, the wielder takes two aim actions instead.

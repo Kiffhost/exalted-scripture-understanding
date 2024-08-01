@@ -32,7 +32,7 @@ Advancing her or her Circle’s goals by killing powerful enemies; bringing long
 
 # Caste Abilities
 
-Athletics, Awareness, Bureaucracy, Integrity, Medicine. 
+[[Athletics]], [[Awareness]], [[Bureaucracy]], [[Integrity]], [[Medicine]]. 
 
 # Associations
 
@@ -49,8 +49,8 @@ The Reckoner may pay one mote to determine whether an ending would align with de
 
 ## Lesser Sign of Saturn
 
-The Reckoner may pay five motes to reflexively make Saturn’s lesser sign, trailing violet stardust from her fingertips. Until her next turn, she and all allies within close range add (Sidereal’s Essence, maximum 5) Overwhelming on withering attacks and add an automatic success on decisive damage rolls. This is free at bonfire. 
+The Reckoner may pay five motes to reflexively make Saturn’s lesser sign, trailing violet stardust from her fingertips. Until her next turn, she and all allies within close range add (Sidereal’s [[Essence]], maximum 5) Overwhelming on withering attacks and add an automatic success on decisive damage rolls. This is free at bonfire. 
 
 ## Greater Sign of Saturn
 
-Once per story, the Reckoner may pay twenty and one Willpower to make Saturn’s greater sign, shining brilliant violet in the sky above. This takes her entire turn. She and her allies gain −1 target number on damage rolls, or −2 against enemies of fate, and ignore Hardness. Un-Exalted enemies can’t take crippling injuries (Exalted, p. 201) and automatically fail rolls against poison, disease, and crippling effects. Medicine rolls to treat their ailments likewise fail. Those slain in battle pass unto Lethe, though powerful Exalted still require proper burial rituals to ensure they won’t linger as hungry ghosts.
+Once per story, the Reckoner may pay twenty and one [[Willpower]] to make Saturn’s greater sign, shining brilliant violet in the sky above. This takes her entire turn. She and her allies gain −1 target number on damage rolls, or −2 against enemies of fate, and ignore [[Hardness]]. Un-Exalted enemies can’t take crippling injuries (Exalted, p. 201) and automatically fail rolls against poison, disease, and crippling effects. [[Medicine]] rolls to treat their ailments likewise fail. Those slain in battle pass unto Lethe, though powerful Exalted still require proper burial rituals to ensure they won’t linger as hungry ghosts.

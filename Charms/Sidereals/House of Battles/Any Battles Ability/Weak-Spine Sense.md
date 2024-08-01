@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - Any three Battles Charms
 ---
-The Sidereal knows the scent of fear. The Sidereal makes a special (Perception + Battles Ability) read intentions roll. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
+The Sidereal knows the scent of fear. The Sidereal makes a special ([[Perception]] + Battles Ability) read intentions roll. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
 -  Is he afraid of me? 
 -  How could I best intimidate him? 
 -  Who here is he most afraid of? 

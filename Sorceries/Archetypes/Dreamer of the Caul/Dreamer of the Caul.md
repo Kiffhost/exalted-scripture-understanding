@@ -7,7 +7,7 @@ The histories of the Caulborn clans who preserve this sorcerous tradition tell o
 
 Sorcerers who walk this path commune with the Caul, opening themselves to its dreamlike existence through sleep deprivation, ecstatic rituals, and entheogens. Some in the Silver Pact have studied it under the Caulborn sorcerer Mekne-Mesi, whose pact with Skathra Venomchild allows any Lunar to receive his tutelage in exchange for three favors. 
 
-# Shaping Rituals
+# [[Shaping Rituals]]
 ```dataview
 LIST
 FROM "Sorceries/Archetypes/Dreamer of the Caul" AND #shapingRitual 

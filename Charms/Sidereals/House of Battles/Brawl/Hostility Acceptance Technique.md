@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Having resigned herself to conflict’s inevitability, the Sidereal rolls with the punches as if it were second nature. The Sidereal can use this Charm after being hit by a withering attack, before the damage roll. The amount of Initiative she loses from the attack is reduced by (higher of Essence or 3), although her attacker still receives the full amount. If this prevents the Sidereal from losing any Initiative, she gains one Initiative.
+Having resigned herself to conflict’s inevitability, the Sidereal rolls with the punches as if it were second nature. The Sidereal can use this Charm after being hit by a withering attack, before the damage roll. The amount of [[Initiative]] she loses from the attack is reduced by (higher of [[Essence]] or 3), although her attacker still receives the full amount. If this prevents the Sidereal from losing any [[Initiative]], she gains one [[Initiative]].

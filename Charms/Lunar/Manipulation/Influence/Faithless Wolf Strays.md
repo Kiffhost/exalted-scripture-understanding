@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Brother-or-Duty Dilemma]]"
 ---
-A master of self-deception, the Lunar argues against her own ideals. When she bolsters her Resolve with a Tie to an individual, it can’t be penalized by Ties toward groups or Principles if they have lower intensity (though they may still support persuade actions). If the bolstering Tie is toward her Solar mate, such Intimacies can’t penalize her Resolve unless they’re of greater intensity.
+A master of self-deception, the Lunar argues against her own ideals. When she bolsters her [[Resolve]] with a Tie to an individual, it can’t be penalized by Ties toward groups or Principles if they have lower intensity (though they may still support persuade actions). If the bolstering Tie is toward her Solar mate, such Intimacies can’t penalize her [[Resolve]] unless they’re of greater intensity.

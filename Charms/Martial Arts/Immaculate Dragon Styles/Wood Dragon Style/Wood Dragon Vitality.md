@@ -15,5 +15,5 @@ Prerequisite Charms:
   - None
 ---
 *At one with the font of all life in Creation, the Immaculate suffuses her body with unyielding vitality.*
-She adds (Martial Arts) natural soak against a withering attack, or subtracts one die from the damage of a decisive attack.
-In Wood Aura, the Immaculate adds (Essence + Martial Arts) soak, or subtracts (Essence/2, rounded up) dice of decisive damage.
+She adds ([[Martial Arts]]) natural soak against a withering attack, or subtracts one die from the damage of a decisive attack.
+In Wood Aura, the Immaculate adds ([[Essence]] + [[Martial Arts]]) soak, or subtracts (Essence/2, rounded up) dice of decisive damage.

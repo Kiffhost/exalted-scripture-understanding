@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Unsheathe the Crescent Moon]]"
 ---
-Communing with the moon gods within the swords, the Lunar draws upon their strength of will. She adds +1 non-Charm Resolve or Guile. This Evocation can only be used once per day. Using it to increase Resolve while the swords are waxing or increase Guile while they’re waning doesn’t require a reset. 
+Communing with the moon gods within the swords, the Lunar draws upon their strength of will. She adds +1 non-Charm [[Resolve]] or [[Guile]]. This Evocation can only be used once per day. Using it to increase [[Resolve]] while the swords are waxing or increase [[Guile]] while they’re waning doesn’t require a reset. 
 
 ## Resonant
 

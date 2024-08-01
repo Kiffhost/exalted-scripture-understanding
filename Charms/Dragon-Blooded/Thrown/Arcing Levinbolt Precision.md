@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Armor-Rupturing Fang]]"
 ---
-A flash of lightning precedes the Dragon-Blood’s weapon, tracing the path to her foe. An enemy wearing metal armor, including armor made from the five magical materials, applies its mobility penalty to his soak and Hardness against an attack.
+A flash of lightning precedes the Dragon-Blood’s weapon, tracing the path to her foe. An enemy wearing metal armor, including armor made from the five magical materials, applies its mobility penalty to his soak and [[Hardness]] against an attack.

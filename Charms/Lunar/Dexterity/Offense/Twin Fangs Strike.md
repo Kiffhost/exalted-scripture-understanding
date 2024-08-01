@@ -16,4 +16,4 @@ As the Lunar forces an opening, her allies hasten to strike. A successful distra
 
 ## Special activation rules
 
-If this Charm is used with Deadly Wolf-Pack Onslaught or other effects that let a distract gambit benefit multiple allies, its cost must be paid separately for each.
+If this Charm is used with [[Deadly Wolf-Pack Onslaught]] or other effects that let a distract gambit benefit multiple allies, its cost must be paid separately for each.

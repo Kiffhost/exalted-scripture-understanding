@@ -14,12 +14,12 @@ Prerequisite Charms:
   - "[[Ravening Beast Excitement]]"
 ---
 Bellowing with rage, the Lunar comes back from the brink.
-To use this Charm, the Lunar must have reset to base Initiative on or since her last turn, and must still be at or below her base Initiative. She rolls Join Battle.
-The restrictions on using this Charm are waived while using Relentless Lunar Fury.
+To use this Charm, the Lunar must have reset to base [[Initiative]] on or since her last turn, and must still be at or below her base [[Initiative]]. She rolls [[Join Battle]].
+The restrictions on using this Charm are waived while using [[Relentless Lunar Fury]].
 
 ## Reset 
 Once per scene.
 
 ## Archetype 
-Lunars with predatory spirit shapes may learn this as a Wits Charm.
-Strength Offense
+Lunars with predatory spirit shapes may learn this as a [[Wits]] Charm.
+[[Strength]] Offense

@@ -12,4 +12,4 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Glance-Oration Technique]]"
 ---
-The Lunar’s posture and body language reflect unassailable self-assurance. She gains a bonus dot of Appearance, which can raise her Appearance above 5. She waives Glance-Oration Technique’s cost.
+The Lunar’s posture and body language reflect unassailable self-assurance. She gains a bonus dot of [[Appearance]], which can raise her [[Appearance]] above 5. She waives Glance-Oration Technique’s cost.

@@ -11,6 +11,6 @@ The victim feels weary and lethargic, suffering a −1 fatigue penalty on all ro
 # Major
 The victim’s fatigue penalty stacks by one each day he goes without twelve hours of sleep, maximum −5. In addition, he can no longer heal damage naturally (Exalted, p. 173) if he remains fully active during convalescence. Rolls to diagnose the disease are made at +3 difficulty. 
 # Defining
-The victim now requires twenty hours of sleep to avoid suffering a fatigue penalty, as well to recover Willpower from a night’s sleep. Rolls to diagnose the disease are made at +2 difficulty.
+The victim now requires twenty hours of sleep to avoid suffering a fatigue penalty, as well to recover [[Willpower]] from a night’s sleep. Rolls to diagnose the disease are made at +2 difficulty.
 
 [[Disease]]

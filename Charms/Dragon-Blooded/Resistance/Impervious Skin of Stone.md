@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Bracing herself against a blow, the Dragon-Blood deflects attacks with the force of solid stone. She doubles her Stamina to determine her natural soak against a single withering attack. In Earth Aura, this Charm can be used after an attack hits the Dragon-Blood, but before damage is rolled.
+Bracing herself against a blow, the Dragon-Blood deflects attacks with the force of solid stone. She doubles her [[Stamina]] to determine her natural soak against a single withering attack. In Earth Aura, this Charm can be used after an attack hits the Dragon-Blood, but before damage is rolled.

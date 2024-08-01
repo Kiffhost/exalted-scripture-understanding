@@ -5,13 +5,13 @@ tags:
 ---
 One of the basic functions of [[Lore]] in Exalted is to allow the player to spice up narrative drama, forward the plot, or become the object of positive [[Intimacy|Intimacies]] by demonstrating valuable knowledge. 
 
-Once per scene, a character with Lore 3+ and a relevant specialty or backstory can attempt to “know” something useful about Creation’s history, geography, cultures, etc. 
+Once per scene, a character with [[Lore]] 3+ and a relevant specialty or backstory can attempt to “know” something useful about Creation’s history, geography, cultures, etc. 
 
 1. The player states a **fact** they would like to introduce.
 	1. The Storyteller determines if the **fact** is [[#Admissibility|admissible]].
-2. The player rolls (Intelligence + Lore) against a difficulty set by the Storyteller.
-	1. Difficulty may be influenced by the relevance of the character's [[Lore#Background]] and Lore [[Specialty|specialties]].
-	2. See [[Assigning Difficulties to Lore Rolls]]
+2. The player rolls ([[Intelligence]] + [[Lore]]) against a difficulty set by the Storyteller.
+	1. Difficulty may be influenced by the relevance of the character's [[Lore#Background]] and [[Lore]] [[Specialty|specialties]].
+	2. See [[Assigning Difficulties to [[Lore]] Rolls]]
 3. If the roll succeeds, the character may introduce her fact as knowledge she knows or uncovers in the scene.
 
 # Admissibility
@@ -29,4 +29,4 @@ Once per scene, a character with Lore 3+ and a relevant specialty or backstory c
 <details><summary>Example</summary>
 You might deem a Solar’s “Sidereal Exalted” hypothesis to be more than the character should know, while being more comfortable with a theory that tends toward something more vague, such as speculation about “Exalted conspirators behind the world’s events.” In this case, you should clarify which facts you will allow before the roll is made.</details>
 
-That said, remember that people take Lore because this is the kind of character they want to play. You don’t have to treat the setting like a piñata, and Lore like a bat that will split its colorful shell and spill all the delicious secrets within, but you should always treat a character’s Lore rating as a chance to make the character look good, and as a chance to make the player feel good. 
+That said, remember that people take [[Lore]] because this is the kind of character they want to play. You don’t have to treat the setting like a piñata, and [[Lore]] like a bat that will split its colorful shell and spill all the delicious secrets within, but you should always treat a character’s [[Lore]] rating as a chance to make the character look good, and as a chance to make the player feel good. 

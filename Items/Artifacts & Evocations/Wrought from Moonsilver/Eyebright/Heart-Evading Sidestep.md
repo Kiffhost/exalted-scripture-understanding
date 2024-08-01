@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Enfolding Sentinel’s Prescience]]"
 ---
-When the wearer knows an enemy’s heart, she sees where his every strike is aimed. She adds (Insight/2, rounded up) Defense.
+When the wearer knows an enemy’s heart, she sees where his every strike is aimed. She adds (Insight/2, rounded up) [[Defense]].

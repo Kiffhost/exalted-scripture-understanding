@@ -13,7 +13,7 @@ Head: Yaogin, God of Beautiful Dreams
 HQ: Crimson Panoply of Victory
 Head: Hu Dai Liang, God of Decisive Stratagems
 ## Division of Secrets
-HQ: Forbidding Manse of Ivy
+HQ: Forbidding [[Manse]] of Ivy
 Head: Nara-O, Lord of Secrets Untold
 ## Division of Endings
 HQ: Violet Bier of Sorrows
@@ -34,13 +34,13 @@ Head: Wayang, Lord of Silence
 # Bureau of Heaven
 ## Department of Celestial Concerns
 HQ: Spire of Virtuous Insight
-Head: Ryzala, Lady of Bureaucracy and Paperwork 
+Head: Ryzala, Lady of [[Bureaucracy]] and Paperwork 
 ### Division of Inevitable Reckoning
 ## Department of Abstract Matters
 Head: Taru-Han, Psychopomp of the Final Moment
 ### Division of Exaltation
 Head: Lytek, God of Exaltation
-### Division of War
+### Division of [[War]]
 Head: E-Naluna
 ### Division of Peace
 # Bureau of Nature

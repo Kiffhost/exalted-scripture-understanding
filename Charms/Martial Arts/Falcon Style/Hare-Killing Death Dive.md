@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Falcon Form]]"
 ---
 *Leaping onto her enemy’s shoulders, the stylist uses her legs to flip him and force him into a hold.*
-She makes a grapple gambit with double 9s on the attack roll. Winning clinch control knocks her foe prone, and steals Initiative equal to the number of dice that show doubled successes on the attack roll (usually 9s and 10s) from him.
+She makes a grapple gambit with double 9s on the attack roll. Winning clinch control knocks her foe prone, and steals [[Initiative]] equal to the number of dice that show doubled successes on the attack roll (usually 9s and 10s) from him.

@@ -18,4 +18,4 @@ Focusing on her speed, the Exalt becomes an avatar of haste. She gains the follo
 
 ## Resonant
 
-The Exalt adds (Celerity) to Evasion at all times without needing to spend Initiative.
+The Exalt adds (Celerity) to Evasion at all times without needing to spend [[Initiative]].

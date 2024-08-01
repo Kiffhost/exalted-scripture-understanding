@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
+                "file": "Items/Artifacts & Evocations/The Grand Panoply/Misc/Folding Ship.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Merits/Allies.md",
+                "file": "Progress Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
+                "file": "Progress Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
+                "file": "Progress Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -210,34 +210,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a5d214276320e48",
+  "active": "405947297fbc3333",
   "lastOpenFiles": [
-    "Charms/Dragon-Blooded/Melee/Mela’s Flashing Tongue.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Sudden Squall Interception.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Freezing Glacier Strike.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Whirling Shield Tempest.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Empyrean Aegis.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Guardian Gale Technique.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Brumal Rime Barrier.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Direlash.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Goremaul.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Grand Goremaul.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Dragon Sigh Wand.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Hearthstone Amulet (Tiara, Bracer, etc.).md",
-    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Edge-of-Chaos Hymn.md",
-    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Cold Iron Cadence.md",
-    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Nightmare-Soothing Melody.md",
-    "Constellations.md",
+    "Items/Everyday Wonders & Natural Magics/Bright Morning.md",
     "Moonsilver Tattoos.md",
-    "Charms/Lunar/Appearance/Heart's Blood/Heart-Drinking Allure.md",
-    "Charms/Dragon-Blooded/Archery/Blazing Phoenix Pinion.md",
-    "Charms/Dragon-Blooded/Archery/Arrow Thorn Technique.md",
-    "Character Creation/Sidereal Exalted.md",
-    "Character Creation/Lunar Exalted.md",
-    "Character Creation/Dragon-Blooded Exalted.md",
-    "Progress Tracker.md",
-    "Templates/weapon.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
+    "Constellations.md",
+    "Charms/Solar/Archery/Rain of Feathered Death.md",
+    "temp.md",
+    "Charms/Solar/Archery/Hell-Heeling Arrow.md",
+    "Traits/Health Track.md",
+    "Rules Reference/Leadership.md",
+    "Rules Reference/Disease.md",
+    "Charms/Solar/Archery/Force Without Fire.md",
+    "Charms/Solar/Archery/Blood Without Balance.md",
+    "Charms/Solar/Archery/Hunter’s Swift Answer.md",
+    "Charms/Solar/Archery/Hanging Judgment Arc.md",
+    "Charms/Solar/Archery/Finishing Snipe.md",
+    "Charms/Solar/Archery/Solar Judgment Flare.md",
+    "Charms/Solar/Archery/Trance of Unhesitating Speed.md",
+    "Charms/Solar/Archery/Streaming Arrow Stance.md",
+    "Charms/Solar/Archery/Sight Without Eyes.md",
+    "Charms/Solar/Archery/Shadow-Seeking Arrow.md",
+    "Charms/Solar/Archery/Seven Omens Shot.md",
+    "Charms/Solar/Archery/Revolving Bow Discipline.md",
+    "Charms/Solar/Archery/Dust and Ash Sleight.md",
+    "Charms/Solar/Archery/Heart-Eating Incineration.md",
+    "Charms/Solar/Archery/Flashing Vengeance Draw.md",
+    "Charms/Solar/Archery/Dazzling Flare Attack.md",
+    "Charms/Solar/Archery/There Is No Wind.md",
+    "Charms/Solar/Archery/Solar Archery Charm Tree.canvas",
     "Merits/NPC Merits",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
@@ -256,7 +257,6 @@
     "Diseases/Common",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)",
     "Items/Artifacts & Evocations/Heirlooms of Power/Untitled",
-    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
-    "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas"
+    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas"
   ]
 }

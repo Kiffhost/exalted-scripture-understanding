@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Dipping Swallow Defense]]"
   - "[[Excellent Strike]]"
 ---
-Tuning her understanding of martial Essence through her dedicated weapon-mastery, the Solar can momentarily achieve flawless combat efficiency. Once per scene, the Exalt may use a full Melee Excellency, paying only a single willpower to activate the Charm. Perfect Strike Discipline can be reset by incapacitating an opponent with a Melee attack.
+Tuning her understanding of martial [[Essence]] through her dedicated weapon-mastery, the Solar can momentarily achieve flawless combat efficiency. Once per scene, the Exalt may use a full [[Melee]] Excellency, paying only a single willpower to activate the Charm. [[Perfect Strike Discipline]] can be reset by incapacitating an opponent with a [[Melee]] attack.

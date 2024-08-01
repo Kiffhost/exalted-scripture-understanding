@@ -5,4 +5,4 @@ tags:
   - source/dragon-heirs-book
 Cost: "3"
 ---
-The sorcerer gains +2 Resolve as a Charm bonus against influence that diminishes her capacity to enjoy sensual pleasures.
+The sorcerer gains +2 [[Resolve]] as a Charm bonus against influence that diminishes her capacity to enjoy sensual pleasures.

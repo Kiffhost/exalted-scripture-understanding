@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ Guardian Gale Technique]]"
 ---
 Empyrean Aegis flies across the battlefield, ricocheting off walls to interpose itself between countless attacks.
-When she uses Guardian Gale Technique, she may pay a five-mote, one-Willpower surcharge to extend her protection to all allies within range, rather than just one. If she uses this Evocation subsequently in the same scene, the surcharge is reduced to only five motes.
+When she uses [[Guardian Gale Technique]], she may pay a five-mote, one-[[Willpower]] surcharge to extend her protection to all allies within range, rather than just one. If she uses this Evocation subsequently in the same scene, the surcharge is reduced to only five motes.

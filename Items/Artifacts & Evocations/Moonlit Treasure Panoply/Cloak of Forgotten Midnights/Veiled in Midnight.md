@@ -19,4 +19,4 @@ While using this Evocation, spirits or fae related to darkness, night, or the mo
 Supernatural light sources can’t illuminate the darkness.
 
 ## Special activation rules
-This Charm can be flurried with a Shape Sorcery action.
+This Charm can be flurried with a [[Shape Sorcery]] action.

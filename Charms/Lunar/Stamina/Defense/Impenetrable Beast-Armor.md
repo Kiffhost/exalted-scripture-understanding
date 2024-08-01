@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar thickens her skin, forming a thick hide, bony plates, or tough scales. She adds (higher of Essence or 3) natural soak against a withering attack or gains Hardness (Stamina) against a decisive attack.
+The Lunar thickens her skin, forming a thick hide, bony plates, or tough scales. She adds (higher of [[Essence]] or 3) natural soak against a withering attack or gains [[Hardness]] ([[Stamina]]) against a decisive attack.

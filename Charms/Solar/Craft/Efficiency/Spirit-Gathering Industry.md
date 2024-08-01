@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Clay and Breath Practice]]"
 ---
-Crafting Artifacts requires an extreme commitment of one’s own spiritual energy. Husbanding her resources, the Exalt’s Essence becomes more readily powerful when she rises to the task. This Charm permanently reduces the cost to finish a superior project by (Essence) gold points, to a minimum of three.
+Crafting Artifacts requires an extreme commitment of one’s own spiritual energy. Husbanding her resources, the Exalt’s [[Essence]] becomes more readily powerful when she rises to the task. This Charm permanently reduces the cost to finish a superior project by ([[Essence]]) gold points, to a minimum of three.

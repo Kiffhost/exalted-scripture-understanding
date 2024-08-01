@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar’s words stoke her ally’s fighting spirit. On her first turn in combat, she transfers up to (Essence + Charisma) Initiative to an ally with lower Initiative. If she wins Join Battle, she loses only half the transferred Initiative, rounded down.
+The Lunar’s words stoke her ally’s fighting spirit. On her first turn in combat, she transfers up to ([[Essence]] + [[Charisma]]) [[Initiative]] to an ally with lower [[Initiative]]. If she wins [[Join Battle]], she loses only half the transferred [[Initiative]], rounded down.

@@ -20,7 +20,7 @@ With (Ability) 3, the Sidereal can pay 1 mote to reduce an (Attribute + Ability)
 
 With (Ability) 5, she may pay 2 motes to reduce its target number by 2. 
 
-With (Ability) 5, Essence 3, she may pay 3 motes, 1 [[Willpower]] to reduce its target number by 3.
+With (Ability) 5, [[Essence]] 3, she may pay 3 motes, 1 [[Willpower]] to reduce its target number by 3.
 
 When an effect grants a Sidereal a free full Excelleny, it includes target number reduction.
 

@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Predator Grace Technique]]"
 ---
-Feral Essence urges the Lunar onward in pursuit of her prey. A successful rush against a lower-Initiative enemy lets her advance one range band toward her target immediately, instead of a rush’s usual effect. This doesn’t count as her move action.
+Feral [[Essence]] urges the Lunar onward in pursuit of her prey. A successful rush against a lower-[[Initiative]] enemy lets her advance one range band toward her target immediately, instead of a rush’s usual effect. This doesn’t count as her move action.

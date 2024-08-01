@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Masterful Performance Exercise]]"
 ---
-The Solar draws power from the spirit of her audience. Whenever she successfully influences a large group with a Performance-based action, she regains (Essence) motes. 
+The Solar draws power from the spirit of her audience. Whenever she successfully influences a large group with a [[Performance]]-based action, she regains ([[Essence]]) motes. 

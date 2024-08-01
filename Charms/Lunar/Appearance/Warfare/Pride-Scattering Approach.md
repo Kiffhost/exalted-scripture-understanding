@@ -20,4 +20,4 @@ As soldiers look upon the Lunar, they know she’s something beyond what they’
 In shapes that most of the battle group’s members have a Major or Defining Tie of fear toward, 1s on the group’s rout check subtract successes. 
 ## Totemic 
 
-A Lunar whose spirit shape is a creature that hunts in groups may learn this as a Strength Charm.
+A Lunar whose spirit shape is a creature that hunts in groups may learn this as a [[Strength]] Charm.

@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Enduring Mental Toughness]]"
 ---
-The core of the Solar’s will is so great that she can survive sustained mental assault. When resisting social influence or any magic which seeks to force itself upon the Solar’s will or mind, she may use this Charm to aid in resistance, paying five motes for every one Willpower she would have to spend in order to resist.
+The core of the Solar’s will is so great that she can survive sustained mental assault. When resisting social influence or any magic which seeks to force itself upon the Solar’s will or mind, she may use this Charm to aid in resistance, paying five motes for every one [[Willpower]] she would have to spend in order to resist.

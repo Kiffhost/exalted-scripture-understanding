@@ -14,6 +14,6 @@ Prerequisite Charms:
   - "[[Items/Artifacts & Evocations/Heirlooms of Power/White Lizard’s Tongue/Racing Flame Method]]"
 ---
 Blazerider’s speed bears its master out of harm’s way, moving faster than the eye can see. Its wielder adds Blazerider’s (Speed Bonus/2, rounded up) to her Evasion as a non-Charm bonus.
-If Racing Flame Method is active, the wielder may pay an additional two motes to make a decisive counterattack against an attacker at close range with the flames wreathing Blazerider, using (Dexterity + [Athletics or Dodge]) for the attack roll.
+If [[Racing Flame Method]] is active, the wielder may pay an additional two motes to make a decisive counterattack against an attacker at close range with the flames wreathing [[Blazerider]], using ([[Dexterity]] + [Athletics or Dodge]) for the attack roll.
 ## Dissonant
 The wielder can only make the counterattack if she successfully dodges.

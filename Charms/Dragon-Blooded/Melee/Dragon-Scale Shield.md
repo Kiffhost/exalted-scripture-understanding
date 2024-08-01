@@ -21,10 +21,10 @@ The Dragon-Blood’s weapon unleashes a blast of air as she defends, adding +1 P
 The Dragon-Blood’s weapon takes on the weight of mountains, adding +1 Parry as a non-Charm bonus against a disarm gambit. If she blocks with a heavy weapon, she can apply this bonus against any attack, and increases the bonus against disarm gambits to +2.
 
 ### Fire
-The Dragon-Blood’s defense radiates fiery intensity. A successful block against an attacker at close range causes him to lose one Initiative, plus one Initiative for every 1 he rolls (which she doesn’t gain).
+The Dragon-Blood’s defense radiates fiery intensity. A successful block against an attacker at close range causes him to lose one [[Initiative]], plus one [[Initiative]] for every 1 he rolls (which she doesn’t gain).
 
 ### Water
-A swirling ribbon of water coils around the Dragon-Blood’s weapon, lashing out at attackers. If she successfully blocks an attack from close range while benefitting from a Full Defense, her attacker incurs a –1 onslaught penalty.
+A swirling ribbon of water coils around the Dragon-Blood’s weapon, lashing out at attackers. If she successfully blocks an attack from close range while benefitting from a Full [[Defense]], her attacker incurs a –1 onslaught penalty.
 
 ### Wood
 Vibrant flower petals trail behind the Dragon-Blood’s weapon, as beautiful as they are deadly. If she successfully blocks an attack from close range, her attacker is exposed to a poison with Damage 1i/round (L in Crash), Duration (the Parry applied against his attack) rounds, and a –1 penalty.

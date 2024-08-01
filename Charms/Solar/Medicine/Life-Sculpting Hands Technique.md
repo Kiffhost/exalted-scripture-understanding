@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Benison of Celestial Healing]]"
 ---
-Once per scene, the Exalt may use a free full Medicine Excellency.
+Once per scene, the Exalt may use a free full [[Medicine]] Excellency.

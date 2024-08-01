@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Pack Leader Attitude]]"
 ---
-The Lunar’s warrior spirit banishes her followers’ fear. She doubles 9s on a Charisma-based rally or rally for numbers roll. If the rallied battle group has Might, she adds (Might) non-Charm dice. 
+The Lunar’s warrior spirit banishes her followers’ fear. She doubles 9s on a [[Charisma]]-based rally or rally for numbers roll. If the rallied battle group has [[Might]], she adds ([[Might]]) non-Charm dice. 
 ## Totemic 
 
-A Lunar whose spirit shape is a creature that hunts in groups may learn this as a Strength Charm.
+A Lunar whose spirit shape is a creature that hunts in groups may learn this as a [[Strength]] Charm.

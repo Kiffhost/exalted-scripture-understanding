@@ -12,4 +12,4 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Drifting Leaf Elusion]]"
 ---
-The Solar enacts a skill which doubles and trebles her body in a shimmering blur, placing it together outside of an attack. Upon successfully applying her Evasion the Solar may activate Fourfold Shiver Binding to raise her Evasion score by one for the rest of the scene. This bonus is not stackable, and does not count as dice added by a Charm. Fourfold Shiver Binding is incompatible with armor.
+The Solar enacts a skill which doubles and trebles her body in a shimmering blur, placing it together outside of an attack. Upon successfully applying her Evasion the Solar may activate [[Fourfold Shiver Binding]] to raise her Evasion score by one for the rest of the scene. This bonus is not stackable, and does not count as dice added by a Charm. [[Fourfold Shiver Binding]] is incompatible with armor.

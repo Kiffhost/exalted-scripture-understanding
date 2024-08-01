@@ -14,4 +14,4 @@ Prerequisite Charms:
   - "[[Ten Ox Meditation]]"
   - "[[Unbound Eagle Approach]]"
 ---
-The Solar possesses a body and spirit intensified by thousands of hours of vigorous exercise and meditation. This Charm applies the double 9s rule to every Athletics roll.
+The Solar possesses a body and spirit intensified by thousands of hours of vigorous exercise and meditation. This Charm applies the double 9s rule to every [[Athletics]] roll.

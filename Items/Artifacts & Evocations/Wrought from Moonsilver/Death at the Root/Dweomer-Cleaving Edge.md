@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[ Sever the Flow]]"
   - "[[Spell-Rending Talon]]"
 ---
-Death at the Root sunders the threads of sorcery. The Lunar waives Spell-Rending Talon’s (p. XX) cost when using it to enhance a chopping attack (Exalted, p. 585). It can also counter a spell being cast, stripping one sorcerous mote per two levels of damage dealt to the sorcerer. 
+Death at the Root sunders the threads of [[sorcery]]. The Lunar waives Spell-Rending Talon’s (p. XX) cost when using it to enhance a chopping attack (Exalted, p. 585). It can also counter a spell being cast, stripping one sorcerous mote per two levels of damage dealt to the sorcerer. 
 
 ## Resonant
 

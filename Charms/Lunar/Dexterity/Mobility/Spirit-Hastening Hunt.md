@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Instinct-Driven Beast Movement]]"
 ---
-Exulting in the thrill of pursuit, the Lunar draws on a sudden burst of Essence-born speed. When she succeeds on a rush or disengage, or on an interval of a test of speed, 10s on the roll grant her a mote each. This can’t exceed the motes she spent to enhance the roll.
+Exulting in the thrill of pursuit, the Lunar draws on a sudden burst of [[Essence]]-born speed. When she succeeds on a rush or disengage, or on an interval of a test of speed, 10s on the roll grant her a mote each. This can’t exceed the motes she spent to enhance the roll.

@@ -13,4 +13,3 @@ By negating this much damage, the character suffers maiming that impairs the fun
 By negating this much damage, the character loses an entire sense or useful extremity. He might be [[Blind|blinded]] completely, have his tongue cut out, lose a [[Amputee|hand]], or suffer [[Sterile|maiming of his generative organs]]. 
 # 5 Health Levels
 By negating this much damage, the character [[Amputee|loses a limb]]—most of an arm or a leg, gone. 
-

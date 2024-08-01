@@ -12,4 +12,4 @@ Duration: One day
 Prerequisite Charms:
   - "[[Whirlwind Horse-Armoring Prana]]"
 ---
-With an infusion of Essence, the Solar lightens her mount’s barding, removing its mobility penalty.
+With an infusion of [[Essence]], the Solar lightens her mount’s barding, removing its mobility penalty.

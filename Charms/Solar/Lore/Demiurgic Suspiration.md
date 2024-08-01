@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Wyld-Forging Focus]]"
 ---
-The Solar learns to draw Essence from her nascent world to empower greater acts of Creation. After each successfully-completed phase, roll (Essence + completed phase) dice. Each success restores two motes of Essence. This bonus stacks with Immanent Solar Glory.
+The Solar learns to draw [[Essence]] from her nascent world to empower greater acts of Creation. After each successfully-completed phase, roll ([[Essence]] + completed phase) dice. Each success restores two motes of [[Essence]]. This bonus stacks with [[Immanent Solar Glory]].

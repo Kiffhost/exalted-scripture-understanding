@@ -12,4 +12,4 @@ As fog or clouds touch the seas, the sorcerer speaks honeyed lies to a ship, con
 A sorcerer with this as her control spell is constantly wreathed by pale mists, though she may disperse them with a thought unless distracted by involved activity, deep contemplation, or tumultuous emotion. She may walk on mist or fog as though it were solid ground, albeit as difficult terrain (Exalted, p. 199). 
 # Distortion 
 (Goal Number: 8)
-Distorting this spell causes mist to envelop the ship in a thick cloud, making it all but impossible for its crew to see outward. Sail rolls to pilot it suffer a −3 penalty, and those aboard have no warning if it’s about to run out of mist that can support it.
+Distorting this spell causes mist to envelop the ship in a thick cloud, making it all but impossible for its crew to see outward. [[Sail]] rolls to pilot it suffer a −3 penalty, and those aboard have no warning if it’s about to run out of mist that can support it.

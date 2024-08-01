@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Loyalty-Reading Meditation]]"
 ---
-Whether enticed by her striking looks or menaced by her intimidating features, few can keep their secrets when they look upon the Dragon-Blood. If her Appearance is higher than a character’s Guile, she adds non-Charm dice equal to the difference on a roll to read his intentions.
+Whether enticed by her striking looks or menaced by her intimidating features, few can keep their secrets when they look upon the Dragon-Blood. If her [[Appearance]] is higher than a character’s [[Guile]], she adds non-Charm dice equal to the difference on a roll to read his intentions.

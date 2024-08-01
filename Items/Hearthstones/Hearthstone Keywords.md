@@ -12,9 +12,9 @@ Hearthstones of this type sustain their own miraculous power. Disrupting their p
 
 ### Dependent
 
-The complex magic of a hearthstone with this keyword only kindles and activates when socketed into an attuned artifact that already contains another hearthstone in one of its other sockets, which must lack this keyword. For example, the Hierophant’s Eye could grant its benefit if placed in the socket of a daiklave with another socket already filled by the Freedom Stone, but not if simply placed in a single-socket daiklave or if the Freedom Stone were absent. 
+The complex magic of a hearthstone with this keyword only kindles and activates when socketed into an attuned artifact that already contains another hearthstone in one of its other sockets, which must lack this keyword. For example, the [[Hierophant’s Eye]] could grant its benefit if placed in the socket of a daiklave with another socket already filled by the Freedom Stone, but not if simply placed in a single-socket daiklave or if the Freedom Stone were absent. 
 
-### Manse-born
+### [[Manse]]-born
 
 Hearthstones of this type can only be grown in a manse, and never occur in the wild. 
 

@@ -13,22 +13,22 @@ Many who choose to become Full Moons are warriors, soldiers, hunters, athletes, 
 
 # Spirit Shapes
 
-Full Moons tend towards spirit shapes symbolizing physical prowess, ferocity, or martial excellence. Often these are predators — bears, wolves, mustelids, birds of prey, sharks, snakes, great cats — but prey animals of immense size, endurance, or fearlessness, like aurochs and elephants, also find a place under the Full Moon.
+Full Moons tend towards spirit shapes symbolizing physical prowess, ferocity, or martial excellence. Often these are predators — bears, wolves, mustelids, birds of prey, sharks, snakes, great cats — but prey animals of immense size, endurance, or fearlessness, like aurochs and elephants, also find a place under the [[Full Moon]].
 
 # Anima Banner
 
-Full Moon Caste Marks are brilliant silver disks. Their anima banners begin as a steady, constant glow limning them in soft white or silver light, growing brighter and fiercer as they rise in intensity. Their iconic animas might depict their spirit shapes or monstrous forms derived from them, mighty weapons, vast silver-fanged maws, stylized war-banners, countless limbs radiating outwards, or similar displays.
+[[Full Moon]] Caste Marks are brilliant silver disks. Their anima banners begin as a steady, constant glow limning them in soft white or silver light, growing brighter and fiercer as they rise in intensity. Their iconic animas might depict their spirit shapes or monstrous forms derived from them, mighty weapons, vast silver-fanged maws, stylized war-banners, countless limbs radiating outwards, or similar displays.
 
 # Anima Effects
 
 Mighty warriors, the Full Moons’ animas suffuse them with physical power, bolster their will against fear, and grant incredible battle prowess (p. XX). 
-- For five motes, the Full Moon adds (Essence, maximum 5) non-Charm dice on movement rolls and feats of strength and gains (higher of Essence or 3) natural soak until her next turn. This is free at bonfire anima. 
-- She adds (highest physical Attribute/2, rounded up) non-Charm Resolve against threaten rolls and other fear-based influence. 
-- Once per day, when she lands a decisive attack that resets her Initiative, she may pay 10 motes, one Willpower to roll Join Battle, adding (highest physical Attribute) non-Charm dice.
+- For five motes, the [[Full Moon]] adds ([[Essence]], maximum 5) non-Charm dice on movement rolls and feats of strength and gains (higher of [[Essence]] or 3) natural soak until her next turn. This is free at bonfire anima. 
+- She adds (highest physical Attribute/2, rounded up) non-Charm [[Resolve]] against threaten rolls and other fear-based influence. 
+- Once per day, when she lands a decisive attack that resets her [[Initiative]], she may pay 10 motes, one [[Willpower]] to roll [[Join Battle]], adding (highest physical Attribute) non-Charm dice.
 
 # Caste Attributes
 
-Full Moons hone their bodies unto physical perfection, choosing Caste Attributes from Strength, Dexterity and Stamina. 
+Full Moons hone their bodies unto physical perfection, choosing Caste Attributes from [[Strength]], [[Dexterity]] and [[Stamina]]. 
 
 # Experience Trigger
 

@@ -18,8 +18,8 @@ Like an ember that burns an unsuspecting hand, the Exalt strikes suddenly from a
 
 ## Special activation rules
 
-This Evocation awakens at no cost when a Dragon-Blooded Sesus scion attunes to the Smiling Razors. 
+This Evocation awakens at no cost when a Dragon-Blooded Sesus scion attunes to the [[Smiling Razors]]. 
 
 ## Resonant
 
-If the wielder is resonant with jade, a surprise attack made with the Smiling Razors on the turn after entering concealment with this Evocation adds one automatic success on the damage roll.
+If the wielder is resonant with jade, a surprise attack made with the [[Smiling Razors]] on the turn after entering concealment with this Evocation adds one automatic success on the damage roll.

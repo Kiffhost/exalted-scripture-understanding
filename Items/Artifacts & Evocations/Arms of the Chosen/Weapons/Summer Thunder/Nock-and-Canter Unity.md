@@ -16,4 +16,4 @@ A steed’s shifting gait only serves to better guide Summer Thunder’s arrows.
 
 ## Resonant
 
-The wielder may pay an additional Willpower to take two aim actions, allowing her to attack at medium range or further while still receiving bonus dice.
+The wielder may pay an additional [[Willpower]] to take two aim actions, allowing her to attack at medium range or further while still receiving bonus dice.

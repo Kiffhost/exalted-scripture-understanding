@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Seal of Infinite Wisdom]]"
 ---
-Once per story, the Solar may use this Charm to channel an inner wellspring of restorative knowledge. This Charm awards three points of temporary Willpower to the Solar, and may increase her current Willpower past her permanent rating.
+Once per story, the Solar may use this Charm to channel an inner wellspring of restorative knowledge. This Charm awards three points of temporary [[Willpower]] to the Solar, and may increase her current [[Willpower]] past her permanent rating.

@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar moves without trace, leaving no sign of her presence. She rerolls 1s until they cease to appear on a Stealth roll, conceal evidence roll, or cover tracks roll. 
+The Lunar moves without trace, leaving no sign of her presence. She rerolls 1s until they cease to appear on a [[Stealth]] roll, conceal evidence roll, or cover tracks roll. 
 ## Protean 
 
-In shapes with Tiny Creature or Minuscule Size, the Lunar also rerolls 2s until they cease to appear.
+In shapes with Tiny Creature or Minuscule [[Size]], the Lunar also rerolls 2s until they cease to appear.

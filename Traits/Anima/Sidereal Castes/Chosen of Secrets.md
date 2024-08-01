@@ -29,11 +29,11 @@ Oracles can divine destiny’s plans for deception and revelation or make Jupite
 
 # Caste Abilities
 
-Investigation, Larceny, Lore, Occult, Stealth. 
+[[Investigation]], [[Larceny]], [[Lore]], [[Occult]], [[Stealth]]. 
 
 # Experience Triggers
 
-Learning something that helps advance her or her Circle’s goals; using knowledge to solve significant problems; upholding a Major or Defining Intimacy by meddling in someone’s private affairs; advancing her or her Circle’s goals by concealing or falsifying information.
+Learning something that helps advance her or her Circle’s goals; using knowledge to solve significant problems; upholding a Major or Defining [[Intimacy]] by meddling in someone’s private affairs; advancing her or her Circle’s goals by concealing or falsifying information.
 
 # Associations
 
@@ -50,8 +50,8 @@ The Oracles may pay one mote to learn whether concealing or revealing a piece of
 
 ## Lesser Sign of Jupiter
 
-The Oracle may pay five motes to reflexively make Jupiter’s lesser sign, drawing it in emerald stardust. Until her next turn, she and allies within close range gain +1 non-Charm Guile and add (her Essence, maximum 5) non-Charm dice on Manipulation, Larceny, and Stealth rolls. 
+The Oracle may pay five motes to reflexively make Jupiter’s lesser sign, drawing it in emerald stardust. Until her next turn, she and allies within close range gain +1 non-Charm [[Guile]] and add (her [[Essence]], maximum 5) non-Charm dice on [[Manipulation]], [[Larceny]], and [[Stealth]] rolls. 
 
 ## Greater Sign of Jupiter
 
-Once per story, the Oracle may pay twenty motes and one Willpower to reflexively make Jupiter’s greater sign, traced across the sky in emerald radiance. She, her allies, and up to (Essence x2) other characters are immune to effects opposing their Guile and add (her Essence) to their Resolve. Un-Exalted characters can’t lie to them or refuse to answer their questions they unless they spend one Willpower per lie or refusal; characters with Essence less than the Sidereal’s can’t resist. This lasts one scene. Additionally, for that scene and the next (Essence) days, Investigation rolls against the blessed characters fail automatically and they’re immune to magic that would scry on them or divine their future.
+Once per story, the Oracle may pay twenty motes and one [[Willpower]] to reflexively make Jupiter’s greater sign, traced across the sky in emerald radiance. She, her allies, and up to ([[Essence]] x2) other characters are immune to effects opposing their [[Guile]] and add (her [[Essence]]) to their [[Resolve]]. Un-Exalted characters can’t lie to them or refuse to answer their questions they unless they spend one [[Willpower]] per lie or refusal; characters with [[Essence]] less than the Sidereal’s can’t resist. This lasts one scene. Additionally, for that scene and the next ([[Essence]]) days, [[Investigation]] rolls against the blessed characters fail automatically and they’re immune to magic that would scry on them or divine their future.

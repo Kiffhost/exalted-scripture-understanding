@@ -16,4 +16,4 @@ Prerequisite Charms:
 The Lunar is the last thing her unwary prey ever sees. She makes a decisive ambush against an enemy, assuming she meets the normal requirements to do so (Exalted, p. 203), adding attack roll extra successes as dice on the damage roll. 
 ## Protean 
 
-In animal shapes with Ambush Hunter, the Lunar doubles 9s on the attack roll.
+In animal shapes with [[Ambush]] Hunter, the Lunar doubles 9s on the attack roll.

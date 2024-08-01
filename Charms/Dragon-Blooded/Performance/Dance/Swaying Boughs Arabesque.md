@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Moving with sensuous rhythm and vivacious appeal, the Dragon-Blood embodies beauty through dance. This Charm supplements a Performance roll to dance, lowering the Resolve of all targets by 1. This both lowers the difficulty of the roll and potentially increases the bonus dice added by the Exalt’s Appearance (Exalted, p. 371).
+Moving with sensuous rhythm and vivacious appeal, the Dragon-Blood embodies beauty through dance. This Charm supplements a [[Performance]] roll to dance, lowering the [[Resolve]] of all targets by 1. This both lowers the difficulty of the roll and potentially increases the bonus dice added by the Exalt’s [[Appearance]] (Exalted, p. 371).

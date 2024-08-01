@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Dauntless Inquisitor Attitude]]"
 ---
-Once per day, the Exalt may use this Charm to reset any Investigation Charms which are currently “down.” Doing this also grants her one point of Willpower.
+Once per day, the Exalt may use this Charm to reset any [[Investigation]] [[Charms]] which are currently “down.” Doing this also grants her one point of [[Willpower]].

@@ -17,22 +17,22 @@ Changing Moons tend toward spirit shapes symbolizing grace, beauty, deception, a
 
 # Anima Banner
 
-Changing Moon Caste Marks are glittering silver crescents. Their anima banners shift between bright silvers, dark blues, and shadowy purples, growing brighter and changing more rapidly as they grow in intensity. Their iconic animas might depict their spirit shapes, eye-catching displays of rainbow fire, whirling silver masks, choirs of beast-headed spirits singing exultant psalms, or similar displays. 
+[[Changing Moon]] Caste Marks are glittering silver crescents. Their anima banners shift between bright silvers, dark blues, and shadowy purples, growing brighter and changing more rapidly as they grow in intensity. Their iconic animas might depict their spirit shapes, eye-catching displays of rainbow fire, whirling silver masks, choirs of beast-headed spirits singing exultant psalms, or similar displays. 
 
 # Anima Effects
 
 Cunning tricksters, the Changing Moons’ animas lend captivating allure, cloak them in mystery, and let them insinuate themselves into the good graces of even their staunchest foes (p. XX). 
-- For five motes, the Changing Moon lends her words hypnotic allure, adding (Essence/2, rounded up) non-Charm dice on an influence roll. Anyone who perceives the influence will hear her out; leaving or interrupting her before she’s finished costs one Willpower to resist for the scene. This power’s cost is Mute and is waived at bonfire anima. 
-- At dim anima, she gains +1 non-Charm Guile and adds (Essence/2, rounded up) non-Charm dice on Stealth and disguise rolls.
-- Once per day, she can pay three motes, one Willpower when she makes an influence roll to ignore negative Ties her targets have towards her (or her current shape). These Ties can’t be used to bolster Resolve or in Decision Points.
+- For five motes, the [[Changing Moon]] lends her words hypnotic allure, adding (Essence/2, rounded up) non-Charm dice on an influence roll. Anyone who perceives the influence will hear her out; leaving or interrupting her before she’s finished costs one [[Willpower]] to resist for the scene. This power’s cost is [[Mute]] and is waived at bonfire anima. 
+- At dim anima, she gains +1 non-Charm [[Guile]] and adds (Essence/2, rounded up) non-Charm dice on [[Stealth]] and disguise rolls.
+- Once per day, she can pay three motes, one [[Willpower]] when she makes an influence roll to ignore negative Ties her targets have towards her (or her current shape). These Ties can’t be used to bolster [[Resolve]] or in Decision Points.
 
 # Caste Attributes
 
-Changing Moons rely on social graces, choosing Caste Attributes from Charisma, Manipulation and Appearance. 
+Changing Moons rely on social graces, choosing Caste Attributes from [[Charisma]], [[Manipulation]] and [[Appearance]]. 
 
 # Experience Trigger
 
-Learning something that helps advance a Major or Defining Intimacy; banishing, binding, purifying, or curing a dangerous supernatural force; creating a lasting and meaningful work of magic, like an artifact or sorcerous working; resolving a meaningful dispute or conflict between mortals and the supernatural.
+Learning something that helps advance a Major or Defining [[Intimacy]]; banishing, binding, purifying, or curing a dangerous supernatural force; creating a lasting and meaningful work of magic, like an artifact or sorcerous working; resolving a meaningful dispute or conflict between mortals and the supernatural.
 
 # Associations
 
@@ -40,7 +40,7 @@ The season of spring, the element of air, the color purple, the Maiden of Sereni
 
 # Sobriquets
 
-Children of the Shifting Moon, Luna’s Tricksters, Night-thieves, the Face-Stealers (derogatory). 
+Children of the Shifting Moon, Luna’s Tricksters, [[Night]]-thieves, the Face-Stealers (derogatory). 
 
 # Concepts
 Eloquent ambassador, escaped slave, respected courtesan, professional sophist, temple dancer, information broker, cult leader, rabble-rousing firebrand, plucky street rat, wandering skald, folk hero, king of thieves, scheming courtier, master spy.

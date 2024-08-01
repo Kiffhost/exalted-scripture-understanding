@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Flawless Study Focus]]"
 ---
-The Exalt’s mind races with lightning speed, revealing to her any errors in her logic while she’s on the cusp of completing her thought. After a Lore roll, she may reroll (Essence) non-1 failures.
+The Exalt’s mind races with lightning speed, revealing to her any errors in her logic while she’s on the cusp of completing her thought. After a [[Lore]] roll, she may reroll ([[Essence]]) non-1 failures.

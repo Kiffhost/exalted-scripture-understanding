@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Seeker’s Heart Intuition]]"
 ---
-Upon awakening this Evocation, the wielder of Daring Venture gains the legendary wolf [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] as her familiar. She may activate it to call the wolf to her current location. No matter how great the distance between them, he’ll travel towards her as fast as possible. 
+Upon awakening this Evocation, the wielder of [[Daring Venture]] gains the legendary wolf [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] as her familiar. She may activate it to call the wolf to her current location. No matter how great the distance between them, he’ll travel towards her as fast as possible. 
 
 ## Resonant
 

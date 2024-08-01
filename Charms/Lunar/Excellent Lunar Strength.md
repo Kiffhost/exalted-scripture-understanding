@@ -17,8 +17,8 @@ Prerequisite Charms:
   - OR
   - 2 Strength Charms known
 ---
-Add dice to an (Strength + Ability) roll for 1 mote per die. 
+Add dice to an ([[Strength]] + Ability) roll for 1 mote per die. 
 
-The Strength Excellency can add dice to a Strength-based [[Attack#withering|withering]] [[Attack#raw damage|damage roll]] before [[soak]], this  costs 1 mote per damage die maximum (Strength/2 rounded down).
+The [[Strength]] Excellency can add dice to a [[Strength]]-based [[Attack#withering|withering]] [[Attack#raw damage|damage roll]] before [[soak]], this  costs 1 mote per damage die maximum (Strength/2 rounded down).
 
 While damage rolls can’t be stunted, players can still raise the dice caps for these with a suitable description per the usual [[stunt]] rules, although this doesn’t add any other benefits of stunting.

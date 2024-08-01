@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Supreme Predator Alacrity]]"
 ---
-The Lunar strikes with blinding speed and impossible precision. To use this Charm, she must have Initiative 15+. She makes a single decisive attack, making two attack rolls and taking the higher result. She need only pay the cost of any Charms enhancing the attack once.
+The Lunar strikes with blinding speed and impossible precision. To use this Charm, she must have [[Initiative]] 15+. She makes a single decisive attack, making two attack rolls and taking the higher result. She need only pay the cost of any [[Charms]] enhancing the attack once.

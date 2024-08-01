@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Demon-Slaying Zealot’s Mantra]]"
 ---
-Golden lightning trails behind Heavenly Typhoon as the wielder summons a storm to cut down an unjust foe. The wielder makes a decisive attack against a condemned enemy with a lower Initiative, adding the difference between their Initiative ratings in bonus dice to the attack and damage rolls, up to a maximum of (higher of Essence or 3). 
+Golden lightning trails behind [[Heavenly Typhoon]] as the wielder summons a storm to cut down an unjust foe. The wielder makes a decisive attack against a condemned enemy with a lower [[Initiative]], adding the difference between their [[Initiative]] ratings in bonus dice to the attack and damage rolls, up to a maximum of (higher of [[Essence]] or 3). 
 
 ## Resonant
 

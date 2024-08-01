@@ -17,7 +17,7 @@ Eyebright’s sapphires blaze like tiny suns, their perceptions sharpening to su
 
 ## Special activation rules
 
-When the Lunar detects a concealed enemy with Ever-Wary Fox Technique, she can reflexively activate this Evocation. 
+When the Lunar detects a concealed enemy with [[Ever-Wary Fox Technique]], she can reflexively activate this Evocation. 
 
 ## Resonant
 

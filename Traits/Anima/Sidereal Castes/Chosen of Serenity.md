@@ -29,7 +29,7 @@ Joybringers can divine destiny’s plans for social interactions and make Venus�
 
 # Caste Abilities
 
-Craft, Dodge, Linguistics, Performance, Socialize. 
+[[Craft]], [[Dodge]], [[Linguistics]], [[Performance]], [[Socialize]]. 
 
 # Experience Trigger
 
@@ -54,8 +54,8 @@ The Joybringer may pay one mote to learn whether an interpersonal relationship o
 
 ## Lesser Sign of Venus
 
-The Joybringer may pay five motes to reflexively make Venus’ lesser sign in a flourish of cerulean stardust. Until her next turn, she and all allies within close range add (her Essence, maximum 5) non-Charm dice on influence rolls involving positive emotions and Craft rolls for basic and major projects. Resolve bonuses from their positive Ties increase by one. This is free at bonfire. 
+The Joybringer may pay five motes to reflexively make Venus’ lesser sign in a flourish of cerulean stardust. Until her next turn, she and all allies within close range add (her [[Essence]], maximum 5) non-Charm dice on influence rolls involving positive emotions and [[Craft]] rolls for basic and major projects. [[Resolve]] bonuses from their positive Ties increase by one. This is free at bonfire. 
 
 ## Greater Sign of Venus
 
-Once per story, the Joybringer may pay twenty motes and one Willpower to make Venus’ greater sign, illuminating the battlefield with a sapphire light. This takes her entire turn. All participants in the battle stand down, as a Psyche effect that lasts (Essence) days. If someone wants to reinitiate hostilities, he must enter a Decision Point and cite a Defining Intimacy to spend (higher of Sidereal’s Essence or 3) Willpower. This doesn’t apply to attacking characters not involved in the original battle, nor does it apply to fighting back in self-defense.
+Once per story, the Joybringer may pay twenty motes and one [[Willpower]] to make Venus’ greater sign, illuminating the battlefield with a sapphire light. This takes her entire turn. All participants in the battle stand down, as a Psyche effect that lasts ([[Essence]]) days. If someone wants to reinitiate hostilities, he must enter a Decision Point and cite a Defining [[Intimacy]] to spend (higher of Sidereal’s [[Essence]] or 3) [[Willpower]]. This doesn’t apply to attacking characters not involved in the original battle, nor does it apply to fighting back in self-defense.

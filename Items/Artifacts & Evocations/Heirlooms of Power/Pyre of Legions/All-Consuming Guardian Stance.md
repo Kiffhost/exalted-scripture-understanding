@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Loyalty-Kindling Warmth]]"
 ---
-FlamesleapfromPyreofLegionstoguardacomrade,burning away volleys of arrows and pushing back errant blades. Shetakesadefendotheractiontoprotectanallywithinmedium range. Used together with Flame Warden Stance (p. 226),itextendsthatCharm’srangetomediumaswell. 
+FlamesleapfromPyreofLegionstoguardacomrade,burning away volleys of arrows and pushing back errant blades. Shetakesadefendotheractiontoprotectanallywithinmedium range. Used together with [[Flame Warden Stance]] (p. 226),itextendsthatCharm’srangetomediumaswell. 
 
 ## Resonant
 

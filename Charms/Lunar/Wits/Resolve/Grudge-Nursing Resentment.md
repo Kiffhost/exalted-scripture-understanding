@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar’s rage coils tight around her heart. She adds +2 Resolve against influence opposed by a negative Tie. If the influence would weaken or alter that Intimacy, the bonus is non-Charm.
+The Lunar’s rage coils tight around her heart. She adds +2 [[Resolve]] against influence opposed by a negative Tie. If the influence would weaken or alter that [[Intimacy]], the bonus is non-Charm.

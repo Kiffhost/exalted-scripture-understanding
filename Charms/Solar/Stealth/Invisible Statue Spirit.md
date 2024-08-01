@@ -12,4 +12,4 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[Perfect Shadow Stillness]]"
 ---
-Assuming perfect stillness, the Solar fades from sight. A Solar with this Charm can affect true invisibility. However, the Exalt cannot move, nor can she take violent action without breaking this deception. Characters using Invisible Statue Spirit are not immaterial and can still be detected by touch, scent, taste, or hearing.
+Assuming perfect stillness, the Solar fades from sight. A Solar with this Charm can affect true invisibility. However, the Exalt cannot move, nor can she take violent action without breaking this deception. Characters using [[Invisible Statue Spirit]] are not immaterial and can still be detected by touch, scent, taste, or hearing.

@@ -14,11 +14,11 @@ When a character is at short range, he is outside of the immediate reach of an o
 # Medium
 A character at medium range is a fair distance away from an opponent. This is the range band of the most far-reaching [[Thrown]] weapons, and less powerful [[Archery]] weapons, and at this range it’s impossible for two characters to communicate with one another without shouting. 
 
-Characters cannot make Thrown or Archery attacks from medium range without first taking an [[Aim]], or the attack will automatically miss. This aim action provides no [[Accuracy]] bonus; to gain an accuracy bonus, two aim actions must be taken in a row before the attack.
+Characters cannot make [[Thrown]] or [[Archery]] attacks from medium range without first taking an [[Aim]], or the attack will automatically miss. This aim action provides no [[Accuracy]] bonus; to gain an accuracy bonus, two aim actions must be taken in a row before the attack.
 # Long
 A character at long range is very far away from his opponent. Combat at this range can only occur through powerful [[Archery]] weapons such as the [[Long Bow]], and is the favored range of snipers. Closing with a character at long range can be quite difficult! Complex communication is generally impossible without signaling devices, energetic pantomime, or magic. 
 
-Characters cannot make [[Thrown]] or Archery attacks from long range without first taking an [[Aim]], or the attack will automatically miss. This aim action provides no [[Accuracy]] bonus; to gain an accuracy bonus, two aim actions must be taken in a row before the attack.
+Characters cannot make [[Thrown]] or [[Archery]] attacks from long range without first taking an [[Aim]], or the attack will automatically miss. This aim action provides no [[Accuracy]] bonus; to gain an accuracy bonus, two aim actions must be taken in a row before the attack.
 # Extreme
 A final range, extreme range, also exists. At this range, opponents are distant specks; communication is generally impossible, as is combat. All range bands beyond long range are considered extreme range, and a character might potentially be several extreme range bands away from another character in a scene ranging across a very large area. 
 

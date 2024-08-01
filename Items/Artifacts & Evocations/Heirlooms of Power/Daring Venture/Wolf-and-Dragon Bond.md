@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Mother-of-Beasts Mastery]]"
   - x2
 ---
-This Evocation upgrades Mother-of-Beasts Mastery (p. 271). When the Dragon-Blood uses it to train [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]], the time required is halved, and she waives the experience point cost of awakening his magical abilities. Any experience she’s already spent doing so is refunded upon awakening this Evocation. 
+This Evocation upgrades [[Mother-of-Beasts Mastery]] (p. 271). When the Dragon-Blood uses it to train [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]], the time required is halved, and she waives the experience point cost of awakening his magical abilities. Any experience she’s already spent doing so is refunded upon awakening this Evocation. 
 
 ## Special activation rules
 

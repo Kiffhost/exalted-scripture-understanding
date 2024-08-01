@@ -14,5 +14,5 @@ Prerequisite Charms:
   - OR
   - "[[Invulnerable Moonsilver Carapace]]"
 ---
-The Lunar manifests claws and armor from silvery Essence with but a thought, instantly adapting to her circumstances.
-The Lunar may use this Charm’s prerequisites reflexively. If she uses them together with Deadly Beastman Transformation, she gains one Initiative — two if she uses both Charms.
+The Lunar manifests claws and armor from silvery [[Essence]] with but a thought, instantly adapting to her circumstances.
+The Lunar may use this Charm’s prerequisites reflexively. If she uses them together with [[Deadly Beastman Transformation]], she gains one [[Initiative]] — two if she uses both [[Charms]].

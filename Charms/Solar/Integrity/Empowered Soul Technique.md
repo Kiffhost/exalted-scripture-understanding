@@ -14,4 +14,4 @@ Prerequisite Charms:
   - OR
   - Any 5 Lore, Presence, or Socialize Charms
 ---
-A Solar can steady her convictions against the strongest arguments and assaults with solid and affirming power. This Charm can be used once per day to allow the Lawgiver to raise her Resolve at a rate of one mote per point with the Integrity Excellency.
+A Solar can steady her convictions against the strongest arguments and assaults with solid and affirming power. This Charm can be used once per day to allow the Lawgiver to raise her [[Resolve]] at a rate of one mote per point with the [[Integrity]] Excellency.

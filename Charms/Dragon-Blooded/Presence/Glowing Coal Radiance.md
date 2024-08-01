@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The blazing power that radiates from the Dragon-Blood’s every word and gesture is enough to humble those who stand before her. She may add automatic successes to a Presence roll for two motes each, and rolls an additional non-Charm die for every 10.
+The blazing power that radiates from the Dragon-Blood’s every word and gesture is enough to humble those who stand before her. She may add automatic successes to a [[Presence]] roll for two motes each, and rolls an additional non-Charm die for every 10.

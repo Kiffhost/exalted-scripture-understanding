@@ -15,4 +15,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Hopping Firecracker Evasion]]"
 ---
-The Dragon-Blood’s dodge unleashes a swirling vortex of air, turning aside her enemies’ arrows. She gains +1 Evasion against a ranged attack from medium range, or +2 against an attack from long or extreme range. This doesn’t count as a bonus from Charms.
+The Dragon-Blood’s dodge unleashes a swirling vortex of air, turning aside her enemies’ arrows. She gains +1 Evasion against a ranged attack from medium range, or +2 against an attack from long or extreme range. This doesn’t count as a bonus from [[Charms]].

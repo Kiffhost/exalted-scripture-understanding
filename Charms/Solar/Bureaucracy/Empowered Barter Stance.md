@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Irresistible Salesman Spirit]]"
 ---
-Once a day, the Solar gains a point of temporary Willpower for succeeding at a bargain action.
+Once a day, the Solar gains a point of temporary [[Willpower]] for succeeding at a bargain action.

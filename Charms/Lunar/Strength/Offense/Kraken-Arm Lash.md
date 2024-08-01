@@ -16,4 +16,4 @@ Prerequisite Charms:
 The Lunar’s limbs lengthen and flow into muscular tendrils, coiling around her foe. She makes an unarmed grapple gambit against an enemy within medium range. If successful, she drags him into close range. She may then immediately end the clinch by throwing her enemy two range bands horizontally in any direction. 
 ## Protean 
 
-In animal shapes with Infinite Grasp, waive this Charm’s Initiative cost against lower-Initiative enemies.
+In animal shapes with Infinite Grasp, waive this Charm’s [[Initiative]] cost against lower-[[Initiative]] enemies.

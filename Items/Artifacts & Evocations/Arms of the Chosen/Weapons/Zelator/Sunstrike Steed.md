@@ -15,4 +15,4 @@ While the Exalt is mounted, her mount gains Zelator’s power to make baneful at
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with orichalcum, this Evocation awakens at no cost when the wielder Joins Battle against any enemy that Zelator is baneful against while mounted.
+As long as the wielder isn’t dissonant with orichalcum, this Evocation awakens at no cost when the wielder Joins Battle against any enemy that [[Zelator]] is baneful against while mounted.

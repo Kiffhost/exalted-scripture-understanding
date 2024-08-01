@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Shifter’s Claw Strike]]"
 ---
 The Lunar is a blur of beasts in battle, shifting between shapes with each strike.
-When the Lunar uses Quicksilver Second Face to enter an animal form and attack on the same tick, she adds +2 to the Initiative awarded by a withering damage roll or to her base Initiative after resetting with a decisive attack.
+When the Lunar uses [[Quicksilver Second Face]] to enter an animal form and attack on the same tick, she adds +2 to the [[Initiative]] awarded by a withering damage roll or to her base [[Initiative]] after resetting with a decisive attack.

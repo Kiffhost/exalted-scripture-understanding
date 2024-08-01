@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Harmony of Blows]]"
 ---
-Countless possibilities converge as the Sidereal crosses blades with her foe; her skill and precision ensure a favorable outcome to the exchange. When the Sidereal clashes, the opposing attack roll suffers +1 target number. If she clashed by delaying her turn, success refunds the two Initiative lost for doing so.
+Countless possibilities converge as the Sidereal crosses blades with her foe; her skill and precision ensure a favorable outcome to the exchange. When the Sidereal clashes, the opposing attack roll suffers +1 target number. If she clashed by delaying her turn, success refunds the two [[Initiative]] lost for doing so.

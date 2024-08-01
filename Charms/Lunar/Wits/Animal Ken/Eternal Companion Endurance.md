@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Nature-Reinforcing Allocation]]"
 ---
-The Lunar permanently grants one of her familiars two −2 health levels and one −4 level. She may purchase this Charm up to (Essence) times per familiar.
+The Lunar permanently grants one of her familiars two −2 health levels and one −4 level. She may purchase this Charm up to ([[Essence]]) times per familiar.

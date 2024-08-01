@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Still Waters Hide Fury]]"
 ---
-Spurred on to finish the grudge before Vengeant’s victim can escape, the wielder adds two bonus dice on a rush against a character she has a negative Tie towards. She gains one Initiative if she wins the rush. 
+Spurred on to finish the grudge before Vengeant’s victim can escape, the wielder adds two bonus dice on a rush against a character she has a negative Tie towards. She gains one [[Initiative]] if she wins the rush. 
 
 ## Resonant
 

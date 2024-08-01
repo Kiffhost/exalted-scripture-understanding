@@ -12,7 +12,7 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Predestined Triumph Practice]]"
 ---
-The Sidereal marshals her forces into an auspicious formation that dams, blocks, and diverts the flow of a puissant enemy’s Essence. The Sidereal chooses a Charm or magical power possessed by an enemy. She can’t choose Excellencies or Permanent Charms. If an allied battle group crashes that enemy or deals decisive damage to him while he’s crashed, that effect is negated if it’s active and he can’t use it for the rest of the scene. 
+The Sidereal marshals her forces into an auspicious formation that dams, blocks, and diverts the flow of a puissant enemy’s [[Essence]]. The Sidereal chooses a Charm or magical power possessed by an enemy. She can’t choose [[Excellencies]] or Permanent [[Charms]]. If an allied battle group crashes that enemy or deals decisive damage to him while he’s crashed, that effect is negated if it’s active and he can’t use it for the rest of the scene. 
 
 ## Special activation rules
 

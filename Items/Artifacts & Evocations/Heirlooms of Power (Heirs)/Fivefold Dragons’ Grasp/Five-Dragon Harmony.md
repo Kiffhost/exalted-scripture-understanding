@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ Walking in the Dragon’s Footsteps]]"
 ---
 Recognizing her place in the elemental cycle, the Dragon-Blood gains deeper insights into what she might become. Being at bonfire anima doesn’t prevent the Dragon-Blood from remaining in the Aura of the element that follows her Aspect in the cycle.
-Ledaal scions who’ve repurchased Walking in the Dragons’ Footsteps extend this benefit to the element preceding their Aspect in the cycle.
+Ledaal scions who’ve repurchased [[Walking in the Dragons’ Footsteps]] extend this benefit to the element preceding their Aspect in the cycle.

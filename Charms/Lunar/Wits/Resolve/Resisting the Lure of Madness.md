@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-A delver into forbidden secrets and explorer of otherworldly vistas, the Lunar’s will is greater than any force that assails it. She adds (Essence) non-Charm Resolve against influence that would cause her to gain a Derangement, or against any Psyche effect. Alternatively, she adds (Essence) non-Charm successes on a roll with any Attribute to avoid gaining a Derangement. If successful, she gains one Willpower.
+A delver into forbidden secrets and explorer of otherworldly vistas, the Lunar’s will is greater than any force that assails it. She adds ([[Essence]]) non-Charm [[Resolve]] against influence that would cause her to gain a [[Derangement]], or against any Psyche effect. Alternatively, she adds ([[Essence]]) non-Charm successes on a roll with any Attribute to avoid gaining a [[Derangement]]. If successful, she gains one [[Willpower]].

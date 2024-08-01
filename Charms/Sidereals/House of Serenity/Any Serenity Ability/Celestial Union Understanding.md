@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - Any three Serenity Charms
 ---
-The Sidereal understands all the ways fate brings people together. When the Sidereal witnesses an interaction between two people in a relationship — friends, family, lovers, business partners — she makes a special (Perception + Serenity Ability) read intentions roll against the higher of the two’s Guile. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
+The Sidereal understands all the ways fate brings people together. When the Sidereal witnesses an interaction between two people in a relationship — friends, family, lovers, business partners — she makes a special ([[Perception]] + Serenity Ability) read intentions roll against the higher of the two’s [[Guile]]. Success lets her player asks the Storyteller one of the following questions, plus an additional question for every 3 extra successes: 
 -  What keeps them together? 
 -  What’s the biggest problem facing their relationship? 
 -  How far would each of them go to help the other? 

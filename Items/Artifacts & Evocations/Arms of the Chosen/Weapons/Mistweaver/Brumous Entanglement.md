@@ -12,7 +12,7 @@ Duration: Until next turn
 Prerequisite Charms:
   - "[[ Death in the Mist]]"
 ---
-Though her mist remains untouchable, the wielder empowers it to touch others, weaving vaporous coils and tendrils to ensnare her enemies. She rolls (Wits + Melee) against the Evasion of an opponent within long range. On success, he treats watery concealment as difficult terrain. The Exalt cannot use this Evocation against the same character more than once per round. 
+Though her mist remains untouchable, the wielder empowers it to touch others, weaving vaporous coils and tendrils to ensnare her enemies. She rolls ([[Wits]] + [[Melee]]) against the Evasion of an opponent within long range. On success, he treats watery concealment as difficult terrain. The Exalt cannot use this Evocation against the same character more than once per round. 
 
 ## Resonant
 

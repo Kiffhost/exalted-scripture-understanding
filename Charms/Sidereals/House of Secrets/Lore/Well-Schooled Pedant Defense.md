@@ -12,6 +12,6 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Professorial Mien]]"
 ---
-The Sidereal has no time for the foolish remarks of the ignorant and unlettered, waving away arguments beneath her notice. The Sidereal may cite a Lore background in a Decision Point as though it were a Major Intimacy. If it relates a Defining Intimacy, it counts as Defining itself. 
+The Sidereal has no time for the foolish remarks of the ignorant and unlettered, waving away arguments beneath her notice. The Sidereal may cite a [[Lore]] background in a Decision Point as though it were a Major [[Intimacy]]. If it relates a Defining [[Intimacy]], it counts as Defining itself. 
 ## Reset
-Once per story unless reset by gaining a new Lore background (typically by purchasing a Lore specialty).
+Once per story unless reset by gaining a new [[Lore]] background (typically by purchasing a [[Lore]] specialty).

@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ Cutting Rift]]"
   - Any one Charm this Evocation enhances
 ---
-*When the wielder moves without motion, space around her is cut by her passage.* The wielder reduces the cost of Distance-Severing Stride (p. XX) or other magic that lets her move without crossing the space between by two motes. If she succeeds on an opposed roll for that effect, she gains one Initiative.
+*When the wielder moves without motion, space around her is cut by her passage.* The wielder reduces the cost of [[Distance-Severing Stride]] (p. XX) or other magic that lets her move without crossing the space between by two motes. If she succeeds on an opposed roll for that effect, she gains one [[Initiative]].

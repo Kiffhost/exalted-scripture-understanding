@@ -3,8 +3,8 @@ tags:
   - SorcerousArchetype
   - source/dragon-heirs-book
 ---
-In a time now lost to history, House Simendor's ancestors cavorted with spirits of sand and shadow in the open desert - rogue gods and elementals who refused to bow to the Old Realm. From this so-called Court of Nameless Gods, they learned the art of sorcery. Today, many scions still honor their house's traditions by initiating into sorcery under these spirits' tutelage, seeking out their hidden pleasure-sanctums. 
-# Shaping Rituals
+In a time now lost to history, House Simendor's ancestors cavorted with spirits of sand and shadow in the open desert - rogue gods and elementals who refused to bow to the Old Realm. From this so-called Court of Nameless Gods, they learned the art of [[sorcery]]. Today, many scions still honor their house's traditions by initiating into [[sorcery]] under these spirits' tutelage, seeking out their hidden pleasure-sanctums. 
+# [[Shaping Rituals]]
 ```dataview
 LIST
 FROM "Sorceries/Archetypes/Simendor Sorcery" AND #ShapingRitual

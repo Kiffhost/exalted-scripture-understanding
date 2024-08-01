@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Essence Font Technique]]"
 ---
-The Solar draws strength from her own recurring Essence. Any time the Solar rolls a 10 for any Lore-based roll, or any Lore Charm, she gains a mote of Essence.
+The Solar draws strength from her own recurring [[Essence]]. Any time the Solar rolls a 10 for any [[Lore]]-based roll, or any [[Lore]] Charm, she gains a mote of [[Essence]].

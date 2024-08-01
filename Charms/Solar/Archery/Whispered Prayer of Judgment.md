@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Streaming Arrow Stance]]"
 ---
-After using an aim action, the Solar may use this Charm to charge her shot with wrathful Essence, adding (Essence) damage to the attack.
+After using an aim action, the Solar may use this Charm to charge her shot with wrathful [[Essence]], adding ([[Essence]]) damage to the attack.

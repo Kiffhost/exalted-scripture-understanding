@@ -22,4 +22,4 @@ The wielder may only counterattack if she successfully parries.
 
 ## Resonant
 
-Every threshold success on the attack roll adds one bonus die on the Initiative roll for the gambit.
+Every threshold success on the attack roll adds one bonus die on the [[Initiative]] roll for the gambit.

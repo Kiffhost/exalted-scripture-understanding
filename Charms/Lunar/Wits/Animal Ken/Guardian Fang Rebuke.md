@@ -18,4 +18,4 @@ Prerequisite Charms:
 The Lunar is blessed with a loyal guardian. When an enemy attacks her, her familiar makes a decisive counterattack. This counts as its action for the round, or for the next round if it’s already taken its turn. 
 ## Protean 
 
-If the Lunar is in the shape of the same animal as her familiar, this Charm’s Initiative cost is transferred to the familiar before it rolls damage.
+If the Lunar is in the shape of the same animal as her familiar, this Charm’s [[Initiative]] cost is transferred to the familiar before it rolls damage.

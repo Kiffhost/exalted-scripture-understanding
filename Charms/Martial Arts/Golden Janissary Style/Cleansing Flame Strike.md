@@ -14,4 +14,4 @@ Prerequisite Charms:
   - "[[Where-Is-Doom Inquisition]]"
 ---
 *Answer the abomination with flame.*
-Aureate fire streaks along the stylist’s decisive attack, adding one die of damage and ignoring two points of Hardness. Against creatures of darkness, she deals aggravated damage and doubles 10s on the damage roll.
+Aureate fire streaks along the stylist’s decisive attack, adding one die of damage and ignoring two points of [[Hardness]]. Against creatures of darkness, she deals aggravated damage and doubles 10s on the damage roll.

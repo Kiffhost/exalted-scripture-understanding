@@ -15,6 +15,6 @@ Prerequisite Charms:
   - "[[Rat Brings Fleas]]"
 ---
 *The Rat stylist darts away and out of sight.*
-The stylist flurries a Stealth roll to enter concealment with a disengage roll, ignoring the penalty for using Stealth in combat. If the stylist succeeds on both rolls, she also ignores the combat penalty on the roll to maintain concealment if an enemy provokes her reflexive movement from disengaging.
+The stylist flurries a [[Stealth]] roll to enter concealment with a disengage roll, ignoring the penalty for using [[Stealth]] in combat. If the stylist succeeds on both rolls, she also ignores the combat penalty on the roll to maintain concealment if an enemy provokes her reflexive movement from disengaging.
 ## Mastery
 The stylist ignores all penalties from flurrying.

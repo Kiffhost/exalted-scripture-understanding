@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - None
 ---
-The Solar expands her mind, body, and spirit to encompass the drain of more difficult tasks. This Charm permanently grants two major project slots for each dot of Essence the Solar possesses.
+The Solar expands her mind, body, and spirit to encompass the drain of more difficult tasks. This Charm permanently grants two major project slots for each dot of [[Essence]] the Solar possesses.

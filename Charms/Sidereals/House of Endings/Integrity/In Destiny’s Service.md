@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Minimum Legal Defense Competence]]"
 ---
-Without dreams, without hope, the Sidereal becomes a creature of absolute duty. The Sidereal can cite an auspicious prospect as though it were a Major Intimacy in a Decision Point against influence that would impede her in fulfilling it. She reduces the Willpower cost to resist by one. At the Storyteller’s discretion, especially significant prospects count as a Defining Intimacies. The Sidereal can alternatively cite one of the following: 
+Without dreams, without hope, the Sidereal becomes a creature of absolute duty. The Sidereal can cite an auspicious prospect as though it were a Major [[Intimacy]] in a Decision Point against influence that would impede her in fulfilling it. She reduces the [[Willpower]] cost to resist by one. At the Storyteller’s discretion, especially significant prospects count as a Defining Intimacies. The Sidereal can alternatively cite one of the following: 
 -  Journeys: Harbingers can cite memories of places they’ve visited against influence opposing that location, a group that resides there, its culture, or its laws. 
 -  Serenity: Joybringer can cite relationships — romantic or otherwise — that they’ve created, protected, or improved against influence opposing the best interests of a character in that relationship or the relationship’s overall emotional tenor. 
 -  Battles: Shieldbearers can cite memories of a battle, argument, or competition against influence that opposes her motivation for it or a lesson she learned from it. 

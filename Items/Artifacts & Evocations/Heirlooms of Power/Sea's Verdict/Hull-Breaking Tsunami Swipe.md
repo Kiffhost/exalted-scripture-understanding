@@ -17,4 +17,4 @@ All castles are built on sand. When attacking, the wielder unleashes a crashing 
 
 ## Resonant
 
-The wielder adds (Sea’s Verdict’s anima) to her Strength rating to determine what feats of demolition she may attempt.
+The wielder adds (Sea’s Verdict’s anima) to her [[Strength]] rating to determine what feats of demolition she may attempt.

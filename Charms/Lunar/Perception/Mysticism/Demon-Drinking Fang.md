@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Spirit-Rending Fury]]"
 ---
-The Lunar’s teeth run red with the spilt blood of immortality. Her decisive attack deals aggravated damage to spiritsandfae.Ifsuchanenemy’sInitiativeislowerthan hers, she adds (Perception) dice of damage. Spirits incapacitated by such attacks are permanently destroyed.
+The Lunar’s teeth run red with the spilt blood of immortality. Her decisive attack deals aggravated damage to spiritsandfae.Ifsuchanenemy’sInitiativeislowerthan hers, she adds ([[Perception]]) dice of damage. Spirits incapacitated by such attacks are permanently destroyed.

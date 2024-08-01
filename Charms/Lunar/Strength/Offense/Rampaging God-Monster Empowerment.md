@@ -13,4 +13,4 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Savage Moonsilver Talons]]"
 ---
-TheLunarawakensthemonsterthatlurksinhersoul,embodying the beast of the apocalypse. She rerolls (Essence) failed dice on decisive damage rolls against lower-Initiativeenemiesandgainsmotesequaltothe10sonsuchrolls, uptoamaximum ofthemotesspent enhancingtheattack. Against crashed enemies, she rerolls damage-roll 1s until they cease to appear before rerolling other dice. This Charm ends if the Lunar is crashed.
+TheLunarawakensthemonsterthatlurksinhersoul,embodying the beast of the apocalypse. She rerolls ([[Essence]]) failed dice on decisive damage rolls against lower-Initiativeenemiesandgainsmotesequaltothe10sonsuchrolls, uptoamaximum ofthemotesspent enhancingtheattack. Against crashed enemies, she rerolls damage-roll 1s until they cease to appear before rerolling other dice. This Charm ends if the Lunar is crashed.

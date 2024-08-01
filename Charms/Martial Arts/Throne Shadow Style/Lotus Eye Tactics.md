@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Lion Mouse Stratagem]]"
 ---
 *The vizier’s learned eye discerns peers and worthy foes from the masses.*
-The stylist makes a special (Perception + Martial Arts) read intentions roll. Success lets her player ask the Storyteller one of the following questions about her target plus an additional question for every three extra successes. 
+The stylist makes a special ([[Perception]] + [[Martial Arts]]) read intentions roll. Success lets her player ask the Storyteller one of the following questions about her target plus an additional question for every three extra successes. 
 - How significant a threat would he pose to me in combat? 
 - What should I watch out for in a fight with him? 
 - Does he have any weapons, armor, or nearby allies I don’t know about? 

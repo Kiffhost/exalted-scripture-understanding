@@ -29,7 +29,7 @@ Harbingers can divine destiny’s plans for journeys and make Mercury’s sign t
 
 # Caste Abilities
 
-Resistance, Ride, Sail, Survival, Thrown. 
+[[Resistance]], [[Ride]], [[Sail]], [[Survival]], [[Thrown]]. 
 
 # Experience Trigger
 
@@ -54,8 +54,8 @@ The Harbinger may pay one mote to learn whether a journey would align with desti
 
 ## Lesser Sign of Mercury
 
-The Harbinger may pay five motes to reflexively make Mercury’s lesser sign, tracing it in yellow stardust. Until her next turn, she and all allies within close range add (her Essence, maximum 5) non-Charm dice on movement actions. This is free at bonfire. 
+The Harbinger may pay five motes to reflexively make Mercury’s lesser sign, tracing it in yellow stardust. Until her next turn, she and all allies within close range add (her [[Essence]], maximum 5) non-Charm dice on movement actions. This is free at bonfire. 
 
 ## Greater Sign of Mercury
 
-Once per story, the Harbinger may pay twenty motes and one Willpower to make Mercury’s greater sign, shining golden in the sky. She transports herself, her Circlemates, and up to (Essence x2) others to anywhere she’s familiar with in Creation or Heaven. Rolls she makes to overcome wards against such travel gain −2 target number. In combat, this takes her entire turn and she must wait until the start of her next turn for this effect to take place. If she moves or is moved before her next turn, this power fails, refunding its cost and resetting it. Characters she brings with her must remain within long range until this is completed.
+Once per story, the Harbinger may pay twenty motes and one [[Willpower]] to make Mercury’s greater sign, shining golden in the sky. She transports herself, her Circlemates, and up to ([[Essence]] x2) others to anywhere she’s familiar with in Creation or Heaven. Rolls she makes to overcome wards against such travel gain −2 target number. In combat, this takes her entire turn and she must wait until the start of her next turn for this effect to take place. If she moves or is moved before her next turn, this power fails, refunding its cost and resetting it. Characters she brings with her must remain within long range until this is completed.

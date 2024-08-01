@@ -16,7 +16,7 @@ For just a moment, the stars align to bring Kaijin’s wearer briefly out of pha
 
 ## Dissonant
 
-The wearer may only count up to (Essence) 6s as successes. 
+The wearer may only count up to ([[Essence]]) 6s as successes. 
 
 ## Resonant
 

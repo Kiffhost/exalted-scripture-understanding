@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Blessed with understanding of the flow of living Essence through the body, the Dragon-Blooded physician refines her skill to perfection. She may add bonus dice to a Medicine roll for one mote each. If she adds enough to reach her dice limit (p. 162), she also adds a non-Charm success on the roll.
+Blessed with understanding of the flow of living [[Essence]] through the body, the Dragon-Blooded physician refines her skill to perfection. She may add bonus dice to a [[Medicine]] roll for one mote each. If she adds enough to reach her dice limit (p. 162), she also adds a non-Charm success on the roll.

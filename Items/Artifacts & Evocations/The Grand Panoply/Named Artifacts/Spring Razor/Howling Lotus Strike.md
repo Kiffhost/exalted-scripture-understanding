@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Spring Razor’s edge burns with venomous emerald Essence as it delivers a fateful, poisonous strike. A decisive attack supplemented by this Charm poisons its target on a successful hit. This toxin possesses the traits of arrow frog venom (p. 234).
+Spring Razor’s edge burns with venomous emerald [[Essence]] as it delivers a fateful, poisonous strike. A decisive attack supplemented by this Charm poisons its target on a successful hit. This toxin possesses the traits of arrow frog venom (p. 234).

@@ -12,7 +12,7 @@ Duration: One scene
 Prerequisite Charms:
   - None
 ---
-Soulfarer feasts on blood and vitality to nourish its own power, caring little for whether it takes its fill from its master or her foes. The wielder adds (Essence) to Soulfarer’s Overwhelming rating and one bonus success to decisive damage rolls. If this Evocation is used in the instant that the wielder deals decisive lethal damage with Soulfarer to an enemy that has blood, she may waive this Evocation’s health level cost. If the wielder goes more than one round without dealing damage on a decisive attack, this Evocation ends. 
+Soulfarer feasts on blood and vitality to nourish its own power, caring little for whether it takes its fill from its master or her foes. The wielder adds ([[Essence]]) to Soulfarer’s Overwhelming rating and one bonus success to decisive damage rolls. If this Evocation is used in the instant that the wielder deals decisive lethal damage with [[Soulfarer]] to an enemy that has blood, she may waive this Evocation’s health level cost. If the wielder goes more than one round without dealing damage on a decisive attack, this Evocation ends. 
 
 ## Dissonant
 

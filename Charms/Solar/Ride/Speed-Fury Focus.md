@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Immortal Charger’s Gallop]]"
 ---
-Feeling her mount’s agitation and its intense need to run, trample, and win, the Solar uses her Essence to focus its aggression into a wild burst of speed. This Charm permanently upgrades its prerequisite, allowing its effect to be used in a Join Battle roll for three motes.
+Feeling her mount’s agitation and its intense need to run, trample, and win, the Solar uses her [[Essence]] to focus its aggression into a wild burst of speed. This Charm permanently upgrades its prerequisite, allowing its effect to be used in a [[Join Battle]] roll for three motes.

@@ -12,4 +12,4 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Hunter’s Eye Precision]]"
 ---
-Unerring Fang Technique When the Lunar wins Join Battle, she receives a onemote discount on the cost of Finding the Needle’s Eye, Hunter’s Eye Precision, Sinuous Striking Grace, StrikingMospidMethod,andUnerringFangTechnique against lower-Initiative enemies for the scene.
+Unerring Fang Technique When the Lunar wins [[Join Battle]], she receives a onemote discount on the cost of [[Finding the Needle’s Eye]], [[Hunter’s Eye Precision]], [[Sinuous Striking Grace]], StrikingMospidMethod,andUnerringFangTechnique against lower-[[Initiative]] enemies for the scene.

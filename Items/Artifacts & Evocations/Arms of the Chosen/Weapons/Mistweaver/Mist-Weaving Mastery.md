@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Brumous Entanglement]]"
 ---
-Cloud-Gathering Practice Surpassing her limits, the Exalt weaves a blanket of unnatural fog that engulfs an entire region. This can extend as far as 100 miles in radius, swallowing all but the highest mountaintops. It lasts for weeks or months, no matter the local climate. Crops spoil, predators skulk easily from wilderness to town, vagabonds and refugees travel unseen, and armies can march openly with little chance of discovery. Most magical wind or weather manipulation is incapable of dispersing this fog, but it can be banished with an Ambition 2+ Celestial Circle sorcerous working. A city-sized region can be cleared with an Ambition 2+ Terrestrial working. Mist-Weaving Mastery can only be used once per story, unless reset by accomplishing a legendary social goal (Exalted, p. 134) under the cover of Mistweaver’s fog. 
+Cloud-Gathering Practice Surpassing her limits, the Exalt weaves a blanket of unnatural fog that engulfs an entire region. This can extend as far as 100 miles in radius, swallowing all but the highest mountaintops. It lasts for weeks or months, no matter the local climate. Crops spoil, predators skulk easily from wilderness to town, vagabonds and refugees travel unseen, and armies can march openly with little chance of discovery. Most magical wind or weather manipulation is incapable of dispersing this fog, but it can be banished with an Ambition 2+ Celestial Circle sorcerous working. A city-sized region can be cleared with an Ambition 2+ Terrestrial working. [[Mist-Weaving Mastery]] can only be used once per story, unless reset by accomplishing a legendary social goal (Exalted, p. 134) under the cover of Mistweaver’s fog. 
 
 ## Dissonant
 

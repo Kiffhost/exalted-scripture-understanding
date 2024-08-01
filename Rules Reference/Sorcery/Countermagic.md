@@ -5,10 +5,10 @@ tags:
   - source/solar-book
 ---
 
-Countering a spell as it’s cast is an (Intelligence + Occult) roll, with every 2 successes draining 1 sorcerous mote from the spell’s completion. If the sorcerer knows the spell she is attempting to counter, then each success drains 1 mote. This action can only be used against sorcerers within [[Range#Short|short range]].
+Countering a spell as it’s cast is an ([[Intelligence]] + [[Occult]]) roll, with every 2 successes draining 1 sorcerous mote from the spell’s completion. If the sorcerer knows the spell she is attempting to counter, then each success drains 1 mote. This action can only be used against sorcerers within [[Range#Short|short range]].
 # Distortion
 #Action/sorcery #Action/combat
-Once a spell has been cast, its effects cannot be undone, but a skilled sorcerer may mute, twist, or weaken them with a **distort action**. This is an [[Action#Extended|extended]] (Intelligence + Occult) action, with a difficulty based on the circle of the targeted spell—1 for Terrestrial Circle, 3 for Celestial Circle, and 5 for Solar Circle. 
+Once a spell has been cast, its effects cannot be undone, but a skilled sorcerer may mute, twist, or weaken them with a **distort action**. This is an [[Action#Extended|extended]] ([[Intelligence]] + [[Occult]]) action, with a difficulty based on the circle of the targeted spell—1 for Terrestrial Circle, 3 for Celestial Circle, and 5 for Solar Circle. 
 
 Not all spells can be distorted. If a spells states that it can be, the [[Action#Extended#Goal Number|goal number]] of the [[distort action]], as well as the precise effects of distortion, are specified in the text of the spell. Other spells, such as those that last only for an instant or that summon a being that exists independently of the spell, cannot be distorted. Distortion has a [[Action#Extended|terminus]] of 5 rolls— if a sorcerer fails to achieve her goal, she cannot attempt to distort the spell again. 
 
@@ -28,4 +28,4 @@ Of course, the easiest way to stop a working is to prevent it from being complet
 
 This will most often come up in the context of players attempting to stop a working being enacted by an enemy sorcerer. Such preemptive measures require realizing that a working is taking place at all. 
 
-Noticing the encroaching effects of a sorcerous working over a region is a difficulty 3 (Intelligence + Occult) roll, while discerning the exact effect of the working is difficulty 5. Lower both difficulties by one for characters who are sorcerers themselves, and by an additional one for characters who witness the sorcerer or his subordinates performing the ritual actions needed to enact the working.
+Noticing the encroaching effects of a sorcerous working over a region is a difficulty 3 ([[Intelligence]] + [[Occult]]) roll, while discerning the exact effect of the working is difficulty 5. Lower both difficulties by one for characters who are sorcerers themselves, and by an additional one for characters who witness the sorcerer or his subordinates performing the ritual actions needed to enact the working.

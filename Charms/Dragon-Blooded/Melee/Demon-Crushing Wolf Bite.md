@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Crimson Fang Bite]]"
 ---
-Emerald thorns burst from the Terrestrial’s weapon, adding (Stamina) Overwhelming to a withering attack. In Wood Aura, the Dragon-Blood adds (Stamina) to the raw damage of the attack as well.
+Emerald thorns burst from the Terrestrial’s weapon, adding ([[Stamina]]) Overwhelming to a withering attack. In Wood Aura, the Dragon-Blood adds ([[Stamina]]) to the raw damage of the attack as well.

@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Beast-Taming Aspect]]"
 ---
-The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them. She adds (Essence) nonCharm bonus dice on an influence roll made against an animal using any Ability. In addition, her target doesn’t gain the Resolve bonus for lacking a common language (Exalted, p. 221).
+The Dragon-Blood needs no words to communicate with animals, mimicking their bestial body language or vocalizations to engage them. She adds ([[Essence]]) nonCharm bonus dice on an influence roll made against an animal using any Ability. In addition, her target doesn’t gain the [[Resolve]] bonus for lacking a common language (Exalted, p. 221).

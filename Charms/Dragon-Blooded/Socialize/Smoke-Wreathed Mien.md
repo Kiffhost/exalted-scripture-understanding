@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Feigned languor conceals the Dragon-Blood’s true feelings. When a character she’s aware of rolls to read her intentions, (Essence) 1s on his roll each force him to reroll a successful die, starting with 7s and moving up.
+Feigned languor conceals the Dragon-Blood’s true feelings. When a character she’s aware of rolls to read her intentions, ([[Essence]]) 1s on his roll each force him to reroll a successful die, starting with 7s and moving up.

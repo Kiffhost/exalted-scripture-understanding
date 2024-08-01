@@ -11,7 +11,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Chambered Fist Charge]]"
 ---
-The Exalt raises the hammer high and brings it crashing down, causing a shockwave that makes the ground quake. Spending one or more charges, she rolls (Strength + Melee) against the (Dexterity + Athletics) of all characters — friend or foe — within short range, adding one non-Charm bonus die per charge spent. Characters who fail the roll fall prone and lose one Initiative per spent charge, which the wielder doesn’t gain. 
+The Exalt raises the hammer high and brings it crashing down, causing a shockwave that makes the ground quake. Spending one or more charges, she rolls ([[Strength]] + [[Melee]]) against the ([[Dexterity]] + [[Athletics]]) of all characters — friend or foe — within short range, adding one non-Charm bonus die per charge spent. Characters who fail the roll fall prone and lose one [[Initiative]] per spent charge, which the wielder doesn’t gain. 
 
 ## Resonant
 

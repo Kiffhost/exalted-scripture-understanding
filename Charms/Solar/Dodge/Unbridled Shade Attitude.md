@@ -12,4 +12,4 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Living Bonds Unburdened]]"
 ---
-Like cloud-shadows driven by the sun, the Solar passes over all obstacles, unchanged in her course. The Solar gains one point of Initiative for every -0 health level damaged by a decisive attack.
+Like cloud-shadows driven by the sun, the Solar passes over all obstacles, unchanged in her course. The Solar gains one point of [[Initiative]] for every -0 health level damaged by a decisive attack.

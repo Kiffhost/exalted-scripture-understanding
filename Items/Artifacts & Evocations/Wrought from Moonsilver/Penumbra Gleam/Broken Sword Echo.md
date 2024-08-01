@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Flawed Strike Mockery]]"
 ---
-As their blades rebound from Penumbra Gleam, enemies are assailed by thoughts of failure. Upon successfully blocking an attack, the wielder makes a special counterattack, rolling (Perception + Melee) against the attacker’s Resolve. If successful, he suffers a −3 penalty on rolls against the wielder that scene and forms a Minor Tie of self-loathing. He can spend Willpower to resist the Tie, but not the penalty. 
+As their blades rebound from [[Penumbra Gleam]], enemies are assailed by thoughts of failure. Upon successfully blocking an attack, the wielder makes a special counterattack, rolling ([[Perception]] + [[Melee]]) against the attacker’s [[Resolve]]. If successful, he suffers a −3 penalty on rolls against the wielder that scene and forms a Minor Tie of self-loathing. He can spend [[Willpower]] to resist the Tie, but not the penalty. 
 
 ## Resonant
 

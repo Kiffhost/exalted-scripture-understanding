@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Intent-Tracing Stare]]"
 ---
-After successfully defending herself through an application of Guile, the Solar’s next read intentions action against the initiate gains (Essence) dice and one automatic success. This advantage vanishes at the end of the scene.
+After successfully defending herself through an application of [[Guile]], the Solar’s next read intentions action against the initiate gains ([[Essence]]) dice and one automatic success. This advantage vanishes at the end of the scene.
