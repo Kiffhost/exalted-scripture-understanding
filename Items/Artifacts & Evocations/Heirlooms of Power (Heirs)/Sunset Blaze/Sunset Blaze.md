@@ -10,7 +10,7 @@ WeaponTags:
   - Melee
   - Piercing
   - Reaching
-  - Two-Handed when on foot
+  - Two-handed (when on foot)
 Hearthstone slots: 2
 Era: Reign of the Scarlet Empress
 Dots: "3"

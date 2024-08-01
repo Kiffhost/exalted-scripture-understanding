@@ -11,7 +11,8 @@ WeaponTags:
   - One-Handed
   - Piercing
   - Slow
-  - sometimes Concealable
+  - POSSIBLY
+  - Concealable
 Cost: " 2 (3 for concealable hand crossbows)"
 Accuracy:
   - Close -2

@@ -1,18 +1,19 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
   - Lethal
   - Melee
   - Disarming
-  - Grappling Flexible
   - Reaching
+  - Grappling
+  - Flexible
 Hearthstone slots: 1
-Era: Reign of the Scarlet Empress 
+Era: Reign of the Scarlet Empress
 ---
 Sesus Dejeni, the Nine Bones Thief, amassed great wealth for herself and her house wrangling thousands of head of cattle in the Southern steppes. Small herding tribes and local cattle barons alike forfeited their herds to Dejeni, and she went to great lengths to ensure she never had to pay a fair price, employing fraud, blackmail, and violence when needed. All the while, White Lizard’s Tongue was at her side, a whip of ivory-colored jade and the flayed hide of some unknown beast. Its jade surfaces are engraved with images of horses and cattle, with acrobatic riders dancing atop them and flipping over them.
 Dejeni wasn’t the first of her house to wield the direlash, but few dispute that the artifact’s infamy was greatest in her hands. Keeping her hold on the vast herd she acquired was but the least of its feats: she drove back the hundred-eyed lions unleashed by the Fair Folk prince Glimpse-of-Evermore, tamed the aurochs-dragon of Hellbender Mesa, and struck out the eye of her business rival Nellens Padano when he sought to steal her cattle, leaving her brand in its place.

@@ -9,7 +9,7 @@ Very next steps, each completable within 1 day - 1 week
 - [x] Add martial arts summary/detail pages
 - [ ] Split armor and weapon Type text into Traits list
 - [ ] Add ability links to WeaponTags
-- [ ] Evocation keywords page
+- [x] Evocation keywords page
 - [ ] Merits
 	- [ ] Animal/bestiary
 		- [ ] Solar
@@ -17,7 +17,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Strangers
 		- [ ] Exigents
 		- [ ] Other?
-- [ ] Clean Sidereals Evocation prereqs
+- [x] Clean Sidereals Evocation prereqs
 - [ ] Sort out double spaces after bullet points
 - [ ] Rules
 	- [x] Charms

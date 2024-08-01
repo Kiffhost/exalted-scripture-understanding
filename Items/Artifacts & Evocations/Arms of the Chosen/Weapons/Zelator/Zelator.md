@@ -9,7 +9,8 @@ WeaponTags:
   - Lethal
   - Melee
   - Piercing
-  - Reaching;Two-Handed when on foot
+  - Reaching
+  - Two-handed (when on foot)
 Hearthstone slots: 2
 Era: Falling Stars Interregnum
 ---

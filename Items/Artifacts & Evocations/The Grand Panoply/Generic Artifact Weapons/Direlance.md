@@ -9,7 +9,7 @@ WeaponTags:
   - Melee
   - Piercing
   - Reaching
-  - Two-Handed when on foot
+  - Two-handed (when on foot)
 Attunement: 5m
 Dots: 3
 ---

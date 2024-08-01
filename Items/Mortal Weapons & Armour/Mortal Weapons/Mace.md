@@ -7,7 +7,8 @@ WeaponTags:
   - Bashing
   - Melee
   - Smashing
-  - sometimes Improvised
+  - POSSIBLY
+  - Improvised
 Cost: " 1"
 aliases:
   - Hammer

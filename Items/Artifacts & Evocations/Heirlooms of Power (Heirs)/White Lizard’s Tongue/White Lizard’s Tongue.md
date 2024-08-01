@@ -9,7 +9,6 @@ WeaponTags:
   - Lethal
   - Melee
   - Disarming
-  - Grappling Flexible
   - Reaching
   - Grappling
   - Flexible

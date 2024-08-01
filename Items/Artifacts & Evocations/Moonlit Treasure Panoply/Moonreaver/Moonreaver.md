@@ -9,7 +9,6 @@ WeaponTags:
   - Lethal
   - Melee
   - Piercing
-  - Reaching Two-Handed
   - Reaching
   - Two-Handed
 Hearthstone slots: 2

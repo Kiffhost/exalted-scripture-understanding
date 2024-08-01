@@ -10,7 +10,7 @@ WeaponTags:
   - Melee
   - Piercing
   - Reaching
-  - Two-Handed when on foot
+  - Two-handed (when on foot)
 Hearthstone slots: 1
 Era: The Ten-Year Winter
 ---

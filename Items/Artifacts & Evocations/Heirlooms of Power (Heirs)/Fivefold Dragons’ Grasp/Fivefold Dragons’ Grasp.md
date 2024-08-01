@@ -9,7 +9,6 @@ WeaponTags:
   - Bashing
   - Brawl
   - Grappling
-  - Smashing Worn
   - Smashing
   - Worn
 Hearthstone slots: 2

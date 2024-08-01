@@ -3,7 +3,6 @@ tags:
   - reference
 ---
 # Melee Weapon Tags
-
 ## Balanced
 The power and leverage provided by this weapon give it an Overwhelming one point higher than normal. For example, a Balanced mundane medium weapon would have an Overwhelming value of 2. This tag is normally found on swords. 
 ## Bashing
@@ -40,11 +39,7 @@ This weapon can be used to make ranged attacks using the Thrown ability. All Thr
 This weapon requires the user wield it with both hands, preventing them from holding a shield or another weapon at the same time. Two-handed weapons grant a +2 bonus to Clash attacks. 
 ## Worn
 Wearable weapons can be removed, but while worn they count as natural weapons. Equipping or removing a weapon with the worn tag takes an action.
-
-
-
 # Ranged Weapon Tags
-
 ## Archery
 This weapon can be used to make ranged attacks using the Archery ability. All Archery weapons also have their maximum range listed in parenthesis, such as Archery (Medium). 
 ## Bashing
@@ -67,15 +62,10 @@ At close range, a powerful weapon inflicts damage like a heavy weapon.
 This weapon takes extra time to reload. The character must spend an action reloading this weapon. Reloading can be part of a flurry, including a flurry with an attack. Charms which allow multiple attacks in a single turn are inapplicable with slow weapons unless specified otherwise. 
 ## Special
 The weapon has some unusual property explained in the description
-
-
-
 # Armour Tags
-
 ## Buoyant
 Most armor is made from metal, which means it’s heavy and dense, and its mobility penalty applies to swimming. Armor with the buoyant tag is much lighter and does not inhibit swimming at all. 
 ## Concealable
 Most armor is obviously armor. It can be decorated, but not disguised. Armor with the concealable tag can be worn under clothing so as not to reveal that the character is wearing armor. 
-
 ## Silent
 All armor can be camouflaged with paint, grease or even dirt, but most armor is noisy. Armor with the silent tag causes no penalties to silent movement.

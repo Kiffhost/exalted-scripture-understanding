@@ -8,7 +8,8 @@ WeaponTags:
   - Lethal
   - Brawl
   - Piercing
-  - sometimes Worn
+  - POSSIBLY
+  - Worn
 Attunement: 5m
 Dots: 3
 ---

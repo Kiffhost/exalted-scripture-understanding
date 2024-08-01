@@ -5,11 +5,11 @@ tags:
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - Lethal
-  - Archery(Long)
   - Crossbow
   - Piercing
   - Powerful
   - Slow
+  - Archery (Long)
 Cost: " 3"
 Accuracy:
   - Close -2
