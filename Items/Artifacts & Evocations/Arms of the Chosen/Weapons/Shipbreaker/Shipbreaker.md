@@ -6,12 +6,12 @@ tags:
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Archery (Long)
-  - Powerful
-  - Slow
-  - Piercing
-  - Crossbow
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Powerful|Powerful]]"
+  - "[[Item Tags#Slow|Slow]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Crossbow|Crossbow]]"
 Hearthstone slots: 2
 Era: Niobraran War
 Accuracy:

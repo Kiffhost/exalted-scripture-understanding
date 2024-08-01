@@ -7,8 +7,8 @@ WeaponType:
   - Powerbow
 Material: Orichalcum
 WeaponTags:
-  - Lethal
-  - Archery (Long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
 Dots: 4
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)

@@ -7,11 +7,11 @@ WeaponType:
   - Longfang
 Material: Black Jade
 WeaponTags:
-  - Lethal
-  - Melee
-  - Thrown (Short)
-  - Disarming
-  - Piercing
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Piercing|Piercing]]"
 Dots: 3
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)

@@ -7,9 +7,9 @@ WeaponType:
   - Thunderbolt Shield
 Material: Moonsilver
 WeaponTags:
-  - Bashing
-  - Melee
-  - Shield
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Shield|Shield]]"
 Dots: 4
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)

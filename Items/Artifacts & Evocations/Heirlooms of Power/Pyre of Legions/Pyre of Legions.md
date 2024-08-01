@@ -7,10 +7,10 @@ WeaponType:
   - Grand Daiklave
 Material: Red Jade
 WeaponTags:
-  - Lethal
-  - Melee
-  - Reaching
-  - Two-Handed
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Dots: 3
 Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 6)

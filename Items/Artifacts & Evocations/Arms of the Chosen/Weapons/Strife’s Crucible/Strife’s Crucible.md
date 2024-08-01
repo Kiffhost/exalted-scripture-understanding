@@ -6,10 +6,10 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Brawl
-  - Piercing
-  - Worn
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Worn|Worn]]"
 Hearthstone slots: 2
 Era: Shadows of the Usurpation
 ---

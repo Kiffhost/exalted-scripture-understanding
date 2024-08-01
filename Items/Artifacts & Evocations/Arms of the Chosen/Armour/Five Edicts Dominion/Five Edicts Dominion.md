@@ -6,7 +6,6 @@ tags:
 Attunement: 6m
 Type: Heavy (+11 Soak, Hardness 10, Mobility Penalty −2)
 WeaponTags:
-  - None
 Hearthstone slots: 2
 Era: War of the Gods
 ---

@@ -5,9 +5,9 @@ tags:
   - source/solar-book
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
-  - Lethal
-  - Archery (Long)
-  - Mounted
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Mounted|Mounted]]"
 Attunement: 5m
 Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1

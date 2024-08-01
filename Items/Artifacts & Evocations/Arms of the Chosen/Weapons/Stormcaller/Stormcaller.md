@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 5)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Balanced
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
 Hearthstone slots: 3
 Era: War of the Gods
 Special: Stormcaller can be wielded while sheathed, gain- ing the Bashing tag instead of Lethal.

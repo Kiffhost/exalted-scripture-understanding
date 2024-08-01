@@ -4,10 +4,10 @@ tags:
   - source/solar-book
 Type: Light (+7 DMG, OVW 1)
 WeaponTags:
-  - Bashing
-  - Thrown (Medium)
-  - Concealable
-  - Special
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Special|Special]]"
 Cost: " 1"
 Accuracy:
   - Close +4

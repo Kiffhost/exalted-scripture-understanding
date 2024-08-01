@@ -6,11 +6,11 @@ tags:
 Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)
 WeaponTags:
-  - Bashing
-  - Brawl
-  - Smashing
-  - Thrown (Short)
-  - Two-Handed
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Hearthstone slots: 2
 Era: Labors of the Tekhelet Circle
 ---

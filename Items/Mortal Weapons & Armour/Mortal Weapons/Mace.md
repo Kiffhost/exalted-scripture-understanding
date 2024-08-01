@@ -4,11 +4,10 @@ tags:
   - source/solar-book
 Type: Medium (+2 ACC, +9 DMG, +1 DEF, OVW 1)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Smashing
-  - POSSIBLY
-  - Improvised
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Improvised|Improvised]]"
 Cost: " 1"
 aliases:
   - Hammer

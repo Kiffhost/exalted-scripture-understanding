@@ -6,7 +6,7 @@ tags:
 Attunement: 4m
 Type: Light (+5 Soak, Hardness 4, Mobility Penalty −0)
 WeaponTags:
-  - Concealable
+  - "[[Item Tags#Concealable|Concealable]]"
 Hearthstone slots: 1
 Era: Reign of the Scarlet Empress
 ---

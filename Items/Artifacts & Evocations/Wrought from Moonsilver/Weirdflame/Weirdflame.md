@@ -7,12 +7,12 @@ WeaponType:
   - Devil Caster
 Material: Moonsilver
 WeaponTags:
-  - Lethal
-  - Archery (Short)
-  - Flame
-  - One-Handed
-  - Mounted
-  - Slow
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Flame|Flame]]"
+  - "[[Item Tags#One-Handed|One-Handed]]"
+  - "[[Item Tags#Mounted|Mounted]]"
+  - "[[Item Tags#Slow|Slow]]"
 Dots: 5
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)

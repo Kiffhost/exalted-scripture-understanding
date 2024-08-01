@@ -6,7 +6,6 @@ tags:
 Attunement: 6m
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
 WeaponTags:
-  - None
 Hearthstone slots: 2
 Era: Falling Stars Interregnum
 ---

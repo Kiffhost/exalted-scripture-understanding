@@ -1,3 +1,6 @@
 ---
-WeaponTags:
+WeaponTags: 
+ArmourTags: 
+ArmorType: 
+Material:
 ---

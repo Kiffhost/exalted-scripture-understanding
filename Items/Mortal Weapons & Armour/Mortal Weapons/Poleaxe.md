@@ -4,11 +4,11 @@ tags:
   - source/solar-book
 Type: Heavy (+1 ACC, +11 DMG, -1 DEF, OVW 1)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Chopping
-  - Reaching
-  - Two-Handed
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Chopping|Chopping]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Cost: " 2"
 aliases:
   - Halberd

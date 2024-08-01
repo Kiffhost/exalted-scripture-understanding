@@ -6,8 +6,8 @@ tags:
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Archery (Long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
 Hearthstone slots: 1
 Era: Dreams of the First Age
 Accuracy: Close −1; Short +5; Medium +3; Long +1; Extreme −1

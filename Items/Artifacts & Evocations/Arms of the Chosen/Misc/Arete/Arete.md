@@ -6,7 +6,6 @@ tags:
 Attunement: 3m
 Type: NotAWeapon
 WeaponTags:
-  - None
 Hearthstone slots: 0
 Era: Before Interregnum
 ---

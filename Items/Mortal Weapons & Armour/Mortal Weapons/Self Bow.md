@@ -4,9 +4,9 @@ tags:
   - source/solar-book
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
-  - Lethal
-  - Archery (Long)
-  - Mounted
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Mounted|Mounted]]"
 Cost: " 1"
 Accuracy:
   - Close -2

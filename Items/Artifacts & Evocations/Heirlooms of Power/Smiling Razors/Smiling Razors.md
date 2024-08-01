@@ -7,8 +7,8 @@ WeaponType:
   - Short Daiklaves
 Material: Red Jade
 WeaponTags:
-  - Melee
-  - Lethal
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Lethal|Lethal]]"
 Dots: 3
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, 4 OVW)

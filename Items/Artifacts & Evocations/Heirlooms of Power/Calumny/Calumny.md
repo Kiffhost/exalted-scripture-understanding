@@ -7,9 +7,9 @@ WeaponType:
   - Wrackstaff
 Material: Green Jade
 WeaponTags:
-  - Bashing
-  - Melee
-  - Reaching
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
 Dots: 3
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)

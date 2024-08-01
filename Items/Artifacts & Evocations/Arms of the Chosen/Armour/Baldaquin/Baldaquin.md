@@ -6,7 +6,6 @@ tags:
 Attunement: 5m
 Type: Medium (Soak +8, Hardness 7, Mobility Penalty −1)
 WeaponTags:
-  - None
 Hearthstone slots: 1
 Era: Eight Directions Era
 ---

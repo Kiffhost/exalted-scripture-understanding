@@ -5,12 +5,12 @@ tags:
   - source/solar-book
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
-  - Bashing
-  - Martial Arts
-  - Disarming
-  - Flexible
-  - Grappling
-  - Reaching
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Flexible|Flexible]]"
+  - "[[Item Tags#Grappling|Grappling]]"
+  - "[[Item Tags#Reaching|Reaching]]"
 Attunement: 5m
 Dots: 3
 ---

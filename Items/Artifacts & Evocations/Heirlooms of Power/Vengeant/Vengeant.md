@@ -7,10 +7,10 @@ WeaponType:
   - Razor Claws
 Material: Black Jade
 WeaponTags:
-  - Lethal
-  - Brawl
-  - Concealable
-  - Worn
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Worn|Worn]]"
 Dots: 3
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)

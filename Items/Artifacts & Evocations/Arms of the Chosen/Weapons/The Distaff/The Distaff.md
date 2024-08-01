@@ -6,11 +6,11 @@ tags:
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 5)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Balanced
-  - Disarming
-  - Grappling
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Grappling|Grappling]]"
 Hearthstone slots: None
 Era: Reign of the Shadow Deliberative
 ---

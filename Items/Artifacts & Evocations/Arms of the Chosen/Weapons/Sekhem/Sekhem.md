@@ -6,7 +6,7 @@ tags:
 Attunement: 5m
 Type: Heavy (+14 DMG, OVW 5)
 WeaponTags:
-  - See text
+  - "[[Item Tags#See text|See text]]"
 Hearthstone slots: 2
 Era: Last Days of the Shogunate
 Accuracy: Close +1; Short +5; Medium +3; Long +1; Extreme −1

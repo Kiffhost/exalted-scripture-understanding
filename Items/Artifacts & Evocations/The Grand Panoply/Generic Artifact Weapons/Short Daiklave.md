@@ -5,9 +5,9 @@ tags:
   - source/solar-book
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Balanced
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
 Attunement: 5m
 Dots: 3
 ---

@@ -7,9 +7,9 @@ WeaponType:
   - Short Daiklaves
 Material: Moonsilver
 WeaponTags:
-  - Lethal
-  - Melee
-  - Balanced
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
 Dots: 3
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, 4 OVW)

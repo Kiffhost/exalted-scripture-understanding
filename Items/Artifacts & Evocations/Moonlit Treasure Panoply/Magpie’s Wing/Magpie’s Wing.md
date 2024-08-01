@@ -6,10 +6,10 @@ tags:
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Thrown (Long)
-  - Cutting
-  - Special
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Cutting|Cutting]]"
+  - "[[Item Tags#Special|Special]]"
 Hearthstone slots: 1
 Era: The First Fracturing
 Accuracy:

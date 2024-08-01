@@ -6,12 +6,12 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Disarming
-  - Reaching
-  - Grappling
-  - Flexible
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Grappling|Grappling]]"
+  - "[[Item Tags#Flexible|Flexible]]"
 Hearthstone slots: 1
 Era: Reign of the Scarlet Empress
 ---

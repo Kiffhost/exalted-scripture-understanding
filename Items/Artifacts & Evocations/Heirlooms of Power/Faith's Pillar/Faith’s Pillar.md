@@ -8,11 +8,11 @@ WeaponType:
   - Grand Goremaul
 Material: White Jade
 WeaponTags:
-  - Bashing
-  - Melee
-  - Reaching
-  - Smashing
-  - Two-Handed
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Dots: 3
 Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)

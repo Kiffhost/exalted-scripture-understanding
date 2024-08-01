@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
-  - Lethal
-  - Thrown (Long)
-  - Concealable
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Concealable|Concealable]]"
 Hearthstone slots: None
 Era: War of the Gods
 Accuracy: Close +5; Short +4; Medium +3; Long +0; Extreme −2

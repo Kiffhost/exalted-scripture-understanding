@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Thrown (Long)
-  - Cutting
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Cutting|Cutting]]"
 Hearthstone slots: 1
 Era: Autumn’s End Incursion
 Accuracy: Close +5; Short +4; Medium +3; Long +0; Extreme −2

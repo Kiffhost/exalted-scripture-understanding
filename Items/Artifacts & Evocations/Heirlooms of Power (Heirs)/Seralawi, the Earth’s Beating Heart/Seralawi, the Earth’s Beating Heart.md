@@ -6,7 +6,6 @@ tags:
 Attunement: 6m
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
 ArmourTags:
-  - None
 Hearthstone slots: 1
 Era: Dreams of the First Age
 ArmourType: Gunzosha Armour

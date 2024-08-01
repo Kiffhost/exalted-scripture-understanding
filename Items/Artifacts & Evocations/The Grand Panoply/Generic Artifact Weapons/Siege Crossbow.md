@@ -5,12 +5,12 @@ tags:
   - source/solar-book
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Crossbow
-  - Piercing
-  - Powerful
-  - Slow
-  - Archery (Long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Crossbow|Crossbow]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Powerful|Powerful]]"
+  - "[[Item Tags#Slow|Slow]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
 Attunement: 5m
 Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1

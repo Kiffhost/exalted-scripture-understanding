@@ -12,10 +12,10 @@ Material: Red Jade
 WeaponType:
   - Skycutter
 WeaponTags:
-  - Lethal
-  - Thrown (Long)
-  - Cutting
-  - Special
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Cutting|Cutting]]"
+  - "[[Item Tags#Special|Special]]"
 Type: Medium (+12 DMG, OVW 4)
 Accuracy:
   - Close +5; Short +4; Medium +3; Long +0; Extreme* -2

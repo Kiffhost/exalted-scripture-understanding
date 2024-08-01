@@ -4,9 +4,9 @@ tags:
   - source/solar-book
 Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 1)
 WeaponTags:
-  - Lethal
-  - Martial Arts
-  - Disarming
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
 Cost: " 2"
 aliases:
   - War Fan

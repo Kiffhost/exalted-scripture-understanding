@@ -6,13 +6,13 @@ tags:
 Attunement: 5m;
 Type: Light (Soak +3, Hardness 0, Mobility Penalty 0)
 WeaponTags:
-  - Concealable
-  - Silent
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Silent|Silent]]"
 Hearthstone slots: 1
 Era: Fall of the Bruhnian Heptarchy
 Backer: Kolbey Araujo
 ArmourTags:
-  - Concealable
+  - "[[Item Tags#Concealable|Concealable]]"
 Dots: "3"
 Material: Moonsilver
 ArmorType:

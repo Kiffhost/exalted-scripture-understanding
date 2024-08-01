@@ -6,7 +6,6 @@ tags:
 ArmourType: Heavy Plate
 Material: Orichalcum
 ArmourTags:
-  - None
 Dots: 3
 Attunement: 6m
 Hearthstone slots: 2

@@ -4,12 +4,11 @@ tags:
   - source/solar-book
 Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 1)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Smashing
-  - POSSIBLY
-  - Thrown (Short)
-  - Improvised
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Improvised|Improvised]]"
 Cost: —
 aliases:
   - Baton

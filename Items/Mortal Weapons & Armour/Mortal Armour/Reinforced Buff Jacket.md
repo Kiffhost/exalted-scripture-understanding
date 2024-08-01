@@ -4,7 +4,7 @@ tags:
   - source/solar-book
 Type: Medium (Soak +5, Hardness 0, Mobility Penalty −1)
 ArmourTags:
-  - Silent
+  - "[[Item Tags#Silent|Silent]]"
 Cost: " 2"
 ---
 A heavier version of the buff jacket, the reinforced buff jacket is a common armor among light cavalry, post-riders in dangerous territory, heavy scouts, brigands and mercenary infantry. It is also the standard armor of the Realm’s light infantry.

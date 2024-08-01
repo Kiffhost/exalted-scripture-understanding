@@ -5,9 +5,9 @@ tags:
   - source/solar-book
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Reaching
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
 Attunement: 5m
 Dots: 3
 ---

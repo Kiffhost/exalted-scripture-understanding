@@ -6,7 +6,6 @@ tags:
 Attunement: 6m
 Type: Heavy (+11 Soak, Hardness 10, Mobility Penalty −2)
 WeaponTags:
-  - None
 Hearthstone slots: 0
 Era: Gossamer Dawn Epoch PROSTHETIC ARTIFACTS Amid the violence of the Age of Sorrows, even the Chosen suffer grave and terrible injuries. With- out miraculous chirurgy or sorcery, the best option available is often a wondrous prosthesis forged from the magical materials. Indeed, there were places and times in the First Age where such prostheses were the height of fashion. Artifact prostheses enable movement and sensation equivalent to flesh and blood. Some are held in place by straps and buckles, others by delicate enchanted pins, and some surgically grafted on. Punches and kicks with artifact prostheses are treated as normal unarmed attacks. When prosthe- ses offer martial augmentation — extending claws, uncoiling a direlash, crackling with fire or lightning — this manifests as a power or
 ---

@@ -6,9 +6,9 @@ tags:
 Attunement: 5m;
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Shield
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Shield|Shield]]"
 Hearthstone slots: 1
 Era: Shadows of the Usurpation
 Material: Blue Jade

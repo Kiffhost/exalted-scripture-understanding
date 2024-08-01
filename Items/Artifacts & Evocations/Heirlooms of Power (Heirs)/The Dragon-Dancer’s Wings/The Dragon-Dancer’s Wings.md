@@ -1,16 +1,16 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +3 OVW)
 WeaponTags:
-  - Lethal
-  - Martial Arts
-  - Disarming
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
 Hearthstone slots: 2 (one on each fan)
-Era: The Year of Seven Shoguns 
+Era: The Year of Seven Shoguns
 ---
 Once, the air dragon Rekal, a diligent censor, found himself at odds with the fire dragon Banu, an indolent spirit who shirked his duties to luxuriate in splendor. The two quarreled and ultimately fought, and in the end a victorious Rekal feasted on Banu’s fiery Essence. He’d thought to use that power to fulfill the fire dragon’s responsibilities as well as his own, but the smoldering remnants of Banu’s spirit overwhelmed Rekal, driving him to unrestrained fury.
 The dancer-diplomat Nalako Jathri learned of Rekal’s plight. Some of her Sworn Kin argued that they should slay the tormented dragon, but Jathri spoke against it, fearful of what havoc a battle might wreak upon a land still struggling to establish itself. Instead, she sought out two famed smiths, sisters with clashing temperaments, and secretly commissioned one fan from each. The jade she provided came from two veins within the same mountain, one red, the other blue. From these emblems of division and reunion, the Dragon-Dancer’s Wings were forged.

@@ -4,10 +4,10 @@ tags:
   - source/solar-book
 Type: Light (+7 DMG, OVW 1)
 WeaponTags:
-  - Subtle
-  - Thrown (Short)
-  - Concealable
-  - Poisonable
+  - "[[Item Tags#Subtle|Subtle]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Poisonable|Poisonable]]"
 Cost: " 1"
 Accuracy:
   - Close +4

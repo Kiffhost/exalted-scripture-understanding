@@ -7,12 +7,12 @@ WeaponType:
   - Dire Chain
 Material: Moonsilver
 WeaponTags:
-  - Bashing
-  - Disarming
-  - Flexible
-  - Grappling
-  - Martial Arts
-  - Reaching
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Flexible|Flexible]]"
+  - "[[Item Tags#Grappling|Grappling]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Reaching|Reaching]]"
 Dots: 3
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)

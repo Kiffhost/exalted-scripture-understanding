@@ -7,8 +7,8 @@ WeaponType:
   - Daiklave
 Material: White Jade
 WeaponTags:
-  - Bashing
-  - Melee
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
 Dots: 4
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 5)

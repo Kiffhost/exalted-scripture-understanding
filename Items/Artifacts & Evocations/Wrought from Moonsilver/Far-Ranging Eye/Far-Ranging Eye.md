@@ -7,9 +7,9 @@ WeaponType:
   - Infinite Chakram
 Material: Moonsilver
 WeaponTags:
-  - Lethal
-  - Thrown (Medium)
-  - Cutting
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Cutting|Cutting]]"
 Dots: 3
 Attunement: 5m
 Type: Light (+10 DMG, OVW 3)

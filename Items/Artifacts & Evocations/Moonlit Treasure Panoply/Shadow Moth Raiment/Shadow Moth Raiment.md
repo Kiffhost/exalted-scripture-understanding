@@ -6,13 +6,13 @@ tags:
 Attunement: 4m
 Type: Light (Soak +5, Hardness 4, Mobility Penalty −0)
 WeaponTags:
-  - Silent
+  - "[[Item Tags#Silent|Silent]]"
 Hearthstone slots: 0
 Era: The Hundred Thrones War
 Backer: Robert “Jefepato” Dall
 ArmourTags:
-  - Silent
-  - Special
+  - "[[Item Tags#Silent|Silent]]"
+  - "[[Item Tags#Special|Special]]"
 Dots: "4"
 Material: Moonsilver
 ArmorType:

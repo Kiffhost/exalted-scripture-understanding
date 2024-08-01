@@ -6,11 +6,9 @@ tags:
 Attunement: 6m
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
 WeaponTags:
-  - None
 Hearthstone slots: 2
 Era: Year of the Mercury Snake
 ArmourTags:
-  - None
 Dots: "4"
 Material: Blue and Black Jade
 ArmorType:

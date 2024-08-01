@@ -5,10 +5,10 @@ tags:
   - source/solar-book
 Type: Heavy (+14 DMG, OVW 5)
 WeaponTags:
-  - Lethal
-  - Archery (Short)
-  - Flame
-  - Slow
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Flame|Flame]]"
+  - "[[Item Tags#Slow|Slow]]"
 Attunement: 5m
 Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1

@@ -6,8 +6,8 @@ tags:
 Dots: §4
 Attunement: 5m
 WeaponTags:
-  - Lethal
-  - Siege (long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Siege|Siege]]" (long)
 Hearthstone slots: 1
 Special: "Attacking requires the Evocation Stormblast \rBarrage, though feats of demolition don’t."
 ---

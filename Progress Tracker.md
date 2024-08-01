@@ -8,7 +8,10 @@ Very next steps, each completable within 1 day - 1 week
 - [x] Sidereal Sorcerous Archetypes
 - [x] Add martial arts summary/detail pages
 - [ ] Split armor and weapon Type text into Traits list
-- [ ] Add ability links to WeaponTags
+- [x] Add ability links to WeaponTags
+- [ ] Links for yaml traits
+	- [ ] Materials?
+	- [ ] Weapon/armour types?
 - [x] Evocation keywords page
 - [ ] Merits
 	- [ ] Animal/bestiary

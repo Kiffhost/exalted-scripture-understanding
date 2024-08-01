@@ -4,8 +4,8 @@ tags:
   - Artifact
   - source/solar-book
 ArmourTags:
-  - Silent
-  - Special
+  - "[[Item Tags#Silent|Silent]]"
+  - "[[Item Tags#Special|Special]]"
 Attunement: 4m
 Type: Light (Soak +5, Hardness 4, Mobility Penalty −0)
 Dots: 4

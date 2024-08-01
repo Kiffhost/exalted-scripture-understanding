@@ -6,8 +6,8 @@ tags:
 Attunement: 4m
 Type: Light (Soak +5, Hardness 4, Mobility Penalty −0)
 WeaponTags:
-  - Special
-  - Silent
+  - "[[Item Tags#Special|Special]]"
+  - "[[Item Tags#Silent|Silent]]"
 Hearthstone slots: 0
 Era: The Season of Nine Shoguns
 ---

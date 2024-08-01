@@ -7,9 +7,9 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Balanced
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
 Hearthstone slots: 2
 Era: The Luminous Ascension Era
 Backer: Jamie Michaels

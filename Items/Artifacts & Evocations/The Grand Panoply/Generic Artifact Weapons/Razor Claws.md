@@ -5,10 +5,10 @@ tags:
   - source/solar-book
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Brawl
-  - Concealable
-  - Worn
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Worn|Worn]]"
 Attunement: 5m
 Dots: "3"
 ---

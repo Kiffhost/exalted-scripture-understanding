@@ -14,22 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "d0c07015ae4b049c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           },
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
+                "file": "Progress Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"weapontags\":",
+                "query": "[\"weapontags\": disar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
+                "file": "Progress Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
+                "file": "Progress Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -188,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -227,11 +214,21 @@
   },
   "active": "4523b876c084e9d6",
   "lastOpenFiles": [
-    "Martial Arts Styles/Wood Dragon Style.md",
     "Untitled.md",
     "Items/Mortal Weapons & Armour/Item Tags.md",
-    "Items/Mortal Weapons & Armour/Untitled.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Solar Seal.md",
     "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/The Dragon-Dancer’s Wings/The Dragon-Dancer’s Wings.md",
+    "Templates/daiklave.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Lorestone.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Midnight Thorn/Midnight Thorn.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Baldaquin.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Carnelian Phoenix/Fire-Spurning Jade Caparison.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Carnelian Phoenix/Bonfire Hoof Assault.md",
+    "Items/Everyday Wonders & Natural Magics/Talismans.md",
+    "Items/Everyday Wonders & Natural Magics/Ghost Flower Tea.md",
+    "Martial Arts Styles/Wood Dragon Style.md",
+    "Items/Mortal Weapons & Armour/Untitled.md",
     "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Black Wind/Black Wind.md",
     "Items/Hearthstones/Abyssal/Stone of Hatred.md",
     "Items/Hearthstones/Abyssal/Blood-Drinking Jewel.md",
@@ -242,17 +239,7 @@
     "Items/Artifacts & Evocations/Moonlit Treasure Panoply/Shadow Moth Raiment/Shadow Moth Raiment.md",
     "Items/Artifacts & Evocations/Moonlit Treasure Panoply/Cloak of Forgotten Midnights/Cloak of Forgotten Midnights.md",
     "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Sozen, the Cataphract of Keys/Sozen, the Cataphract of Keys.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Midnight Thorn/Midnight Thorn.md",
     "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Five Edicts Dominion/Five Edicts Dominion.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Baldaquin.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Upright Nautical Envoy.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Austere Ambassadorial Mien.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Faultless Emissary Method.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Five Edicts Dominion/Absolute Terror Mantle.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Five Edicts Dominion/10,000 Years Humiliation.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Five Edicts Dominion/On Your Knees.md",
-    "Progress Tracker.md",
-    "Items/Mortal Weapons & Armour/Mortal Weapons/Club.md",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
     "Sorceries/Archetypes/The Path of Celestial Design",

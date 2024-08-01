@@ -6,11 +6,11 @@ tags:
 Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Reaching
-  - Smashing
-  - Two-Handed
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Hearthstone slots: 3
 Era: War of the Gods
 ---

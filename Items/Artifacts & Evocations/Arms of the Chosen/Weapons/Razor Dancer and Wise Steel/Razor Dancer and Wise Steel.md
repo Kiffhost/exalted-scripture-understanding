@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 4)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Balanced
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Balanced|Balanced]]"
 Hearthstone slots: 1 each
 Era: Time of Tumult
 ---

@@ -6,7 +6,6 @@ tags:
 Attunement: 1m
 Type: Clothing
 WeaponTags:
-  - None
 Hearthstone slots: 1
 Era: Before Interregnum
 ---

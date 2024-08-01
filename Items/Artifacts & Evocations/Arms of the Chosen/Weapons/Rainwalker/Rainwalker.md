@@ -6,11 +6,11 @@ tags:
 Attunement: 5m
 Type: Medium (+3 ACC, +10 DMG, +1 DEF, OVW 4)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Concealable
-  - Disarming
-  - Shield
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Shield|Shield]]"
 Hearthstone slots: 1
 Era: Luminous Ascension Era
 ---

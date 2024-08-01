@@ -7,10 +7,10 @@ WeaponType:
   - Skycutter
 Material: Soulsteel
 WeaponTags:
-  - Lethal
-  - Thrown (Long)
-  - Cutting
-  - Special
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Cutting|Cutting]]"
+  - "[[Item Tags#Special|Special]]"
 Dots: 5
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)

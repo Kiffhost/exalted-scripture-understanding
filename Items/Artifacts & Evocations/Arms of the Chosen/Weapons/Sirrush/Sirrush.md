@@ -6,12 +6,12 @@ tags:
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
-  - Lethal
-  - Archery (Short)
-  - Flame
-  - Slow
-  - One-Handed
-  - Mounted
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Flame|Flame]]"
+  - "[[Item Tags#Slow|Slow]]"
+  - "[[Item Tags#One-Handed|One-Handed]]"
+  - "[[Item Tags#Mounted|Mounted]]"
 Hearthstone slots: None
 Era: Dreams of the First Age
 Accuracy:

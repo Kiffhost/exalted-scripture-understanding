@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
-  - Lethal
-  - Archery (Long)
-  - Mounted
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Mounted|Mounted]]"
 Hearthstone slots: 1
 Era: War of the Gods
 Accuracy: Close −1; Short +5; Medium +3; Long +1; Extreme −1

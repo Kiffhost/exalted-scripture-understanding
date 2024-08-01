@@ -7,8 +7,8 @@ tags:
 WeaponType:
   - Powerbow
 WeaponTags:
-  - Lethal
-  - Archery (Long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
 Material: Green Jade
 Dots: 3
 Attunement: 5m

@@ -4,15 +4,14 @@ tags:
   - source/solar-book
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
-  - Lethal
-  - Archery (Medium)
-  - Crossbow
-  - Mounted
-  - One-Handed
-  - Piercing
-  - Slow
-  - POSSIBLY
-  - Concealable
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Archery|Archery]]" (Medium)
+  - "[[Item Tags#Crossbow|Crossbow]]"
+  - "[[Item Tags#Mounted|Mounted]]"
+  - "[[Item Tags#One-Handed|One-Handed]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Slow|Slow]]"
+  - "[[Item Tags#Concealable|Concealable]]"
 Cost: " 2 (3 for concealable hand crossbows)"
 Accuracy:
   - Close -2

@@ -6,11 +6,11 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Lethal
-  - Martial Arts
-  - Concealable
-  - Grappling
-  - Worn
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Concealable|Concealable]]"
+  - "[[Item Tags#Grappling|Grappling]]"
+  - "[[Item Tags#Worn|Worn]]"
 Hearthstone slots: None
 Era: The Dichotomous Heavens Crisis
 ---

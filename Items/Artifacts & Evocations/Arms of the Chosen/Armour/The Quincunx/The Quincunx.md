@@ -6,7 +6,6 @@ tags:
 Attunement: 4m
 Type: Light (+5 Soak, Hardness 4, Mobility Penalty −0)
 WeaponTags:
-  - None
 Hearthstone slots: 1
 Era: Dreams of the First Age
 ---

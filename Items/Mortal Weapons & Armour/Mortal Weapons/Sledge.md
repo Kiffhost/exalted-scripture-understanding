@@ -4,11 +4,11 @@ tags:
   - source/solar-book
 Type: Heavy (+1 ACC, +11 DMG, -1 DEF, OVW 1)
 WeaponTags:
-  - Bashing
-  - Melee
-  - Reaching
-  - Smashing
-  - Two-Handed
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Cost: " 2"
 aliases:
   - Tetsubo

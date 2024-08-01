@@ -6,7 +6,6 @@ tags:
 Attunement: 6m
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −0)
 WeaponTags:
-  - None
 Hearthstone slots: 2
 Era: Five-Dragon Crusade
 ---

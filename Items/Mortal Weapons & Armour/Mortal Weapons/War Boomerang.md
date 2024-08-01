@@ -4,11 +4,11 @@ tags:
   - source/solar-book
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
-  - Lethal
-  - Thrown (Medium)
-  - Cutting
-  - Mounted
-  - Special
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Cutting|Cutting]]"
+  - "[[Item Tags#Mounted|Mounted]]"
+  - "[[Item Tags#Special|Special]]"
 Cost: " 1"
 Accuracy:
   - Close +4

@@ -4,10 +4,10 @@ tags:
   - source/solar-book
 Type: Medium (+2 ACC, +9 DMG, +1 DEF, OVW 1)
 WeaponTags:
-  - Lethal
-  - Melee
-  - Thrown (Short)
-  - Chopping
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Chopping|Chopping]]"
 Cost: " 1"
 aliases:
   - Hatchet

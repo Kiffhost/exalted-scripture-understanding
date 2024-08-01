@@ -4,7 +4,7 @@ tags:
   - Artifact
   - source/solar-book
 ArmourTags:
-  - Silent
+  - "[[Item Tags#Silent|Silent]]"
 Type: Medium (Soak +8, Hardness 7, Mobility Penalty −1)
 Attunement: 5m
 Dots: 3

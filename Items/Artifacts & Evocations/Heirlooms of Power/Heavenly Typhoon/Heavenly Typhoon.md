@@ -7,10 +7,10 @@ WeaponType:
   - Infinite Chakram
 Material: Blue Jade
 WeaponTags:
-  - Lethal
-  - Thrown (Medium)
-  - Cutting
-  - Special
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Cutting|Cutting]]"
+  - "[[Item Tags#Special|Special]]"
 Dots: 3
 Attunement: 5m
 Type: Light (+10 DMG, 3 OVW)

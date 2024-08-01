@@ -7,11 +7,11 @@ WeaponType:
   - Grand Grimcleaver
 Material: Blue Jade
 WeaponTags:
-  - Lethal
-  - Melee
-  - Chopping
-  - Reaching
-  - Two-Handed
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Melee|Melee]]"
+  - "[[Item Tags#Chopping|Chopping]]"
+  - "[[Item Tags#Reaching|Reaching]]"
+  - "[[Item Tags#Two-Handed|Two-Handed]]"
 Dots: 4
 Attunement: 5m
 Type: Heavy (+1 ACC, +14 DMG, +0 DEF, OVW 5)

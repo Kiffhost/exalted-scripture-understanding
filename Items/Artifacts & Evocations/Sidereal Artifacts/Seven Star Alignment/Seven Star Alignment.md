@@ -6,10 +6,10 @@ tags:
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
-  - Bashing
-  - Martial Arts
-  - Disarming
-  - Flexible
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Flexible|Flexible]]"
 Hearthstone slots: 2
 Era: The Fomalhaut Discordance
 ---

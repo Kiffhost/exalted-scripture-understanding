@@ -6,7 +6,7 @@ tags:
 Attunement: 5m
 Type: Medium (+8 Soak, Hardness 7, Mobility Penalty −1)
 WeaponTags:
-  - Silent
+  - "[[Item Tags#Silent|Silent]]"
 Hearthstone slots: 1
 Era: Fallen Tower Dynasty
 ---

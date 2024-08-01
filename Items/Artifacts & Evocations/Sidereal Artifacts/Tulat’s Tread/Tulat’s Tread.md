@@ -6,10 +6,10 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Bashing
-  - Brawl
-  - Smashing
-  - Worn
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Smashing|Smashing]]"
+  - "[[Item Tags#Worn|Worn]]"
 Hearthstone slots: 2
 Era: The Burnt Temple Riots
 Material: Starmetal

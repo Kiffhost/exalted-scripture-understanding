@@ -6,7 +6,6 @@ tags:
 ArmourType: Lamellar Armor
 Material: Orichalcum
 ArmourTags:
-  - None
 Dots: 5
 Attunement: 5m
 Type: Medium (Soak +8, Hardness 7, Mobility Penalty −1)

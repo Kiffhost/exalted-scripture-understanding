@@ -4,12 +4,12 @@ tags:
   - source/solar-book
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
-  - Lethal
-  - Crossbow
-  - Piercing
-  - Powerful
-  - Slow
-  - Archery (Long)
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Crossbow|Crossbow]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Powerful|Powerful]]"
+  - "[[Item Tags#Slow|Slow]]"
+  - "[[Item Tags#Archery|Archery]]" (Long)
 Cost: " 3"
 Accuracy:
   - Close -2

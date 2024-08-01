@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Medium (+3 ACC, +12 DMG, +1 DEF, OVW 4)
 WeaponTags:
-  - Lethal
-  - Martial Arts
-  - Disarming
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
 Hearthstone slots: 2
 Era: Reign of the Scarlet Empress
 ---

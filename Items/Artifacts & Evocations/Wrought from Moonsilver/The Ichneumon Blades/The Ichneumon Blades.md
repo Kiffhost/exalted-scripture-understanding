@@ -7,10 +7,10 @@ WeaponType:
   - Slayer Khatars
 Material: Moonsilver
 WeaponTags:
-  - Lethal
-  - Brawl
-  - Piercing
-  - Worn
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Brawl|Brawl]]"
+  - "[[Item Tags#Piercing|Piercing]]"
+  - "[[Item Tags#Worn|Worn]]"
 Dots: 4
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)

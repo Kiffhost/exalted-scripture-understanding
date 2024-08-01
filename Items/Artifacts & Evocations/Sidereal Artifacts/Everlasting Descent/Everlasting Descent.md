@@ -6,10 +6,10 @@ tags:
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
-  - Bashing
-  - Martial Arts
-  - Disarming
-  - Flexible
+  - "[[Item Tags#Bashing|Bashing]]"
+  - "[[Item Tags#Martial Arts|Martial Arts]]"
+  - "[[Item Tags#Disarming|Disarming]]"
+  - "[[Item Tags#Flexible|Flexible]]"
 Hearthstone slots: 2
 Era: Ochre Fountain Era
 ---

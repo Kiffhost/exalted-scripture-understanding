@@ -4,7 +4,6 @@ tags:
   - source/solar-book
 Type: Light (Soak +3, Hardness 0, Mobility Penalty 0)
 ArmourTags:
-  - None
 Cost: " 1"
 ---
 One of the most common types of armor in the world of Exalted, the buff jacket is a knee-length leather garment typically made from the hide of a mammoth or yeddim.

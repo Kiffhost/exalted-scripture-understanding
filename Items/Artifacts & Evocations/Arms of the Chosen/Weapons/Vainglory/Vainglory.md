@@ -6,9 +6,9 @@ tags:
 Attunement: 5m
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
-  - Lethal
-  - Thrown (Medium)
-  - Cutting
+  - "[[Item Tags#Lethal|Lethal]]"
+  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Cutting|Cutting]]"
 Hearthstone slots: 0
 Era: Gossamer Dawn Era
 Accuracy: Close +5; Short +4; Medium +3; Long +0; Extreme -2

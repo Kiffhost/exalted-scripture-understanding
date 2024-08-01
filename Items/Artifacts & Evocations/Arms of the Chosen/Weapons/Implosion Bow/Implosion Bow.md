@@ -6,8 +6,8 @@ tags:
 Dots: §5
 Attunement: 5m
 WeaponTags:
-  - Aggravated
-  - Siege (long)
+  - "[[Item Tags#Aggravated|Aggravated]]"
+  - "[[Item Tags#Siege|Siege]]" (long)
 Hearthstone slots: 1
 Special: Attacking requires the Evocation Collapsing Point of Destruction, though feats of demolition don’t.
 ---
