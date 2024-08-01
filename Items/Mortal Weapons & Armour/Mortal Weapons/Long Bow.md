@@ -5,7 +5,7 @@ tags:
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
 Cost: " 2"
 Accuracy:
   - Close -2

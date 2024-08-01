@@ -8,7 +8,7 @@ Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
   - "[[Item Tags#Brawl|Brawl]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Concealable|Concealable]]"
   - "[[Item Tags#Flexible|Flexible]]"
   - "[[Item Tags#Worn|Worn]]"

@@ -6,7 +6,7 @@ WeaponTags:
   - "[[Item Tags#Flexible|Flexible]]"
   - "[[Item Tags#Martial Arts|Martial Arts]]"
   - "[[Item Tags#Special|Special]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Two-Handed|Two-Handed]]"
   - "[[Item Tags#Lethal|Lethal]]"
 Cost: 

@@ -10,7 +10,7 @@ WeaponTags:
   - "[[Item Tags#Piercing|Piercing]]"
   - "[[Item Tags#Powerful|Powerful]]"
   - "[[Item Tags#Slow|Slow]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
 Attunement: 5m
 Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1

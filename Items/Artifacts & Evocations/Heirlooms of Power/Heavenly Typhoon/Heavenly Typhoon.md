@@ -8,7 +8,7 @@ WeaponType:
 Material: Blue Jade
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Cutting|Cutting]]"
   - "[[Item Tags#Special|Special]]"
 Dots: 3

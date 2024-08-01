@@ -6,7 +6,7 @@ tags:
 Type: Heavy (+14 DMG, OVW 5)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Archery|Archery (Short)]]"
   - "[[Item Tags#Flame|Flame]]"
   - "[[Item Tags#Slow|Slow]]"
 Attunement: 5m

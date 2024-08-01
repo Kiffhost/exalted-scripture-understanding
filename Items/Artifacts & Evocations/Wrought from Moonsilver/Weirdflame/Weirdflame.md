@@ -8,7 +8,7 @@ WeaponType:
 Material: Moonsilver
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Archery|Archery (Short)]]"
   - "[[Item Tags#Flame|Flame]]"
   - "[[Item Tags#One-Handed|One-Handed]]"
   - "[[Item Tags#Mounted|Mounted]]"

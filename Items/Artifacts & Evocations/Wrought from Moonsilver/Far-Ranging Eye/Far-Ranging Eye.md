@@ -8,7 +8,7 @@ WeaponType:
 Material: Moonsilver
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Cutting|Cutting]]"
 Dots: 3
 Attunement: 5m

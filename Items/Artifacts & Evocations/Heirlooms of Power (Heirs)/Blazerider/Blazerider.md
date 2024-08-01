@@ -13,7 +13,7 @@ WeaponType:
   - Skycutter
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Thrown|Thrown (Long)]]"
   - "[[Item Tags#Cutting|Cutting]]"
   - "[[Item Tags#Special|Special]]"
 Type: Medium (+12 DMG, OVW 4)

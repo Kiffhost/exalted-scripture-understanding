@@ -8,7 +8,7 @@ WeaponType:
 Material: Moonsilver
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
 Dots: 3
 Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)

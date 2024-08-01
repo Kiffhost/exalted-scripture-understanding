@@ -7,7 +7,7 @@ Attunement: 5m
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Cutting|Cutting]]"
 Hearthstone slots: 0
 Era: Five Devils War

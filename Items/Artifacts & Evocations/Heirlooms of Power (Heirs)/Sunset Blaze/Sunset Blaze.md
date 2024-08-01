@@ -10,7 +10,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Piercing|Piercing]]"
   - "[[Item Tags#Reaching|Reaching]]"
-  - "[[Item Tags#Two-handed|Two-handed]]" (when on foot)
+  - "[[Item Tags#Two-handed|Two-handed (when on foot)]]"
 Hearthstone slots: 2
 Era: Reign of the Scarlet Empress
 Dots: "3"

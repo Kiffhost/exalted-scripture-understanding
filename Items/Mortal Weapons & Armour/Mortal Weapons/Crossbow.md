@@ -9,7 +9,7 @@ WeaponTags:
   - "[[Item Tags#Piercing|Piercing]]"
   - "[[Item Tags#Powerful|Powerful]]"
   - "[[Item Tags#Slow|Slow]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
 Cost: " 3"
 Accuracy:
   - Close -2

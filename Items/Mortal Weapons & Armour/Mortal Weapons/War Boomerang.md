@@ -5,7 +5,7 @@ tags:
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Cutting|Cutting]]"
   - "[[Item Tags#Mounted|Mounted]]"
   - "[[Item Tags#Special|Special]]"

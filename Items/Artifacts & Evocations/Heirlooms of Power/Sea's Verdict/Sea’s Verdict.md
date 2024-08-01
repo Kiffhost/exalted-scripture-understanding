@@ -9,7 +9,7 @@ Material: Black Jade
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
   - "[[Item Tags#Melee|Melee]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Disarming|Disarming]]"
   - "[[Item Tags#Piercing|Piercing]]"
 Dots: 3

@@ -8,7 +8,7 @@ WeaponType:
 Material: Soulsteel
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Thrown|Thrown (Long)]]"
   - "[[Item Tags#Cutting|Cutting]]"
   - "[[Item Tags#Special|Special]]"
 Dots: 5

@@ -6,7 +6,7 @@ tags:
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Thrown|Thrown (Long)]]"
   - "[[Item Tags#Concealable|Concealable]]"
   - "[[Item Tags#Special|Special]]"
 Attunement: 5m

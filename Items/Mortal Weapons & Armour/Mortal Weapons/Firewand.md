@@ -5,7 +5,7 @@ tags:
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Short)
+  - "[[Item Tags#Archery|Archery (Short)]]"
   - "[[Item Tags#Flame|Flame]]"
   - "[[Item Tags#Slow|Slow]]"
 Cost: " 3"

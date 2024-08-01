@@ -6,7 +6,7 @@ Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 1)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
   - "[[Item Tags#Melee|Melee]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
 Cost: " —"
 ---
 A knife is a weapon with a chopping and stabbing blade about a foot long, which can have a single or double edge.

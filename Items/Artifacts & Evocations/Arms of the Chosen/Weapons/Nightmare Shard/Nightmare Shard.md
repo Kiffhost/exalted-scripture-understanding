@@ -7,7 +7,7 @@ Attunement: 5m
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Long)
+  - "[[Item Tags#Thrown|Thrown (Long)]]"
   - "[[Item Tags#Cutting|Cutting]]"
 Hearthstone slots: 1
 Era: Autumn’s End Incursion

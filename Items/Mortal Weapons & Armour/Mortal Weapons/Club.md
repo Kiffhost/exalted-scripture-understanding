@@ -7,7 +7,7 @@ WeaponTags:
   - "[[Item Tags#Bashing|Bashing]]"
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Smashing|Smashing]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Improvised|Improvised]]"
 Cost: —
 aliases:

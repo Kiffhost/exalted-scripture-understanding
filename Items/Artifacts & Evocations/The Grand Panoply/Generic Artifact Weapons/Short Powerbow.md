@@ -6,7 +6,7 @@ tags:
 Type: Light (+10 DMG, OVW 3)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
   - "[[Item Tags#Mounted|Mounted]]"
 Attunement: 5m
 Accuracy:

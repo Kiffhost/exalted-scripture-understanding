@@ -5,7 +5,7 @@ tags:
 Type: Medium (+9 DMG, OVW 1)
 WeaponTags:
   - "[[Item Tags#Bashing|Bashing]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Special|Special]]"
 Cost: " 1"
 Accuracy:

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Mortal Weapons & Armour/Item Tags.md",
+                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4523b876c084e9d6",
+            "id": "405947297fbc3333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Merits/Allies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"weapontags\": disar",
+                "query": "file:s unfailing ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Charms/Dragon-Blooded/Resistance/Dragon’s Unfailing Vigor.md"
               }
             }
           },
@@ -195,13 +195,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,34 +210,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4523b876c084e9d6",
+  "active": "3a5d214276320e48",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Items/Mortal Weapons & Armour/Item Tags.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Solar Seal.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Freedom's Cadence/Freedom’s Cadence.md",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/The Dragon-Dancer’s Wings/The Dragon-Dancer’s Wings.md",
-    "Templates/daiklave.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Lorestone.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Midnight Thorn/Midnight Thorn.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Baldaquin/Baldaquin.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Carnelian Phoenix/Fire-Spurning Jade Caparison.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Carnelian Phoenix/Bonfire Hoof Assault.md",
-    "Items/Everyday Wonders & Natural Magics/Talismans.md",
-    "Items/Everyday Wonders & Natural Magics/Ghost Flower Tea.md",
-    "Martial Arts Styles/Wood Dragon Style.md",
-    "Items/Mortal Weapons & Armour/Untitled.md",
-    "Items/Artifacts & Evocations/The Grand Panoply/Named Artifacts/Black Wind/Black Wind.md",
-    "Items/Hearthstones/Abyssal/Stone of Hatred.md",
-    "Items/Hearthstones/Abyssal/Blood-Drinking Jewel.md",
-    "Items/Hearthstones/Abyssal/Walking Corpse Stone.md",
-    "Items/Hearthstones/Abyssal/Stone of the Nightly Reunion.md",
-    "Items/Hearthstones/Abyssal/Gem of Ghostly Protection.md",
-    "Items/Everyday Wonders & Natural Magics/Age-Staving Cordial.md",
-    "Items/Artifacts & Evocations/Moonlit Treasure Panoply/Shadow Moth Raiment/Shadow Moth Raiment.md",
-    "Items/Artifacts & Evocations/Moonlit Treasure Panoply/Cloak of Forgotten Midnights/Cloak of Forgotten Midnights.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Sozen, the Cataphract of Keys/Sozen, the Cataphract of Keys.md",
-    "Items/Artifacts & Evocations/Arms of the Chosen/Armour/Five Edicts Dominion/Five Edicts Dominion.md",
+    "Charms/Dragon-Blooded/Melee/Mela’s Flashing Tongue.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Sudden Squall Interception.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Freezing Glacier Strike.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Whirling Shield Tempest.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Empyrean Aegis.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Guardian Gale Technique.md",
+    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Empyrean Aegis/Brumal Rime Barrier.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Direlash.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Goremaul.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Grand Goremaul.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Dragon Sigh Wand.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Hearthstone Amulet (Tiara, Bracer, etc.).md",
+    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Edge-of-Chaos Hymn.md",
+    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Cold Iron Cadence.md",
+    "Items/Artifacts & Evocations/Wrought from Moonsilver/Night's Sweet Whisper/Nightmare-Soothing Melody.md",
+    "Constellations.md",
+    "Moonsilver Tattoos.md",
+    "Charms/Lunar/Appearance/Heart's Blood/Heart-Drinking Allure.md",
+    "Charms/Dragon-Blooded/Archery/Blazing Phoenix Pinion.md",
+    "Charms/Dragon-Blooded/Archery/Arrow Thorn Technique.md",
+    "Character Creation/Sidereal Exalted.md",
+    "Character Creation/Lunar Exalted.md",
+    "Character Creation/Dragon-Blooded Exalted.md",
+    "Progress Tracker.md",
+    "Templates/weapon.md",
+    "Items/Artifacts & Evocations/The Grand Panoply/Misc/Belt of Shadow Walking.md",
+    "Merits/NPC Merits",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
     "Sorceries/Archetypes/The Path of Celestial Design",
@@ -257,7 +256,6 @@
     "Diseases/Common",
     "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)",
     "Items/Artifacts & Evocations/Heirlooms of Power/Untitled",
-    "Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Sunset Blaze",
     "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas",
     "Charms/Solar/Larceny/Solar Larceny Charm Tree.canvas"
   ]

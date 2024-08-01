@@ -9,7 +9,7 @@ WeaponTags:
   - "[[Item Tags#Bashing|Bashing]]"
   - "[[Item Tags#Brawl|Brawl]]"
   - "[[Item Tags#Smashing|Smashing]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Two-Handed|Two-Handed]]"
 Hearthstone slots: 2
 Era: Labors of the Tekhelet Circle

@@ -3,8 +3,8 @@ tags:
   - object
 Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 1)
 WeaponTags:
-  - "[[Item Tags#Bashing|Bashing]]" (rope garrotes)
-  - "[[Item Tags#Lethal|Lethal]]" (razor wire)
+  - "[[Item Tags#Bashing|Bashing (rope garrotes)]]"
+  - "[[Item Tags#Lethal|Lethal (razor wire)]]"
   - "[[Item Tags#Brawl|Brawl]]"
   - "[[Item Tags#Concealable|Concealable]]"
   - "[[Item Tags#Flexible|Flexible]]"

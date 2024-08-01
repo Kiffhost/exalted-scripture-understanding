@@ -8,7 +8,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Piercing|Piercing]]"
   - "[[Item Tags#Reaching|Reaching]]"
-  - "[[Item Tags#Two-handed|Two-handed]]" (when on foot)
+  - "[[Item Tags#Two-handed|Two-handed (when on foot)]]"
 Attunement: 5m
 Dots: 
 WeaponType:

@@ -11,7 +11,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Reaching|Reaching]]"
   - "[[Item Tags#Subtle|Subtle]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Medium)
+  - "[[Item Tags#Thrown|Thrown (Medium)]]"
   - "[[Item Tags#Poisonable|Poisonable]]"
 Dots: 2
 Type: Medium (+2 ACC, +9 DMG, +1 DEF, OVW 1)

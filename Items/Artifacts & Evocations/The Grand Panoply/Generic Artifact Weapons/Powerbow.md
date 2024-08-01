@@ -6,7 +6,7 @@ tags:
 Type: Medium (+12 DMG, OVW 4)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
-  - "[[Item Tags#Archery|Archery]]" (Long)
+  - "[[Item Tags#Archery|Archery (Long)]]"
 Attunement: 5m
 Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1

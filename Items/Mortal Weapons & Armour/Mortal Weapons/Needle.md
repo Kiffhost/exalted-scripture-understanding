@@ -5,7 +5,7 @@ tags:
 Type: Light (+7 DMG, OVW 1)
 WeaponTags:
   - "[[Item Tags#Subtle|Subtle]]"
-  - "[[Item Tags#Thrown|Thrown]]" (Short)
+  - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Concealable|Concealable]]"
   - "[[Item Tags#Poisonable|Poisonable]]"
 Cost: " 1"
