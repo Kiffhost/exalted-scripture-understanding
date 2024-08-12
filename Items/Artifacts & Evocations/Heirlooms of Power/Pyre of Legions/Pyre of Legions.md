@@ -21,4 +21,4 @@ Cathak Falu was never well-loved by her comrades or her commanders in the house 
 
 ## [[Evocations]] of the [[Pyre of Legions]]
 
-Falu’s last desperate thoughts were burned into [[Pyre of Legions]] when she fell in battle, carved into searing hot jade, and any who wield the blade feel them coursing through their own heart as surely as though they were her own. Its wielder gains a Defining Principle of “I will give anything to protect my comrades” that cannot be weakened or altered so long as she’s attuned to the daiklave.
+Falu’s last desperate thoughts were burned into [[Pyre of Legions]] when she fell in battle, carved into searing hot jade, and any who wield the blade feel them coursing through their own heart as surely as though they were her own. Its wielder gains a Defining [[Intimacy|Principle]] of “I will give anything to protect my comrades” that cannot be weakened or altered so long as she’s attuned to the daiklave.

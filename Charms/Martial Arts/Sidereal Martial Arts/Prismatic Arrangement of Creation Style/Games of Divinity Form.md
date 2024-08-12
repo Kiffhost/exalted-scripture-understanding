@@ -20,6 +20,6 @@ The stylist gains the following benefits:
 - Enemies can’t attack her or take harmful actions against her unless they spend one [[Willpower]] to resist for the scene. Characters whose [[Resolve]] is lower than her [[Appearance]] or who have positive Ties toward her must pay two [[Willpower]] instead. 
 - Any character — friend or foe — who witnesses the martial artist in this Form must succeed on a ([[Wits]] + [[Integrity]]) roll at a difficulty of the stylist’s [[Appearance]] (including bonus dots) or become addicted to viewing this Form, with −3 withdrawal penalty (Exalted, p. 167). Other depictions of the Games of Divinity, like dreamstones, can substitute for the Form.
 ## Enlightenment
-Characters addicted to this Form count as having a Major Tie of Obsession toward the stylist. 
+Characters addicted to this Form count as having a Major [[Intimacy|Tie]] of Obsession toward the stylist. 
 ## Special activation rules
 The stylist can reflexively enter this Form when she succeeds on an [[Appearance]]-based influence roll or a dance-based [[Performance]] roll in with 5+ successes.

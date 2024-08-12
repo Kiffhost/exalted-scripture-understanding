@@ -15,7 +15,7 @@ None can defy Ajelin’s curse forever, but a Lunar’s affinity for moonsilver 
 The Lunar gains the following benefits:
  - She doesn’t need to roll to end her attunement to Ajelin.
  - She can withdraw or ready Ajelin reflexively.
- - [[Accursed Blade Embodiment]] doesn’t prevent her from voluntarily weakening Intimacies.
+ - [[Accursed Blade Embodiment]] doesn’t prevent her from voluntarily weakening [[Intimacy|Intimacies]].
  - Once per session, when she suffers a disadvantage because of a choice not to use violence, she rolls (higher of [[Essence]] or 3) dice and loses [[Limit]] equal to her successes.
 ## Awakening
 This Evocation awakens for free if the Lunar meets its prerequisites.

@@ -12,7 +12,7 @@ Expressed as a number of rolls or *intervals*. If this many rolls have been made
 ## Interval
 How much time elapses in-story between each roll.
 # Opposed
-When two characters attempt actions that can only result in one of them winning, each player makes a [[Dice Rolls|dice roll]] with no difficulty. The player with the most [[Dice Rolls#Successes|successes]] wins. In the case of a tie, the Storyteller awards victory to the player with the best stunt.
+When two characters attempt actions that can only result in one of them winning, each player makes a [[Dice Rolls|dice roll]] with no difficulty. The player with the most [[Dice Rolls#Successes|successes]] wins. In the case of a [[Intimacy|tie]], the Storyteller awards victory to the player with the best stunt.
 # Reflexive
 These actions happen without requiring concentration, and at any time that is appropriate. They do not consume the one available [[Combat Action]] per turn.
 # Combat

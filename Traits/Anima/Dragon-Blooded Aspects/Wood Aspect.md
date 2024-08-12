@@ -43,7 +43,7 @@ Master healer, cunning courtier, traveling performer, assassin, Immaculate inqui
 
 # Experience Trigger
 
-Learning something from firsthand experience that helps advance or protect a Major or Defining Tie; navigating geographical obstacles or curing dangerous ailments preventing the character or an ally from achieving a significant goal; upholding a Major or Defining [[Intimacy]] by pursuing a new experience; helping an ally cultivate a strength or remedy a weakness in a way that grants a significant advantage.
+Learning something from firsthand experience that helps advance or protect a Major or Defining [[Intimacy|Tie]]; navigating geographical obstacles or curing dangerous ailments preventing the character or an ally from achieving a significant goal; upholding a Major or Defining [[Intimacy]] by pursuing a new experience; helping an ally cultivate a strength or remedy a weakness in a way that grants a significant advantage.
 
 # Great Curse Manifestation
 

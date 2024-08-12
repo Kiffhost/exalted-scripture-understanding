@@ -21,4 +21,4 @@ The wielder gains the following benefits:
 They can take actions that can’t be flurried, like using Simple [[Charms]], but still suffer the penalties for flurrying.
  - Landing an attack against a cursed enemy with [[Night Hag’s Braid]] or a spell grants one curse point, maximum one per tick.
  - When the wielder takes a [[Shape Sorcery]] action, she gains an additional sorcerous mote for each cursed enemy within short range.
- - Cursed enemies count as having a Major Tie of fear to the wielder. If they already have such a Tie, its intensity increases to Defining.
+ - Cursed enemies count as having a Major [[Intimacy|Tie]] of fear to the wielder. If they already have such a [[Intimacy|Tie]], its intensity increases to Defining.

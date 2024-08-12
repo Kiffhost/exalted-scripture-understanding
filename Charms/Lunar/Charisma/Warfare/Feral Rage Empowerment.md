@@ -17,7 +17,7 @@ The Lunar interacts with someone in a way that involves anger: provoking him int
 She imbues that character’s anger with formidable power.
 That character gains the following benefits while acting in accordance with a Major or Defining [[Intimacy]] based on anger or hatred, or while inspired with such emotions by social influence:  - A bonus dot of [[Strength]], which can raise his [[Strength]] above 5.
  - He ignores one point of wound penalty.
- - +2 [[Resolve]] against influence to weaken ragebased Intimacies or to convince him to withdraw from combat.
+ - +2 [[Resolve]] against influence to weaken ragebased [[Intimacy|Intimacies]] or to convince him to withdraw from combat.
  - If the Lunar uses [[Rampage-Unleashing Provocation]] on him, he adds one bonus die on all physical actions and threaten rolls.
 Descended from Luna’s Chosen, the Moon-Touched (Lunars, p. 18) are heirs to their rage. No extended interaction is required to use this Charm on MoonTouched, and it costs only one mote, one [[Willpower]] to use on un-Exalted Moon-Touched.
 Backer: Nicholas Scott

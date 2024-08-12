@@ -41,4 +41,4 @@ Cat burglar, escaped fugitive, bounty hunter, nobleman’s mistress, confidence 
 
 # Experience Trigger
 
-Removing a major impediment to the character’s or Circle’s goals through assassination, blackmail, or other underhanded means; stealing something that directly furthers the character’s or Circle’s goals; gaining a significant advantage over a dangerous enemy through infiltration or stealth; upholding or protecting a Major or Defining Principle through “criminal” means (larcenous association, robbery, poisoning, and so forth).
+Removing a major impediment to the character’s or Circle’s goals through assassination, blackmail, or other underhanded means; stealing something that directly furthers the character’s or Circle’s goals; gaining a significant advantage over a dangerous enemy through infiltration or stealth; upholding or protecting a Major or Defining [[Intimacy|Principle]] through “criminal” means (larcenous association, robbery, poisoning, and so forth).

@@ -28,10 +28,10 @@ A character’s Limit trigger is an especially stressful, frustrating, or trauma
 
 Sidereal Limit Triggers are usually situations that cause them to feel excessive pride or self-confidence, drive them to double down on troubled plans, or succumb to skewed priorities or a self-centered perspective. Examples include: 
 - The Sidereal succeeds despite overwhelming odds or having been discouraged by others. 
-- Someone the Sidereal has a Tie toward suffers a significant failure or setback because they ignored her advice. 
+- Someone the Sidereal has a [[Intimacy|Tie]] toward suffers a significant failure or setback because they ignored her advice. 
 - The Sidereal is hindered by the failures or mistakes of allies, subordinates, or superiors. 
-- The Sidereal is praised by someone for whom she has a positive Tie. 
+- The Sidereal is praised by someone for whom she has a positive [[Intimacy|Tie]]. 
 - The Sidereal suffers a significant failure or setback. 
 - An unforeseen enemy or complication poses an obstacle to the Sidereal’s plans. 
 - Serious difference of opinion or competing goals strain the Sidereal’s relationship with an ally, subordinate, or superior. 
-- Someone the Sidereal has a positive Tie toward faces significant danger or distress.
+- Someone the Sidereal has a positive [[Intimacy|Tie]] toward faces significant danger or distress.

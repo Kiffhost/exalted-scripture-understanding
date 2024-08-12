@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Fire and Stones Strike]]"
 ---
-Through combat the Solar sees all things truly. When she witnesses an opponent successfully apply their Parry or Evasion with the aid of [[Charms]] or magic, the Exalt is able to understand the principle behind their defense and may strike through it. This Charm adds an automatic non-Charm success to an attack after the opponent has applied their [[Defense]], if and only if they are using a defensive magic the Solar has seen them use previously in the battle. The insight the Solar gains is fleeting and momentary; this advantage fades after the Solar has used this Charm, and she must witness or experience her opponent’s defense again in one round in order to use this Charm in the round that follows.
+Through combat the Solar sees all things truly. When she witnesses an opponent successfully apply their Parry or Evasion with the aid of [[Charms]] or magic, the Exalt is able to understand the [[Intimacy|principle]] behind their defense and may strike through it. This Charm adds an automatic non-Charm success to an attack after the opponent has applied their [[Defense]], if and only if they are using a defensive magic the Solar has seen them use previously in the battle. The insight the Solar gains is fleeting and momentary; this advantage fades after the Solar has used this Charm, and she must witness or experience her opponent’s defense again in one round in order to use this Charm in the round that follows.
 
 ### On [[Stark Truth of Steel Method]]
 

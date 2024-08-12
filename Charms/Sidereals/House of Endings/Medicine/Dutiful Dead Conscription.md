@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Rising Butterfly Prayer]]"
 ---
 The Sidereal deputizes the dead into fate’s service, offering them a chance to pass on into the next life in exchange for their assistance. She requests that a ghost undertake a serious or life-changing task (Exalted, p. 216) in service to herself, destiny, or the [[Celestial Bureaucracy]]. If the ghost accepts, the Sidereal’s [[Essence]] crystallizes into an amethyst butterfly broach, a badge of the authority with which she invests him. He gains the following benefits: 
--  He gains a Defining Principle toward completing that task, which can’t be weakened or altered by any means. 
+-  He gains a Defining [[Intimacy|Principle]] toward completing that task, which can’t be weakened or altered by any means. 
 -  Once per scene, he may gain −1 target number on a roll that’s part of that task. 
 -  He can use the Sidereal’s auspicious prospects anima power (p. XX). 
 -  He gains the Materialize Charm (Exalted, p. 510) if he doesn’t already have it. 

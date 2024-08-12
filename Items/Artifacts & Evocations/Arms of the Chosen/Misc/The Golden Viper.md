@@ -20,7 +20,7 @@ Aside from its vivid construction, the Viper is as subtle as any mundane serpent
 Combat [[Movement]]: 8 dice
 Evasion 3 (see Tiny Creature below), Parry 1
 Soak/Hardness: 8/4 
-Intimacies: 
+[[Intimacy|Intimacies]]: 
 - Defining Principle: “The ends justify the means.” 
 - Defining Tie: Its owner (Dispassionate Loyalty) 
 - Major Principle: “Compassion is weakness, as is mercy.” 
@@ -31,5 +31,5 @@ Intimacies:
 **Forgotten Era Defense**: [[The Golden Viper]] treats inquiries regarding the First Age as unacceptable influence. 
 **Killer’s Nose**: Double 9s on scent-based [[Perception]] rolls, or double 8s on rolls to detect an assassination target whose scent it’s tasted. 
 **Languages**: [[The Golden Viper]] knows all major languages and countless tribal tongues. 
-**Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining Intimacies, nor can it raise new Intimacies to Major or Defining. 
+**Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new [[Intimacy|Intimacies]] to Major or Defining. 
 **Ten Million Memories**: When introducing a fact, the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.

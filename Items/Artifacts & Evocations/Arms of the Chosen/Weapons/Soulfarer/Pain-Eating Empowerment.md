@@ -16,7 +16,7 @@ Each time that [[Soulfarer]] claims a life, its victim’s soul is imprisoned fo
 
 ## Special activation rules
 
-This Evocation cannot be purchased with experience points. It awakens at no cost when the wielder kills a character that she has a positive Major or Defining Tie towards. Both accidental death and deliberate betrayal qualify. 
+This Evocation cannot be purchased with experience points. It awakens at no cost when the wielder kills a character that she has a positive Major or Defining [[Intimacy|Tie]] towards. Both accidental death and deliberate betrayal qualify. 
 
 ## Resonant
 

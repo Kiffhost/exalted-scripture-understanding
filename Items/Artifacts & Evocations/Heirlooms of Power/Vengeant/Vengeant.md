@@ -22,6 +22,6 @@ Part of it came from Petal Glider, the vain daiklave that defeated the Grass Dan
 ## [[Evocations]] of [[Vengeant]] 
 
 [[Vengeant]] remembers those who wronged its former wielders, and delights in the chance to humble their descendants. The wielder may focus Vengeant’s spite against a specific individual or group, marking him as despised, after one of the following events: 
-- The wielder reveals her true identity and her enmity to the object of a negative Tie. 
+- The wielder reveals her true identity and her enmity to the object of a negative [[Intimacy|Tie]]. 
 - A Dragon-Blooded Iselsi scion discovers how the target or his ancestors have wronged House Iselsi. 
 [[Vengeant]] gains +1 Overwhelming against despised opponents. This effect is indefinite, lasting until the wielder manages to destroy the target or rededicates [[Vengeant]] against a new despised individual or group.

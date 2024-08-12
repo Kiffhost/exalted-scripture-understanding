@@ -32,7 +32,7 @@ Full Moons hone their bodies unto physical perfection, choosing Caste Attributes
 
 # Experience Trigger
 
-Defeating a powerful enemy; removing a major impediment to her or her Circle’s goals through physical prowess; traversing hostile environments or enduring great physical abuse for a Major or Defining Intimacy’s sake; protecting or rescuing someone she has a Major or Defining Tie toward from danger.
+Defeating a powerful enemy; removing a major impediment to her or her Circle’s goals through physical prowess; traversing hostile environments or enduring great physical abuse for a Major or Defining [[Intimacy]]’s sake; protecting or rescuing someone she has a Major or Defining [[Intimacy|Tie]] toward from danger.
 
 # Associations
 

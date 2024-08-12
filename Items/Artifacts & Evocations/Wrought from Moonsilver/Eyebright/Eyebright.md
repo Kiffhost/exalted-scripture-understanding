@@ -21,4 +21,4 @@ A coat of glittering moonsilver scales reinforced with pauldrons and vambraces, 
 
 Eyebright’s wearer can see in all directions, adding one success on sight-based rolls opposing [[Stealth]]. She ignores penalties from visual impairment to her own eyes, such as blindness, but not from impairment that also affects the armor’s eyes, such as darkness or fog. 
 
-Eyebright’s [[Evocations]] rely on the wearer’s understanding of her opponents, measured by *Insight*. Her Insight into each opponent equals the highest value of any of that character’s Intimacies relevant to the fight of which she’s aware, e.g., Intimacies that sparked the confrontation or those that influence the opponent’s tactics and priorities during the fight.
+Eyebright’s [[Evocations]] rely on the wearer’s understanding of her opponents, measured by *Insight*. Her Insight into each opponent equals the highest value of any of that character’s [[Intimacy|Intimacies]] relevant to the fight of which she’s aware, e.g., [[Intimacy|Intimacies]] that sparked the confrontation or those that influence the opponent’s tactics and priorities during the fight.

@@ -13,4 +13,4 @@ The irises of a sorcerer with this as her control spell are alive with luminous 
 
 # Distortion
 (Goal Number: 12)
-If the trance is distorted in the scene this spell was used, the target experiences cryptic flashbacks of the suppressed scene. After (6 – [[Integrity]]) days, he can spend [[Willpower]] to resist, as above, in the absence of a threat to his Intimacies. 
+If the trance is distorted in the scene this spell was used, the target experiences cryptic flashbacks of the suppressed scene. After (6 – [[Integrity]]) days, he can spend [[Willpower]] to resist, as above, in the absence of a threat to his [[Intimacy|Intimacies]]. 

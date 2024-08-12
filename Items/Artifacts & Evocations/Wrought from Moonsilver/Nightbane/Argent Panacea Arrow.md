@@ -17,4 +17,4 @@ Nightbane’s arrows scour venom and pestilence from the blood. Its wielder perf
 
 ## Resonant
 
-If the wielder upholds a Major or Defining Principle by successfully using this Evocation, she gains one [[Willpower]].
+If the wielder upholds a Major or Defining [[Intimacy|Principle]] by successfully using this Evocation, she gains one [[Willpower]].

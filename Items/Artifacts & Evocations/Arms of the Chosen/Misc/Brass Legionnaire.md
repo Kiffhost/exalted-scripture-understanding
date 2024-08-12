@@ -27,7 +27,7 @@ The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, dist
 Combat [[Movement]]: 7 dice
 Evasion 3, Parry 5
 Soak/Hardness: 14/8
-Intimacies: 
+[[Intimacy|Intimacies]]: 
 - Defining Principle: “A [[Brass Legionnaire]] exists to serve its commander.” 
 - Minor Principle: “Creation is a strange place, full of constant change.” 
 - Minor Tie: Fellow Brass Legionnaires (Fidelity) 
@@ -38,7 +38,7 @@ Intimacies:
 **Command Codes**: A [[Brass Legionnaire]] automatically obeys orders from someone who knows its original unit’s command codes — elaborate, obscure Old Realm passphrases. Without codes, social influence and command actions suffer a −5 penalty. Any influence that directly contradicts orders issued via command codes is unacceptable to a [[Brass Legionnaire]]. 
 **Glamour Resistance**: Brass Legionnaires are immune to Fair Folk powers that target [[Resolve]] or have the Psyche keyword. 
 **Languages**: Typical Brass Legionnaires know Old Realm and two or three other languages. For newly reactivated legionnaires, these are often dead languages predating the Contagion. 
-**Mechanical Mind**: Social influence cannot affect a Brass Legionnaire’s Major and Defining Intimacies, nor can it raise new Intimacies to Major or Defining. 
+**Mechanical Mind**: Social influence cannot affect a Brass Legionnaire’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new Intimacies to Major or Defining. 
 **Wyld Resistance**: Brass Legionnaires resist Wyld taint as per [[Chaos-[[Resistance]] Preparation]] (Exalted, p. 295).
 
 ## Maintenance and [[Repair]]

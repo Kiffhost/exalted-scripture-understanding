@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Glance-Oration Technique]]"
 ---
-TheLunarneedn’tspeaktovoiceherdisapproval.When she perceives a character making an influence roll, she distracts him with alluring beauty or wordless menace. He suffers a −(Lunar’s [[Appearance]] − his [[Resolve]]) penalty, minimum −1, on the roll. If he botches, he forms a Minor Tie of desire or fear toward her, as appropriate.
+TheLunarneedn’tspeaktovoiceherdisapproval.When she perceives a character making an influence roll, she distracts him with alluring beauty or wordless menace. He suffers a −(Lunar’s [[Appearance]] − his [[Resolve]]) penalty, minimum −1, on the roll. If he botches, he forms a Minor [[Intimacy|Tie]] of desire or fear toward her, as appropriate.

@@ -15,4 +15,4 @@ However much righteous rage Talion’s wielder may expend, she inevitably finds 
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with orichalcum, this Evocation awakens at no cost when the wielder takes up a grievance that appeals to one of her Defining Intimacies — a Tie of compassion for the victim, a Tie of hatred for the offender, or a Principle whose moral code was violated by the offense would all qualify.
+As long as the wielder isn’t dissonant with orichalcum, this Evocation awakens at no cost when the wielder takes up a grievance that appeals to one of her Defining [[Intimacy|Intimacies]] — a [[Intimacy|Tie]] of compassion for the victim, a [[Intimacy|Tie]] of hatred for the offender, or a [[Intimacy|Principle]] whose moral code was violated by the offense would all qualify.

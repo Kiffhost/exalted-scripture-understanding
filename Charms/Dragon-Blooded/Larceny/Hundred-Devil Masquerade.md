@@ -16,7 +16,7 @@ The legends of fearsome monsters, noble outlaws, and ancient heroes take on a li
 Additionally, the Dragon-Blood’s masks draw power from their legend, slowly transforming into artifacts.
 This transformation is represented by the mask gaining Mystique, which occurs under the following circumstances.
  - Once per session, when the Dragon-Blood upholds the [[Intimacy]] conferred by the mask, it gains 1 Mystique.
- - Once per session, when a narratively significant character forms or upholds a Major or Defining Tie C hapt er S i x: C ha r ms toward the role embodied by the mask, it gains 1 Mystique.
+ - Once per session, when a narratively significant character forms or upholds a Major or Defining [[Intimacy|Tie]] C hapt er S i x: C ha r ms toward the role embodied by the mask, it gains 1 Mystique.
  - When the Dragon-Blood completes a major character or story goal that aligns with the [[Intimacy]] conferred by the mask, it gains 1 Mystique.
  - When the Dragon-Blood achieves a legendary social goal (Exalted, p. 134) that aligns with the [[Intimacy]] conferred by the mask, it gains 5 Mystique.
  - Once per story, when the Dragon-Blood defeats an enemy in a fashion that aligns with the [[Intimacy]] conferred by the mask — potentially in combat, but including other forms of defeat such as humiliating him in front of his admirers or driving his merchant enterprise bankrupt — it gains (his [[Essence]]) Mystique, maximum 5.

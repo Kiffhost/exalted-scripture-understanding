@@ -19,7 +19,7 @@ Alternatively, this Charm can supplement a ready weapon action to suffuse an acc
 #### Disarming
 The disarming tag applies to garments or accessories that can be used to leverage weapons out of their wielder’s grip—primarily sashes or sleeves that have had lead weights sewn into them for this specific purpose (which overrides the usual tag they would receive). These weapons usually also have the bashing and flexible tags. 
 #### [[Grappling]]
-The grappling tag applies to accessories and garments that could conceivably be used to entangle or tie up an enemy, such as the sash of a kimono, a long scarf, a ball gown train, a blanket or sheet, or a length of silken rope. These weapons usually also have the bashing and flexible tags. 
+The grappling tag applies to accessories and garments that could conceivably be used to entangle or [[Intimacy|tie]] up an enemy, such as the sash of a kimono, a long scarf, a ball gown train, a blanket or sheet, or a length of silken rope. These weapons usually also have the bashing and flexible tags. 
 #### Piercing
 The piercing tag applies to accessories that are small or sharp enough to conceivably slip through the defenses of armor, such as hairpins, cutlery, a broken teacup, knitting needles, or elegantly decorated false nails. These weapons usually also have the lethal tag. 
 #### [[Shield]]

@@ -15,7 +15,7 @@ With a shout dredged from the slag of extinct languages, the Exalt unleashes a t
 
 ## Special activation rules
 
-As long as the wearer isn’t dissonant with soulsteel, this Evocation awakens at no cost when she defeats a character she has a Major or Defining Tie of contempt for. 
+As long as the wearer isn’t dissonant with soulsteel, this Evocation awakens at no cost when she defeats a character she has a Major or Defining [[Intimacy|Tie]] of contempt for. 
 
 ## Resonant
 

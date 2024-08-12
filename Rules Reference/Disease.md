@@ -17,7 +17,7 @@ The difficulty which characters must overcome to keep their symptoms from worsen
 ### Interval
 The duration of time after which a character must roll when to see if the disease’s effects intensify. 
 ## Progression
-The progress of a sickness is analogous to the increasing intensity of Intimacies—a disease first begins as a [[#minor symptom]], then progresses to a [[#major symptom]], and finally to a [[#defining symptom]]. While the actual symptoms of each disease vary, Exalted treats them as things to be roleplayed by the player of the diseased character, rather than attempting a realistic model of real world sickness. 
+The progress of a sickness is analogous to the increasing intensity of [[Intimacy|Intimacies]]—a disease first begins as a [[#minor symptom]], then progresses to a [[#major symptom]], and finally to a [[#defining symptom]]. While the actual symptoms of each disease vary, Exalted treats them as things to be roleplayed by the player of the diseased character, rather than attempting a realistic model of real world sickness. 
 
 Not all diseases are capable of reaching all stages of this progression, with their maximum level of intensity noted in their description. In addition, some exotic or supernatural diseases may have additional effects based on symptom intensity. 
 

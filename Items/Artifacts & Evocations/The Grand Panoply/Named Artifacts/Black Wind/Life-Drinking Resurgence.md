@@ -16,4 +16,4 @@ Black Wind’s spirit speaks only in the moment of death, and has nothing to say
 
 ## Special activation rules
 
-This Evocation cannot be purchased with experience. It awakens after the skycutter’s master uses it to kill a non-trivial opponent in direct support of a Major or Defining Principle.
+This Evocation cannot be purchased with experience. It awakens after the skycutter’s master uses it to kill a non-trivial opponent in direct support of a Major or Defining [[Intimacy|Principle]].

@@ -16,4 +16,4 @@ Once per day, when the wielder sleeps, she rolls ([[Perception]] + [Investigatio
 
 ## Special activation rules
 
-This Evocation can’t be purchased with experience. It awakens for free when the wielder discovers evidence of a previously unknown plot against her or someone to whom she has a positive Tie.
+This Evocation can’t be purchased with experience. It awakens for free when the wielder discovers evidence of a previously unknown plot against her or someone to whom she has a positive [[Intimacy|Tie]].

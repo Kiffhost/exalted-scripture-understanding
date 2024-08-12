@@ -33,7 +33,7 @@ Shieldbearers can divine destiny’s plans for conflict or make Mars’ sign to 
 
 # Experience Trigger
 
-Inciting violent conflicts in furtherance of her or her Circle’s goals; gaining a tactical advantage that can benefit a [[Strategic Warfare|Strategic Maneuver]] roll; training soldiers or stockpiling materiel in preparation for significant battles; inspiring others to uphold Major or Defining Intimacies through violence or forceful argument.
+Inciting violent conflicts in furtherance of her or her Circle’s goals; gaining a tactical advantage that can benefit a [[Strategic Warfare|Strategic Maneuver]] roll; training soldiers or stockpiling materiel in preparation for significant battles; inspiring others to uphold Major or Defining [[Intimacy|Intimacies]] through violence or forceful argument.
 
 # Associations
 

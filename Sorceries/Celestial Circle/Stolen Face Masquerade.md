@@ -12,7 +12,7 @@ Duration: Instant
 
 The sorcerer exchanges someone’s face with a mask, requiring an ([[Intelligence]] + [[Occult]]) roll against his ([[Appearance]] + [Integrity or Resistance]) roll. In combat, this requires a difficulty 4 unarmed gambit, with success letting the sorcerer roll as above. The sorcerer must prepare the mask beforehand; doing so requires at least a basic project with an appropriate [[Craft]] (Exalted, p. 240). 
 
-Success strips away both the victim’s face and his identity: even his closest friends can’t recognize him without a difficulty 7 ([[Perception]] + [Awareness, [[Investigation]], or Socialize]) roll to identify him. Characters without a Tie to the victim fail automatically unless they enhance the roll with magic or benefit from other circumstances, like knowledge of one of the victim’s distinguishing features. 
+Success strips away both the victim’s face and his identity: even his closest friends can’t recognize him without a difficulty 7 ([[Perception]] + [Awareness, [[Investigation]], or Socialize]) roll to identify him. Characters without a [[Intimacy|Tie]] to the victim fail automatically unless they enhance the roll with magic or benefit from other circumstances, like knowledge of one of the victim’s distinguishing features. 
 
 The victim can still see, speak, eat, and the like with the mask that is now his face, but its voice is dull and monotone and any sensations felt through it are muted. He suffers a –3 penalty on spoken influence rolls and on [[Perception]] rolls. He also subtracts –3 from his effective [[Appearance]] when determining how many dice it adds on influence rolls. 
 

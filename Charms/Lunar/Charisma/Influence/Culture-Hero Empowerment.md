@@ -12,7 +12,7 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[Argent Revelry Festival]]"
 ---
-The Lunar raises up sacred heroes to uphold the traditions of their people and guard their ways. Selecting a custom of a culture to which she has a positive Major or Defining Tie, she ritually designates a member of that culture as a guardian or enforcer of it. He gains the following benefits: 
+The Lunar raises up sacred heroes to uphold the traditions of their people and guard their ways. Selecting a custom of a culture to which she has a positive Major or Defining [[Intimacy|Tie]], she ritually designates a member of that culture as a guardian or enforcer of it. He gains the following benefits: 
 -  Other members of that culture intuitively recognize his position, and his social influence benefits from any positive Ties they have toward the culture. 
 -  He gains +2 [[Resolve]] against influence contrary to that custom. 
 -  He adds (Lunar’s Essence/2, rounded up) dice on read intentions, profile character, or case scene rolls to detect transgressions of the chosen custom, or intent to do so. 

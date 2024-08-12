@@ -24,22 +24,22 @@
 
 # Terrestrial Exalted Advancement Table
 
-| Trait                                                        | Experience Cost        | [[#Training Times]]           |
-| ------------------------------------------------------------ | ---------------------- | ----------------------------- |
-| Attribute Increase                                           | Current rating x 4     | (New rating) months           |
-| Standard Ability increase                                    | Current rating x 2     | (New rating) weeks            |
-| Aspect/Favoured Ability increase                             | (Current rating x 2)-1 | (New rating) days             |
-| New Ability                                                  | 3                      |                               |
-| [[Specialty]]                                                | 3                      | 2 weeks                       |
-| [[Merits#Purchased\|Purchased Merit]]                        | New Rating x 3         | (New rating) weeks            |
-| [[Willpower]]                                                | 8                      | 1 month                       |
-| Charm (Ability is not Aspect/Favoured)                       | 10                     | (Ability + Essence mins) days |
-| Charm (Ability is Aspect/Favoured)                           | 8                      | (Ability min) days            |
-| [[Martial Arts]] Charm (Martial Arts is not Aspect/Favoured) | 10                     | (Ability + Essence mins) days |
-| [[Martial Arts]] Charm (Martial Arts is Aspect/Favoured)     | 8                      | (Ability min) days            |
-| Spell ([[Occult]] is not Aspect/Favoured)<br>                | 12                     | 2 weeks                       |
-| Spell ([[Occult]] is Aspect/Favoured)                        | 10                     | 2 weeks                       |
-| Evocation                                                    | 12                     | (Essence minimum x 4) days    |
+| Trait                                                        | Experience Cost        | [[#Training Times]]               |
+| ------------------------------------------------------------ | ---------------------- | --------------------------------- |
+| Attribute Increase                                           | Current rating x 4     | (New rating) months               |
+| Standard Ability increase                                    | Current rating x 2     | (New rating) weeks                |
+| Aspect/Favoured Ability increase                             | (Current rating x 2)-1 | (New rating) days                 |
+| New Ability                                                  | 3                      |                                   |
+| [[Specialty]]                                                | 3                      | 2 weeks                           |
+| [[Merits#Purchased\|Purchased Merit]]                        | New Rating x 3         | (New rating) weeks                |
+| [[Willpower]]                                                | 8                      | 1 month                           |
+| Charm (Ability is not Aspect/Favoured)                       | 10                     | (Ability + [[Essence]] mins) days |
+| Charm (Ability is Aspect/Favoured)                           | 8                      | (Ability min) days                |
+| [[Martial Arts]] Charm (Martial Arts is not Aspect/Favoured) | 10                     | (Ability + [[Essence]] mins) days |
+| [[Martial Arts]] Charm (Martial Arts is Aspect/Favoured)     | 8                      | (Ability min) days                |
+| Spell ([[Occult]] is not Aspect/Favoured)<br>                | 12                     | 2 weeks                           |
+| Spell ([[Occult]] is Aspect/Favoured)                        | 10                     | 2 weeks                           |
+| Evocation                                                    | 12                     | ([[Essence]] minimum x 4) days    |
 
 # Experience Points
 
@@ -56,7 +56,7 @@ Players have two opportunities to gain Exalted experience per session. They may 
 ### Expression Bonus
 Characters can gain 2 points of [[#Solar Experience]] by fulfilling *one* of the following criteria per session: 
 - Expressing, supporting, or engaging a Major or Defining [[Intimacy]] in such a way that it reveals something about the character, develops the character’s personality, or provides a character moment that everyone at the table enjoys. 
-- Being significantly challenged, endangered, or harmed in the course of protecting or upholding a Major or Defining Intimacy. 
+- Being significantly challenged, endangered, or harmed in the course of protecting or upholding a Major or Defining [[Intimacy]]. 
 - Being significantly impeded, endangered, or harmed by a [[Flaws|Flaw]].
 
 ### Role Bonus

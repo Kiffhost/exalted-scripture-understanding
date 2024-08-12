@@ -16,4 +16,4 @@ Seven-Finger Wu is a name spoken with both reverence and outrage in the towers o
  
 ## [[Evocations]] of [[Gnomon]]
 
-Seven-Finger Wu’s trickery endowed [[Gnomon]] with an illusory mantle of celestial legitimacy. This quirk in destiny fools any [[Sidereal Exalted]] or god who works for the Bureau of Destiny into thinking that the staff’s wielder is a legitimate agent of Heaven. This is equivalent to a Minor Tie of trust.
+Seven-Finger Wu’s trickery endowed [[Gnomon]] with an illusory mantle of celestial legitimacy. This quirk in destiny fools any [[Sidereal Exalted]] or god who works for the Bureau of Destiny into thinking that the staff’s wielder is a legitimate agent of Heaven. This is equivalent to a Minor [[Intimacy|Tie]] of trust.

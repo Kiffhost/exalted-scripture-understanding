@@ -1,7 +1,7 @@
 Face-Thieving Legerdemain (Essence 2;
 Nest-Raiding Slyness): Perform a sacred hunt that
 concludes when you steal whatever’s most valuable to someone or something they have a positive
-Major or Defining Tie to while they’re nearby.
+Major or Defining [[Intimacy|Tie]] to while they’re nearby.
 Flowing Moonsilver Infiltration (Essence 3;
 Shifting Octopus Trick): The Lunar’s flesh warps to
 fit through a space too small for her. Minuscule Size

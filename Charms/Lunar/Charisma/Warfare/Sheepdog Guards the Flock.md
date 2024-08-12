@@ -15,7 +15,7 @@ Prerequisite Charms:
   - "[[Raiton’s Banquet Assault]]"
 ---
 The Lunar rallies her armies in defense of her chosen peoples, holding the line against the forces that would see them enslaved or eradicated.
-To use this Charm, the Lunar must be fighting in defense of a culture she has a positive Major or Defining Tie toward, or leading battle groups made up primarily of such a culture’s members. She grants an allied battle group the following benefits:  - +1 [[Might]].
+To use this Charm, the Lunar must be fighting in defense of a culture she has a positive Major or Defining [[Intimacy|Tie]] toward, or leading battle groups made up primarily of such a culture’s members. She grants an allied battle group the following benefits:  - +1 [[Might]].
  - Its positive Ties to the Lunar or the culture increase its [[Resolve]] bonus by +1.
  - It rerolls 1s until they cease to appear on rout checks.
  - Upon reaching [[Size]] 3 or lower, it gains perfect morale for the rest of the scene, as its remaining members make a defiant last stand.

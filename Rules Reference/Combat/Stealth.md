@@ -9,7 +9,7 @@ Stealth is a powerful advantage in battle, affording the opportunity to strike w
 All stealth attempts consist of [[Action#Opposed|opposed rolls]], generally ([[Dexterity]] + [[Stealth]]) against ([[Perception]] + [[Awareness]]). [[Stealth]] rolls can easily take penalties if the conditions aren’t amenable to sneaking or hiding—dry underbrush, bright light, and scant cover can all make stealth more difficult. Likewise, [[Awareness]] rolls can take penalties due to cluttered or noisy environments (such as market crowds or stormy nights)—Stealth and [[Awareness]] are both very context-governed Abilities. 
 
 Assuming that a character has successfully concealed himself, he may then attempt to make an unexpected attack. Unexpected attacks are either an [[#Ambush]] or a [[#Surprise Attack]]. 
-# [[Ambush]]
+# Ambush
 An ambush is defined as an attack against a target completely unaware of the attacker’s presence—generally only possible during the first round of a fight, against a target with a lower [[Initiative]] value than the attacker. An ambush attack completely ignores the target’s [[Defense]]; the target is considered to have [[Defense]] 0 against the attack. 
 ## Hold at Bay
 A permutation of an [[#Ambush]], to hold someone at bay is to succeed at an ambush without attacking, choosing instead to hold the target hostage for a number of rounds. The character points her weapon at her target’s vital organs; the target knows he will suffer a deadly attack if he so much as moves, allowing the character to speak her mind before battle commences.

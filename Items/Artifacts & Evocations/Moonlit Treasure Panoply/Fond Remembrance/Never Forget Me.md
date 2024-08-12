@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ False Life Monologue]]"
 ---
 Fond Remembrance leaves memories that last long after the physical wounds are healed.
-Resisting false memories becomes more difficult for characters with Intimacies related to them. Resisting with [[Willpower]] when they encounter evidence requires a Decision Point. They must cite an [[Intimacy]] related to the evidence, which must equal or exceed the intensity of the memory’s [[Intimacy]].
+Resisting false memories becomes more difficult for characters with [[Intimacy|Intimacies]] related to them. Resisting with [[Willpower]] when they encounter evidence requires a Decision Point. They must cite an [[Intimacy]] related to the evidence, which must equal or exceed the intensity of the memory’s [[Intimacy]].

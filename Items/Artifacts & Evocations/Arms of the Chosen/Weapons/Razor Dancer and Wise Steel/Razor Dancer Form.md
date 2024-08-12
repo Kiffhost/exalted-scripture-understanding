@@ -16,7 +16,7 @@ Blade in hand, the Exalt advances with Adalin’s swift, unthinking surety. Whil
 
 ## Special activation rules
 
-Whenever the wielder moves away from an ally toward whom she has a positive Major or Defining Tie and then successfully performs a rush action before the start of her next turn, she may reflexively activate [[Razor Dancer Form]]. 
+Whenever the wielder moves away from an ally toward whom she has a positive Major or Defining [[Intimacy|Tie]] and then successfully performs a rush action before the start of her next turn, she may reflexively activate [[Razor Dancer Form]]. 
 ## Terrestrial
 
 The wielder doesn’t gain the form’s [[Accuracy]] bonus.

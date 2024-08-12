@@ -16,8 +16,9 @@ An impassioned character might form a new passion, or act upon an existing [[Int
 
 A character doesn’t *have* to drop everything he’s doing to act upon an inspire action, but he must be genuinely resolved to action. If a devout follower of the Immaculate Philosophy is inspired to make a pilgrimage to the Imperial Mountain, he will generally set his affairs in order, supply himself for the journey, and explain to his family where he is going before setting off.
 
-Inspiration doesn’t automatically create or strengthen Intimacies, but it’s often appropriate for it to do so as characters act upon their inflamed passions. An inflamed passion may be treated as a Major [[Intimacy]] for the purposes of modifying [[Resolve]] and enabling [[Persuade]] actions, for as long as the character is acting on it.
+Inspiration doesn’t automatically create or strengthen [[Intimacy|Intimacies]], but it’s often appropriate for it to do so as characters act upon their inflamed passions. An inflamed passion may be treated as a Major [[Intimacy]] for the purposes of modifying [[Resolve]] and enabling [[Persuade]] actions, for as long as the character is acting on it.
 
-The inspiring character *doesn’t* automatically know what passions he has inspired in his audience; he must use [[Read Intentions]] to find out. Because a character does not—and without magic, cannot—tailor the outcome of an inspire action to a specific target, inspire actions aren’t subject to the penalty for [[group influence]], unless specified by a Charm or other effect.
+The inspiring character *doesn’t* automatically know what passions he has inspired in his audience; he must use [[Read Intentions]] to find out. Because a character does not—and without magic, cannot—tailor the outcome of an inspire action to a specific target, inspire actions aren’t subject to the penalty for [[Social Influence#One Target vs. Many Targets|group influence]], unless specified by a Charm or other effect.
+
 # Retry
 You must wait until the scene has ended to retry an inspire action.

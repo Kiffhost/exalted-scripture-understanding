@@ -18,4 +18,4 @@ The Lunar witch-sage is a harsh mentor, providing guidance through trials and tr
 -  Defining: The target was incapacitated, was unable to protect a Defining [[Intimacy]], was prevented from achieving a legendary social goal, lost prestige or assets equivalent to 5+ dots of [[Merits]], etc. Success convinces the character to undertake a task that will help him to overcome his weakness, compensate for it, or undo its causes. This Charm can’t be used against a character more than once per story. 
 ## Protean 
 
-If the Lunar’s target has a Tie to her current shape that supports her influence, treat its intensity as one step greater. If it’s already Defining, the influence costs an additional [[Willpower]] to resist instead.
+If the Lunar’s target has a [[Intimacy|Tie]] to her current shape that supports her influence, treat its intensity as one step greater. If it’s already Defining, the influence costs an additional [[Willpower]] to resist instead.

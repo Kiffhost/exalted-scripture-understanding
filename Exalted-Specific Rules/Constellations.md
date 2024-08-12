@@ -17,7 +17,7 @@ Bullies, bureaucrats, disciplinarians, military officers, navigators, profession
 ### Trappings
 Concern for the well-being of followers, emblems of rank and tokens of authority, fearlessness, no sign of fatigue, not kind but fair, a scepter. 
 ### Ability
-Sail.
+[[Sail]].
 ## The Mast
 
 The Mast rules journeys made possible by the physical strength and exertion. It’s the sign of ditchdiggers, domestic servants, soldiers, scribes, and insects. In its positive aspect, strength is turned unquestioningly to vital tasks and supports the efforts and endeavors of others. In its negative aspect, strength is used unthinkingly, and the mighty are unwilling to question their orders and unable to communicate. 
@@ -28,7 +28,7 @@ Architects, athletes, boatmen, caravan guards, domestic servants, flunkies, manu
 ### Trappings
 Drab clothes, honest, ignorant, silent, strength. 
 ### Ability
-Resistance. 
+[[Resistance]]. 
 ## The Messenger 
 
 The Messenger rules journeys made for the sake of duty or obligation. It’s the sign of couriers, aides, diplomats, and service to one’s family. In its positive aspect, travelers are brave, professional, and skillful, overcoming great odds to meet their obligations. In its negative aspect, travelers perform good service for bad ends, thoughtlessly abuse their power, and abdicate moral responsibility. 
@@ -39,7 +39,7 @@ Aides-de-camps, attendants, bounty hunters, camp followers, couriers, diplomats,
 ### Trappings
 Daring, a mount, a package, a weapon, urgent business. 
 ### Ability
-Ride. 
+[[Ride]]. 
 ## The Ship’s Wheel 
 
 The Ship’s Wheel rules journeys made in the face of great hardship and the persistence of those who defy all obstacles. Its name harkens to steersmen lashing themselves to the wheel so their ships may weather the storm. It’s the sign of furnace stokers, steersmen, those made foolish by love, and the Solar Exalted. In its positive aspect, endeavors weather all adversities and perseverance is rewarded. In its negative aspect, people pursue doomed causes, boondoggles, and quixotic obsessions that lead only to their ruin. 
@@ -50,7 +50,7 @@ Ascetics, cultists, debtors, doomed causes, firebrands, shikari, Solars, revolut
 ### Trappings
 Determination, a long cape or jacket, silent, unsleeping, unwashed, wristlets or a belt of rope. 
 ### Ability
-Survival.
+[[Survival]].
 
 # The House of Serenity
 
@@ -64,18 +64,18 @@ Idealists, marriage-seekers, monks, nursemaids, parents, philanderers, poets, re
 ### Trappings
 Blissfully happy, flowers, in love with love, poetry, well-dressed. 
 ### Ability
-Dodge. 
+[[Dodge]]. 
 ## The Lovers
 
-The Lovers rule imbalanced and uneven relationships. It’s the sign of debt, slavery, poverty, and sexual intimacy. In its positive aspect, such relationships prove beneficial, or at least a mixed bag, like the best relationships one can hope for between parent and child, teacher and student, employer and employee, or landlord and tenant. In its negative aspect, the relationship’s power imbalance leads to exploitation, manipulation, or, physical, emotional, or financial abuse. 
+The Lovers rule imbalanced and uneven relationships. It’s the sign of debt, slavery, poverty, and sexual [[intimacy]]. In its positive aspect, such relationships prove beneficial, or at least a mixed bag, like the best relationships one can hope for between parent and child, teacher and student, employer and employee, or landlord and tenant. In its negative aspect, the relationship’s power imbalance leads to exploitation, manipulation, or, physical, emotional, or financial abuse. 
 ### Themes
-Abuse, desire, duress, lack of options, power imbalances, physical intimacy, servitude, unfair contracts, unhealthy relationships, unspoken obligations, vermin, victims of the Fair Folk. 
+Abuse, desire, duress, lack of options, power imbalances, physical [[intimacy]], servitude, unfair contracts, unhealthy relationships, unspoken obligations, vermin, victims of the Fair Folk. 
 ### Resplendent Destinies
 Bankrupt businessman, beggars, conscripts, laborers paid unlivable wages, libertines, mistreated children, prisoners, sex workers, slaves, students, tenant farmers, unhappy spouses. 
 ### Trappings
 Beauty, rumpled hair, silk robes, some sign of violence or restraints, superficial friendliness. 
 ### Ability
-Socialize. 
+[[Socialize]]. 
 ## The Musician 
 
 The Musician rules contentment in life and sensual pleasure. It’s the sign of joy, desire, and art. In its positive aspect, people indulge in luxury and leisure and return from their idylls renewed. In its negative aspect, pleasure leads to the neglect of one’s responsibilities, greed and pointless materialism conquer reason, and people compromise their principles in pursuit of pleasure. 
@@ -86,7 +86,7 @@ Actors, artists, cheating spouses, cooks, corrupt businessmen, drunkards, the Fa
 ### Trappings
 Cynical wisdom, face make-up, a musical instrument, outlandish dress, uninhibited. 
 ### Ability
-Performance. 
+[[Performance]]. 
 ## The Peacock 
 
 The Peacock rules relationships entered into for pragmatic reasons. It’s the sign of sex workers, heads of households, and Dragon-Blooded families. In its positive aspect, these relationships are mutually beneficial: practical alliances, well-considered partnerships, thoughtfully arranged marriages. In its negative aspect, they’re entered into out of necessity and barely functional: forced alliances, loveless marriages, and friendships born entirely out of proximity. 
@@ -97,7 +97,7 @@ Adopted outcastes, contracted laborers, diplomats, hangers-on, heads of househol
 ### Trappings
 Finery, flirtation, poise, pride, taste. 
 ### Ability 
-Craft. 
+[[Craft]]. 
 ## The Pillar 
 
 The Pillar rules relationships tested by time. It’s the sign of parenthood, sovereignty, and platonic relationships: family, friends, coworkers, business partners, and acquaintances as casual as drinking buddies. In its positive aspects, these relationships prove stable and steady in the face of challenges. In its negative aspects, they are tested and found wanting. 
@@ -108,7 +108,7 @@ Bad parents, bureaucrats, businessmen, caring parents, courtiers, domestic serva
 ### Trappings
 Firm but just, plain dress, perceptive, practical, a wedding ring. 
 ### Ability
-Linguistics.
+[[Linguistics]].
 
 # The House of Battles
 
@@ -122,7 +122,7 @@ Braggarts, folk heroes, generals, gossips, heralds, outlaws, pariahs, philanthro
 ### Trappings
 Fearless, larger than life, striking dress, victory. 
 ### Ability
-War. 
+[[War]]. 
 ## The Gauntlet 
 
 The Gauntlet rules choices between bad and worse, decisions made under pressure, and battles won through ruthlessness. It’s the sign of sergeants, disciplinarians, practical parents, surgeons, judges, and those who enforce laws through violence. In its positive aspect, difficult choices are made with the courage and conviction to do what’s necessary no matter the cost. In its negative aspect, such choices are made callously, ruthlessly, and by those willing to justify the whims of the moment as necessity. 
@@ -133,7 +133,7 @@ Diplomats, hired killers, hostages, the impoverished, judges, livestock farmers,
 ### Trappings
 Arbitrary punishments, bloodstains, brutality, a cudgel, meaningless commands, a uniform. 
 ### Ability
-Brawl. 
+[[Brawl]]. 
 ## The Quiver 
 The Quiver rules versatility, cunning, and battles won through ingenuity. It’s the sign of the quick-witted, duelists, know-it-alls, socialites, generals, and urbane boors. In its positive aspect, victory comes from ingenuity, adaptability, a cool head, a diversity of ideas, or trust in the expertise of others. In its negative aspect, groupthink, ignorance, and irrationality prevail, while bad ideas are explained well.
 ### Themes
@@ -143,7 +143,7 @@ Advisors, archers, charlatans, demagogues, duelists, generals, know-it-alls, phi
 ### Trappings
 A bow, clever, educated, a map case, witty. 
 ### Ability
-Archery. 
+[[Archery]]. 
 ## The Shield 
 
 The Shield rules courage, the willingness to endure and inflict pain, and battles fought without regard for victory. It’s the sign of warriors who fight outside of military ranks, assassins, scouts, and the Lunar Exalted. Its positive aspect governs valor in the face of danger, warriors who fight to protect their comrades in arms, and heroes who dare impossible odds. In its negative aspect, it governs headstrong foolishness, excessive self-sacrifice, thoughtless violence, and a dangerous willingness to die. 
@@ -154,7 +154,7 @@ Ascetics, bullies, hellraisers, hired killers, idealists, interrogators, Lunars,
 ### Trappings
 Eager for battle, a leather strap, a shield, a trophy, a weapon. 
 ### Ability
-Presence. 
+[[Presence]]. 
 ## The Spear 
 
 The Spear governs martial prowess, military discipline, and battles won through skill. It’s the sign of veterans, skilled militias, mercenaries, bodyguards, arms instructors, and competition. In its positive aspect, skill and discipline are used for good causes and prevail over undisciplined opposition. In its negative aspect, experts and decision-makers succumb to professional myopia, refuse to consider unconventional approaches, and emphasize the appearance of professionalism over substance. 
@@ -165,7 +165,7 @@ Arms instructors, artisans, athletes, blood sport, bodyguards, gamblers, gladiat
 ### Trappings
 Brave, called by a family name or nickname, disciplined, a uniform but no rank. 
 ### Ability
-Melee.
+[[Melee]].
 
 # The House of Secrets
 
@@ -179,7 +179,7 @@ Artisans, charlatans, the elderly, exorcists, farmers, fortune tellers, hermits,
 ### Trappings
 Gives helpful advice, knows the weather, suspicious, a talisman, uneducated. 
 ### Ability
-Larceny. 
+[[Larceny]]. 
 ## The Key
 
 The Key rules scholarly knowledge, secrets revealed by intellectual efforts, and tasks accomplished through cleverness. It’s the sign of physicians, scavenger princes, tinkers, junk sellers, and primates. In its positive aspect, experimentation, inquiry, and sharp thinking lead to useful insights and new solutions. In its negative aspect, such efforts are pointless, wasteful, or delve into matters best left unknown. 
@@ -190,7 +190,7 @@ Alchemists, anatomists, entrepreneurs, heretics, investigators, junk peddlers, m
 ### Trappings
 Claims to be innocent, large appetites, looks dishonest, a measuring stick, a pen but nothing to write on. 
 ### Ability
-Investigation. 
+[[Investigation]]. 
 ## The Mask
 
 The Mask rules secret wisdom and concealed knowledge. It’s the sign of spies, priests, and archivists. In its positive aspect, it conceals trade secrets, religious mysteries, information held in confidence, and rites of initiation. In its negative aspect, knowledge is hidden because of greed, fear, doubt, or self-superiority. It is the sign in which the Jade Prison was sealed after the Solar Purge, giving rise to the Sidereals’ arcane fate. 
@@ -201,7 +201,7 @@ Blackmailers, bookies, charlatans, confidantes, counterfeiters, criminals, culti
 ### Trappings
 Clings to sacred places and places of power, enters unannounced, a mask, quiet, soft clothes. 
 ### Ability
-Stealth. 
+[[Stealth]]. 
 ## The Sorcerer 
 
 The Sorcerer rules mystical wisdom and the secrets of power. It’s the sign of the Exalted, gods, sorcery, necromancy, thaumaturgy, artifice, and geomancy. In its positive aspect, supernatural power is wielded wisely and justly, accomplishing miracles and forging wonders for the world’s betterment. In its negative aspect, such power is used selfishly or for misguided reasons, or is sought from untrustworthy sources like ghosts and demons. 
@@ -212,7 +212,7 @@ Craftsmen, Exalted, geomancers, God-Blooded, infernalists, necromancers, scholar
 ### Trappings
 An anima banner, an artifact, a Caste Mark, a crown, a hearthstone, regal bearing. 
 ### Ability
-Occult. 
+[[Occult]]. 
 ## The Treasure Trove 
 The Treasure Trove rules revealed wisdom, shared knowledge, and divination. It also encompasses ordeals overcome through personal prowess and rewards won thereby. It’s the sign of savants, teachers, fortune-tellers, and revolutionaries seeking popular support. In its positive aspect, education flourishes, intellectuals turn their erudition to the betterment of society, and new ideas change the world. In its negative aspect, intellectual life is choked by elitism and pointless cerebration, trivia is prized over wisdom, and intellectuals pursue petty, self-gratifying goals without any sense of duty to others. 
 ### Themes
@@ -222,7 +222,7 @@ Astrologers, authors, ideologues, know-it-alls, librarians, prophets, revolution
 ### Trappings
 A book, educated, impractical, impoverished, a scholar’s robes. 
 ### Ability
-Lore.
+[[Lore]].
 
 # The House of Endings 
 
@@ -236,7 +236,7 @@ Divorcees, emigrees, exiles, ghosts, the noveau riche, physicians, priests, reli
 ### Trappings
 Calm, an emblem of a butterfly, no shoes, a textbook, well-dressed. 
 ### Ability
-Medicine. 
+[[Medicine]]. 
 ## The Crow 
 
 The Crow rules the end of delusions and denial. It is the sign of slow but painless deaths, death by old age, inevitability and the recognition thereof, ancestor worship, young widows, and the elderly. In its positive aspect, those who face their mortality take solace in gallows humor, find comfort in the thought of death, or willingly face near-certain death for what they believe in. In its negative aspect, the inevitability of death drives those who confront it to despair, depression, apathy, and cynicism. 
@@ -247,7 +247,7 @@ Ancestor cultists, bohemians, the elderly, gravediggers, morticians, orphans, ph
 ### Trappings
 Attracted to shiny objects, a black cloak, black feathers, clever, morbid humor. 
 ### Ability
-Awareness. 
+[[Awareness]]. 
 ## The Haywain 
 The Haywain rules ambiguous endings that are difficult to describe and the gradual decline and failure of systems with fuzzy boundaries and imprecise definitions. It’s the sign of mysterious deaths, death by sorcery, faltering alliances, bureaucratic mismanagement, corrupt institutions, family troubles, the difficulties of old age, and divinity. In its positive aspect, these endings are the beginning of something new. In its negative aspect, creeping decay and gradual collapse leads to stagnation and inaction. 
 ### Themes
@@ -257,7 +257,7 @@ Conspirators, corrupt officials, counterfeiters, debtors, dubious claimants to p
 ### Trappings
 Ambitions, arrogant, demands bribes, disheveled robes, hearing loss, informal, unconcerned with the big picture. 
 ### Ability
-Bureaucracy. 
+[[Bureaucracy]]. 
 ## The Rising Smoke 
 
 The Rising Smoke rules the endings of journeys both literal and figurative. While the Corpse holds sway over changes in the circumstances of one’s life, the Rising Smoke governs changes to one’s self, those that unfold over time with experience and self-understanding. It’s the sign of quick but painful deaths, youth, apprenticeships, lawsuits, and bodies on their way to be buried. In its positive aspect, journeys end in growth, transformation, and fulfillment, as with the end of a student’s time in school. In its negative aspect, journeys prove fruitless or lead only to suffering. 
@@ -268,7 +268,7 @@ Apprentices and journeymen, charioteers, enthusiastic amateurs, hostelers, inexp
 ### Trappings
 Brand new equipment, good luck charms, naïve, optimistic, prayer strips, a purse of money from a teacher. 
 ### Ability
-Athletics. 
+[[Athletics]]. 
 ## The Sword
 
 The Sword rules the endings of hopes and dreams. It’s the sign of slow and painful deaths, long-lasting suffering, despair, ghosts, has-beens, and expecting parents. In its positive aspect, hopes end once they’ve been fulfilled. In its negative aspects, hopes wither and die, leaving people broken, crushed, and worn down. 
@@ -279,4 +279,4 @@ Adult children of wealthy parents, deserters, expecting parents, ghosts, has-bee
 ### Trappings
 Burial cerements, no shoes, weeps but can’t be consoled, a withered flower, worn out. 
 ### Ability
-Integrity.
+[[Integrity]].

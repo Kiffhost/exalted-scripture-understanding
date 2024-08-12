@@ -1,0 +1,9 @@
+---
+tags:
+  - source/lunar-book
+---
+When the Lunars remade their Castes, they devised the moonsilver tattoos as a means of self-determination and protection. When a Casteless Lunar is tattooed, she chooses her Caste, exchanging her anima powers for that Caste’s and choosing two Caste Attributes. (If she wants to choose an Attribute she already has Favored and pick another Favored Attribute, that’s fine). The experience point discount for Caste Attributes and their Charms doesn’t apply retroactively; likewise, the Casteless discount isn’t retroactively lost.
+
+Lunar tattoos take various forms — spiraling geometric patterns, rough-hewn angular runes, markings patterned after animals, etc. In addition to fixing the Lunar’s Caste, they render her immune to exposure to the [[Wyld]] and to shaping effects inasmuch as they alter solely the body, such as a demon’s petrifying gaze. She can commit one mote to conceal her tattoos indefinitely, rendering them unnoticeable as long as her anima remains dim.
+
+Moonsilver tattoos aren’t artifacts and can’t grant [[Evocations]]. Tattooing a Casteless Lunar normally requires no roll — if the tattooing Lunar has the moonsilver and the necessary knowledge, it simply happens. The [[Silver Pact]] teaches the art of tattooing freely to any interested Lunar; mastering it doesn’t cost experience points. In high-pressure situations where failure could have interesting consequences — like fleeing a [[Wyld Hunt]] — Storytellers might require an ([[Intelligence]] + [[Craft]] or [[Occult]]) roll, with failure indicating the tattooing hasn’t been completed and will take more time.

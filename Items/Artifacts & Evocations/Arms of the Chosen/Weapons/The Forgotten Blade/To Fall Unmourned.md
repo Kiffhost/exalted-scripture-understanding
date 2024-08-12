@@ -16,4 +16,4 @@ As the Exalt kills an enemy, she cuts away all memory of him from the world. His
 
 ## Special activation rules
 
-This Evocation awakens at no cost when the wielder slays an enemy that she has a negative Defining Tie towards, and waives the [[Willpower]] cost of using it to erase that foe from memory.
+This Evocation awakens at no cost when the wielder slays an enemy that she has a negative Defining [[Intimacy|Tie]] towards, and waives the [[Willpower]] cost of using it to erase that foe from memory.

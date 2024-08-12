@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Energic Influence Technique]]"
 ---
-Sometimes the Lawgiver must tear down in order to build up. This Charm supplements an instill action to erode an [[Intimacy]]. If successful, the target also gains a new negative Minor [[Intimacy]] that reflects the one that has been eroded. ThusaSolar’sargumentscouldworktosowdisfavorforthe Guild, while also instilling a negative view of slavery. This Charm fails if the target has Major or Defining Intimacies that directly contradict the proposed Minor [[Intimacy]]. 
+Sometimes the Lawgiver must tear down in order to build up. This Charm supplements an instill action to erode an [[Intimacy]]. If successful, the target also gains a new negative Minor [[Intimacy]] that reflects the one that has been eroded. ThusaSolar’sargumentscouldworktosowdisfavorforthe Guild, while also instilling a negative view of slavery. This Charm fails if the target has Major or Defining [[Intimacy|Intimacies]] that directly contradict the proposed Minor [[Intimacy]]. 
 
 ## Special activation rules
 

@@ -10,9 +10,9 @@ Keywords:
 Duration: Permanent
 Prerequisite Charms:
   - "[[ A Stranger in the Court]]"
-  - "[[any Charm this]]"
+  - Any Charm this Evocation enhances
 ---
-Evocation enhances Caged within the heartwood and lacquer of [[Majestic Nightmare Visage]] sleeps a dream of infinite deception.
+Caged within the heartwood and lacquer of [[Majestic Nightmare Visage]] sleeps a dream of infinite deception.
 This Evocation enhances the following Dragon-Blooded [[Charms]] as described below:
  - When she uses Instant [[Disguise]] Prana (Dragon-Blooded, p. 205) to disguise herself as the Childe, she can complete the disguise instantly, counting [[Majestic Nightmare Visage]] as suitable equipment.
  - When she uses [[Auspicious First Meeting Attitude]] (Dragon-Blooded, p. 261) against fae, she adds ([[Essence]]) non-Charm successes.

@@ -33,7 +33,7 @@ Harbingers can divine destiny’s plans for journeys and make Mercury’s sign t
 
 # Experience Trigger
 
-Solving significant problems through the path of least resistance; traversing hostile environments or enduring severe harm for a Major or Defining Intimacy’s sake; upholding Major or Defining Intimacies by seeking out new experiences; guiding others through unfamiliar territory — literal or figurative — in furtherance of her or her Circle’s goals.
+Solving significant problems through the path of least resistance; traversing hostile environments or enduring severe harm for a Major or Defining [[Intimacy]]’s sake; upholding Major or Defining [[Intimacy|Intimacies]] by seeking out new experiences; guiding others through unfamiliar territory — literal or figurative — in furtherance of her or her Circle’s goals.
 
 # Associations
 

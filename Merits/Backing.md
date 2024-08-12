@@ -6,6 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 2 to 4
 ---
 This Merit may be re-purchased as many times as desired.
@@ -25,3 +26,5 @@ Good standing in the Silver Pact is represented with [[Backing]], letting Lunars
 #### Sidereal
 Most have at least two-dot [[Backing]] in the Bureau of Destiny. Those without [[Backing]] are fresh recruits, under disciplinary probation, distrusted by the bureau, etc. Four-dot [[Backing]] at character creation can represent being a favorite or protégé of a prominent elder Sidereal or high-ranking god, or a position secured through bribery, blackmail, or similar means. 
 Most Sidereals who’re politically aligned with the Bronze Faction or Gold Faction don’t have [[Backing]] in them. Those who do hold recognition and political power within a faction, giving them a meaningful voice in its decision-making. Four-dot [[Backing]] is limited to a faction’s foremost elders. It’s not available at character creation. Faction Sidereals may also have [[Backing]] in the Immaculate [[Order]] or the [[Cult]] of the Illuminated.
+#### Abyssal
+Many Abyssals holding Backing within organizations and institutions led by their Deathlords, like [[the First and Forsaken Lion]]’s Legion Sanguinary or the ecclesiastic hierarchy of the [[The Bishop of Chalcedony Thurible|Bishop of the Chalcedony Thurible]]’s Shining Way.

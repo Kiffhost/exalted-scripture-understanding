@@ -17,4 +17,4 @@ The Solar sets her feet, raises [[Shining Ice Mirror]] to her shoulder, and unle
 
 ## Special activation rules
 
-In order to awaken this Evocation, the Solar must defeat a significant foe she has maneuvered into unfavorable fighting conditions by deliberately exploiting Intimacies she uncovered with read intentions actions.
+In order to awaken this Evocation, the Solar must defeat a significant foe she has maneuvered into unfavorable fighting conditions by deliberately exploiting [[Intimacy|Intimacies]] she uncovered with read intentions actions.

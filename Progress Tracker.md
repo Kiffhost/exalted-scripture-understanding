@@ -4,12 +4,16 @@ kanban-plugin: basic
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
-- [x] Check martial arts charms
-- [x] Sidereal Sorcerous Archetypes
-- [x] Add martial arts summary/detail pages
+ - [ ] Abyssals
+	 - [ ] Charms
+		 - [ ] Martial arts
+	 - [ ] Evocations
+	 - [ ] Necromancy
+	 - [ ] Rules
+		 - [ ] Character Creation
+		 - [ ] Castes
+		 - [ ] Limit
 - [ ] Split armor and weapon Type text into Traits list
-- [x] Add ability links to WeaponTags
-- [x] Evocation keywords page
 - [ ] Merits
 	- [ ] Animal/bestiary
 		- [ ] Solar
@@ -17,7 +21,6 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Strangers
 		- [ ] Exigents
 		- [ ] Other?
-- [x] Clean Sidereals Evocation prereqs
 - [ ] Sort out double spaces after bullet points
 - [ ] Rules
 	- [x] Charms

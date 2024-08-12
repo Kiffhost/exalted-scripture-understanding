@@ -6,6 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 1, 3, or 5
 ---
 This Merit may be re-purchased as many times as desired.
@@ -16,6 +17,7 @@ One dot grants a mortal or very minor supernatural ally, who may possess useful 
 
 #### Lunar
 A Lunar’s Solar mate is a five-dot Ally.
-
 #### Sidereal
 Fellow Sidereals are five-dot [[Allies]]. Powerful gods are five-dot allies, but most gods are three-dot [[Allies]].
+#### Abyssal
+An Abyssal’s Lunar mate is a five-dot Ally. Most ghosts are one-dot Allies; especially powerful ones are three-dot allies.

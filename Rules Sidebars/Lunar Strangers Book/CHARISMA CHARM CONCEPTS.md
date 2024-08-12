@@ -11,8 +11,8 @@ scene and are harder to resist.
 Wilderness-Carved Visage (Essence 3; Beast-God Idolatry, Boundary-Marking Meditation): The Lunar can
 use Beast-God Idolatry to imbue its influence in all artworks in a territory that depicts her or one of her shapes.
 Wolf Unites the Flock (Essence 3; Herd Reinforcement Stance): By insulting, mocking, or deriding a particular culture or one of its customs, the Lunar rouses even outcasts and malcontents to its defense, weakening
-members of that culture’s negative Ties toward it or similar Intimacies, or persuading them to do something
-that opposes such Intimacies. With Ogre-King’s Challenge, this can be used to reinforce a leader’s standing if
+members of that culture’s negative Ties toward it or similar [[Intimacy|Intimacies]], or persuading them to do something
+that opposes such [[Intimacy|Intimacies]]. With Ogre-King’s Challenge, this can be used to reinforce a leader’s standing if
 he bests — or “bests” — the Lunar.
 Untamed Revelry Enticement (Essence 4; Unceasing Hunger Affliction x2): Make a festivity, entertainment,
 recreation, or worldly pleasure hypnotically captivating.

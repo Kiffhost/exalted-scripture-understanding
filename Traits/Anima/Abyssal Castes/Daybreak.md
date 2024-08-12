@@ -1,0 +1,28 @@
+---
+tags:
+  - Anima
+  - Abyssal
+  - source/abyssal-book
+---
+As the hated sun rises to drive back the dark, its light banishes the last lingering mysteries, lest these blasphemous truths be discovered by the living. But there is no secret that can be kept from the Daybreak Caste, no forbidden lore that lies beyond their grasp. The Bleak Exaltation has given them all eternity to master the world’s mysteries and hone their unclean arts, achieving a perfection denied to mortal scholars. Relentless in their pursuit of knowledge, the Pyrekeepers seek out ancient libraries of long-dead civilizations, pore over forbidden tomes of deathly lore, and conduct gruesome experiments on corpses and souls.
+The Children of Bone seek knowledge of all kinds, from lost texts of long-dead civilizations to the research notes of an alchemist’s apprentice on the verge of a breakthrough. Some jealously hoard their learning, burning libraries, murdering scholars, and defacing monuments to keep their secrets out of others’ hands. The Deathlords prize the knowledge their Pyrekeepers can offer, along with their skill as necromancers, artificers, and delvers of the Underworld’s depths. Some ply the Sea of Shadows, carrying out voyages of exploration or retrieving ancient secrets from far corners of the sunless realm. 
+The Deathlords seek insight, cunning, and ambition in their Daybreaks. The Pyrekeepers’ ranks include the likes of savants, physicians, and learned elders, but also those who’ve dirtied their hands in pursuit of knowledge, like scavenger princes, grave robbers, and inquisitors. Mortal necromancers are especially prized, gifted pupils eager for their masters’ dark knowledge. Those whose curiosity proves their undoing are especially appealing as Daybreaks to some Deathlords. 
+Renegade Daybreak Castes are still driven by the pursuit of knowledge — indeed, some defect so that they may dedicate themselves wholly to the study of the Underworld’s secrets. Some hoard whatever knowledge they find for themselves, while others profit off secrets, acting as intelligence brokers to princes, merchants, and even other Deathlords. Some errant Pyrekeepers turn their wisdom to compassionate ends, tending to the sick or building marvels of engineering, though the gruesome nature of their work may disquiet the living.
+# Anima Banner
+Pyrekeepers’ Caste Marks resemble those of the Twilight Caste: black circles with only the top half filled, dripping with blood that weeps from its edges. A Daybreak Caste’s anima banner is typically a black mingled with greys, purples, dark greens, bruise-blues, and dark reds. It’s sometimes accompanied by the sounds of twisting muscle and splintering bone, or the smell of rotting parchment, charnel smoke, or embalmed corpses.
+# Anima Effects
+- Chthonic Gateway (10m, 1wp; Reflexive; Instant): The Pyrekeeper can use this power on her turn to vanish into her anima’s darkness. This isn’t immediate — if she moves or suffers forced movement or knockdown before her next turn, this power is negated. Otherwise, once her next turn begins, she disappears. She reappears at the next sunrise at a location associated with death that’s somewhere within ten miles. She might appear in a shadowland, an Abyssal manse, a great mausoleum, the tomb-palace of a ghostly prince, or the like. 
+- Essence-Flensing Insight (5m; Simple; Instant): The Daybreak rolls ([Perception or Intelligence] + [Awareness, Investigation, Lore, or Occult]) against the Guile of a supernatural being to discern a useful detail about his magical power. This might reveal that a Zenith Caste with numerous Integrity Charms will be difficult to persuade or that a Dragon-Blood’s daiklave can smite creatures of darkness. She must already be aware a character is supernatural to use this power on him. This power’s cost is waived at bonfire anima. 
+- Twisted Genius Inspiration (—; Reflexive; Instant): While at burning anima or higher, the Pyrekeeper can either gain one Willpower, add (Essence + highest Mental Attribute) necromantic motes to a spell she’s shaping, or add a free full Excellency on any mental action, other than Join Battle. (The Excellency counts as a Charm bonus). Once per day.
+# Caste Abilities
+Scholars of the forbidden and masters of death’s mysteries, Daybreak Castes choose Caste Abilities from Awareness, Bureaucracy, Craft, Investigation, Lore, Medicine, Occult, and Sail.
+#### ^Note:
+The [[Martial Arts]] Ability cannot be chosen as Caste or Favored—instead, any character with [[Brawl]] as a chosen Caste or Favored Ability treats [[Martial Arts]] as Caste or Favored as well. A player may choose [[Brawl]] or [[Martial Arts]] as her [[Dawn]] Caste character’s Supernal Ability, but applies the benefits of that choice only to one or the other. Also, characters with [[Martial Arts]] dots must possess the [[Martial Artist]] Merit.
+# Associations
+Death by pestilence, the season of autumn, the color orange, the Western direction, the crescent moon.
+# Sobriquets
+Pyrekeepers, Children of Bone, Eyes of the Abyss, They Who Work Unclean Arts.
+# Concepts
+Artisan of undead horrors, battlefield chirurgeon, calculating strategist, Deathlord’s artificer, explorer of the Underworld, historian of a bygone era, necromantic prodigy, obsessive magistrate, scavenger prince, scholar of forbidden knowledge.
+# Experience Trigger
+Using intellect, knowledge, or necromancy in service to death’s chivalry; discovering lost lore of the Underworld or similarly valuable knowledge; learning something that helps advance or protect a Major or Defining Intimacy; creating a last work of supernatural power, like an artifact or necromantic working.

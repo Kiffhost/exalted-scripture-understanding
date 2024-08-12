@@ -16,4 +16,4 @@ Hardening her blood blades with killing [[Essence]], Black Wind’s master retur
 
 ## Special activation rules
 
-Rather than being bought with experience, [[Seven Traumas Technique]] awakens at no cost once the Solar has used the [[skycutter]] to slay a target whose death satisfies both a Defining Principle and a Defining Tie at once.
+Rather than being bought with experience, [[Seven Traumas Technique]] awakens at no cost once the Solar has used the [[skycutter]] to slay a target whose death satisfies both a Defining [[Intimacy|Principle]] and a Defining [[Intimacy|Tie]] at once.

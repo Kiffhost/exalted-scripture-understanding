@@ -15,4 +15,4 @@ Sirrush now feeds directly on flame. This Evocation augments its prerequisite, a
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with jade, this Evocation awakens at no cost when she fails an ammunition roll while fighting to uphold one of her Intimacies.
+As long as the wielder isn’t dissonant with jade, this Evocation awakens at no cost when she fails an ammunition roll while fighting to uphold one of her [[Intimacy|Intimacies]].

@@ -19,4 +19,4 @@ The stylist makes an unblockable decisive attack against any enemy she can perce
 ## Reset
 This Charm can only be used once per scene unless reset by successfully defending against an attack from long or extreme range by a nontrivial enemy. 
 ## Enlightenment
-The stylist may use this Charm to mediate on a character for whom she holds a negative Major or Defining Tie, committing its mote cost indefinitely while she meditates. If that character comes within ([[Essence]]) range bands of her, she automatically and reflexively attacks him as above, without needing to perceive him. This is an ambush (Exalted, p. 203) unless the enemy was already aware of the Sidereal’s location.
+The stylist may use this Charm to mediate on a character for whom she holds a negative Major or Defining [[Intimacy|Tie]], committing its mote cost indefinitely while she meditates. If that character comes within ([[Essence]]) range bands of her, she automatically and reflexively attacks him as above, without needing to perceive him. This is an ambush (Exalted, p. 203) unless the enemy was already aware of the Sidereal’s location.

@@ -14,5 +14,5 @@ Prerequisite Charms:
   - "[[Soul’s Eclipse Unity]]"
 ---
 The Lunar watches over her trusted companions from afar, not with her senses, but with her soul.
-The Lunar gains the benefits of Soul’s [[Eclipse]] Unity for someone she has a positive Defining Tie toward. She only needs a Major Tie if her Solar mate has a positive Defining Tie toward that character, or if he belongs to a culture the Lunar has a positive Defining Tie toward or that’s ruled by her Solar mate.
+The Lunar gains the benefits of Soul’s [[Eclipse]] Unity for someone she has a positive Defining [[Intimacy|Tie]] toward. She only needs a Major [[Intimacy|Tie]] if her Solar mate has a positive Defining [[Intimacy|Tie]] toward that character, or if he belongs to a culture the Lunar has a positive Defining [[Intimacy|Tie]] toward or that’s ruled by her Solar mate.
 With [[Essence]] 4, this Charm’s cost is reduced to three motes.

@@ -17,4 +17,4 @@ Discord and lawlessness encumber the soul. The wielder imposes a penalty of (her
 
 ## Resonant
 
-If the wielder stands on ground consecrated by [[Faith Maintains]], the penalized character loses an additional (Principle − 1) [[Initiative]] for disengaging.
+If the wielder stands on ground consecrated by [[Faith Maintains]], the penalized character loses an additional ([[Intimacy|Principle]] − 1) [[Initiative]] for disengaging.

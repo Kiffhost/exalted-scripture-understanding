@@ -21,4 +21,4 @@ A Dragon-Blooded Tepet scion who attunes to [[Horizon Cleaver]] awakens this Evo
 
 ## Resonant
 
-If a character resonant with jade has a Principle that reflects her code of honor, she adds its rating to the total number of 1s and 2s she can roll without losing control of the lightning.
+If a character resonant with jade has a [[Intimacy|Principle]] that reflects her code of honor, she adds its rating to the total number of 1s and 2s she can roll without losing control of the lightning.

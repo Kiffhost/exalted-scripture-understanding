@@ -13,8 +13,8 @@ Once a character has accumulated 10 [[Limit]] points, he will enter a state call
 When he reaches 10 [[Limit]], the Curse spills over and can no longer be contained, erupting into [[Limit Break]]. 
 
 The [[Solar Exalted]] gain [[Limit]] in the following ways: 
-- Once per scene, when a character acts in a way that opposes one of his Major Intimacies, his player rolls a single die, gaining one point of [[Limit]] for each success (unless he’s already rolled for acting against a Defining [[Intimacy]]; see below). Note that weakening an [[Intimacy]] always counts as opposing it, as does spending [[Willpower]] to resist an influence roll supported by that [[Intimacy]].
-- Once per scene, when a character acts against one of his Defining Intimacies, his player rolls two dice for [[Limit]] (or one die if he’s already rolled for acting against a Major [[Intimacy]]). This otherwise functions as acting against a Major [[Intimacy]], above.
+- Once per scene, when a character acts in a way that opposes one of his Major [[Intimacy|Intimacies]], his player rolls a single die, gaining one point of [[Limit]] for each success (unless he’s already rolled for acting against a Defining [[Intimacy]]; see below). Note that weakening an [[Intimacy]] always counts as opposing it, as does spending [[Willpower]] to resist an influence roll supported by that [[Intimacy]].
+- Once per scene, when a character acts against one of his Defining [[Intimacy|Intimacies]], his player rolls two dice for [[Limit]] (or one die if he’s already rolled for acting against a Major [[Intimacy]]). This otherwise functions as acting against a Major [[Intimacy]], above.
 - All Solars have a [[Limit]] Trigger selected at character creation, a special condition under which a character can gain [[Limit]]. When a character’s [[Limit]] Trigger is met, his player rolls three dice for [[Limit]], gaining one point per success. Legendary Social Goals When a Solar character successfully completes a major, landmark goal or accomplishment such as reclaiming their homeland from the Realm or winning the love of their ancient Lunar mate, they may lose a point of [[Limit]] at the Storyteller’s discretion.
 ## Legendary Social Goals 
 
@@ -42,3 +42,21 @@ Sidereals gain [[Limit]] under the following circumstances:
 Gaining [[Limit]] reaffirms a Sidereal’s confidence — gaining [[Limit]] grants her one [[Willpower]], maximum once per scene.
 
 A Sidereal can lose [[Limit]] by fulfilling Auspicious Prospects. When she faces a major defeat or setback, her player may choose to lose one [[Limit]] and one [[Willpower]]. Sidereals don’t lose [[Limit]] from accomplishing legendary social goals; such triumphs do little to mitigate their hubris.
+
+# Abyssals
+
+An Abyssal who defies her dark purpose, rolling dice and gaining Limit equal to her successes under the following circumstances.
+- When she purposefully saves a life or acts indirectly to save many lives, she rolls three dice. Mercy shown in the name of death’s chivalry doesn’t incur this.
+- When she interacts with the living as though she were one of them, she rolls two dice. This doesn’t punish simply for being seen as one of the living — she’s free to infiltrate Creation, so long as she never forgets that her place is among the dead.
+- When she answers to the name she had in life or otherwise acknowledges her mortal life, she rolls one die. Each of these triggers can only occur once per scene.
+
+The Abyssal can lose Limit in a number of ways
+- Upholding death’s chivalry (p. XX).
+- Accomplishing a legendary social goal (Exalted, p. 134), which lets her lose one Limit.
+- Spending downtime among the dead, which lets her lose one Limit. She can gain this benefit in Creation if she surrounds herself in the trappings of death.
+
+An Abyssal doesn’t experience Limit Breaks or reset her Limit when she reaches Limit 10. Instead, the Abyssal Great Curse takes the form of Bleak Expiation, a torment inflicted upon the deathknight by her own baleful Essence. Expiation occurs under the following circumstances:
+- Once the Abyssal reaches Limit 10, the Abyssal automatically suffers Expiation at the next dramatically appropriate moment.
+- The Storyteller can call for Expiation once per session.
+- An Abyssal’s player can invoke Expiation once per session. The Storyteller may delay it if it would be dramatically inappropriate in the current scene.
+When an Abyssal suffers Expiation, she rolls (higher of Essence or 3) dice, or ten dice if she’s at Limit 10. She loses Limit equal to her successes, minimum one, as the Great Curse stirs. The Storyteller determines what form this, allocating the Limit purged by the roll among the manifestations listed below or similar effects. The severity of a manifestation is rated like an Intimacy, based on how much purged Limit it costs: one for Minor, two for Major, or three for Defining

@@ -12,7 +12,7 @@ Duration: One scene
 Prerequisite Charms:
   - None
 ---
-A life of virtue begins with a foundation of faith. Touching [[Faith’s Pillar]] to the ground, the wielder consecrates the ground on which she stands. As long as she doesn’t move from this point, she adds ([[Essence]] + the dedicated Principle) to her natural soak and gains ([[Essence]]) [[Hardness]]. 
+A life of virtue begins with a foundation of faith. Touching [[Faith’s Pillar]] to the ground, the wielder consecrates the ground on which she stands. As long as she doesn’t move from this point, she adds ([[Essence]] + the dedicated [[Intimacy|Principle]]) to her natural soak and gains ([[Essence]]) [[Hardness]]. 
 
 ## Special activation rules
 

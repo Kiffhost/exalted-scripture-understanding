@@ -17,4 +17,4 @@ The wielder’s anima banner burns away in the crucible of the Pyre, leaving in 
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with jade, this [[evocation]] awakens at no cost when she upholds a Major or Defining Tie of loyalty when confronting a significant threat alone.
+As long as the wielder isn’t dissonant with jade, this [[evocation]] awakens at no cost when she upholds a Major or Defining [[Intimacy|Tie]] of loyalty when confronting a significant threat alone.

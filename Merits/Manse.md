@@ -6,6 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 3 or 5
 ---
 This Merit may be re-purchased as many times as desired.
@@ -14,3 +15,5 @@ In addition to ownership of the manse itself, possessing this Merit at three dot
 
 #### Sidereal
 Many Sidereals have manses in Heaven. They’re typically Lunar, Sidereal, or Solar manses, though others exist in Yu-Shan.
+#### Abyssal
+Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.

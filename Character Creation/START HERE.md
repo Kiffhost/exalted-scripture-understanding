@@ -44,7 +44,10 @@ Most common in the Threshold of Creation, may be isolated or connected to other 
 Wield the *enigmatic*, *predestined*, *intricate* power of the Five Maidens.
 Unique powers in Martial Arts and Prophecies.
 Most common in Yu Shan, usually connected to the great celestial bureaucracy of that place.
-
+## [[Abyssal Exalted]]
+Wield the *horrific*, *ancient* power of death itself.
+Unique powers in Necromancy.
+Originate in the Underworld, emerging in to Creation alone or in large incursions. 
 ## Terrestrial Exalted
 More common and less powerful. Do not suffer from Limit.
 ### [[Dragon-Blooded Exalted]]

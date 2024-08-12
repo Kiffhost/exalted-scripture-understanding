@@ -17,4 +17,4 @@ When the Lunar uses [[Divine Soul-Beast Exaltation]], she can pay ten motes, one
 Yathe receives all of Divine Soul-Beast Exaltation’s benefits and counts as an animal familiar.
 While Yathe is manifested, Thousand Venoms Sting’s anima cost is waived.
 ## Awakening
-This Evocation can’t be purchased with experience points. It awakens for free when the wielder and Yathe both have positive Defining Ties to each other. If either of them voluntarily weakens their Tie, the wielder loses access to this Evocation until it’s restored to Defining.
+This Evocation can’t be purchased with experience points. It awakens for free when the wielder and Yathe both have positive Defining Ties to each other. If either of them voluntarily weakens their [[Intimacy|Tie]], the wielder loses access to this Evocation until it’s restored to Defining.

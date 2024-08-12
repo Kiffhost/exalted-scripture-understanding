@@ -5,6 +5,7 @@ tags:
   - Dragon-Blooded
   - Lunar
   - source/solar-book
+  - Abyssal
 Cost: 2 to 5
 ---
 This Merit may be re-purchased as many times as desired to represent multiple distinct military detachments or truly enormous military forces.
@@ -17,3 +18,5 @@ Taking the [[Command]] Merit indicates that the soldiers are personally loyal to
 
 #### Lunar
 Lunars commonly lead beastfolk armies, which possess [[Might]] 1 (Exalted, p. 207). Such battle groups cost an additional dot.
+#### Abyssal
+Many Abyssals lead battle groups of zombies or war ghosts (Exalted, pp. 502-504), which possess Might 1. Such battle groups cost an additional dot.

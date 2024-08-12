@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Optimistic Security Practice]]"
   - "[[Unwavering Well-Being Meditation]]"
 ---
-Too much depends on the Sidereal for her to let herself die. The Sidereal can use this Charm after being hit by an attack but before the damage roll, adding +1 target number on that roll. Uncountable damage is negated instead; she’s immune to a recurring source of uncountable damage for the scene. With a [[Resistance]] 5, [[Essence]] 3 repurchase, if the Sidereal’s unarmored, she may pay a one-[[Willpower]] surcharge to add +2 target number.
+Too much depends on the Sidereal for her to let herself die. The Sidereal can use this Charm after being hit by an attack but before the damage roll, adding +1 target number on that roll. [[Uncountable damage]] is negated instead; she’s immune to a recurring source of [[uncountable damage]] for the scene. With a [[Resistance]] 5, [[Essence]] 3 repurchase, if the Sidereal’s unarmored, she may pay a one-[[Willpower]] surcharge to add +2 target number.

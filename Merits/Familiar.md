@@ -5,6 +5,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 1 to 3
 ---
 This Merit may be re-purchased as many times as desired.
@@ -13,3 +14,5 @@ One dot in this Merit provides a relatively weak familiar, such as a squirrel, o
 
 #### Sidereal
 Sidereals may take pattern spiders (Sidereal, p. XX) as three-dot familiars.
+#### Abyssal
+Abyssals can take undead animals (p. XX) as familiars. Zombie animals can only be familiars if they still retain a spark of the animal’s identity.

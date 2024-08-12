@@ -43,4 +43,4 @@ Bodyguard, genius tactician, city guardsman, wandering swordsman, barbarian warl
 
 # Experience Trigger
 
-Defeating a powerful enemy, defending a vulnerable Circlemate through skill of arms, using martial prowess to directly advance a Major or Defining Principle, or using martial prowess to directly protect a Major or Defining Tie.
+Defeating a powerful enemy, defending a vulnerable Circlemate through skill of arms, using martial prowess to directly advance a Major or Defining [[Intimacy|Principle]], or using martial prowess to directly protect a Major or Defining [[Intimacy|Tie]].

@@ -15,4 +15,4 @@ Triple Distance [[Attack]] Technique Bearing the blessing of the god of killing 
 
 ## Special activation rules
 
-This Evocation awakens at no cost when the wielder raises a positive Tie towards Kiragaru to Major or higher intensity. If the Solar later weakens this [[Intimacy]], she loses the benefits of this Evocation until it is restored to at least Major Intensity.
+This Evocation awakens at no cost when the wielder raises a positive [[Intimacy|Tie]] towards Kiragaru to Major or higher intensity. If the Solar later weakens this [[Intimacy]], she loses the benefits of this Evocation until it is restored to at least Major Intensity.

@@ -18,7 +18,7 @@ Dharma was never welcomed back by his peers, nor did he ever care to return. He 
  
 ## [[Evocations]] of
 
-[[Resplendent Dream Brush]] The Resplendent Dream Brush’s [[Evocations]] let the artist paint dreams into reality. It draws from the painter’s passions and Intimacies, imbuing her creations with emotional resonance.
-Some of the Resplendent Dream Brush’s [[Evocations]] invoke Intimacies, drawing power from them. This weakens the [[Intimacy]] by one level. Only emotion-based Intimacies can be invoked, and each [[Intimacy]] can only be invoked once per day. In the Wyld, the painter can draw on its chaos instead of invoking Intimacies.
-Bordermarches count as Minor Intimacies, middlemarches as Major, and the deep Wyld as Defining.
+[[Resplendent Dream Brush]] The Resplendent Dream Brush’s [[Evocations]] let the artist paint dreams into reality. It draws from the painter’s passions and [[Intimacy|Intimacies]], imbuing her creations with emotional resonance.
+Some of the Resplendent Dream Brush’s [[Evocations]] invoke [[Intimacy|Intimacies]], drawing power from them. This weakens the [[Intimacy]] by one level. Only emotion-based [[Intimacy|Intimacies]] can be invoked, and each [[Intimacy]] can only be invoked once per day. In the Wyld, the painter can draw on its chaos instead of invoking [[Intimacy|Intimacies]].
+Bordermarches count as Minor [[Intimacy|Intimacies]], middlemarches as Major, and the deep Wyld as Defining.
 The brush is exceptional (Exalted, p. 580). It has no need for paint, creating whatever colors the painter requires from her own emotions. Upon attuning to it, the artist awakens [[Painter of Dreams]] for free.

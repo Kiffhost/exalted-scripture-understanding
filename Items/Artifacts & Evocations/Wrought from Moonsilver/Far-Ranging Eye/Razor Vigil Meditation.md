@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Blinking Eye Omen]]"
 ---
-Far-Ranging Eye’s attentions are unswerving. The wielder reflexively aims against an enemy toward whom she has a Major or Defining Tie of suspicion or distrust, or who she’s ever witnessed making a surprise attack against her or a character toward whom she has a positive Tie. 
+Far-Ranging Eye’s attentions are unswerving. The wielder reflexively aims against an enemy toward whom she has a Major or Defining [[Intimacy|Tie]] of suspicion or distrust, or who she’s ever witnessed making a surprise attack against her or a character toward whom she has a positive [[Intimacy|Tie]]. 
 
 ## Resonant
 

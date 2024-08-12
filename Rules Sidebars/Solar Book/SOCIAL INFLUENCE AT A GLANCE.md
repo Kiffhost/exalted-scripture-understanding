@@ -4,7 +4,7 @@ tags:
 ---
 ### [[SOCIAL INFLUENCE AT A GLANCE]] SOCIAL INFLUENCE IS ABOUT: 
 
-- Discovering the Intimacies of others. 
+- Discovering the [[Intimacy|Intimacies]] of others. 
 - Protecting your own Intimacies from discovery. 
 - Exploiting others’ Intimacies to persuade them. 
 - Instilling others with new Intimacies to affect their feelings or beliefs.

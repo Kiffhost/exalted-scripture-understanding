@@ -12,7 +12,7 @@ Duration: One story
 Prerequisite Charms:
   - "[[God-Beast Exemplar Spirit]]"
 ---
-The Lunar is the beast of judgment out of cautionary tales, the monster that mothers warn their children of and the pious swear oaths by. The Lunar chooses a custom of a culture that she has a positive Major or Defining Tie toward, or that her Solar mate rules. She embodies divine punishment against those who break it, gaining the following: 
+The Lunar is the beast of judgment out of cautionary tales, the monster that mothers warn their children of and the pious swear oaths by. The Lunar chooses a custom of a culture that she has a positive Major or Defining [[Intimacy|Tie]] toward, or that her Solar mate rules. She embodies divine punishment against those who break it, gaining the following: 
 -  She doubles [[Resolve]] bonuses from her Ties to the culture or to her Solar mate against influence that would cause her to violate the custom. 
 -  When she reads a character’s intentions to determine if he’s violated the custom, intends to do so, or holds an [[Intimacy]] contrary to it, she automatically succeeds if her [[Essence]] exceeds his [[Willpower]]. 
 -  When she makes a persuade or threaten roll against a member of the culture she knows has violated the custom to convince him to remedy the consequences of his transgression or face punishment, he suffers −1 [[Resolve]] and the cost to resist is increased by one [[Willpower]]. 

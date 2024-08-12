@@ -43,7 +43,7 @@ Master duelist, irrepressible socialite, righteous crusader, passionate musician
 
 # Experience Trigger
 
-Defeating a powerful enemy in a way that upholds an emotion-based Major or Defining [[Intimacy]]; taking needless risks or plunging into unnecessary danger to uphold a Major or Defining [[Intimacy]]; inspiring others to uphold one of the character’s emotion-based Major or Defining Intimacies in a significant way; directly furthering the character’s or her allies’ goals by causing another character to question one of his Major or Defining Intimacies
+Defeating a powerful enemy in a way that upholds an emotion-based Major or Defining [[Intimacy]]; taking needless risks or plunging into unnecessary danger to uphold a Major or Defining [[Intimacy]]; inspiring others to uphold one of the character’s emotion-based Major or Defining [[Intimacy|Intimacies]] in a significant way; directly furthering the character’s or her allies’ goals by causing another character to question one of his Major or Defining [[Intimacy|Intimacies]]
 
 # Great Curse Manifestation
 

@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Thicker Than Stone]]"
 ---
-When the Dragon-Blood successfully asserts her [[Resolve]] against influence that opposes one of her Defining Intimacies, or successfully instills a nontrivial character with one of her Defining Intimacies using any social Ability, she gains a single point of [[Willpower]]. This Charm can only be used once per day. 
+When the Dragon-Blood successfully asserts her [[Resolve]] against influence that opposes one of her Defining [[Intimacy|Intimacies]], or successfully instills a nontrivial character with one of her Defining [[Intimacy|Intimacies]] using any social Ability, she gains a single point of [[Willpower]]. This Charm can only be used once per day. 

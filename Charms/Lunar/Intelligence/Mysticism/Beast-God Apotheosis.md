@@ -19,7 +19,7 @@ None would mistake a beast-spirit for an ordinary animal. Some are humanoid in f
 A beast-spirit uses the same traits as its animal form, plus the below:  - It’s a spirit, rather than an animal. It’s naturally material, but can dematerialize, using the same rules as materializing (Exalted, p. 510), but in reverse. If slain, it reforms at the Lunar’s side on the next full moon.
  - It’s the Lunar’s familiar.
  - It has [[Essence]] 3 and a pool of (50 + [Essence x10]) motes.
- - It has a Defining Tie of loyalty to the Lunar, which can’t be weakened or altered by any means. Upon creation, it has one other Defining [[Intimacy]] and two Major Intimacies, typically reflecting some aspects of its animal’s instincts, behavior, or socialization.
+ - It has a Defining [[Intimacy|Tie]] of loyalty to the Lunar, which can’t be weakened or altered by any means. Upon creation, it has one other Defining [[Intimacy]] and two Major [[Intimacy|Intimacies]], typically reflecting some aspects of its animal’s instincts, behavior, or socialization.
  - It knows Hurry Home (Exalted, p. 509), allowing it to return to the Lunar, and (Lunar’s [[Essence]]) additional spirit [[Charms]] appropriate to its animal’s nature, the symbolic significance it has to the Lunar, or the beast-spirit’s changed form. Animal avatars’ [[Charms]] (p. 87) are often appropriate. It gains new [[Charms]] as the Lunar’s [[Essence]] increases, and an additional Charm at the end of any story in which it played a meaningful role.
 This Charm’s experience point cost is waived the first time the Lunar uses it. If a beast-spirit is permanently destroyed or otherwise becomes narratively irrelevant, the Lunar’s player regains the experience spent to create it.
 

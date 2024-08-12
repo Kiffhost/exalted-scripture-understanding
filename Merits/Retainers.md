@@ -6,6 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 2 or 4
 ---
 This Merit may be re-purchased as many times as desired.
@@ -18,3 +19,5 @@ Many Lunars retain the services of Moon-Touched, which are two-dot [[Retainers]]
 
 #### Sidereals
 Minor spirits, commonly employed by Sidereals as secretaries, bodyguards, couriers, etc., are two-dot [[Retainers]]. Young Heaven’s Dragons (Sidereal, p. XX) are often employed in similar capacities as four-dot [[Retainers]].
+#### Abyssal
+Most ghosts are two-dot Retainers, as are Ghost-Blooded. Especially powerful ghosts may be four-dot Retainers.

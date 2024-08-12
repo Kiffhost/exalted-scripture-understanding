@@ -16,4 +16,4 @@ There was once an enlightened city that sat alone on the shores of Creation. It 
 
 ## [[Evocations]] of the [[Brilliant Sentinel]] 
 
-When attuned and worn, the armor imposes a -1 penalty to the [[Join Battle]] rolls of all enemies who have harmed or wish to harm the object of one of the wearer’s Major or Defining Intimacies. This penalty becomes -1 success to all unExalted creatures of darkness.
+When attuned and worn, the armor imposes a -1 penalty to the [[Join Battle]] rolls of all enemies who have harmed or wish to harm the object of one of the wearer’s Major or Defining [[Intimacy|Intimacies]]. This penalty becomes -1 success to all unExalted creatures of darkness.

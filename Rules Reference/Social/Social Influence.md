@@ -1,19 +1,21 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - Social Actions
 ---
 In Exalted, the words of prophets, courtiers, and princes carry as much power as a warrior’s sword or a sorcerer’s magic. Social influence is the system used for resolving interactions in which characters attempt to manipulate, persuade, or coerce each other. With the social actions listed below, characters can gain the trust of others and then use that to influence them, changing or shaping their beliefs over the course of a conversation, oration, or artistic performance.
 # Overview
-Social influence in Exalted revolves around [[Intimacy|Intimacies]]. In terms of gameplay, you’re either going to be *influencing someone’s outlook* (by creating, destroying, strengthening, or weakening Intimacies), or using Intimacies to *persuade someone to do what you want*. Intimacies are the core of this system.
+Social influence in Exalted revolves around [[Intimacy|Intimacies]]. In terms of gameplay, you’re either going to be *influencing someone’s outlook* (by creating, destroying, strengthening, or weakening [[Intimacy|Intimacies]]), or using [[Intimacy|Intimacies]] to *persuade someone to do what you want*. [[Intimacy|Intimacies]] are the core of this system.
 
-Without exploiting an [[Intimacy]], [[Persuade|persuasion]] isn’t possible. No matter how charismatic you might be, a stranger won’t give over his life to your cause just because you say so— there has to be a reason to make him take such course of action. Perhaps they trust and respect you; perhaps they hate someone you’ve set yourself against; perhaps by doing so, they’ll further their own goals or stand up for what they believe in. All such motives are described by Intimacies. **In short: You need to play on an [[Intimacy]] to be able to talk people into doing things you want them to do. The stronger the [[Intimacy]], the more you can convince people to do in its name.**
+Without exploiting an [[Intimacy]], [[Persuade|persuasion]] isn’t possible. No matter how charismatic you might be, a stranger won’t give over his life to your cause just because you say so— there has to be a reason to make him take such course of action. Perhaps they trust and respect you; perhaps they hate someone you’ve set yourself against; perhaps by doing so, they’ll further their own goals or stand up for what they believe in. All such motives are described by [[Intimacy|Intimacies]]. **In short: You need to play on an [[Intimacy]] to be able to talk people into doing things you want them to do. The stronger the [[Intimacy]], the more you can convince people to do in its name.**
 
-Specifically, most [[#Social Actions]] utilise an [[Influence roll]], which accounts for the presence and relative strength of a target's Intimacies.
-# [[Order]] of Actions
+Specifically, most [[#Social Actions]] utilise an [[Influence roll]], which accounts for the presence and relative strength of a target's [[Intimacy|Intimacies]].
+# Order of Actions
 [[Combat Action]] don’t usually have special timing—there are no “Social turns.” When multiple characters attempt social actions in the same scene, who rolls when can be decided by the natural flow of the conversation, or by procedure (in a court, for example, there are strict rules regarding who speaks when). If two characters are both trying to present different arguments to a single individual, then that individual’s player decides who to listen to first. If it’s still not clear who acts in which order, then the characters with the highest ([[Wits]] + [[Socialize]]) go first, with the Storyteller breaking any ties.
 
 [[Combat Action]] in combat operate as a miscellaneous action
-# [[Social Actions]]
+# Social Actions
 ```dataview
 TABLE WITHOUT ID
 FROM #Action/social
@@ -23,7 +25,7 @@ TABLE WITHOUT ID file.link AS "Name", contains(file.etags, "Action/social/influe
 FROM #Action/social
 SORT file.ctime
 ```
-## Retrying [[Social Actions]]
+## Retrying Social Actions
 Each [[#Social Actions|social action]] has different conditions under which it may be retried. See the individual files.
 # [[Appearance]]
 While the [[Appearance]] Attribute may be rolled as part of social actions, it also has another function in social influence, granting a bonus against weak-willed characters. Those of low [[Resolve]] are more easily impressed and awed by striking, beautiful individuals, or easily [[Threaten|intimidated]] by the [[Hideous|profoundly ugly]].
@@ -55,7 +57,7 @@ Characters in the world of Exalted are generally loath to abandon a course of ac
 
 First, a character who has already been persuaded to do something receives a +3 bonus to his [[Resolve]] against any influence that would cause him to abandon or disregard that persuasion. This bonus stacks with the [[Intimacy]] bonus from a relevant [[Intimacy]]. 
 
-Second, a petitioner who wishes to overturn existing persuasive influence must spend a point of [[Willpower]] before making her argument and roll. So, in the above example, the Sidereal must spend a point of [[Willpower]] to impress upon Rellus the dire urgency of the omens she has foreseen—and Rellus’s [[Resolve]] is automatically at +3 to resist her influence, before Intimacies come into play
+Second, a petitioner who wishes to overturn existing persuasive influence must spend a point of [[Willpower]] before making her argument and roll. So, in the above example, the Sidereal must spend a point of [[Willpower]] to impress upon Rellus the dire urgency of the omens she has foreseen—and Rellus’s [[Resolve]] is automatically at +3 to resist her influence, before [[Intimacy|Intimacies]] come into play
 
 If the contradictory persuasion succeeds, the targeted character may use a [[Influence roll#Decision Points|Decision Point]] to resist it by citing a conflicting [[Intimacy]], *without spending a point of [[Willpower]] to initiate the Decision Point*—it’s easier to stand by a hard-fought decision than to abandon it and reverse yourself. Conversely, if he wants to abandon his present course of action and accept the new influence, the character must spend a point of [[Willpower]] and cite the [[Intimacy]] which was used to change his mind.
 

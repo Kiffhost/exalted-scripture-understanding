@@ -17,7 +17,7 @@ Telling the story is a special instill roll. The bearer can’t decline to asser
 If Inkwarden’s bearer has firsthand knowledge of an object’s crafting, maker, or wielder, she can speak its legend herself if she believes the object worthy. She rolls ([[Charisma]] + [[Performance]]) at difficulty 5. However, she can’t bless an object that she created.
 On a successful roll, Inkwarden’s bearer may stamp the object, binding the legend to its reality. Anyone who encounters the object for the first time faces an instill action from it as they feel the weight of its legend.
 This uses the successes from this Evocation’s initial roll. Alternatively, the bearer may specify a condition required to trigger this, like wielding a blessed weapon.
-This influence instills a Principle of belief in the object’s story. For some, it’s as if they suddenly remembered a story they’d heard once, long ago; for others, the legend plays out in a hallucinatory break from reality.
+This influence instills a [[Intimacy|Principle]] of belief in the object’s story. For some, it’s as if they suddenly remembered a story they’d heard once, long ago; for others, the legend plays out in a hallucinatory break from reality.
 This Evocation can be used multiple times to bless up to (higher of [[Essence]] or 3) objects.
 ## Resonant
 Inkwarden adds (higher of [[Essence]] or 3) non-Charm dice on this Evocation’s initial roll.

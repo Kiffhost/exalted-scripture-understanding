@@ -20,9 +20,9 @@ Much rarer versions of the clockwork bird, their feathers banded with orichalcum
 Combat [[Movement]]: 9 dice 
 Evasion 4 (see Tiny Creature below), Parry 1 
 Soak/Hardness: 5/4
-Intimacies: 
+[[Intimacy|Intimacies]]: 
 - Defining Tie: Its owner (Loyalty) 
 - Major Principle: “The beauty and power of speech is exceeded only by that of music.”
 ###### MERITS 
-**Automaton**: Vanileth’s birds are immune to poison, disease, fatigue, and fear (unless faced with magic such as the [[Dawn]] Caste anima power), and have no need to eat, drink, breathe, or sleep. **Languages**: Vanileth’s birds know all major languages and several dead First Age languages. **Mechanical Mind**: Social influence cannot affect the Major and Defining Intimacies of Vanileth’s birds, nor can they raise new Intimacies to Major or Defining.
+**Automaton**: Vanileth’s birds are immune to poison, disease, fatigue, and fear (unless faced with magic such as the [[Dawn]] Caste anima power), and have no need to eat, drink, breathe, or sleep. **Languages**: Vanileth’s birds know all major languages and several dead First Age languages. **Mechanical Mind**: Social influence cannot affect the Major and Defining [[Intimacy|Intimacies]] of Vanileth’s birds, nor can they raise new [[Intimacy|Intimacies]] to Major or Defining.
 **Tiny Creature**: Add +2 Evasion against any attack made by any foe larger than a housecat. In addition, characters of that size subtract two successes from any [[Awareness]]-based roll made to notice Vanileth’s bird.

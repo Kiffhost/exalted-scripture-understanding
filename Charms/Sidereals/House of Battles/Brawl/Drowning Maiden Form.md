@@ -17,7 +17,7 @@ The Sidereal’s inner eye witnesses every act of violence she has yet to inflic
 -  Her withering attacks gain +1 Overwhelming. This increases to +(Strength/2, rounded up) for unarmed attacks. 
 -  Her decisive damage rolls and grapple control rolls gain −1 target number against enemies of fate and crashed enemies. 
 -  She adds (Strength/2, rounded up) soak. If she’s unarmored, this increases to ([[Strength]]). 
--  She adds +1 to the [[Resolve]] bonus of Intimacies that support engaging in battle, making sacrifices, or disregard the desires of others. 
+-  She adds +1 to the [[Resolve]] bonus of [[Intimacy|Intimacies]] that support engaging in battle, making sacrifices, or disregard the desires of others. 
 
 ## Special activation rules
 
