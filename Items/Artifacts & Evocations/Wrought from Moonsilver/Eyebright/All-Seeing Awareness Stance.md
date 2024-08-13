@@ -21,4 +21,4 @@ When the Lunar detects a concealed enemy with [[Ever-Wary Fox Technique]], she c
 
 ## Resonant
 
-The wearer gains +1 Evasion. 
+The wearer gains +1 [[Defense|Evasion]]. 

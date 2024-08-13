@@ -14,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Step Between Seconds]]"
 ---
-Gnomon unwinds the moment of an attack into a seeming eternity as its wielder delivers a barrage of innumerable strikes. Against an enemy with lower [[Initiative]], this attack is unblockable. Enemies with equal or higher [[Initiative]] suffer −2 Parry instead. If the attack hits, the barrage magically inflicts an additional point of onslaught penalty on the target. This Evocation’s cost is waived if used during the frozen time of [[Step Between Seconds]]. 
+Gnomon unwinds the moment of an attack into a seeming eternity as its wielder delivers a barrage of innumerable strikes. Against an enemy with lower [[Initiative]], this attack is unblockable. Enemies with equal or higher [[Initiative]] suffer −2 [[Defense|Parry]] instead. If the attack hits, the barrage magically inflicts an additional point of onslaught penalty on the target. This Evocation’s cost is waived if used during the frozen time of [[Step Between Seconds]]. 
 
 ## Dissonant
 

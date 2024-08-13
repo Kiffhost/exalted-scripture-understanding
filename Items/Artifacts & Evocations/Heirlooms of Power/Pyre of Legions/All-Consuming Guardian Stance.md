@@ -17,4 +17,4 @@ FlamesleapfromPyreofLegionstoguardacomrade,burning away volleys of arrows and pu
 
 ## Resonant
 
-When defending her ward against the attacks of battle groups, the wielder gains +1 Parry.
+When defending her ward against the attacks of battle groups, the wielder gains +1 [[Defense|Parry]].

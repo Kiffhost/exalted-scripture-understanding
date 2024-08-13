@@ -14,4 +14,4 @@ Prerequisite Charms:
   - "[[Flitting Shadow Form]]"
 ---
 *The Abyssal blurs and distorts in motion, untouched even by the attacks that seem to strike her wraith-like form.*
-The Abyssal ignores penalties to Evasion against lower-[[Initiative]] enemies. At the end of each round, if she’s within close range of an enemy and hasn’t been hit by any attacks that round, she gains one [[Initiative]].
+The Abyssal ignores penalties to [[Defense|Evasion]] against lower-[[Initiative]] enemies. At the end of each round, if she’s within close range of an enemy and hasn’t been hit by any attacks that round, she gains one [[Initiative]].

@@ -17,4 +17,4 @@ The Abyssal empowers a ship by shedding her own blood, granting it the following
  - +1 Speed.
  - It gains (Essence/2, rounded up) temporary −4 [[Hull]] levels. They’re the first −4 levels to be lost and vanish when damaged.
  - [[Crew]] members aboard it who have a Major or Defining [[Intimacy]] of loyalty, fear, obedience, or love for the Abyssal add ([[Intimacy]]) to their [[Stamina]] to determine how long they can go without food, water, or air (Exalted, p. 230). Undead crew instead gain an additional −4 health level aboard ship.
-This Charm’s health level cost is waived if the Abyssal executes someone aboard ship as she uses it, using the sacrifice’s blood instead of her own.
+This Charm’s health level cost is waived if the Abyssal executes someone aboard ship as she uses it, using the [[sacrifice]]’s blood instead of her own.

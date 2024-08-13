@@ -6,7 +6,7 @@ Essence: 3; [[Willpower]]: 5; [[Join Battle]]: 10 dice Personal Motes: 30 Health
 
 ## COMBAT 
 
-[[Attack]] ([[Unarmed]]): 14 dice (Damage 15B/3; see Maker’s Bane) [[Attack]] (Grapple): 8 dice (9 dice to control). Makes unopposed grapple rolls against smaller opponents, unless they use magic like [[Dragon Coil Technique]] (Exalted, p. 280). Combat [[Movement]]: 7 dice Evasion 2; Parry 6 Soak/Hardness: 10/4 
+[[Attack]] ([[Unarmed]]): 14 dice (Damage 15B/3; see Maker’s Bane) [[Attack]] (Grapple): 8 dice (9 dice to control). Makes unopposed grapple rolls against smaller opponents, unless they use magic like [[Dragon Coil Technique]] (Exalted, p. 280). Combat [[Movement]]: 7 dice [[Defense|Evasion]] 2; [[Defense|Parry]] 6 Soak/Hardness: 10/4 
 
 ## SPECIAL ABILITIES
 

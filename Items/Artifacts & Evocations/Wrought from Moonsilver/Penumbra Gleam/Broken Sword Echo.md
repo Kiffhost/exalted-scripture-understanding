@@ -17,4 +17,4 @@ As their blades rebound from [[Penumbra Gleam]], enemies are assailed by thought
 
 ## Resonant
 
-The wielder adds non-Charm dice on her counterattack equal to the difference between the enemy’s attack roll and her Parry.
+The wielder adds non-Charm dice on her counterattack equal to the difference between the enemy’s attack roll and her [[Defense|Parry]].

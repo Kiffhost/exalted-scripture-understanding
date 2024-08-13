@@ -2,6 +2,9 @@
 tags:
   - "#trait/combat"
   - source/solar-book
+aliases:
+  - Parry
+  - Evasion
 ---
 Defense is a static value trait representing a character's ability to protect themselves in combat. It acts as the [[Dice Rolls#Difficulty|difficulty]] for opponent's [[Attack#hit roll|hit rolls]] in combat.
 

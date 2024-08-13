@@ -13,5 +13,5 @@ Prerequisite Charms:
   - "[[Elegant Flowing Deflection]]"
 ---
 *Burning with an indomitable will to survive, the Abyssal turns aside her enemies’ blows with impossible grace and speed.*
-The Abyssal ignores all penalties to her Parry. On damage rolls against her, up to (her [[Essence]]) 1s subtract successes.
+The Abyssal ignores all penalties to her [[Defense|Parry]]. On damage rolls against her, up to (her [[Essence]]) 1s subtract successes.
 While using [[Eye of the Tempest]], this Charm’s cost is reduced by two motes.

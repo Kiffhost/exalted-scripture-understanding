@@ -17,7 +17,7 @@ The Abyssal chooses a zombie or similar [[Essence]] 1 animated corpse of her own
 The champion gains the following benefits:
  - The Abyssal’s Caste Mark glows on its brow. Those familiar with her can recognize her champion as belonging to her with a difficulty 3 ([[Perception]] + [[Occult]]) roll.
  - The Abyssal adds four dice to one of its dice pools and two dice to its other pools. This can’t raise a pool above fourteen dice.
- - The Abyssal adds +2 to one of its Evasion, Parry, or [[Resolve]], and +1 to the other values. This can’t raise these values above 7.
+ - The Abyssal adds +2 to one of its [[Defense|Evasion]], [[Defense|Parry]], or [[Resolve]], and +1 to the other values. This can’t raise these values above 7.
  - It gains +5 soak and [[Hardness]] (Abyssal’s [[Essence]] + 3).
  - It gains (Abyssal’s [[Essence]]) −2 health levels.
  - Its [[Willpower]] increases to five. If it already has [[Willpower]] 5+, it increases by one instead.

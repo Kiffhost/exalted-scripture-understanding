@@ -15,4 +15,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Force flows through the Dragon-Blood with every strike. She may add bonus dice to a [[Brawl]] or [[Martial Arts]] attack or the control roll of a clinch for one mote each, and deals lethal damage unarmed. She rerolls 6s on the damage roll until they cease to appear. Alternatively, she may raise her [[Brawl]]- or [[Martial Arts]]-based Parry by two motes per point, and block lethal damage unarmed.
+Force flows through the Dragon-Blood with every strike. She may add bonus dice to a [[Brawl]] or [[Martial Arts]] attack or the control roll of a clinch for one mote each, and deals lethal damage unarmed. She rerolls 6s on the damage roll until they cease to appear. Alternatively, she may raise her [[Brawl]]- or [[Martial Arts]]-based [[Defense|Parry]] by two motes per point, and block lethal damage unarmed.

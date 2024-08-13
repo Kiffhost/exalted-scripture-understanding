@@ -14,4 +14,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Flickering Candle Meditation]]"
 ---
-The Dragon-Blood’s feet strike sparks from the ground, finally igniting in an explosive leap When she dodges an attack that misses her Evasion by at least two successes, she may move one range band in any direction.
+The Dragon-Blood’s feet strike sparks from the ground, finally igniting in an explosive leap When she dodges an attack that misses her [[Defense|Evasion]] by at least two successes, she may move one range band in any direction.

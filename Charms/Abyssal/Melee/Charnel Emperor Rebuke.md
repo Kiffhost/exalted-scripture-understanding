@@ -15,4 +15,4 @@ Prerequisite Charms:
   - "[[Vengeful Riposte]]"
 ---
 *Those with the temerity to strike the deathknight are quickly relieved of their foolish hopes of survival.*
-The Abyssal can use this Charm to make a withering counterattack after an attack roll beats her Parry, but before the damage roll. She doesn’t gain any [[Initiative]] from the counterattack’s damage roll, but instead rolls that many dice of decisive damage, ignoring [[Hardness]].
+The Abyssal can use this Charm to make a withering counterattack after an attack roll beats her [[Defense|Parry]], but before the damage roll. She doesn’t gain any [[Initiative]] from the counterattack’s damage roll, but instead rolls that many dice of decisive damage, ignoring [[Hardness]].

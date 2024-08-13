@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Death Well-Remembered]]"
 ---
 *The Abyssal is at peace amid the bloody storm of battle, turning aside blows without the slightest wasted motion.*
-The Abyssal ignores wound penalties and onslaught penalties to her Parry, as well as penalties for being grappled or from magic that specifically targets creatures of darkness.
+The Abyssal ignores wound penalties and onslaught penalties to her [[Defense|Parry]], as well as penalties for being grappled or from magic that specifically targets creatures of darkness.

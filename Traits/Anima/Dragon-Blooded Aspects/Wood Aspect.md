@@ -23,7 +23,7 @@ Wood Aspects tend toward a greenish tinge to their skin, hair, lips, or even blo
 
 Wood Aspects need not fear poison, even as their venomous anima flux weakens their foes. They can also embody the lithe grace of plants (p. 155). 
 - For five motes, the [[Wood Aspect]] becomes immune to mundane plant-based poisons, and doubles 9s on rolls to resist other poisons and diseases for the scene. She gains these benefits for free while at bonfire.
-- For three motes, the [[Wood Aspect]] becomes flexible as a sapling in the wind, ignoring one point of penalty to Evasion or ([[Essence]]) points of penalty on a movement action for an instant.
+- For three motes, the [[Wood Aspect]] becomes flexible as a sapling in the wind, ignoring one point of penalty to [[Defense|Evasion]] or ([[Essence]]) points of penalty on a movement action for an instant.
 - A Wood Aspect’s anima flux is laced with toxic power. A character that takes damage from it is exposed to a poison with Damage 2i/round, Duration ([[Essence]] + [[Stamina]]) rounds, and a −1 penalty.
 
 # Aspect Abilities

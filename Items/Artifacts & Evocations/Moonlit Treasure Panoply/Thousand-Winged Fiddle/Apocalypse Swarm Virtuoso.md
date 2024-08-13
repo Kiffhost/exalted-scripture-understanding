@@ -19,7 +19,7 @@ Battle groups of grasshoppers have [[Might]] 3.
  - The battle group gains +1 [[Size]] and adds (Lunar’s [[Essence]]) to its Magnitude (Exalted, p. 208).
  - The battle group adds three dice to all dice pools, maximum 14. For pools lower than six dice, add four dice instead.
  - The battle group’s attacks gain +3 Damage and Overwhelming (Lunar’s [[Essence]]).
- - The battle group adds +2 Evasion and Parry, maximum 7. For values lower than 3, add +3 instead.
+ - The battle group adds +2 [[Defense|Evasion]] and [[Defense|Parry]], maximum 7. For values lower than 3, add +3 instead.
  - The battle group adds +5 soak, maximum 15, and gains [[Hardness]] (Lunar’s [[Essence]] + 2).
  - If the battle group’s members have the Minuscule [[Size]] or Tiny Creature [[Merits]], their attacks deal damage normally to larger enemies.
  - The Lunar gains the Charm’s Protean benefit regardless of her shape.

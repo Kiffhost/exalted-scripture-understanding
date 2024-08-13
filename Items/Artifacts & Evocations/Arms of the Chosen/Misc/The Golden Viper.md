@@ -18,7 +18,7 @@ Aside from its vivid construction, the Viper is as subtle as any mundane serpent
 ###### COMBAT 
 [[Attack]] (Bite): 12 dice (Damage 9L + poison)
 Combat [[Movement]]: 8 dice
-Evasion 3 (see Tiny Creature below), Parry 1
+[[Defense|Evasion]] 3 (see Tiny Creature below), [[Defense|Parry]] 1
 Soak/Hardness: 8/4 
 [[Intimacy|Intimacies]]: 
 - Defining Principle: “The ends justify the means.” 

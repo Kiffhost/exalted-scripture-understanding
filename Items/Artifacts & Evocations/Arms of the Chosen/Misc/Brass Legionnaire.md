@@ -25,7 +25,7 @@ The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, dist
 [[Attack]] (self bow): 9 dice at close range (Damage 11L)
 [[Attack]] (unarmed): 9 dice (Damage 11B)
 Combat [[Movement]]: 7 dice
-Evasion 3, Parry 5
+[[Defense|Evasion]] 3, [[Defense|Parry]] 5
 Soak/Hardness: 14/8
 [[Intimacy|Intimacies]]: 
 - Defining Principle: “A [[Brass Legionnaire]] exists to serve its commander.” 

@@ -6,15 +6,14 @@
       {
         "id": "dfe166dbd269c893",
         "type": "tabs",
-        "dimension": 67.7133655394525,
         "children": [
           {
-            "id": "4bed663ec31d0f20",
+            "id": "b6782bd23056a731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules Reference/Excellencies.md",
+                "file": "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer/Thousand Horrors Harvest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,38 +21,12 @@
             }
           },
           {
-            "id": "a9c0eb7a3b90db9c",
+            "id": "62fe389b99f04942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charms/Abyssal/Abyssal Excellency.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3beaf8a526837a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Charms/Martial Arts/Hungry Ghost Style/Leaping Horror Approach.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29abedefe289eea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progress Tracker.md",
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,23 +34,22 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "f8c914a99f311535",
+        "id": "100e5a9d7346655e",
         "type": "tabs",
-        "dimension": 32.2866344605475,
         "children": [
           {
-            "id": "995b563fd008290b",
+            "id": "4d64c4138f67661d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
                 "options": {
-                  "collapse-filter": true,
-                  "search": "taG:#Abyssal  ",
+                  "collapse-filter": false,
+                  "search": "tag:#Sidereal  ",
                   "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -87,18 +59,18 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 3.06041666666667,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000007,
-                  "close": false
+                  "scale": 0.713275462622442,
+                  "close": true
                 }
               }
             }
@@ -132,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart piercing",
+                "query": "\"emerald circle\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 224.5
   },
   "right": {
     "id": "d3f03f9e2c185d65",
@@ -169,14 +141,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -186,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
               }
             }
           },
@@ -231,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Progress Tracker.md"
+                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
               }
             }
           },
@@ -255,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,44 +239,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29abedefe289eea0",
+  "active": "62fe389b99f04942",
   "lastOpenFiles": [
-    "Charms/Abyssal/Resistance/Incorruptible Corpse Perfection.md",
-    "Charms/Abyssal/War/Shadows of Foretold Slaughter.md",
-    "Charms/Abyssal/Brawl/Manifold Murder Arts.md",
-    "Charms/Abyssal/Socialize/Damnation’s Price.md",
-    "Charms/Abyssal/Dodge/Wraith-Form Avoidance.md",
-    "Charms/Abyssal/Dodge/Flickering Wisp Technique.md",
-    "Charms/Abyssal/Archery/Setting Sun Pursuit.md",
-    "Charms/Abyssal/Integrity/Immortal Malevolence.md",
-    "Charms/Abyssal/Performance/Wicked Stagecraft Expertise.md",
-    "Charms/Abyssal/Performance/Ego Void Persona.md",
-    "Charms/Abyssal/Performance/Debauched Carnival Gambol.md",
-    "Charms/Abyssal/Occult/Shroud of Shining Dark.md",
-    "Charms/Abyssal/Stealth/Whisper of Sudden Demise.md",
-    "Charms/Abyssal/Survival/Blood-Chilling Caress.md",
-    "Charms/Abyssal/Stealth/Imperceptible Phantom Embodiment.md",
-    "Charms/Abyssal/Presence/Killing Words Technique.md",
-    "Charms/Abyssal/Stealth/Seven Edges of the Raiton.md",
-    "Charms/Abyssal/Ride/Saddled in Epic Monstrosity.md",
-    "Charms/Abyssal/Melee/Apocalypse Blade Unbound.md",
-    "Charms/Abyssal/Athletics/Behemoth-Felling Approach.md",
-    "Charms/Abyssal/Investigation/Omniscient Spymaster’s Web.md",
-    "Charms/Abyssal/Larceny/Vanisher’s Subtle Hand.md",
-    "Charms/Abyssal/Larceny/Reality-Subverting Gesture.md",
-    "Charms/Abyssal/Awareness/Bloodshed Beckons.md",
-    "Charms/Abyssal/Athletics/Stepping Outside Existence.md",
-    "Charms/Abyssal/Athletics/Superior Weapon-Body.md",
-    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle",
-    "Charms/Martial Arts/Hungry Ghost Style",
-    "Autogen/Martial Arts",
-    "Charms/Abyssal",
-    "Charms/Abyssal/War",
-    "Charms/Abyssal/Thrown",
-    "Charms/Abyssal/Survival",
-    "Charms/Abyssal/Stealth",
-    "Charms/Abyssal/Socialize",
-    "Charms/Abyssal/Sail",
+    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
+    "Sorceries/Archetypes/Bargain with Mara/Soul extraction via seduction.md",
+    "Sorceries/Archetypes/Bargain with Mara/Shadow and Darkness.md",
+    "Sorceries/Archetypes/Bargain with Mara/Dark Paramour.md",
+    "Sorceries/Archetypes/Bargain with Mara/Power from adoration.md",
+    "Sorceries/Archetypes/Bargain with Mara/Infernal Nobility.md",
+    "Sorceries/Archetypes/Dreamer of the Caul/Ecstatic Discipline.md",
+    "Sorceries/Archetypes/Dreamer of the Caul/Dreams of Green and Silver.md",
+    "Sorceries/Archetypes/Dreamer of the Caul/Dreamer of the Caul.md",
+    "Sorceries/Celestial Circle/Cloud Trapeze.md",
+    "Necromancies/Archetypes/Umaza's Hymns/Umaza's Hymns.md",
+    "Necromancies/Archetypes/Umaza's Hymns/Bleak Tide Voice.md",
+    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Weeper.md",
+    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Siren.md",
+    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Horror.md",
+    "Sorceries/Terrestrial Circle/Invulnerable Skin of Bronze.md",
+    "Sorceries/Terrestrial Circle/Stormwind Rider.md",
+    "Sorceries/Terrestrial Circle/Sculpted Seafoam Eidolon.md",
+    "Sorceries/Terrestrial Circle/Mists of Eventide.md",
+    "Sorceries/Terrestrial Circle/Keel Cleaves the Clouds.md",
+    "Sorceries/Terrestrial Circle/Peacock Shadow Eyes.md",
+    "Sorceries/Terrestrial Circle/Beckoning That Which Stirs the Sky.md",
+    "Sorceries/Terrestrial Circle/Death of Obsidian Butterflies.md",
+    "Sorceries/Terrestrial Circle/Corrupted Words.md",
+    "Sorceries/Terrestrial Circle/Cirrus Skiff.md",
+    "Sorceries/Terrestrial Circle/Blood Lash.md",
+    "Items/Artifacts & Evocations/Underworld Artifacts",
+    "Items/Artifacts & Evocations/Underworld Artifacts/The Ravenous Throne",
+    "Items/Artifacts & Evocations/Underworld Artifacts/Nyraxes, the Dead Ember",
+    "Items/Artifacts & Evocations/Underworld Artifacts/The Feverfear Guise",
+    "Items/Artifacts & Evocations/Underworld Artifacts/The Nemesis Cuirass",
+    "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer",
+    "Items/Artifacts & Evocations/Underworld Artifacts/Scavenger’s Shroud",
+    "Items/Artifacts & Evocations/Underworld Artifacts/The Shatterbond Knives",
+    "Items/Artifacts & Evocations/Underworld Artifacts/Pra Gita",
+    "Items/Artifacts & Evocations/Underworld Artifacts/Rattlebones",
     "Charms/Solar/Archery/Solar Archery Charm Tree.canvas",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",

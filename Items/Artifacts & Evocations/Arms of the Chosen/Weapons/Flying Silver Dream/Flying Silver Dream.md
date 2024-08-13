@@ -26,6 +26,6 @@ Drawing or readying the daiklave incurs no [[Defense]] penalty, the sword leapin
 ##### Combat
 **Attack**: (10+Essence) dice (Damage 15, minimum 4)
 **Combat movement**: (10+Essence) dice 
-Evasion 6, Parry 7 
+[[Defense|Evasion]] 6, [[Defense|Parry]] 7 
 **Soak/Hardness**: (10+Essence)/(6+Essence) 
 **Special**: Flying Silver Dream’s [[Willpower]] resets at the start of each combat.

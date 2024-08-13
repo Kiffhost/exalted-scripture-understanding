@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Ephemeral Presence Elusion]]"
 ---
 *Skilled in cheating death, the Abyssal escapes even impossible perils.*
-The Abyssal ignores penalties to her Evasion, including surprise attack penalties.
+The Abyssal ignores penalties to her [[Defense|Evasion]], including surprise attack penalties.

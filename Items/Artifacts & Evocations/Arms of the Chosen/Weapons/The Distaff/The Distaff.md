@@ -18,4 +18,4 @@ Storytellers say that Prince Aridara of Cynosure was born with a silver knife in
  
 ## [[Evocations]] of the Distaff
 
-The Distaff’s silk is spun from the weapon’s [[Essence]]. Its threads move almost as an extension of the Exalt’s will, coming together in intricate patterns and assuming any imaginable color without needle or loom. It is an exceptional tool for [[Craft]] actions involving weaving and related areas of specialty (Exalted, p. 580). The Distaff’s threads cling to its wielder’s wrist so that the blade may not be wrested away. The wielder gains +1 Parry against Disarm gambits, and their difficulty increases by 1.
+The Distaff’s silk is spun from the weapon’s [[Essence]]. Its threads move almost as an extension of the Exalt’s will, coming together in intricate patterns and assuming any imaginable color without needle or loom. It is an exceptional tool for [[Craft]] actions involving weaving and related areas of specialty (Exalted, p. 580). The Distaff’s threads cling to its wielder’s wrist so that the blade may not be wrested away. The wielder gains +1 [[Defense|Parry]] against Disarm gambits, and their difficulty increases by 1.

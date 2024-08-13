@@ -17,4 +17,4 @@ Enemies who witness their failed techniques reflected in [[Penumbra Gleam]] falt
 
 ## Resonant
 
-With [[Essence]] 3, the wielder may pay a one-[[Willpower]] surcharge to steal [[Initiative]] equal to the difference between the failed attack and her Parry, maximum ([[Perception]]).
+With [[Essence]] 3, the wielder may pay a one-[[Willpower]] surcharge to steal [[Initiative]] equal to the difference between the failed attack and her [[Defense|Parry]], maximum ([[Perception]]).

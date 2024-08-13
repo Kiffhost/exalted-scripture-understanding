@@ -5,7 +5,7 @@ he knew someone else was watching.
 Swift Hunter's Eye (Essence 2; Prowling Stalker Concentration): The Lunar can use Prowling
 Stalker Concentration instantly, without needing to
 survey the area. When she defends against an ambush with Observed Prey Instinct, she can spend
-banked successes to raise her Defense up to its
+banked successes to raise her [[Defense]] up to its
 base rating. With Essence 3, winning Join Battle
 lets her use it reflexively to bank her Join Battle
 successes.

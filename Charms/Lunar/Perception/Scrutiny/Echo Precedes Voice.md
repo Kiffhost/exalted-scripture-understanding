@@ -18,4 +18,4 @@ When a character within short range makes an influence roll, the Lunar may use t
 
 ## Reset 
 Once per scene, unless reset by succeeding on an opposed roll against a nontrivial character whose intentions the Lunar has read previously in the scene, or a roll against the [[Resolve]] or [[Defense]] of such a character.
-Backer: Kyle Rimmer [[Stamina]] Defense
+Backer: Kyle Rimmer [[Stamina]] [[Defense]]

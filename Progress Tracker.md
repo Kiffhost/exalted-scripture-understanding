@@ -7,9 +7,9 @@ Very next steps, each completable within 1 day - 1 week
  - [ ] Abyssals
 	 - [x] Charms
 		 - [x] Martial arts
-	 - [ ] Evocations
-	 - [ ] Hearthstones
-	 - [ ] Necromancy
+	 - [x] Evocations
+	 - [x] Hearthstones
+	 - [x] Necromancy
 	 - [ ] Rules
 		 - [x] Character Creation
 		 - [x] Castes

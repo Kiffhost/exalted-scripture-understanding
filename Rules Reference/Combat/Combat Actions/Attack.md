@@ -44,7 +44,7 @@ The character seizes her opponent in a clinch, limiting his movement and gaining
 ## raw damage
 The dice pool of a [[#withering]] [[#damage roll]] before [[Soak]] is applied. Usually ([[Strength]] + Damage (of the weapon) + [[Dice Rolls#Threshold Successes|threshold successes]] from the [[#hit roll]])
 ## hit roll
-The first roll made in any [[#Attack]] (sometimes called an attack roll). Determines whether the defender can evade or parry the attack before it causes harm. Usually has a [[Dice Rolls#Dice Pool|dice pool]] of at least the attacker's ([[Dexterity]] + #Ability/combat) and a [[Dice Rolls#Difficulty|difficulty]] equal to the defender's [[Defense]].  
+The first roll made in any [[#Attack]] (sometimes called an attack roll). Determines whether the defender can evade or [[Defense|parry]] the attack before it causes harm. Usually has a [[Dice Rolls#Dice Pool|dice pool]] of at least the attacker's ([[Dexterity]] + #Ability/combat) and a [[Dice Rolls#Difficulty|difficulty]] equal to the defender's [[Defense]].  
 ## damage roll
 The second roll in an [[#Attack]], after the [[#hit roll]]. Used to determine the amount of damage dealt. Damage rolls are exempt from [[Health Track#wound penalties]]. 
 

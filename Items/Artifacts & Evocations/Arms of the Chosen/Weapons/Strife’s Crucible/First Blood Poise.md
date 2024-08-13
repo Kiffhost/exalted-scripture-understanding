@@ -13,7 +13,7 @@ Prerequisite Charms:
 ---
 Strife’s Crucible seeks to fight not to the death, but to its opponents’ edification. It encourages its wielder to taste first blood, but no more. [[Strife’s Crucible]] gains a special pool of [[Willpower]] that begins empty, but gains one point each time the wielder crashes or incapacitates her chosen opponent (maximum 10). The wielder may only spend [[Willpower]] from this pool on the following: 
 - Resisting social influence. 
-- Increasing Parry. 
+- Increasing [[Defense|Parry]]. 
 - Paying the costs of this Artifact’s [[Evocations]]. 
 - Bestowing [[Willpower]] on defeated opponents. [[Willpower]] stored in [[Strife’s Crucible]] fades away if it isn’t used by end of story. 
 

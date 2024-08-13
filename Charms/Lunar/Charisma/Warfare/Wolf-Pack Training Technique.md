@@ -16,7 +16,7 @@ Under the Lunar’s instruction, young cubs untested in battle become grizzled w
 -  +1 dot of [[Willpower]], maximum 5. 
 -  +1 die on [[Join Battle]] rolls, maximum 10. 
 -  +1 die on all attack rolls, maximum 10. 
--  +1 Parry, maximum 5. This Charm can’t train Exalted, player characters, or other beings whose nature makes them inappropriate for inclusion in battle groups. 
+-  +1 [[Defense|Parry]], maximum 5. This Charm can’t train Exalted, player characters, or other beings whose nature makes them inappropriate for inclusion in battle groups. 
 ## Totemic 
 
 A Lunar whose spirit shape has Berserker may learn this as a [[Stamina]] Charm.

@@ -6,7 +6,7 @@ Abyssal Exalted are both [[CREATURES OF DARKNESS|creatures of darkness]] and [[e
 # Life in Death 
 The Abyssal Exalted have not died, yet death is their very Essence. They’re considered undead only when this is beneficial for them. Both living and lifeless, they don’t receive the usual benefits of undeath.
 # Death’s Chivalry 
-Obeying death’s chivalry brings an Abyssal into a dark harmony with her Exaltation, calming her troubled soul. When she faces great hardships or making significant sacrifices to fulfill death’s chivalry, she gains one Willpower and rolls one die, losing Limit equal to her successes. 
+Obeying death’s chivalry brings an Abyssal into a dark harmony with her Exaltation, calming her troubled soul. When she faces great hardships or making significant [[Sacrifice|sacrifices]] to fulfill death’s chivalry, she gains one Willpower and rolls one die, losing Limit equal to her successes. 
 When an Abyssal accomplishes a major character or story goal that upholds death’s chivalry, her temporary Willpower rises to equal to her permanent Willpower if it’s not already higher. She rolls (higher of Essence or 3) dice, losing Limit equal to her successes.
 # The Trappings of Death
 Outside of the Underworld and the shadowlands, deathknights suffer a −2 penalty on all rolls unless wearing the trappings of death or dwelling within a place associated with death, like a graveyard or Abys. The difficulty of noticing the trappings can’t exceed 5 — anything subtler than that is insufficient to provide this benefit

@@ -16,7 +16,7 @@ Prerequisite Charms:
 ---
 *The stylist moves in bursts of feral speed, outpacing and outmaneuvering her foes.*
 The stylist gains the following benefits:  
-- +1 Evasion  
+- +1 [[Defense|Evasion]]  
 - Crashing an enemy suffering a Minor disease increases it to Major.
 - Diseased enemies suffer a penalty equal to their sickness’ intensity on rolls opposing the stylist’s disengage and [[Stealth]] rolls: −2 for Minor, −3 for Major, and −4 for Defining.
 - She doesn’t lose [[Initiative]] from disengaging on a successful roll.

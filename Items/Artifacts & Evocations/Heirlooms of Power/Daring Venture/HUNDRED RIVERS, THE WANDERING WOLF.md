@@ -17,7 +17,7 @@ dice; [[Stealth]]: 8 dice; [[Threaten]]: 8 dice; [[Tracking]]: 10 dice
 **Attack (Bite)**: 10 dice (Damage 17)
 **Attack (Grapple)**: 10 dice (12 dice to control)
 **Combat Movement**: 5 dice
-*Evasion* 4, *Parry* 3
+*[[Defense|Evasion]]* 4, *[[Defense|Parry]]* 3
 **Soak/Hardness**: 10/2
 Hundred Rivers may be trained in any of the latent or magic special attacks or merits of a wolf (Exalted, p. 562).
 ## SPECIAL ATTACKS

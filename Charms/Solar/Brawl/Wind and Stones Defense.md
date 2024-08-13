@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Ferocious Jab]]"
 ---
-The Solar dances around her foe’s attacks, or buffets them away with vicious disdain. When the Exalt’s [[Initiative]] is higher than her opponent’s, she may use this Charm to raise her Evasion or Parry by an amount equal to her foe’s current onslaught penalty.
+The Solar dances around her foe’s attacks, or buffets them away with vicious disdain. When the Exalt’s [[Initiative]] is higher than her opponent’s, she may use this Charm to raise her [[Defense|Evasion]] or [[Defense|Parry]] by an amount equal to her foe’s current onslaught penalty.
