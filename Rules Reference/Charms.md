@@ -20,6 +20,7 @@ Each type of Exalted manifests a different variety of charms, and it is largely 
 | Dragon-Blood    | Ability + Specialty<sup>1</sup>           | (Ability + Specialty<sup>1</sup>)/2 round down           |
 | Lunar           | Attribute + stunted Attribute<sup>2</sup> | (Attribute + stunted Attribute<sup>2</sup>)/2 round down |
 | Sidereal        | Higher of Essence or 3, maximum 5         | Higher of Essence or 3, maximum 5                        |
+| Abyssal         | Attribute + Ability                       | (Attribute + Ability)/2 round up                         |
 In this table, Attribute or Ability refers to the relevant traits to the roll, or the traits used to calculate a static value. 
 
 <sup>1</sup>Where listed, a relevant specialty in the associated ability adds 1 to the maximum. 

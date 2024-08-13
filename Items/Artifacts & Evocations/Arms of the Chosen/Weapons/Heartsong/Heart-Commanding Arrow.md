@@ -22,4 +22,4 @@ This Evocation can only be used against an enemy in [[Initiative]] Crash.
 
 ## Resonant
 
-This influence costs an additional point of [[Willpower]] to resist in a Decision Point.
+This influence costs an additional point of [[Willpower]] to resist in a [[Decision Points|Decision Point]].

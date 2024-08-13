@@ -6,6 +6,7 @@
       {
         "id": "dfe166dbd269c893",
         "type": "tabs",
+        "dimension": 67.7133655394525,
         "children": [
           {
             "id": "4bed663ec31d0f20",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/Solar Exalted.md",
+                "file": "Rules Reference/Excellencies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +22,12 @@
             }
           },
           {
-            "id": "9797265b5e16dd84",
+            "id": "a9c0eb7a3b90db9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exalted-Specific Rules/Abyssal Nature.md",
+                "file": "Charms/Abyssal/Abyssal Excellency.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +35,12 @@
             }
           },
           {
-            "id": "c2e4c984f7fff41c",
+            "id": "3beaf8a526837a90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Limit/Limit Trigger.md",
+                "file": "Charms/Martial Arts/Hungry Ghost Style/Leaping Horror Approach.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,77 +48,12 @@
             }
           },
           {
-            "id": "12cadfdff9272e35",
+            "id": "29abedefe289eea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits/Limit/Bleak Expiation/Blight.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fb35514f81b76d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits/Merits.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad91087da89868c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits/Limit/Bleak Expiation/Blight.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff7983ee5a2a8d47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits/Limit/Bleak Expiation/Corruption.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bfb7e04557faf67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits/Limit/Bleak Expiation/Stigmata.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1cbb64bf6d5f55a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits/Limit/Bleak Expiation/Thralldom.md",
+                "file": "Progress Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +61,49 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
+      },
+      {
+        "id": "f8c914a99f311535",
+        "type": "tabs",
+        "dimension": 32.2866344605475,
+        "children": [
+          {
+            "id": "995b563fd008290b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Progress Tracker.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "taG:#Abyssal  ",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heart piercing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traits/Limit/Bleak Expiation/Thralldom.md",
+                "file": "Progress Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traits/Limit/Bleak Expiation/Thralldom.md",
+                "file": "Progress Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traits/Limit/Bleak Expiation/Thralldom.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -253,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Traits/Limit/Bleak Expiation/Thralldom.md"
+                "file": "Progress Tracker.md"
               }
             }
           },
@@ -288,47 +266,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1cbb64bf6d5f55a",
+  "active": "29abedefe289eea0",
   "lastOpenFiles": [
-    "Traits/Limit/Limit Trigger.md",
-    "Traits/Limit/Limit.md",
-    "Traits/Anima/Solar Castes/Zenith.md",
-    "Traits/Anima/Solar Castes/Twilight.md",
-    "Traits/Anima/Solar Castes/Night.md",
-    "Traits/Anima/Solar Castes/Eclipse.md",
-    "Traits/Anima/Solar Castes/Dawn.md",
-    "Traits/Limit/Bleak Expiation/Corruption.md",
-    "Traits/Limit/Bleak Expiation/Blight.md",
-    "Traits/Limit/Bleak Expiation/Thralldom.md",
-    "Traits/Limit/Bleak Expiation/Stigmata.md",
-    "Rules Sidebars/Abyssal Book/Storytelling Expiation.md",
-    "Rules Sidebars/Abyssal Book",
-    "Traits/Whispers.md",
-    "Traits/Merits.md",
-    "Items/Materials.md",
-    "Traits/Limit/Virtue Flaws/Berserk Anger.md",
-    "Traits/Anima/Abyssal Castes/Day.md",
-    "Traits/Limit/Bleak Expiation",
-    "Traits/Anima/Abyssal Castes/Moonshadow.md",
-    "Traits/Anima/Abyssal Castes/Daybreak.md",
-    "Traits/Anima/Abyssal Castes/Midnight.md",
-    "Traits/Anima/Abyssal Castes/Dusk.md",
-    "Lore/Notable Individuals/Deathlords/The Dowager of the Irreverent Vulgate in Unrent Veils.md",
-    "Lore/Notable Individuals/Deathlords/The Lover Clad in the Raiment of Tears.md",
-    "Lore/Notable Individuals/Deathlords/The First and Forsaken Lion.md",
-    "Lore/Notable Individuals/Deathlords/The Silver Prince.md",
-    "Lore/Notable Individuals/Deathlords/The Walker in Darkness.md",
-    "Exalted-Specific Rules/Untitled",
-    "Traits/Anima/Abyssal Castes",
-    "Lore/Notable Individuals/Deathlords",
-    "Lore/Lore ToBeFilled",
-    "Lunar Shapeshifting",
-    "Exalted-Specific Rules",
+    "Charms/Abyssal/Resistance/Incorruptible Corpse Perfection.md",
+    "Charms/Abyssal/War/Shadows of Foretold Slaughter.md",
+    "Charms/Abyssal/Brawl/Manifold Murder Arts.md",
+    "Charms/Abyssal/Socialize/Damnation’s Price.md",
+    "Charms/Abyssal/Dodge/Wraith-Form Avoidance.md",
+    "Charms/Abyssal/Dodge/Flickering Wisp Technique.md",
+    "Charms/Abyssal/Archery/Setting Sun Pursuit.md",
+    "Charms/Abyssal/Integrity/Immortal Malevolence.md",
+    "Charms/Abyssal/Performance/Wicked Stagecraft Expertise.md",
+    "Charms/Abyssal/Performance/Ego Void Persona.md",
+    "Charms/Abyssal/Performance/Debauched Carnival Gambol.md",
+    "Charms/Abyssal/Occult/Shroud of Shining Dark.md",
+    "Charms/Abyssal/Stealth/Whisper of Sudden Demise.md",
+    "Charms/Abyssal/Survival/Blood-Chilling Caress.md",
+    "Charms/Abyssal/Stealth/Imperceptible Phantom Embodiment.md",
+    "Charms/Abyssal/Presence/Killing Words Technique.md",
+    "Charms/Abyssal/Stealth/Seven Edges of the Raiton.md",
+    "Charms/Abyssal/Ride/Saddled in Epic Monstrosity.md",
+    "Charms/Abyssal/Melee/Apocalypse Blade Unbound.md",
+    "Charms/Abyssal/Athletics/Behemoth-Felling Approach.md",
+    "Charms/Abyssal/Investigation/Omniscient Spymaster’s Web.md",
+    "Charms/Abyssal/Larceny/Vanisher’s Subtle Hand.md",
+    "Charms/Abyssal/Larceny/Reality-Subverting Gesture.md",
+    "Charms/Abyssal/Awareness/Bloodshed Beckons.md",
+    "Charms/Abyssal/Athletics/Stepping Outside Existence.md",
+    "Charms/Abyssal/Athletics/Superior Weapon-Body.md",
+    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle",
+    "Charms/Martial Arts/Hungry Ghost Style",
+    "Autogen/Martial Arts",
+    "Charms/Abyssal",
+    "Charms/Abyssal/War",
+    "Charms/Abyssal/Thrown",
+    "Charms/Abyssal/Survival",
+    "Charms/Abyssal/Stealth",
+    "Charms/Abyssal/Socialize",
+    "Charms/Abyssal/Sail",
     "Charms/Solar/Archery/Solar Archery Charm Tree.canvas",
-    "Merits/NPC Merits",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
-    "Sorceries/Archetypes/The Path of Celestial Design",
     "Charms/Martial Arts/Mantis Style/Mantis Style.canvas",
     "Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Style.canvas",
     "Charms/Martial Arts/Immaculate Dragon Styles/Air Dragon Style/Air Dragon Tree.canvas",

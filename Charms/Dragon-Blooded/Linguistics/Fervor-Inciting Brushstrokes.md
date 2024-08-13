@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood writes words to spark flames in her readers’ hearts, incinerating all inhibitions in a swell of passion. She doubles 9s on a written inspire roll that creates anger, fear, lust, or another powerful passion. If she chooses to tailor her influence for a single reader only, he must enter a Decision Point and call upon a Major or Defining [[Intimacy]] to resist.
+The Dragon-Blood writes words to spark flames in her readers’ hearts, incinerating all inhibitions in a swell of passion. She doubles 9s on a written inspire roll that creates anger, fear, lust, or another powerful passion. If she chooses to tailor her influence for a single reader only, he must enter a [[Decision Points|Decision Point]] and call upon a Major or Defining [[Intimacy]] to resist.

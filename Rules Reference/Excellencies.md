@@ -13,3 +13,5 @@ Lunars automatically gain the [[Lunar Excellency|Excellency]] of each of their *
 Sidereals gain Excellencies for each **Caste** or **Favored Ability** they have at 1+ and each other Ability they know a Charm from. 
 ## Exigents
 It varies. Generally some free some purchasable.
+## Abyssal
+An Abyssal automatically gains the [[Excellency]] of any of her **Caste** or **Favored Abilities** she has at least one dot in, as well as any other Abilities she knows at least one Charm from.

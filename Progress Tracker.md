@@ -5,14 +5,15 @@ kanban-plugin: basic
 
 Very next steps, each completable within 1 day - 1 week
  - [ ] Abyssals
-	 - [ ] Charms
-		 - [ ] Martial arts
+	 - [x] Charms
+		 - [x] Martial arts
 	 - [ ] Evocations
+	 - [ ] Hearthstones
 	 - [ ] Necromancy
 	 - [ ] Rules
-		 - [ ] Character Creation
-		 - [ ] Castes
-		 - [ ] Limit
+		 - [x] Character Creation
+		 - [x] Castes
+		 - [x] Limit
 - [ ] Split armor and weapon Type text into Traits list
 - [ ] Merits
 	- [ ] Animal/bestiary

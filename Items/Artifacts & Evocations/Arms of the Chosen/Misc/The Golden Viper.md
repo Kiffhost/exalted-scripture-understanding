@@ -28,7 +28,7 @@ Soak/Hardness: 8/4
 **Aureate Venom**: For one [[Willpower]], the Golden Viper’s decisive bite inflicts a dose of poison, with damage 3i/ round (L in Crash), a duration of 6 rounds, and a −3 penalty. [[Mortal]] victims have an effective [[Stamina]] of 0 to resist the poison. When a victim dies, he turns to solid gold and the Viper gains all of his memories. 
 ###### MERITS 
 **Automaton**: [[The Golden Viper]] is immune to poison, disease, fatigue, and fear (unless faced with magic such as the [[Dawn]] Caste anima power), and has no need to eat, drink, breathe, or sleep. It needs no maintenance, but when damaged it requires repairs as per Brass Legionnaires (p. 125). 
-**Forgotten Era Defense**: [[The Golden Viper]] treats inquiries regarding the First Age as unacceptable influence. 
+**Forgotten Era Defense**: [[The Golden Viper]] treats inquiries regarding the First Age as [[unacceptable influence]]. 
 **Killer’s Nose**: Double 9s on scent-based [[Perception]] rolls, or double 8s on rolls to detect an assassination target whose scent it’s tasted. 
 **Languages**: [[The Golden Viper]] knows all major languages and countless tribal tongues. 
 **Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new [[Intimacy|Intimacies]] to Major or Defining. 

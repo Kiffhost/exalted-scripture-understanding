@@ -90,3 +90,11 @@ Shaping effects transforms characters’ bodies, minds, souls, or fates. They ca
 
 #### Enlightenment 
 Attaining the apex of Sidereal Martial Arts’ power demands an understanding of subtle cosmic principles and a harmony with the nature of reality beyond many students. Sidereals always gain the benefits of a Sidereal Martial Arts’ Enlightenment effects. Getimians access Enlightenment effects based on whether their Essence’s current nature is Flowing or Still. Other Exalted can’t ordinarily access Enlightenment effects.
+
+# Abyssal
+
+#### Versatile 
+Combat Ability Charms with this keyword can enhance attacks and parries with [[Martial Arts]] if the Abyssal uses a weapon compatible with that Ability. Versatile Charms from multiple combat Abilities can’t enhance the same action.
+#### Whispers
+This keyword provides additional benefits for Abyssals with the [[Whispers]] Merit (p. XX). Such effects often use (Whispers) calculations. Its value equals the Merit rating of the Abyssal’s [[Whispers]].
+Whisper Charms sometimes invoke the Abyssal’s use of her [[Whispers]]. This means they count against the reset limit on using Whispers.

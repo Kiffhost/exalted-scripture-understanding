@@ -9,7 +9,7 @@ Keywords:
   - Resonant
 Duration: One scene
 Prerequisite Charms:
-  - "[[ Terrestrial Circle Sorcery]]"
+  - "[[Charms/Abyssal/Occult/Terrestrial Circle Sorcery]]"
   - "[[Unyielding Obsession Aegis]]"
 ---
 ## Resonant

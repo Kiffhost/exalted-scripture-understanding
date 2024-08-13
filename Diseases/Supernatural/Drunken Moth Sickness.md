@@ -9,7 +9,7 @@ Those who consume food or drink within which a spirit’s been bound risk contra
 # Minor
 The victim can’t regain [[Willpower]] from sleep if she’s acted against the [[Intimacy|Principle]] the day before. 
 # Major
-As above, and when the victim has the opportunity to act on the [[Intimacy|Principle]], the Storyteller may force him to do so unless he enters a Decision Point and cites an [[Intimacy]] of equal or greater intensity to spend one [[Willpower]]. This counts as a botch toward the limit the disease can inflict (Exalted, p. 234). 
+As above, and when the victim has the opportunity to act on the [[Intimacy|Principle]], the Storyteller may force him to do so unless he enters a [[Decision Points|Decision Point]] and cites an [[Intimacy]] of equal or greater intensity to spend one [[Willpower]]. This counts as a botch toward the limit the disease can inflict (Exalted, p. 234). 
 # Defining
 As above, and when the victim acts in a way that aligns with the [[Intimacy|Principle]], the Storyteller chooses one of his [[Intimacy|Intimacies]] to weaken by one step. He can spend one [[Willpower]] to resist a Defining [[Intimacy]] being weakened. 
 # Death

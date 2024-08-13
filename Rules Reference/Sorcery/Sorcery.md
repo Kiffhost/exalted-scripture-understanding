@@ -6,7 +6,7 @@ Across Creation, sorcerers are known and feared as figures of great and dangerou
 
 The powers of [[sorcery]] are divided into [[#spells]] and [[Sorcerous Workings]]. A spell is a discrete power with a defined cost and effects. Sorcerous workings, on the other hand, are great feats and projects. 
 
-[[Sorcery]] is organised into three circles: [[Charms/Solar/Occult/Terrestrial Circle Sorcery|Terrestrial]], [[Charms/Solar/Occult/Celestial Circle Sorcery|Celestial]], and [[Solar Circle Sorcery|Solar]]. The Terrestrial Circle is accessible to all Exalted, and even some Mortals. [[Celestial Circle Sorcery]] is limited to [[START HERE#Celestial Exalted|Celestial Exalted]], including Solars, Lunars, Sidereals, and some Exigents. [[Solar Circle Sorcery]] is unique to Solars.
+[[Sorcery]] is organised into three circles: [[Charms/Solar/Occult/Terrestrial Circle Sorcery|Terrestrial]], [[Charms/Solar/Occult/Celestial Circle Sorcery|Celestial]], and [[Solar Circle Sorcery|Solar]]. The Terrestrial Circle is accessible to all Exalted, and even some Mortals. [[Charms/Abyssal/Occult/Celestial Circle Sorcery]] is limited to [[START HERE#Celestial Exalted|Celestial Exalted]], including Solars, Lunars, Sidereals, and some Exigents. [[Solar Circle Sorcery]] is unique to Solars.
 # Motes
 When a sorcerer casts a spell, the motes that power it are not drawn from her own [[Essence]] pools. Instead, she must take [[Shape Sorcery]] actions to manipulate the flow of [[Essence]] around her and channel sorcerous motes (which are themselves generated from the sorcerer's shaping rituals) into the casting of the spell.
 

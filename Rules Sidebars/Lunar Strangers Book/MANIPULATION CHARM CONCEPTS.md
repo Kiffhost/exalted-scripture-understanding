@@ -29,6 +29,6 @@ or the like. With Essence 4, the Lunar can do so
 instantly.
 Night's Own Alibi (Essence 3; Whispering Silver
 Serpent): Those who believe the Lunar’s claims
-must enter a Decision Point to pursue an opportunity to investigate or follow up on her claims.
+must enter a [[Decision Points|Decision Point]] to pursue an opportunity to investigate or follow up on her claims.
 Hovel-and-Palace Equivocation (Essence 5;
 Any-Trinket Allure): The Lunar can use Trash-isTreasure Misdirection on structures.

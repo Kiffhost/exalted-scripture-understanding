@@ -17,7 +17,7 @@ The wearer veils her spirit beneath the Cataphract of Keys’ illusory identity.
 - Defining Tie: [[Sozen, the Cataphract of Keys]] (Vanity) 
 - Major Principle: “I will abide no disrespect for my skills and achievements.” 
 - Major Principle: “I take what I desire.” 
-- Major Tie: Precious things (Covetousness) In addition, treat the wearer as having specialties of “demons” and “the Demon City” in every Ability. An [[Essence]] 3 repurchase allows the wearer to reflexively spend one [[Willpower]] to use one of Sozen’s [[Intimacy|Intimacies]] to bolster her [[Resolve]] against influence or in a Decision Point. Doing so causes her to gain that [[Intimacy]] at Minor intensity, or to increase its intensity if she already has it (though no higher than Sozen’s intensity). She cannot voluntarily diminish the [[Intimacy]] that session. 
+- Major Tie: Precious things (Covetousness) In addition, treat the wearer as having specialties of “demons” and “the Demon City” in every Ability. An [[Essence]] 3 repurchase allows the wearer to reflexively spend one [[Willpower]] to use one of Sozen’s [[Intimacy|Intimacies]] to bolster her [[Resolve]] against influence or in a [[Decision Points|Decision Point]]. Doing so causes her to gain that [[Intimacy]] at Minor intensity, or to increase its intensity if she already has it (though no higher than Sozen’s intensity). She cannot voluntarily diminish the [[Intimacy]] that session. 
 
 ## Resonant
 
