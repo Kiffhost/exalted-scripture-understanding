@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Hunting the Secret Self (Essence 2; Whispering
 Heart Revelation): Complete a sacred hunt by witnessing your quarry do something he’d never do if

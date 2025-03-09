@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Whirlwind Armor-Donning Prana]]"
 ---
-On each round of donning armor with the prerequisite, the Lawgiver can attack without a flurry by doing a stunt in which she attacks while putting on a piece of armor. If she knows [[Call the Blade]] or [[Summoning the Loyal Steel]], she may use either Charm reflexively for free while [[Armed and Ready Discipline]] is active.
+On each round of [[Donning & Removing Armor|donning armor]] with the prerequisite, the Lawgiver can attack without a flurry by doing a stunt in which she attacks while putting on a piece of armor. If she knows [[Call the Blade]] or [[Summoning the Loyal Steel]], she may use either Charm reflexively for free while [[Armed and Ready Discipline]] is active.
 
 ### On [[Armed and Ready Discipline]]
 

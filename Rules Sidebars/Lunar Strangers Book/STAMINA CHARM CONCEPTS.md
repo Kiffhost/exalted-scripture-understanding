@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Assumption of Unmarred Form (Essence 1;
 Bear Sleep Technique): Reduce the time it takes to

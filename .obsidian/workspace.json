@@ -15,9 +15,11 @@
               "state": {
                 "file": "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer/Thousand Horrors Harvest.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Thousand Horrors Harvest"
             }
           },
           {
@@ -26,56 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Lore/Locations/Creation.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Creation"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "100e5a9d7346655e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d64c4138f67661d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "tag:#Sidereal  ",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 3.06041666666667,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +66,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -104,13 +79,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"emerald circle\"",
+                "query": "(p. XX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -118,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -141,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Lunar Shapeshifting/Sacred Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sacred Hunt"
             }
           },
           {
@@ -158,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Lunar Shapeshifting/Sacred Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sacred Hunt"
             }
           },
           {
@@ -171,8 +154,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -181,8 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
-              }
+                "file": "Lunar Shapeshifting/Sacred Hunt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sacred Hunt"
             }
           },
           {
@@ -194,7 +186,9 @@
                 "sortOrder": "frequency",
                 "showSearch": true,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -203,8 +197,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
-              }
+                "file": "Lunar Shapeshifting/Sacred Hunt.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Sacred Hunt"
             }
           },
           {
@@ -212,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -220,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -241,42 +241,42 @@
   },
   "active": "62fe389b99f04942",
   "lastOpenFiles": [
-    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
-    "Sorceries/Archetypes/Bargain with Mara/Soul extraction via seduction.md",
-    "Sorceries/Archetypes/Bargain with Mara/Shadow and Darkness.md",
-    "Sorceries/Archetypes/Bargain with Mara/Dark Paramour.md",
-    "Sorceries/Archetypes/Bargain with Mara/Power from adoration.md",
-    "Sorceries/Archetypes/Bargain with Mara/Infernal Nobility.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Ecstatic Discipline.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Dreams of Green and Silver.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Dreamer of the Caul.md",
-    "Sorceries/Celestial Circle/Cloud Trapeze.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Umaza's Hymns.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Bleak Tide Voice.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Weeper.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Siren.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Horror.md",
-    "Sorceries/Terrestrial Circle/Invulnerable Skin of Bronze.md",
-    "Sorceries/Terrestrial Circle/Stormwind Rider.md",
-    "Sorceries/Terrestrial Circle/Sculpted Seafoam Eidolon.md",
-    "Sorceries/Terrestrial Circle/Mists of Eventide.md",
-    "Sorceries/Terrestrial Circle/Keel Cleaves the Clouds.md",
-    "Sorceries/Terrestrial Circle/Peacock Shadow Eyes.md",
-    "Sorceries/Terrestrial Circle/Beckoning That Which Stirs the Sky.md",
-    "Sorceries/Terrestrial Circle/Death of Obsidian Butterflies.md",
-    "Sorceries/Terrestrial Circle/Corrupted Words.md",
-    "Sorceries/Terrestrial Circle/Cirrus Skiff.md",
-    "Sorceries/Terrestrial Circle/Blood Lash.md",
+    "Lore/Locations/Yu-Shan.md",
+    "Lore/Locations/Creation.md",
+    "Lore/Locations/Underworld.md",
+    "Lore/Locations/Autocthon.md",
+    "Lore/Notable Individuals/Deathlords/Black Heron.md",
+    "Lore/Locations",
+    "Lore/Notable Individuals/Deathlords/Eye and Seven Despairs.md",
+    "Lore/Notable Individuals/Deathlords/Dowager of the Irreverent Vulgate in Unrent Veils.md",
+    "Lore/Notable Individuals/Deathlords/First and Forsaken Lion.md",
+    "Lore/Notable Individuals/Deathlords/Mask of Winters.md",
+    "Lore/Notable Individuals/Deathlords/Lover Clad in the Raiment of Tears.md",
+    "Lore/Notable Individuals/Deathlords/Silver Prince.md",
+    "Lore/Notable Individuals/Deathlords/Bishop of Chalcedony Thurible.md",
+    "Lore/Notable Individuals/Deathlords/Walker in Darkness.md",
+    "Charms/Abyssal/Resistance/Merciful Guillotine Motion.md",
+    "Charms/Abyssal/Resistance/Spirit-Hardened Frame.md",
+    "Charms/Abyssal/Resistance/Implacable Doom Endurance.md",
+    "Charms/Abyssal/Resistance/Death Twice Denied.md",
+    "Charms/Abyssal/Resistance/Flesh Like Marble.md",
+    "Charms/Abyssal/Resistance/Wraith-Forged Plate.md",
+    "Charms/Abyssal/Resistance/Writhing Torment Chains.md",
+    "Charms/Abyssal/Resistance/Armor-Calling Phantasms.md",
+    "Charms/Abyssal/Resistance/Agony-Savoring Spirit.md",
+    "Charms/Abyssal/Performance/Witness the End.md",
+    "Merits/Enhanced Sense.md",
+    "Merits/Eidetic Memory.md",
+    "Merits/Danger Sense.md",
+    "Rules Reference/Minor Rules",
+    "Exalted-Specific Rules/Sidereal",
+    "Exalted-Specific Rules/Abyssal",
+    "Exalted-Specific Rules/Dragon-Blooded",
+    "Exalted-Specific Rules/Lunar",
     "Items/Artifacts & Evocations/Underworld Artifacts",
     "Items/Artifacts & Evocations/Underworld Artifacts/The Ravenous Throne",
     "Items/Artifacts & Evocations/Underworld Artifacts/Nyraxes, the Dead Ember",
     "Items/Artifacts & Evocations/Underworld Artifacts/The Feverfear Guise",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Nemesis Cuirass",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Scavenger’s Shroud",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Shatterbond Knives",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Pra Gita",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Rattlebones",
     "Charms/Solar/Archery/Solar Archery Charm Tree.canvas",
     "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
     "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",

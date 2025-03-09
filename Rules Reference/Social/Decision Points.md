@@ -5,8 +5,6 @@ tags:
   - source/solar-book
 ---
 ## Decision Points
-
-
 In the Decision Point, the player must choose an [[Intimacy]] and explain how it justifies resisting that specific influence. The [[intimacy]] chosen must fulfil the following requirements: 
 - The [[Intimacy]] he chooses must be of equal or greater intensity than the [[Intimacy]] which supported the influence roll.
 - It can’t be the one that strengthened his [[Resolve]] against the roll in the first place—the influence already overcame that particular source of reluctance when it beat his [[Resolve]], after all. 

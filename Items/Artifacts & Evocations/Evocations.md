@@ -30,3 +30,7 @@ Different types of Exalted are resonant, neutral, or dissonant with particular m
 | Liminal        | Dissonant                            | Dissonant                | Dissonant                            | Dissonant                          | Neutral                            |
 | Exigent        | Varies                               | Varies                   | Varies                               | Varies                             | Varies                             |
 
+## Resonant
+Chosen can make better use of artifacts made from materials that they are resonant with.
+## Dissonant
+Chosen wielding artifacts made of materials they are dissonant with will sometimes not have access to some of those artifact's powers, or else have more limited ability to use them.

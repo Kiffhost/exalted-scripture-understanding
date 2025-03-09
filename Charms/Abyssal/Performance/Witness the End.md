@@ -26,5 +26,5 @@ Each affected character loses [[Initiative]] equal to the Abyssal’s extra succ
 Resisting this influence costs three [[Willpower]], but it can’t be resisted by enemies who’re crashed or trivial opponents.. Characters using magic to see through illusion can resist for one [[Willpower]] instead.
 [[Whispers]]: The Abyssal may invoke her [[Whispers]] to add ([[Whispers]]) non-Charm dice on the roll.
 ## Special activation rules
-The Abyssal can flurry this Charm with [[Grotesque Phantasmagoria]] (p. XX), ignoring all penalties for doing so. Doing so adds +1 to the difficulty of that Charm’s hazard.
+The Abyssal can flurry this Charm with [[Grotesque Phantasmagoria]], ignoring all penalties for doing so. Doing so adds +1 to the difficulty of that Charm’s hazard.
 Acting

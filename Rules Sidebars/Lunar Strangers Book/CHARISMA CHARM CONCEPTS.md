@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Curse-Defying Exuberance (Essence 2; Argent Revelry Festival, Herd Reinforcement Stance): Free an organization from hostile magic like Indolent Official’s Curse by leading its members in a custom, ritual, or celebration
 that’s meaningful to them.

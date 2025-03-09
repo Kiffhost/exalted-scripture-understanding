@@ -3,6 +3,7 @@ aliases:
   - Virtue Flaw
   - Monstrous Urge
   - Celestial Hubris
+  - Bleak Expiation
 ---
 The manifest expression of the Great Curse. [[Limit Break]] may or may not manifest immediately; the Great Curse is insidious, and tends to erupt into full bloom only when the Exalt’s actions have the potential to create significant turmoil or suffering. An Exalt in the midst of an argument with his Circle is likely to experience the full effects of the Great Curse immediately, while one trekking through the vast desert of the South might continue to travel for several days before the effects of his [[Limit Break]] manifest. The timing of such manifestations are ultimately up to the Storyteller. 
 
@@ -46,4 +47,18 @@ Celestial Hubris works as follows:
 ```dataview
 LIST
 FROM "Traits/Limit/Celestial Hubris"
+```
+
+# Abyssal
+
+An Abyssal doesn’t experience Limit Breaks or reset her Limit when she reaches Limit 10. Instead, the Abyssal Great Curse takes the form of Bleak Expiation, a torment inflicted upon the deathknight by her own baleful Essence. Expiation occurs under the following circumstances:
+- Once the Abyssal reaches Limit 10, the Abyssal automatically suffers Expiation at the next dramatically appropriate moment.
+- The Storyteller can call for Expiation once per session.
+- An Abyssal’s player can invoke Expiation once per session. The Storyteller may delay it if it would be dramatically inappropriate in the current scene.
+When an Abyssal suffers Expiation, she rolls (higher of Essence or 3) dice, or ten dice if she’s at Limit 10. She loses Limit equal to her successes, minimum one, as the Great Curse stirs. The Storyteller determines what form this, allocating the Limit purged by the roll among the manifestations listed below or similar effects. The severity of a manifestation is rated like an Intimacy, based on how much purged Limit it costs: one for Minor, two for Major, or three for Defining.
+
+## Bleak Expiations
+```dataview
+LIST 
+FROM "Traits/Limit/Bleak Expiation"
 ```

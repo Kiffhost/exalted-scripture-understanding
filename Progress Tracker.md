@@ -1,5 +1,6 @@
 ---
 kanban-plugin: basic
+tags: []
 ---
 # Short Term
 
@@ -36,6 +37,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Lunar Stuff
 		- [ ] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
+		- [ ] Abyssal Stuff
 		- [ ] Exigent Charm Creation
 	- [ ] [[Mortal]] Exaltation
 - [ ] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
@@ -60,7 +62,14 @@ Overarching goals, completable within 1 month
 - [ ] Mon svg/png
 	- [ ] Five Dragons
 	- [ ] Great Houses
-
+- [ ] Add Alchemicals
+	- [ ] Charms
+		- [ ] Martial arts
+	- [ ] Evocations
+	- [ ] Hearthstones?
+	- [ ] Sorcery
+	- [ ] Rules
+		- [ ] Modules?
 
 # Long Term
 
@@ -68,7 +77,8 @@ Possible large-scale project outcomes which will take more than 1 month.
 - [ ] Lore
 	- [ ] Glossary
 	- [ ] Quick start
-	- [ ] Locations
+	- [ ] Locations/Geography
+	- [ ] Notable Characters
 	- [ ] Factions
 	- [ ] Historical Events
 - [ ] Make a charms compendium in foundry

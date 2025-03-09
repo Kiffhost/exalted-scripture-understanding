@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Bird-of-Paradise Plume (Essence 1; Peacock
 Quill Flourish): Use Peacock Quill Flourish on written influence against people who’ve never seen

@@ -14,4 +14,4 @@ Prerequisite Charms:
 ---
 *Having died once, Abyssals quickly shrug off lesser wounds as inconsequential.*
 The Abyssal reduces withering attacks’ raw damage and decisive attacks’ damage dice by two.
-Against decisive attacks, the Abyssal also gains [[Hardness]] 4. If she already has [[Hardness]] from [[Flesh Like Marble]] (p. XX) or Transcendent Soulsteel Flesh (p. XX), she can instead add +2 to that [[Hardness]].
+Against decisive attacks, the Abyssal also gains [[Hardness]] 4. If she already has [[Hardness]] from [[Flesh Like Marble]] or Transcendent Soulsteel Flesh (p. XX), she can instead add +2 to that [[Hardness]].

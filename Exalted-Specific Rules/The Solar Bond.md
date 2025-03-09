@@ -3,6 +3,7 @@ tags:
   - source/lunar-book
   - Lunar
   - Solar
+  - Abyssal
 ---
 In the [[First Age]], the Lunars forged soul-deep bonds between themselves and the Solars. Not all Lunars have Solar mates (and vice versa), but for those who do, the experience of meeting one is unmistakable — the Lunar instantly recognizes him as her bonded mate, and forms a Minor [[Intimacy|Tie]] toward him with an emotional context chosen by her player, if she doesn’t have one already. 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Purge the Tarnished Silver (Essence 1;
 Bone-Mending Technique): The Lunar anoints

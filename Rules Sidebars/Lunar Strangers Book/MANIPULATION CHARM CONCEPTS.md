@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 
 Birds of Ill Feather (Essence 2; Gnawing Mouse
 Malaise): Interacting with an organization lets the

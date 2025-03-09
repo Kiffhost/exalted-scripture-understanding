@@ -1,3 +1,7 @@
+---
+tags:
+  - source/Lunar-Strangers-Book
+---
 Face-Thieving Legerdemain (Essence 2;
 Nest-Raiding Slyness): Perform a sacred hunt that
 concludes when you steal whatever’s most valuable to someone or something they have a positive
