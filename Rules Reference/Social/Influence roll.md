@@ -4,7 +4,7 @@ aliases:
 tags:
   - source/solar-book
 ---
-The core of the [[Social Influence]] system is the [[Influence]] roll. The dice pool for an influence roll is always #attribute/social + #Ability (usually #Ability/influence) against a difficulty of the [[Resolve]] rating of the character you’re trying to influence. 
+The core of the [[Social Influence]] system is the [[Influence]] roll. The dice pool for an influence roll is always Social Attribute + Ability (usually #Ability/influence) against a difficulty of the [[Resolve]] rating of the character you’re trying to influence. 
 
 Successful influence rolls allow you to alter a character’s feelings or beliefs or to convince him to do something for you, based on the [[#Social Actions|social action]] or Charm used. Occasionally, you will use other Attributes and Abilities to take actions that are not influence rolls, such as rolling ([[Perception]] + [[Socialize]]) to read a person’s personality, beliefs, or agenda. All of these social actions are described in more detail below.
 # Resisting

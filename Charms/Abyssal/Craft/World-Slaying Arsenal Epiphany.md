@@ -17,7 +17,7 @@ Prerequisite Charms:
 ---
 *A master of artifice and a forger of souls, Death’s Lawgiver unveils dread wonders of her design.*
 The Abyssal can use Wretched Workshop Flourishing to create a two-dot artifact, without needing to roll.
-She receives five gold points as long as this satisfies a basic objective (Exalted, p. 240).
+She receives five gold points as long as this satisfies a [[Crafting Projects#Basic Objectives|basic objective]] (Exalted, p. 240).
 With [[Essence]] 5, the Abyssal can create three-dot artifacts with this Charm.
 ## Reset 
 Once per story.

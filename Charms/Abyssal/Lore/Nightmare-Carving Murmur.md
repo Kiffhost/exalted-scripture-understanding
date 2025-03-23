@@ -16,7 +16,14 @@ Prerequisite Charms:
 *Death’s Lawgiver bends the Underworld to her will, as if it were no more than another nightmare of the Neverborn.*
 The Abyssal can use this Charm to shape the Underworld to her will. She can only use it within the Underworld proper, not including shadowlands. She can shape an area that extends out to ([[Essence]] x5) miles from her. She can’t shape inhabited regions if their denizens don’t want her to.
 This shaping is an extended ([[Intelligence]] + [[Lore]]) action with a, requiring a separate use of this Charm for each interval.The goal number depends on the effect the Abyssal wishes to invoke. Once she reaches the goal number, she can continue the shaping with a new effect, resetting her successes to zero. The roll has a base difficulty of 5, subject to the following modifiers.
-BEGIN TABLE Condition Difficulty Modifier Shaping a primal or ritual afterlife +2 Shaping the Labyrinth −2 Each roll past the first +1 END TABLE For example, an Abyssal who uses this Charm in the Labyrinth would roll first at difficulty 3, then difficulty 4, difficulty 5, and so on.
+
+| Condition                            | Difficulty Modifier |
+| ------------------------------------ | ------------------- |
+| Shaping a primal or ritual afterlife | +2                  |
+| Shaping the Labyrinth                | −2                  |
+| Each roll past the first             | +1                  |
+
+For example, an Abyssal who uses this Charm in the Labyrinth would roll first at difficulty 3, then difficulty 4, difficulty 5, and so on.
 Each successful roll lets the Abyssal make one of the following alterations. Some require her to first lay groundwork with other alterations — most notably, erasing existing terrain features to make way for new lands.
 Erase Terrain (Goal Number 5): The Abyssal eliminates a major feature of the landscape — a river, a mountain, a fortress. It fades away gradually, leaving barren wasteland in its place. Using this in ritual and primal afterlives can’t override their fundamental nature; whatever remains will still be thematically appropriate to them. Manses and other supernatural features can’t be erased, but don’t prevent the Abyssal from shaping around them.
 Alter Terrain (Goal Number 10): Once the Abyssal has erased all terrain features, she can remake the land. She creates a new terrain feature, raising up a hill out of the earth, opening a lake, or growing a forest of living bone. She can also add natural resources to the land, like veins of precious metal or deposits of the ore used to forge soulsteel. Particularly drastic changes may require multiple uses of this effect — creating a mountain to rival the Underworld’s tallest would require one use to create a hill, another to expand it into a mountain, and further uses to make it even larger. When shaping a primal or ritual afterlife, anything she creates will manifest in a way that fits their themes, regardless of what she intends.

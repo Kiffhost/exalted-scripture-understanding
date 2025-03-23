@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Purge the Tarnished Silver (Essence 1;

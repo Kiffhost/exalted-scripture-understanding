@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Assumption of Unmarred Form (Essence 1;

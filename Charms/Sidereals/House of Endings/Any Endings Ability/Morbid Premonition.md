@@ -16,6 +16,6 @@ Death awaits all things that live; the Sidereal merely looks ahead to this foreg
 -  What’s his greatest vulnerability? 
 -  What is he willing to die for? 
 -  If he died, would any unfinished business cause his ghost to linger? 
--  If he died, who would mourn him? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  If he died, who would mourn him? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

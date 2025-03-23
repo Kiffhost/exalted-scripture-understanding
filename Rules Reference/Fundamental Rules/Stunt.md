@@ -11,7 +11,7 @@ A stunt is a narration of an in-game action. Stunting (narrating/roleplaying) gr
 | Two-point [[Stunt]]   | A memorable highlight of the scene                                    | +2 dice pool and +1 automatic success OR +2 static value AND Gain a point of temporary [[Willpower]] (but not above maximum) |
 | Three-point [[Stunt]] | Highlight of a session, rare and memorable                            | +2 dice pool and +2 automatic successes OR +3 static value AND +2 temporary [[Willpower]] (which can go over maximum)        |
 
-# Full Text
+# Stunting
 
 Exalted is a game of cinematic action and mighty heroes who go crashing through the world and look cool doing it. Characters needn’t choose between doing the sensible thing or the stylish thing—the coolest course of action is also the optimal one. Such actions are known as *stunts*.
 

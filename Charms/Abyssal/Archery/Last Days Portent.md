@@ -18,7 +18,7 @@ The Abyssal looses an arrow at the sun, rolling ([[Dexterity]] + [[Archery]]) at
  - Light sources within range are extinguished, as with [[Sun-Swallowing Voracity]]. Anima banners’ radiance is diminished, as if they were one step lower.
  - The darkness counts as a shadowland, although it doesn’t open into the Underworld.
  - It counts as being night for relevant effects. Using this to begin casting a ghost-summoning spell or similar magic shortens the ritual’s duration to one hour.
-In the Underworld, Malfeas, and other realms of existence, the Abyssal can snuff out the light of their alien suns or their nearest equivalent.
-When the Abyssal uses this Charm to uphold a negative Defining [[Intimacy]] or a Defining Principle based on death’s chivalry, she may extend its range to ([[Essence]]) miles once per story.
+In the [[Underworld]], Malfeas, and other realms of existence, the Abyssal can snuff out the light of their alien suns or their nearest equivalent.
+When the Abyssal uses this Charm to uphold a negative Defining [[Intimacy]] or a Defining [[Intimacy|Principle]] based on death’s chivalry, she may extend its range to ([[Essence]]) miles once per story.
 ## Reset 
 Once per day.

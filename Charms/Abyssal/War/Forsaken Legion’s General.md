@@ -13,4 +13,4 @@ Prerequisite Charms:
   - None
 ---
 *The deathknight marshals the armies of the dead to lay siege to the realm of the living.*
-When the Abyssal makes a Strategic Maneuver roll, she adds non-Charm dice equal to the highest [[Might]] among her forces. If she successfully enacts a stratagem, then at the battle’s start, she may grant a bonus dot of [[Size]] to an allied battle group, which lasts for the rest of the scene. This can’t raise its [[Size]] above 5.
+When the Abyssal makes a [[Strategic Warfare|Strategic Maneuver]] roll, she adds non-Charm dice equal to the highest [[Might]] among her forces. If she successfully enacts a stratagem, then at the battle’s start, she may grant a bonus dot of [[Size]] to an allied battle group, which lasts for the rest of the scene. This can’t raise its [[Size]] above 5.

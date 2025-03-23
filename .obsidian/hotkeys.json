@@ -42,5 +42,13 @@
       ],
       "key": "L"
     }
+  ],
+  "note-composer:merge-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }

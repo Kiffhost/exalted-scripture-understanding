@@ -9,7 +9,7 @@ Keywords:
 Duration: One week
 ---
 *The necromancer exhales a wisp of undulating white dust that darts forth to infect her victim, slowly transforming his flesh to ivory.*
-The necromancer rolls ([[Intelligence]] + [[Occult]]) as an unblockable decisive attack against a target within short range. Success infects him with the ivory flesh affliction (Virulence 2, Morbidity [higher of necromancer’s [[Essence]] or 3], Interval: One day). Her original target automatically fails his roll to avoid contracting the disease.
+The necromancer rolls ([[Intelligence]] + [[Occult]]) as an unblockable decisive attack against a target within short range. Success infects him with the ivory flesh affliction (Virulence 2, Morbidity {higher of necromancer’s [[Essence]] or 3}, Interval: One day). Her original target automatically fails his roll to avoid contracting the disease.
 Minor Symptom: The target suffers a −1 mobility penalty as his flesh partially transforms into ivory.
 Major Symptom: The mobility penalty increases to −3.
 Defining Symptom: The mobility penalty subtracts successes rather than dice, and he treats all movement as if through difficult terrain.

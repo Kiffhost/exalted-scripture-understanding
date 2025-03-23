@@ -2,12 +2,11 @@
 tags:
   - source/solar-book
 ---
-# TLDR
 When a character is first exposed to a vector of disease, they roll ([[Stamina]] + [[Resistance]]) against that disease’s [[#virulence]]. On a successful roll, they avoid succumbing to the sickness. On a failed roll, they contract the disease at the level of a [[#minor symptom]]. 
 
 After each [[#interval]] of the disease has passed, the character makes another ([[Stamina]] + [[Resistance]]) roll, this time against the disease’s [[#morbidity]]. On a failed roll, the symptoms [[#Progression|intensify]] by one step; on a success, they grow one step less intense (or are overcome entirely, if they were already at the minor symptom level).
-# Full text
-In a world of capricious gods, restless dead, and nameless horrors baying at the edges of Creation, [[common disease]] still numbers among the greatest enemies of mankind. [[Cholera]] breeds in unclean water; lepers wrap their misshapen bodies in rags as their living flesh rots; plagues wipe entire villages out of existence. The gift of Exaltation makes the Chosen immune to the worst perils of disease—they suffer no risk of death from any sickness, save perhaps from extremely potent magical diseases.
+# Disease
+In a world of capricious gods, restless dead, and nameless horrors baying at the edges of Creation, common disease still numbers among the greatest enemies of mankind. [[Cholera]] breeds in unclean water; lepers wrap their misshapen bodies in rags as their living flesh rots; plagues wipe entire villages out of existence. The gift of Exaltation makes the Chosen immune to the worst perils of disease—they suffer no risk of death from any sickness, save perhaps from extremely potent magical diseases.
 
 However, this does not mean they have nothing to fear. In Exalted, a disease is treated as a debilitating status effect that progresses in severity over time. Each disease has three main statistics: [[#Virulence]], [[#Morbidity]], and [[#Interval]].
 ### Virulence
@@ -33,3 +32,7 @@ Note that is purely at the Storyteller’s option—if it doesn’t make sense f
 
 ### Death
 While the **Exalted and other supernatural beings are immune to death from disease**, mortals do not have such good fortune. Once a mortal’s ailment has progressed to the level of a defining symptom, the next step is death by disease, as narrated by the Storyteller. 
+
+# Incubation
+#advice/storyteller 
+Most diseases don’t take effect instantly—instead, they incubate inside their victim’s bodies for hours, days, or even weeks before manifesting their symptoms. Rather than modeling this mechanically, the Storyteller can simply handle incubation by waiting until a dramatically appropriate moment to call for a character’s first roll to resist the disease. For example, while a circle of Exalted might first be exposed to malaria while trekking through a mosquito-ridden jungle, the Storyteller may choose to put off calling for rolls to resist the disease until they have reached the lair of the forbidden god who haunts the jungle, upping the stakes of the boss battle. Alternatively, he might wait until after they have successfully struck down the wicked spirit and returned to the nearest seraglio to celebrate their victory before calling for the roll, tarnishing their heroic victory with real world consequences.

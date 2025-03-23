@@ -13,7 +13,11 @@ Select a Caste - this provides anima powers, and is determined by how the charac
 - [[Changing Moon]] - focussed on social skillfulness.
 - [[No Moon]] - focussed on mental mastery.
 - [[Casteless]] - unfocussed, but flexible.
+# Spirit Shape and [[Tell]]
 
+Select a Spirit Shape: The [[Shapeshifting]] form which represents the Lunar's truest self.
+
+Define the Lunar's [[Tell]]
 # Attributes
 
 Assign 1 more dot in each attribute category.
@@ -23,8 +27,8 @@ If you are not [[Casteless]], choose 1 **Caste Attribute** from the appropriate 
 
 Select 2 other **Favoured** **Attributes**.
 
-At least 1 Caste or Favoured Attribute must be in the category you selected as Primary.
-If you are not [[Casteless]], at least 1 **Caste** or **Favoured** **Attribute** must be in the category you selected as Primary.
+At least 1 **Caste** or **Favoured Attribute** must be in the category you selected as Primary.
+If you are not [[Casteless]], at least 1 **Caste** or **Favoured** **Attribute** must be in the category you selected as Secondary.
 
 # Abilities
 
@@ -32,7 +36,6 @@ Divide 28 dots among your abilities.
 Maximum of 3 dots per ability (before bonus points are applied).
 
 Choose 4 [[Specialty|Specialties]].
-
 # Merits
 
 Assign up to 10 dots to [[Merits]].
@@ -50,10 +53,8 @@ Optionally take [[Flaws]] for additional experience triggers during play.
 # Charms
 
 Select 15 #Lunar Charms for which you will meet the minimums and prerequisite at the end of character creation.
-Treat your Essence as 5 for meeting the prerequisites of charms in your ***Supernal Ability***.
-[[Charms/Solar/Occult/Terrestrial Circle Sorcery|Terrestrial Circle Sorcery]] gives access to sorcerous spells.
 These may be exchanged one-for-one for #evocation or #sorcery, if available.
-
+[[Charms/Solar/Occult/Terrestrial Circle Sorcery|Terrestrial Circle Sorcery]] gives access to sorcerous spells.
 # Intimacies 
 
 Create at least four [[Intimacy|Intimacies]]. 

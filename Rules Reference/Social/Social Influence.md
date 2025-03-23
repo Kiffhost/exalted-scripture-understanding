@@ -3,6 +3,7 @@ tags:
   - source/solar-book
 aliases:
   - Social Actions
+  - influence
 ---
 In Exalted, the words of prophets, courtiers, and princes carry as much power as a warrior’s sword or a sorcerer’s magic. Social influence is the system used for resolving interactions in which characters attempt to manipulate, persuade, or coerce each other. With the social actions listed below, characters can gain the trust of others and then use that to influence them, changing or shaping their beliefs over the course of a conversation, oration, or artistic performance.
 # Overview

@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Calculated Avarice Understanding]]"
 ---
 *Having bartered her name and soul away for immortality, Death’s Lawgiver is no stranger to hard bargains.*
-When the Abyssal makes a bargain roll with [[Presence]] or [[Socialize]], she adds ([[Bureaucracy]]) dice and rerolls 6s until they cease to appear.
+When the Abyssal makes a [[bargain]] roll with [[Presence]] or [[Socialize]], she adds ([[Bureaucracy]]) dice and rerolls 6s until they cease to appear.

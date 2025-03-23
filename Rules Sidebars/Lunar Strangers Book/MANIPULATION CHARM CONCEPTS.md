@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Birds of Ill Feather (Essence 2; Gnawing Mouse

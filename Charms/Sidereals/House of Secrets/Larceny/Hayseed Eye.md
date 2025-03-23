@@ -16,6 +16,6 @@ Criminals and con artists seeking to prey on the Sidereal soon learn the folly o
 -  Is he planning to cheat, exploit, or take advantage of me? 
 -  Is he planning to commit a crime? 
 -  Does he think I suspect him? 
--  Do any crimes weigh on his conscience? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  Do any crimes weigh on his conscience? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

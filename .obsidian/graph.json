@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "path:Autogen  ",
+  "search": "path: Charms/Abyssal  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#evocation",
+      "query": "tag:#charm  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#object  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
+        "rgb": 14701138
       }
     }
   ],

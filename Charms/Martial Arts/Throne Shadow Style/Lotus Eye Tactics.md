@@ -18,4 +18,4 @@ The stylist makes a special ([[Perception]] + [[Martial Arts]]) read intentions 
 - What should I watch out for in a fight with him? 
 - Does he have any weapons, armor, or nearby allies I don’t know about? 
 - Who’s someone he learned to fight from?
-If the Storyteller doesn’t have an answer in mind for a question, the stylist’s player should provide one, as if introducing a fact. This Charm can only be used once per scene.
+If the Storyteller doesn’t have an answer in mind for a question, the stylist’s player should provide one, as if [[introducing a fact]]. This Charm can only be used once per scene.

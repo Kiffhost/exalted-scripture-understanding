@@ -2,6 +2,8 @@
 tags:
   - "#Action/sorcery"
   - source/solar-book
+aliases:
+  - Shape Necromancy
 ---
 1. Declare the Spell and spend its [[Willpower]] cost if appropriate.
 2. Roll ([[Intelligence]] + [[Occult]]), this counts as a [[Combat Action]], and cannot be [[Flurry|flurried]]. 

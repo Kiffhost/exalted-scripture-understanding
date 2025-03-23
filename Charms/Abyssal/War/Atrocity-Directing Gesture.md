@@ -13,5 +13,5 @@ Prerequisite Charms:
   - None
 ---
 *Drawing from the bloodstained memories of countless wars that echo across the Underworld, the Abyssal perfects her tactical genius.*
-The Abyssal doubles 9s on an order roll.
+The Abyssal doubles 9s on an [[order]] roll.
 With [[War]] 5, [[Essence]] 3, the deathknight can pay a three-mote, three-[[Initiative]] surcharge to double 8s.

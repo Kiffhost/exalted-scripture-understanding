@@ -16,4 +16,4 @@ The Sidereal makes the Greater Sign of the Captain before a heavenly gate to imp
 -  A manse to which she’s attuned. 
 -  A building she legally owns or holds legitimate authority over. 
 -  A ship or similar vehicle she’s piloted this story or that she owns or holds legitimate authority over. 
--  The Bureau of Destiny, if she’s in its employ.
+-  The [[Lore/Factions/Bureau of Destiny|Bureau of Destiny]], if she’s in its employ.

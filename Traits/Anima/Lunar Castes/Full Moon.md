@@ -5,7 +5,7 @@ tags:
 ---
 The moon’s radiance pierces night’s depths, illuminating unspeakable horrors that stalk their prey under cover of darkness. Though monsters may skulk in the shadows’ safety, the Full Moons will hunt them down wherever they cower, dragging them into the cold light of Luna’s judgement.
 
-Implacable hunters and terrifying warriors, the Full Moons are Creation’s ultimate survivors and the Silver Pact’s warlords, their mighty bodies empowered by divine fury. No matter what shape they wear, they triumph over any obstacle in their path, whether rending foes limb from limb as a river dragon, scaling sheer cliffs with a mountain goat’s hooves, assassinating tyrants with a scorpion’s venom, or wielding a daiklave with superhuman might and speed in their own human shape. 
+Implacable hunters and terrifying warriors, the Full Moons are Creation’s ultimate survivors and the [[Lore/Factions/Silver Pact|Silver Pact]]’s warlords, their mighty bodies empowered by divine fury. No matter what shape they wear, they triumph over any obstacle in their path, whether rending foes limb from limb as a river dragon, scaling sheer cliffs with a mountain goat’s hooves, assassinating tyrants with a scorpion’s venom, or wielding a daiklave with superhuman might and speed in their own human shape. 
 
 When the Lunars remade their Castes, they knew there’d be much bloodshed in the coming age, and made the Full Moons a Caste of peerless warriors with the might, speed, and endurance to slay any foe and guard the Lunars against those who’d hunt them. Full Moons are often their Circle’s greatest combatants, leading them in battle and protecting Circlemates from harm. 
 

@@ -23,5 +23,5 @@ Upon purchasing it, her player chooses two of the following powers. She may purc
 *Nightmares Yet To Come*: The Abyssal can invoke [[Whispers]] to gain a glimpse of the future. This works like the [[Reading the Tea Leaves]] ritual.
 *Single Will Binding*: The Abyssal can invoke [[Whispers]] to add (higher of [[Essence]] or 3) non-Charm dice on an influence roll against creatures of darkness or characters with [[Whispers]]. If all her targets have [[Whispers]], she converts these to non-Charm successes.
 *Void Prophet’s Mantle*: The Abyssal can make her [[Whispers]] obvious to all other characters with [[Whispers]] who can perceive her.
-*Whispering Secrets*: The Abyssal can invoke [[Whispers]] to add (higher of [[Essence]] or 3) non-Charm dice on a read intentions roll against a creature of darkness or character with [[Whispers]]. If her target has [[Whispers]], she converts these to non-Charm successes.
+*Whispering Secrets*: The Abyssal can invoke [[Whispers]] to add (higher of [[Essence]] or 3) non-Charm dice on a [[read intentions]] roll against a creature of darkness or character with [[Whispers]]. If her target has [[Whispers]], she converts these to non-Charm successes.
 The Abyssal’s player may work with the [[Storyteller]] to create new powers.

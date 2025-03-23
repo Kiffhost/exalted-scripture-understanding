@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Hunting the Secret Self (Essence 2; Whispering

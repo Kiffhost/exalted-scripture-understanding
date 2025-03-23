@@ -16,6 +16,6 @@ Having accepted death’s inevitably, the Sidereal attains clarity and insight i
 -  What was the cause of death? 
 -  How long has it been since he died? 
 -  What unfinished business did he have? 
--  Was his death in accordance with destiny? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  Was his death in accordance with destiny? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

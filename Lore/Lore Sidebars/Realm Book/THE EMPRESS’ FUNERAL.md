@@ -1,1 +1,5 @@
+---
+tags:
+  - source/realm-book
+---
 One proposal that keeps coming before the Deliberative concerns a funeral for the Empress. This is a complex matter. If she still lives, those who approved her funeral will surely earn her disfavor. If she’s dead, her unpropitiated spirit might do great harm, and failing to acknowledge her passing disrespects longstanding Dynastic tradition. More practically, formal recognition of her death further undercuts the status quo, whether to strengthen the Deliberative’s role or to open the way for claimants to the throne. And the Empress’ extravagant funeral, planned for centuries but never really expected to occur, will cost enough to bankrupt nations — enough to cripple even the Thousand Scales’ budget.

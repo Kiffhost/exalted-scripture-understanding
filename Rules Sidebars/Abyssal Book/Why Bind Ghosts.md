@@ -1,0 +1,3 @@
+# ? 
+While necromancers often bind ghosts for their deathly magic and to use them as unseen spies and servants, most summon the restless dead for their knowledge.
+Necromancers seek the names and burial grounds of dead princes for their secrets, summon the shades of vengeful courtiers to uncover blackmail on their confidantes or rivals, and the ghosts of savants for their wisdom. While death and ghostly passions often distort memories of life, bound ghosts typically possess enough knowledge to be of use to the necromancer. Specific ghosts summoned for their knowledge possess an action pool of 6-8 dice in a relevant subject.

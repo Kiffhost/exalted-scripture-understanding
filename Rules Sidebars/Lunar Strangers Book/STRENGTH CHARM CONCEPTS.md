@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Grasping at Mist (Essence 2; Ground-Denying

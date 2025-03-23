@@ -8,7 +8,7 @@ Nontrivial characters can roll ([[Wits]] + [[Integrity]]) at difficulty 7 to res
 
 Additionally, a nontrivial character with a [[Intimacy|Tie]] to a Sidereal can roll as above if he later encounters her again to regain any memories of her that he’s lost to arcane fate. At the [[Storyteller]]’s discretion, something that reminds him of the Sidereal or that gives him reason to suspect his memories have altered may also let him roll. 
 
-Some characters are immune arcane fate. Other Sidereals and gods in the [[Bureau of Destiny]] are immune, as are powerful enemies of fate (p. XX) — those who’re Exalted or have Essence 5+ — are likewise immune to arcane fate. Familiars, sorcerously-bound spirits, and beings she’s created, animated, or summoned with magic are also immune. A Sidereal player character’s Circlemates are immune to her arcane fate. 
+Some characters are immune arcane fate. Other Sidereals and gods in the [[Lore/Lore ToBeFilled/Bureau of Destiny]] are immune, as are powerful enemies of fate (p. XX) — those who’re Exalted or have Essence 5+ — are likewise immune to arcane fate. Familiars, sorcerously-bound spirits, and beings she’s created, animated, or summoned with magic are also immune. A Sidereal player character’s Circlemates are immune to her arcane fate. 
 
 Documents and other recorded information about Sidereals — either individually or a whole — are also subject to arcane fate. They’re lost, destroyed, or otherwise rendered inaccessible through subtle manipulations of fate. This doesn’t apply to records that maintained by characters immune to arcane fate, nor to those that contain only minimal detail or that describe Sidereals with vague, indirect, or symbolic language, like the [[Immaculate Texts]]. 
 

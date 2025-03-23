@@ -13,4 +13,4 @@ Prerequisite Charms:
   - None
 ---
 *Glimpsing the cracks in reality left by the Neverborn’s fall, the Abyssal learns how this broken world might be bent to her will.*
-The Abyssal may use Ivory Circle necromancy. She learns one Ivory Circle spell — her control spell — and one shaping ritual for free.
+The Abyssal may use Ivory Circle [[Necromancy]]. She learns one Ivory Circle spell — her control spell — and one shaping ritual for free.

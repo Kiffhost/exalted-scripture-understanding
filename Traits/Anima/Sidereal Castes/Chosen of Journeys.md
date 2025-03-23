@@ -45,7 +45,7 @@ Mercury’s Chosen, Harbingers, Heaven’s Messengers.
 
 # Concepts
 
-Brilliant slacker, explorer of First Age ruins, hard-bitten commander, master of the wilderness, pirate queen of the Quicksilver Sea, shepherd of destiny’s charges, secret patron of a Guild hierarch, skyship engineer, stoic pillar of strength, walker of other worlds.
+Brilliant slacker, explorer of First Age ruins, hard-bitten commander, master of the wilderness, pirate queen of the Quicksilver Sea, shepherd of destiny’s charges, secret patron of a [[Guild]] hierarch, skyship engineer, stoic pillar of strength, walker of other worlds.
 
 # Auspicious Prospects
 ## Auspicious Prospects for Journeys

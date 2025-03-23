@@ -12,7 +12,7 @@ Dots: "3"
 Material: Soulsteel
 ---
 As the Slayer of the Eastern Storm lay maimed in battle with the agents of his erstwhile Deathlord, he was set upon by an ancient rantai, seeking fresh bones for its gruesome chains. Seeing his opportunity, the cunning Abyssal tied the creature in knots and forged the tortured souls impaled on its chains into soulsteel, binding the horror in place. He transformed his assailant into the Ravenous Throne, his monstrous vessel, and they fought many battles together against his former liege’s minions.
-The deathknight and his unusual steed were separated under unknown circumstances, and the ambulatory throne ran wild for a time, terrorizing isolated settlements of ghosts before it was finally captured. It currently resides in a cage in Stygia, where it awaits a high-profile auction gala hosted by the Black Heron herself.
+The deathknight and his unusual steed were separated under unknown circumstances, and the ambulatory throne ran wild for a time, terrorizing isolated settlements of ghosts before it was finally captured. It currently resides in a cage in Stygia, where it awaits a high-profile auction gala hosted by the [[Black Heron]] herself.
 [[The Ravenous Throne]] is a high-backed armchair formed from a rantai’s unnaturally elongated spine, skillfully folded and coiled like rope and sheathed in burnished soulsteel. The base and sides of the throne bristle with the rantai’s rib-like bone hooks, which convey the throne and its rider like the legs of a centipede or extend to slash and stab at foes. At some point, a daring upholsterer fitted the throne with plush velvet cushions, which it sometimes tries in vain to remove. 
  
 ## [[Evocations]] of the Ravenous Throne

@@ -16,6 +16,6 @@ The Sidereal comes to understand those who travel in her company, whether over a
 -  Why is he making this journey? 
 -  Where’s he been that I should know about? 
 -  How prepared is he for the difficulties and dangers of this journey? 
--  Where does he call home? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  Where does he call home? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Benthic Depths Wisdom]]"
 ---
 *With mocking laughter, the Abyssal proclaims a curse upon her foe to deny him full sails and kind tides.*
-The Abyssal lays a curse on an enemy who can hear her, rolling ([[Wits]] + [[Sail]]) roll against her target’s [[Resolve]]. If she has a negative Tie to her target, she adds ([[Intimacy]]) non-Charm dice. Success stirs the sea’s wrath against him:
+The Abyssal lays a curse on an enemy who can hear her, rolling ([[Wits]] + [[Sail]]) roll against her target’s [[Resolve]]. If she has a negative [[Intimacy|Tie]] to her target, she adds ([[Intimacy]]) non-Charm dice. Success stirs the sea’s wrath against him:
  - He suffers a −1 penalty on all rolls he makes while traveling by water. This increases to −3 on [[Sail]] rolls, [[Survival]] rolls, and swimming-based [[Athletics]] rolls, and his 1s subtract successes on them.
  - Any ship he travels on halves its Speed and [[Maneuverability]], rounded down. If it has either of them at 0 or less, it’s reduced by one instead. or decreases them by one if they’re already at zero or below.
  - Sailors recognize the victim as cursed through their superstitions after a day of interaction with him. Once they do, they count as having a Minor Tie of fear, mistrust, or hatred towards him.

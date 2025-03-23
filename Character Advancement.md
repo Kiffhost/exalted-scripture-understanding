@@ -1,3 +1,7 @@
+---
+aliases:
+  - Character Progression
+---
 # Celestial Exalted Advancement Table
 
 | Trait                                                          | Experience Cost         | [[#Training Times]]           |
@@ -51,10 +55,10 @@ In addition to normal experience points, players have the opportunity to gain Ex
 
 <details><summary>Specifically</summary>Attributes, Abilities, Specialties, Merits, Willpower, Martial Arts Charms, Evocations, and spells are all valid, as are things like spirit Charms learned with the Eclipse anima power, sorcerous workings, or Charms with experience point costs in their activation. </details>
 
-Players have two opportunities to gain Exalted experience per session. They may earn up to one [[#Expression Bonus]], and one [[#Role Bonus]], for a total of up to 4 Solar experience per session.
+Players have two opportunities to gain Exalted experience per session. They may earn up to one [[#Expression Bonus]], and one [[#Role Bonus]], for a total of up to 4 [[#Exalted Experience]] per session.
 
 ### Expression Bonus
-Characters can gain 2 points of [[#Solar Experience]] by fulfilling *one* of the following criteria per session: 
+Characters can gain 2 points of [[#Exalted Experience]] by fulfilling *one* of the following criteria per session: 
 - Expressing, supporting, or engaging a Major or Defining [[Intimacy]] in such a way that it reveals something about the character, develops the character’s personality, or provides a character moment that everyone at the table enjoys. 
 - Being significantly challenged, endangered, or harmed in the course of protecting or upholding a Major or Defining [[Intimacy]]. 
 - Being significantly impeded, endangered, or harmed by a [[Flaws|Flaw]].

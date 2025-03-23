@@ -1,4 +1,8 @@
-All Solar and Lunar Exalted are Anathema by decree of the Immaculate Philosophy. Though the Abyssal Exalted are newly arrived in the world, their prominent role in the fall of Thorns and their Solar-like Caste Marks clearly announce them as Anathema and enemies of Creation as well. 
+---
+tags:
+  - source/solar-book
+---
+All Solar and Lunar Exalted are Anathema by decree of the Immaculate Philosophy. Though the Abyssal Exalted are newly arrived in the world, their prominent role in [[the fall of Thorns]] and their Solar-like Caste Marks clearly announce them as Anathema and enemies of Creation as well. 
 
 According to the Immaculate texts, the Exigents were servants of the Solar Anathema in the time when those devil-gods ruled over Creation. But when the Dragon-Blooded rose up to end the age of the Anathema, some Exigents turned against their masters and joined the righteous cause of the Terrestrial Exalted. Though steeped in the dark power of their Anathema lords, the Exigents had proven they were not beyond redemption. Accordingly, the Immaculate Dragon Hesiesh demonstrated his wisdom by sealing the darkness of the Exigents when he unleashed his cleansing flames on Creation, and Sextes Jylis exercised mercy by weaving his brother’s purifying power into the cycle of reincarnation. Each Exigent must labor over many lifetimes to purify the taint on his soul through correct living under the tenets of the Immaculate Philosophy, but such purification is made possible through the grace of the Dragons, ultimately leading to the potential for redemption and rebirth as one of the Dragon-Blooded—so the Immaculate Order claims. Exigent recidivists who threaten the stability of the Realm are sorrowfully dispatched by the Wyld Hunt, perhaps to find greater wisdom in their next life. 
 

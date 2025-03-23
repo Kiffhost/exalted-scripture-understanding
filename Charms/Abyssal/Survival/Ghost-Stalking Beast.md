@@ -14,5 +14,5 @@ Prerequisite Charms:
   - "[[Spirit-Sensing Meditation]]"
 ---
 *The deathknight’s hunting hounds bay for the souls of the damned.*
-When the Abyssal uses [[Spirit-Sensing Meditation]] (p. XX), she can extend its benefits to any familiars present in the scene for one mote each.
+When the Abyssal uses [[Spirit-Sensing Meditation]], she can extend its benefits to any familiars present in the scene for one mote each.
 If the Abyssal knows [[Corpus-Rending Blow]] or [[God-Slaying Torment]], she may use them to enhance her familiar’s attacks.

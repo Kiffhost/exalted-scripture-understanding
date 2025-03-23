@@ -16,7 +16,7 @@ The wielder’s scholarly mastery flows through her and into [[Sun’s Brush]], 
 
 ## Dissonant
 
-This Evocation can only be used once per day, unless reset by introducing a fact that advances the wielder’s goals or the events of the current scene. 
+This Evocation can only be used once per day, unless reset by [[introducing a fact]] that advances the wielder’s goals or the events of the current scene. 
 
 ## Resonant
 

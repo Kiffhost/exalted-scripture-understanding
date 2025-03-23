@@ -12,6 +12,8 @@ Choose 4 [[Specialty|Specialties]].
 # Merits
 
 Spend 7 dots on [[Merits]].
+
+Mortals can gain access to [[Rules Reference/Sorcery/Sorcery|Sorcery]] and spells through [[Mortal Sorcery]].
 # Intimacies
 
 Create at least four [[Intimacy|Intimacies]]. 

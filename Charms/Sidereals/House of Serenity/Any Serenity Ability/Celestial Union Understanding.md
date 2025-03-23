@@ -16,6 +16,6 @@ The Sidereal understands all the ways fate brings people together. When the Side
 -  What keeps them together? 
 -  What’s the biggest problem facing their relationship? 
 -  How far would each of them go to help the other? 
--  Which one of them should I talk to first if I want to accomplish some specific goal? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  Which one of them should I talk to first if I want to accomplish some specific goal? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

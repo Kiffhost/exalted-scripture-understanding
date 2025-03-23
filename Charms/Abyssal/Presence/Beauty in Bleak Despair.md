@@ -14,4 +14,4 @@ Prerequisite Charms:
   - "[[Elegant Tyrant Majesty]]"
 ---
 *Death’s Lawgiver carries herself with the haughty confidence of one who knows her image will endure past death.*
-The Abyssal gains a bonus dot of [[Appearance]], which can raise her [[Appearance]] above 5, after a scene spent contemplating her own image, donning the trappings of death, or receiving praise for her good looks. If she makes an influence roll to seduce someone, he suffers −1 [[Resolve]] against it.
+The Abyssal gains a bonus dot of [[Appearance]], which can raise her [[Appearance]] above 5, after a scene spent contemplating her own image, donning the trappings of death, or receiving praise for her good looks. If she makes an [[influence roll]] to seduce someone, he suffers −1 [[Resolve]] against it.

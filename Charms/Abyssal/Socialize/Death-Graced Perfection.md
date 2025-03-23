@@ -14,4 +14,5 @@ Prerequisite Charms:
 ---
 *The ways of the living and the Old Laws that bind the dead are revealed to the Abyssal, honing her insight and eloquence beyond mortal limits.*
 The Abyssal doubles 8s on a [[Socialize]] roll.
-[[Limit]]: Once per scene, unless reset by succeeding on an influence roll against a nontrivial character that leverages one of his Defining Intimacies.
+## Limit: 
+Once per scene, unless reset by succeeding on an [[Influence roll]] against a nontrivial character that leverages one of his Defining [[Intimacy|Intimacies]].

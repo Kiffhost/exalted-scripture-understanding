@@ -16,6 +16,6 @@ The Sidereal sees the shape of perils to come. The Sidereal rolls ([[Perception]
 -  Who here is in the greatest danger? 
 -  What here poses the greatest danger to me? 
 -  What’s the safest place here? 
--  What’s the best way to get out of here? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if introducing a fact. 
+-  What’s the best way to get out of here? If the Storyteller doesn’t have an answer in mind for a question, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

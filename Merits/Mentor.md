@@ -6,6 +6,8 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - source/exigent-book
+  - source/Exigent-Book
 Cost: 1 to 3
 ---
 Another individual of greater experience regularly teaches and advises the character. Mentors may provide advice, assistance, and even training in mundane or magical fields.
@@ -16,3 +18,6 @@ Pact Lunars often have a shahan-ya as a three-dot [[Mentor]]. In games where all
 
 #### Sidereal
 Experienced Sidereals are three-dot Mentors. Senior gods of the [[Celestial Bureaucracy]] are usually two- or three-dot Mentors.
+
+#### Exigent
+While an Exigent’s patron is often consumed by her Exaltation, many deities — particularly those of great personal power or rank — survive, albeit diminished. An Exigent’s divine patron can be taken as a three- or five-dot Ally or two- to three-dot [[Mentor]], depending on their personal power

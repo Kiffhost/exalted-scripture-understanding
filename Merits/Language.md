@@ -24,7 +24,7 @@ Old Realm is Yu-Shan’s native tongue, though many gods speak at least one mort
 ### Dragontongue
 Derived from recovered elements of a priestly language that was lost during the shogunate, luminaries of House Mnemon birthed and spread this language over the course of two centuries. It is a mix of Old Realm and High Realm, with elements of a lost shogunate tongue, and excludes the mind from the wider, more dangerous concepts inherent to Old Realm, keeping a person in mind of the Dragons, the Poles, the natural world and the Perfected Hierarchy. It is a beautiful language more than a scholarly one, and even in satrapies which have been thoroughly suppressed by the Realm, there is a rush by savants and poets to learn this language of poets and princes. Its written form utilizes very challenging yet beautiful brushstrokes.
 ### Riverspeak
-The language of the Scavenger Lands. The Guild has promoted this loanword-filled tongue as the unofficial “trade language” of the Threshold; it is probably the most widely-understood language in Creation.
+The language of the Scavenger Lands. The [[Guild]] has promoted this loanword-filled tongue as the unofficial “trade language” of the Threshold; it is probably the most widely-understood language in Creation.
 Its written form employs a simple glyphic alphabet whose characters can easily be shaped with a quill, stylus, or even a stick of charcoal.
 ### Skytongue
 A language family spoken in the North. Its written form employs a simple runic alphabet.
@@ -36,11 +36,11 @@ A language family spoken in the East, beyond the bounds of the Scavenger Lands. 
 ### Seatongue
 A language family spoken in the West. Its written form consists of a simple alphabet of lines and dots whose connection to one another can be exceedingly complex.
 ### Guild Cant
-A secret language spoken only by members of the Guild. Its written form is composed of simple horizontal and vertical lines, designed to be able to be written quickly and unobtrusively when necessary.
+A secret language spoken only by members of the [[Guild]]. Its written form is composed of simple horizontal and vertical lines, designed to be able to be written quickly and unobtrusively when necessary.
 ### Local Tongues
 Creation contains countless languages spoken by specific “barbarian” tribes, insular ethnic enclaves, isolated island-dwellers, and various other small groups. Four such languages may be learned with a single Merit purchase.
 ### Sign languages
-#custom Sign languages are most commonly spoken by the [[Deaf]], and friends and family thereof. Such languages are highly dialectal and isolated, but are often supplemented with mouthing linked to the local spoken language. A single merit purchase may allow the learning of two of the following:
+#custom Sign languages are most commonly used by the [[Deaf]], and friends and family thereof. Such languages are highly dialectal and isolated, but are often supplemented with mouthing linked to the local spoken language. A single merit purchase may allow the learning of two of the following:
 - [[#Realmsign]] 
 - [[#Dragonsign]] 
 - Up to 4 **Local Sign Languages**

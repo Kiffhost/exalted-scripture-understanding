@@ -19,4 +19,4 @@ The Lunar takes in a locale’s every detail, studying the lay of the land, the 
 -  [[Athletics]] rolls to maneuver through the location or bypass obstacles. 
 -  [[Lore]] rolls to introduce or challenge facts regarding the location. 
 -  [[Influence]] rolls to convince a character to grant her entry or pacify guard animals. 
--  Any rolls resisting environmental hazards or traps within the location. This Charm can only be used once per day.
+-  Any rolls resisting [[environmental hazards]] or traps within the location. This Charm can only be used once per day.

@@ -1,6 +1,8 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - battle groups
 ---
 Simply put, a battle group is treated as a character with the traits of the average combatant making up the group, plus a few other traits which modify these capabilities.
 

@@ -37,7 +37,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Lunar Stuff
 		- [ ] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
-		- [ ] Abyssal Stuff
+		- [x] Abyssal Stuff
 		- [ ] Exigent Charm Creation
 	- [ ] [[Mortal]] Exaltation
 - [ ] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.

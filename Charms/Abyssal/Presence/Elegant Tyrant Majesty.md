@@ -12,6 +12,6 @@ Duration: One scene or Indefinite
 Prerequisite Charms:
   - None
 ---
-*The Abyssal affects inhuman magnetism and composure, an unmistakable presence even in the dark courts of the Deathlords.*
-The Abyssal adds three dice on influence rolls made with any Ability other than [[Stealth]], and discounts the cost of any [[Charms]] that create or enhance such rolls by one mote each, minimum one.
+*The Abyssal affects inhuman magnetism and composure, an unmistakable presence even in the dark courts of the [[Deathlords]].*
+The Abyssal adds three dice on [[Influence roll|influence rolls]] made with any Ability other than [[Stealth]], and discounts the cost of any [[Charms]] that create or enhance such rolls by one mote each, minimum one.
 This Charm lasts one scene for five motes, or indefinitely for seven motes.

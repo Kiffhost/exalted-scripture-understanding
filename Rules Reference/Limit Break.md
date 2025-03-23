@@ -4,6 +4,8 @@ aliases:
   - Monstrous Urge
   - Celestial Hubris
   - Bleak Expiation
+tags:
+  - source/Abyssal-Book
 ---
 The manifest expression of the Great Curse. [[Limit Break]] may or may not manifest immediately; the Great Curse is insidious, and tends to erupt into full bloom only when the Exalt’s actions have the potential to create significant turmoil or suffering. An Exalt in the midst of an argument with his Circle is likely to experience the full effects of the Great Curse immediately, while one trekking through the vast desert of the South might continue to travel for several days before the effects of his [[Limit Break]] manifest. The timing of such manifestations are ultimately up to the Storyteller. 
 
@@ -55,10 +57,11 @@ An Abyssal doesn’t experience Limit Breaks or reset her Limit when she reaches
 - Once the Abyssal reaches Limit 10, the Abyssal automatically suffers Expiation at the next dramatically appropriate moment.
 - The Storyteller can call for Expiation once per session.
 - An Abyssal’s player can invoke Expiation once per session. The Storyteller may delay it if it would be dramatically inappropriate in the current scene.
-When an Abyssal suffers Expiation, she rolls (higher of Essence or 3) dice, or ten dice if she’s at Limit 10. She loses Limit equal to her successes, minimum one, as the Great Curse stirs. The Storyteller determines what form this, allocating the Limit purged by the roll among the manifestations listed below or similar effects. The severity of a manifestation is rated like an Intimacy, based on how much purged Limit it costs: one for Minor, two for Major, or three for Defining.
-
+When an Abyssal suffers Expiation, she rolls (higher of Essence or 3) dice, or ten dice if she’s at Limit 10. She loses Limit equal to her successes, minimum one, as the Great Curse stirs. The Storyteller determines what form this, allocating the Limit purged by the roll among the manifestations listed below or similar effects. The severity of a manifestation is rated like an [[Intimacy]], based on how much purged [[Limit]] it costs: one for Minor, two for Major, or three for Defining.
 ## Bleak Expiations
 ```dataview
 LIST 
 FROM "Traits/Limit/Bleak Expiation"
 ```
+## Storytelling Expiations
+The Great Curse isn’t meant to punish players. The Storyteller should use it to create dramatic moments or conflicts for a deathknight that will be enjoyable for the players, if not for their characters. Keep this in mind both when deciding when to invoke Expiation and when choosing effects. Choosing multiple Minor effects may be less harsh than a single Major or Defining one, but it may set up a better moment in the story.

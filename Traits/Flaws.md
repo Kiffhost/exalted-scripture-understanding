@@ -1,6 +1,8 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - Flaw
 ---
 Flaws are particular debilities and drawbacks. Players may select one or more flaws for their character, if they desire, but don’t have to. [[Flaws]] are completely optional and carry no cost in points of any kind.
 

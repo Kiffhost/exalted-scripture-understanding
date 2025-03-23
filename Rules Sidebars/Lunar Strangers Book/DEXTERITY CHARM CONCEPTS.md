@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 Face-Thieving Legerdemain (Essence 2;
 Nest-Raiding Slyness): Perform a sacred hunt that

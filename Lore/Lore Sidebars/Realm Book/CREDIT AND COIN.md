@@ -1,1 +1,5 @@
+---
+tags:
+  - source/realm-book
+---
 Commerce involves less hard currency than one might think. Credit — based on respectability and trust between equals — is the basis of exchange within the Dynasty’s tight-knit social networks, patrician houses, urban mercantile classes, and peasant villages. Where trust ends, coin appears. It’s used to pay taxes and rents, and to deal with traveling merchants, foreigners, and other persons of no account. Even when dealing with foreigners, the wealthy prefer letters of credit, promissory notes, and other financial instruments to coffers bulging with inconveniently heavy and conspicuous coin or scrip.

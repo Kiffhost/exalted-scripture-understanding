@@ -16,6 +16,6 @@ The land whispers to the Sidereal, telling her what she must know. The Sidereal 
 -  What’s a relevant detail about nearby flora or fauna? 
 -  What’s the overall mood of the nearby region’s spirits? 
 -  What’s a nearby manse, demesne, or other place of power that I’d be interested in, and where is it? 
--  What’s the most significant threat to the land itself, and where is it? This is typically a shadowland, bordermarch, baleful sorcerous working, or other large-scale supernatural force. If the Storyteller doesn’t have an answer in mind, the Sidereal’s player should provide one, as if introducing a fact. 
+-  What’s the most significant threat to the land itself, and where is it? This is typically a shadowland, bordermarch, baleful sorcerous working, or other large-scale supernatural force. If the Storyteller doesn’t have an answer in mind, the Sidereal’s player should provide one, as if [[introducing a fact]]. 
 ## Reset
 Once per scene.

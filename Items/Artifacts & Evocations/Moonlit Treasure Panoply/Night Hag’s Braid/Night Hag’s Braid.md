@@ -25,7 +25,7 @@ Therein lay the trap. Kethara was obsession personified, and sought to claim the
 It might have worked, had Thousand Rainbow Petals been a lesser witch. Not long after their arrival to the court, they’d unraveled the court’s ever-shifting web of alliances, vendettas, and rivalries. The Lunar had made other bargains with Kethara’s enemies, and learned of her schemes long in advance. When the two of them swore to their pact, it was the queen who was bound, for Thousand Rainbow Petals had changed the oath’s terms at the last minute.
 As punishment for Kethara’s treachery, Thousand Rainbow Petals plucked every hair from her head.
 Braiding the faerie queen’s hairs together with wirethin lengths of moonsilver, the Lunar created the [[Night Hag’s Braid]], a trophy of Kethara’s defeat and a warning to others who would cross the witch. Having exacted their justice, Thousand Rainbow Petals departed, leaving Kethara to the mercies of her own court.
-The [[Night Hag’s Braid]] has had many masters since Thousand Rainbow Petals. Lost in the Usurpation, the Silver Pact discovered it by chance when the Lunar Dances-Between-Raindrops infiltrated the fortress-manse of the direlash’s current owner, the warlord-savant Taharu Voja. Since then, it’s been passed down among the Pact’s mystics, shamans, and sorcerers. 
+The [[Night Hag’s Braid]] has had many masters since Thousand Rainbow Petals. Lost in the Usurpation, the [[Lore/Factions/Silver Pact|Silver Pact]] discovered it by chance when the Lunar Dances-Between-Raindrops infiltrated the fortress-manse of the direlash’s current owner, the warlord-savant Taharu Voja. Since then, it’s been passed down among the Pact’s mystics, shamans, and sorcerers. 
  
 ## [[Evocations]] of the [[Night Hag’s Braid]]
 

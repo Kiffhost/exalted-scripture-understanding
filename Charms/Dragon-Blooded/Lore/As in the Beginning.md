@@ -22,7 +22,7 @@ The sky darkens, pouring down harsh rain or heavy snowfall accompanied by gale-f
  - Precipitation imposes a –2 penalty on all vision- or hearing-based rolls.
  - Winds impose a –3 penalty on movement actions, ranged attacks, and similar rolls.
  - Airborne characters and trivial opponents treat all movement as difficult terrain.
- - Characters exposed to the storm suffer an environmental hazard with difficulty 2, Damage 10L/hour; a failed roll indicates they’ve been struck by lightning.
+ - Characters exposed to the storm suffer an [[Environmental Hazards|environmental hazard]] with difficulty 2, Damage 10L/hour; a failed roll indicates they’ve been struck by lightning.
 The storm lasts (Dragon-Blood’s successes/2) hours, rounded up, but can be dispersed earlier through magic or the creative actions of characters.
 
 ### Earth
@@ -32,7 +32,7 @@ The land shakes and grinds horrifically as seismic tremors shudder through it.
 
 ### Fire
 A roaring conflagration engulfs the land, setting the world ablaze.
- - All characters suffer a one-time environmental hazard with difficulty 5, Damage 6L.
+ - All characters suffer a one-time [[Environmental Hazards|environmental hazard]] with difficulty 5, Damage 6L.
  - Forests, grasslands, wooden structures, and other flammable terrain catches fire and continues to burn with a lesser intensity (difficulty 5, Damage 4L/round) until they’re extinguished or no fuel remains.
  - A haze of smoke and ash hangs over the affected area, imposing a –2 penalty on any vision- or scentbased rolls. This lasts (Dragon-Blood’s successes/2) hours, rounded up, unless dispersed earlier by natural weather, magic, or the creative actions of characters, and may last longer if large regions remain ablaze.
 

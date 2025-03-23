@@ -24,7 +24,7 @@ A character’s Limit trigger is an especially stressful, frustrating, or trauma
 - The Lunar must endure deprivation, poverty, or extreme physical hardship due to an adversary, or to achieve one of her or her Circle’s goals. 
 - Someone the Lunar wishes would pay attention to her rejects, humiliates, or ignores her.
 
-# Sidereals
+# Sidereal
 
 Sidereal Limit Triggers are usually situations that cause them to feel excessive pride or self-confidence, drive them to double down on troubled plans, or succumb to skewed priorities or a self-centered perspective. Examples include: 
 - The Sidereal succeeds despite overwhelming odds or having been discouraged by others. 

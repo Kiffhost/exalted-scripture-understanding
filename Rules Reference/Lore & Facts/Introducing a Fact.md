@@ -2,6 +2,11 @@
 tags:
   - Action
   - source/solar-book
+aliases:
+  - introduce fact
+  - introduce facts
+  - introduce a fact
+  - introduces a fact
 ---
 One of the basic functions of [[Lore]] in Exalted is to allow the player to spice up narrative drama, forward the plot, or become the object of positive [[Intimacy|Intimacies]] by demonstrating valuable knowledge. 
 
@@ -11,7 +16,7 @@ Once per scene, a character with [[Lore]] 3+ and a relevant specialty or backsto
 	1. The Storyteller determines if the **fact** is [[#Admissibility|admissible]].
 2. The player rolls ([[Intelligence]] + [[Lore]]) against a difficulty set by the Storyteller.
 	1. Difficulty may be influenced by the relevance of the character's [[Lore#Background]] and [[Lore]] [[Specialty|specialties]].
-	2. See [[Assigning Difficulties to [[Lore]] Rolls]]
+	2. See [[Assigning Difficulties to Lore Rolls]]
 3. If the roll succeeds, the character may introduce her fact as knowledge she knows or uncovers in the scene.
 
 # Admissibility

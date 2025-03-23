@@ -32,4 +32,4 @@ Soak/Hardness: 8/4
 **Killer’s Nose**: Double 9s on scent-based [[Perception]] rolls, or double 8s on rolls to detect an assassination target whose scent it’s tasted. 
 **Languages**: [[The Golden Viper]] knows all major languages and countless tribal tongues. 
 **Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new [[Intimacy|Intimacies]] to Major or Defining. 
-**Ten Million Memories**: When introducing a fact, the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.
+**Ten Million Memories**: When [[introducing a fact]], the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.

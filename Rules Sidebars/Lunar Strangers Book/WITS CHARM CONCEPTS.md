@@ -1,6 +1,6 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
+  - source/lunar-strangers-book
 ---
 
 Beast-Waking Boon (Essence 2; Erudite BeastMind Expansion): Use Erudite Beast-Mind Expansion to temporarily enlighten an animal or creature

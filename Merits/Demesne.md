@@ -15,3 +15,5 @@ A character attuned to a demesne who stands within its boundaries enjoys certain
 As a four-dot Merit, the character gains control of an exceptionally powerful demesne. She respires four extra motes per hour outside of combat, the difficulty to detect [[Essence]]-use becomes 1, and using the demesne as a Means grants two extra intervals.
 #### Abyssal
 Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.
+
+# See also: [[Attuning to a Demesne or Manse]]

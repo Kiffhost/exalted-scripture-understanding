@@ -12,7 +12,7 @@ Characters have seven levels in their health track: one -0 health level, two -1 
 
 # Losing Health
 
-Characters lose health levels when they take damage from decisive attacks (see Chapter Five), environmental hazards, poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: [[#Bashing]], [[#Lethal]], and [[#Aggravated]].
+Characters lose health levels when they take damage from decisive attacks (see Chapter Five), [[environmental hazards]], poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: [[#Bashing]], [[#Lethal]], and [[#Aggravated]].
 
 ## Bashing
 
