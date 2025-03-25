@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Flowing Body Disguise]]"
 ---
-The Dragon-Blood can roll to disguise herself in a single minute, and does so without any need for makeup, props, or other equipment. If she does have suitable equipment for her disguise, her roll benefits from double 9s.
+*The Dragon-Blood can roll to disguise herself in a single minute, and does so without any need for makeup, props, or other equipment.*
+If she does have suitable equipment for her disguise, her roll benefits from double 9s.

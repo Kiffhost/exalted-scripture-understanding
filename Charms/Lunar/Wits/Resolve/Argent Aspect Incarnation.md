@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Intransigent Silver Soul]]"
   - "[[Sacred Guardian Renewal]]"
 ---
-The Lunar embodies the inviolate core of her being, her inchoate [[Essence]] shaped by her most deeply held beliefs.
+*The Lunar embodies the inviolate core of her being, her inchoate [[Essence]] shaped by her most deeply held beliefs.*
 Upon learning this Charm, the Lunar’s player chooses one of her Defining Principles. She gains the following benefits:  - Her iconic anima and [[Lunar Shapeshifting/Tell]] subtly shift to reflect her [[Intimacy|Principle]]. Those who see either intuit that the Lunar has the [[Intimacy|Principle]]. If they share it with her, their [[Intimacy|Principle]] also counts as a positive [[Intimacy|Tie]] to her for the scene unless they pay one [[Willpower]].
  - Once per scene, she waives the [[Willpower]] cost to add an automatic success on an action that aligns with the [[Intimacy|Principle]].
  - When she regains [[Willpower]] from upholding the [[Intimacy|Principle]], she loses one [[Limit]].

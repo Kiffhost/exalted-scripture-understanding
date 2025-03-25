@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Fervent Blow]]"
 ---
-Even gods may be cut by the sharp light of Solar fury. As long as she is gripping her weapon, the Solar feels the slightest movement in the air around her and may react with impossible speed. The Solar may use [[Fervent Blow]] to clash an attack she is not aware of; she becomes aware of the attack at the last moment. This Charm also allows her to strike immaterial opponents with a clash. This Charm does not force spirits to materialize, even if the Solar’s attack manages to wound them.
+*Even gods may be cut by the sharp light of Solar fury.*
+As long as she is gripping her weapon, the Solar feels the slightest movement in the air around her and may react with impossible speed. The Solar may use [[Fervent Blow]] to clash an attack she is not aware of; she becomes aware of the attack at the last moment. This Charm also allows her to strike immaterial opponents with a clash. This Charm does not force spirits to materialize, even if the Solar’s attack manages to wound them.
 
 ### On [[Omniscient Focus Attack]]
 

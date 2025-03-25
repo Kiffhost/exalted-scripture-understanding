@@ -10,7 +10,8 @@ Backer: Chase Burton
 Material: Moonsilver
 Dots: "4"
 ---
-The sorcerer Chi-E-Su cared little for his own fame. In his eyes, the First Age’s greatest injustice was that the Exalted shone too bright in their glory, denying mortals of great skill and greater passion the chance to make their mark on history. He created Inkwarden to elevate the creations and works of mortals, turning his power to the ennoblement of others.
+*The sorcerer Chi-E-Su cared little for his own fame.*
+In his eyes, the First Age’s greatest injustice was that the Exalted shone too bright in their glory, denying mortals of great skill and greater passion the chance to make their mark on history. He created Inkwarden to elevate the creations and works of mortals, turning his power to the ennoblement of others.
 The seal is a finger-length rod, ending in a blank disc of moonsilver that’s shaped to make Inkwarden’s mark.
 The rest of the seal seems made from glass, spun from the heart grace of an ancient faerie smith. Within the glass roils midnight-black ink — a drop of blood from the Demon Prince called Elloge, whose flesh is language and legend.
 Chi-E-Su invited crafters from across Creation to seek out Inkwarden’s blessing. Each suppliant recounted the tale of their masterpiece’s creation, telling him how they spent years laboring atop a mountain, stole precious jewels from the Jadeborn’s vaults, or used a behemoth’s skull for their anvil. When the sorcerer deemed a suppliant worthy and their tale true, Inkwarden imbued their story into their own creation, empowering it with its own legend.

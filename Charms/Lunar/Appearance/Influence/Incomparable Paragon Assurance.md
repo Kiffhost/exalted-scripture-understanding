@@ -13,4 +13,5 @@ Prerequisite Charms:
   - "[[Myriad Graces Appeal]]"
   - "[[Perfect Symmetry]]"
 ---
-The Lunar gazes inward to see her soul’s beauty, letting it shine forth into the eyes of others. After five minutes of meditation, she gains a bonus dot of [[Appearance]], which can raise her [[Appearance]] above 5. She applies bonus dice from [[Appearance]] on inspire and bargain rolls made with any Attribute.
+*The Lunar gazes inward to see her soul’s beauty, letting it shine forth into the eyes of others.*
+After five minutes of meditation, she gains a bonus dot of [[Appearance]], which can raise her [[Appearance]] above 5. She applies bonus dice from [[Appearance]] on inspire and bargain rolls made with any Attribute.

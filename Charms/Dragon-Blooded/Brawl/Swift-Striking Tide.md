@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Become the Wave]]"
 ---
-The Dragon-Blood’s fluid offense constantly tests her enemy’s guard, waiting for him to show weakness. At the opportune moment, she flows into a deadly swift strike. Once per round, if an ally uses a distract gambit to benefit the Dragon-Blood, she may reflexively make a decisive attack against the gambit’s target. This doesn’t count as her attack for the round.
+*The Dragon-Blood’s fluid offense constantly tests her enemy’s guard, waiting for him to show weakness.*
+At the opportune moment, she flows into a deadly swift strike. Once per round, if an ally uses a distract gambit to benefit the Dragon-Blood, she may reflexively make a decisive attack against the gambit’s target. This doesn’t count as her attack for the round.

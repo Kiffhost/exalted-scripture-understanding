@@ -11,7 +11,8 @@ Duration: One scene
 Prerequisite Charms:
   - None
 ---
-Drawing on a hunting beast’s tenacity, the wielder numbs herself to cold and pain. She ignores penalties or [[environmental hazards]] resulting from severe cold, and adds +([[Survival]]) to her base soak if unarmored. If she has [[Survival]] 4+ or a [[Survival]] specialty that relates to frigid environs, she also ignores one point of wound penalty. 
+*Drawing on a hunting beast’s tenacity, the wielder numbs herself to cold and pain.*
+She ignores penalties or [[environmental hazards]] resulting from severe cold, and adds +([[Survival]]) to her base soak if unarmored. If she has [[Survival]] 4+ or a [[Survival]] specialty that relates to frigid environs, she also ignores one point of wound penalty. 
 
 ## Resonant
 

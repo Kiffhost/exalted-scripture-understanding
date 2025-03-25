@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-As the wielder’s combat stance shifts, [[Phaessa and Deinon]] follow suit. After successfully rushing a nontrivial opponent, she may activate this Evocation to make the swords waxing. After successfully establishing concealment against at least one nontrivial enemy, she may make the swords waning. 
+*As the wielder’s combat stance shifts, [[Phaessa and Deinon]] follow suit.*
+After successfully rushing a nontrivial opponent, she may activate this Evocation to make the swords waxing. After successfully establishing concealment against at least one nontrivial enemy, she may make the swords waning. 
 
 ## Special activation rules
 

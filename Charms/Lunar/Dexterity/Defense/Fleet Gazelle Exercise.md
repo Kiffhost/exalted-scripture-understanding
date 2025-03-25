@@ -13,4 +13,5 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Bending Before the Storm]]"
 ---
-Though countless enemies pursue her, the Lunar is the most elusive of prey. She gains +1 [[Defense|Evasion]]. At the end of each round in which she was attacked but was not hit, she gains one [[Initiative]].
+*Though countless enemies pursue her, the Lunar is the most elusive of prey.*
+She gains +1 [[Defense|Evasion]]. At the end of each round in which she was attacked but was not hit, she gains one [[Initiative]].

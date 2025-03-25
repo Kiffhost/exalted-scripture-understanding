@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-A consummate liar, the Dragon-Blood deftly negotiates intrigues and galas. She may use [[Manipulation]] in place of [[Wits]] to calculate her [[Resolve]] against a single influence roll. Alternatively, she may substitute her [[Manipulation]]-based [[Resolve]] for her [[Guile]] against a single roll.
+*A consummate liar, the Dragon-Blood deftly negotiates intrigues and galas.*
+She may use [[Manipulation]] in place of [[Wits]] to calculate her [[Resolve]] against a single influence roll. Alternatively, she may substitute her [[Manipulation]]-based [[Resolve]] for her [[Guile]] against a single roll.

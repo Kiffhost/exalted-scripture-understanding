@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Shared Battle-Instinct]]"
 ---
-The Exalt’s radiance blinds foes to her sword-sibling’s blade. This Evocation supplements a distract gambit. If successful, when the sword-sibling uses the transferred [[Initiative]], his attack is a surprise attack, inflicting a −2 penalty on the target’s [[Defense]]. 
+*The Exalt’s radiance blinds foes to her sword-sibling’s blade.*
+This Evocation supplements a distract gambit. If successful, when the sword-sibling uses the transferred [[Initiative]], his attack is a surprise attack, inflicting a −2 penalty on the target’s [[Defense]]. 
 
 ## Resonant
 

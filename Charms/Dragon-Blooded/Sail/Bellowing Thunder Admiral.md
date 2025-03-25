@@ -13,7 +13,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Old Salt Spirit]]"
 ---
-Barking orders over the din of hurricanes, the Dragon-Blood incites her sailors to courage and swift victory in battle. She adds (Essence/2, rounded up) successes on command actions targeting battle groups made up of sailors under her command. Such groups add (her Essence/2, rounded up) successes on [[Willpower]] rolls against rout and gain the [[Resolve]] bonus of [[Old Salt Spirit]] as long as they’re within medium range of her. 
+*Barking orders over the din of hurricanes, the Dragon-Blood incites her sailors to courage and swift victory in battle.*
+She adds (Essence/2, rounded up) successes on command actions targeting battle groups made up of sailors under her command. Such groups add (her Essence/2, rounded up) successes on [[Willpower]] rolls against rout and gain the [[Resolve]] bonus of [[Old Salt Spirit]] as long as they’re within medium range of her. 
 
 ## Special activation rules
 

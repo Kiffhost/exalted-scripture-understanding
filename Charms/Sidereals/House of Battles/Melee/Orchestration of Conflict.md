@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Harmony of Blows]]"
 ---
-The Sidereal’s actions ripple across the battlefield, shaping the flow of the conflict. A successful attack inflicts its onslaught penalty on all enemies within its range.
+*The Sidereal’s actions ripple across the battlefield, shaping the flow of the conflict.*
+A successful attack inflicts its onslaught penalty on all enemies within its range.

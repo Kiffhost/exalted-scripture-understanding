@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Brilliant Reproach]]"
 ---
-The wielder may pay two motes to attack an enemy at [[Range|short range]] when she uses [[Brilliant Reproach]]. This also increases the range at which it can strike random targets if she fails to control the attack. 
+*The wielder may pay two motes to attack an enemy at [[Range|short range]] when she uses [[Brilliant Reproach]].*
+This also increases the range at which it can strike random targets if she fails to control the attack. 
 
 ## Resonant
 

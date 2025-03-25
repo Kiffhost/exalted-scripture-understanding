@@ -15,7 +15,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Grizzly Maiming Strike]]"
 ---
-Crushing her opponent to her chest, the stylist grabs him hard enough to crack ribs and crush windpipes.
+*Crushing her opponent to her chest, the stylist grabs him hard enough to crack ribs and crush windpipes.*
 A drag or withering savaging attack inflicts ([[Essence]]) dice of decisive damage. If this crashes or incapacitates a foe, it inflicts a −1 crippling penalty, as per [[Grizzly Maiming Strike]]. It stacks with that Charm’s penalty, but counts toward its maximum.
 ## Mastery
 This attack always inflicts the crippling penalty.

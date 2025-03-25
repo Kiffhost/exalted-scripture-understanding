@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Firedust-Gathering Practice]]"
 ---
-Sirrush now feeds directly on flame. This Evocation augments its prerequisite, allowing [[Sirrush]] to reload by pulling in tongues of flame from any bonfire or larger flame within short range, rather than firedust. Whenever the Exalt does so using an Evocation requiring an ammunition check, [[Sirrush]] completely consumes all nonmagical flames within short range. Flames beyond that range may spread back into the radius normally. 
+*Sirrush now feeds directly on flame.*
+This Evocation augments its prerequisite, allowing [[Sirrush]] to reload by pulling in tongues of flame from any bonfire or larger flame within short range, rather than firedust. Whenever the Exalt does so using an Evocation requiring an ammunition check, [[Sirrush]] completely consumes all nonmagical flames within short range. Flames beyond that range may spread back into the radius normally. 
 
 ## Special activation rules
 

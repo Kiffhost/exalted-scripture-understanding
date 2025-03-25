@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Truth-Rendering Gaze]]"
 ---
-With the wisdom of the ages flowing through her mind, the Solar’s concentration can induce an epiphany. With a moment of intense observation of practically anything — a natural phenomena, geographical feature, architectural feature, riddle, puzzle, and so on — the Lawgiver can name the [[Lore]] difficulty to introduce a fact about what she is observing, and the [[Lore]] background needed in order to make that roll. This Charm does not give the Solar knowledge she doesn’t have — it can’t turn a geologist into a student of ancient histories — but it does tell her where to begin her studies anew.
+*With the wisdom of the ages flowing through her mind, the Solar’s concentration can induce an epiphany.*
+With a moment of intense observation of practically anything — a natural phenomena, geographical feature, architectural feature, riddle, puzzle, and so on — the Lawgiver can name the [[Lore]] difficulty to introduce a fact about what she is observing, and the [[Lore]] background needed in order to make that roll. This Charm does not give the Solar knowledge she doesn’t have — it can’t turn a geologist into a student of ancient histories — but it does tell her where to begin her studies anew.
 
 ### On [[Hundred Sages Focus]]
 

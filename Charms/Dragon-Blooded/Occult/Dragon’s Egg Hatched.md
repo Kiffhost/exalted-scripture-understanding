@@ -12,7 +12,8 @@ Duration: (Essence + Intelligence) days
 Prerequisite Charms:
   - "[[Fivefold Resonance Sense]]"
 ---
-The Dragon-Blood bids Creation serve her, and the elements answer the Prince of the Earth. To use this Charm, the Dragon-Blood must be within close range of a dramatic and significant manifestation of an element, such as a windstorm, grove, cliffside, or river. She draws up its [[Essence]] and shapes it into a weak elemental servant with the following traits.
+*The Dragon-Blood bids Creation serve her, and the elements answer the Prince of the Earth.*
+To use this Charm, the Dragon-Blood must be within close range of a dramatic and significant manifestation of an element, such as a windstorm, grove, cliffside, or river. She draws up its [[Essence]] and shapes it into a weak elemental servant with the following traits.
  - The base traits of any one-dot [[Familiar]] (Exalted, p. 161), or of either an elite troop or an assassin (Exalted, pp. 497, 499). The weapons listed for these traits represent the elemental’s natural weapons, rather than literal weaponry.
  - Up to (Dragon-Blood’s [[Essence]]) dots of mutations that represent its elemental nature.
  - A Defining [[Intimacy|Tie]] of loyalty to the Dragon-Blood and, optionally, a Major or Defining [[Intimacy|Principle]] chosen by the Storyteller based on the element it’s created from.

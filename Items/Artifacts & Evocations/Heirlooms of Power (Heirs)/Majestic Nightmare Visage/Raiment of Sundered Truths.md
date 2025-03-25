@@ -14,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Cup-and-Staff Trickster Saga]]"
 ---
-The Childe of Midnights Unremembered is a creature of countless lies, gestating within dreams and delusions.
+*The Childe of Midnights Unremembered is a creature of countless lies, gestating within dreams and delusions.*
 When the wearer makes an influence roll to lie about the Childe of Midnights Unremembered’s identity, history, or agenda, the cost to resist is increased by one [[Willpower]]. Affected characters automatically fail any rolls against the wearer’s [[Guile]] that would contradict the lie for the rest of the scene.
 Against fae, this Evocation can enhance any lie the wearer tells.
 ## Dissonant

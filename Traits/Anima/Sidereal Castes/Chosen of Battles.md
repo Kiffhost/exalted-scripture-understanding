@@ -54,4 +54,4 @@ The Shieldbearer may pay five motes to reflexively make Mars’ lesser sign with
 
 ## Greater Sign of Mars
 
-Once per story, the Shieldbearer may pay twenty motes and one [[Willpower]] to make the Mars’ greater sign, casting a baleful crimson glow down from the heavens. She rolls ([[Wits]] + [Archery, [[Brawl]], [[Melee]], [[Presence]], or War]), granting [[Initiative]] equal to her successes to herself and each of her allies. This uses her entire turn. For the rest of the scene, she and her allies add (her [[Essence]]) to their base [[Initiative]]. Battle groups instead gain [[Might]] 2.
+Once per story, the Shieldbearer may pay twenty motes and one [[Willpower]] to make the Mars’ greater sign, casting a baleful crimson glow down from the heavens. She rolls ([[Wits]] + {Archery, [[Brawl]], [[Melee]], [[Presence]], or War}), granting [[Initiative]] equal to her successes to herself and each of her allies. This uses her entire turn. For the rest of the scene, she and her allies add (her [[Essence]]) to their base [[Initiative]]. Battle groups instead gain [[Might]] 2.

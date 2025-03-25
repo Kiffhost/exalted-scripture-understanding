@@ -11,7 +11,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ A Stranger in the Court]]"
 ---
-Subsuming herself in the Childe of Midnights Unremembered’s mythos, the wearer becomes the mask.
+*Subsuming herself in the Childe of Midnights Unremembered’s mythos, the wearer becomes the mask.*
 She gains one of the Childe’s [[Intimacy|Intimacies]], listed below, and suppresses one of her own [[Intimacy|Intimacies]] of equal or higher intensity. If the Childe’s [[Intimacy]] has been fully eroded, the suppressed [[Intimacy]] returns; until then, the wearer can’t voluntarily strengthen it or a substantially similar [[Intimacy]].
 If a Dragon-Blood uses [[Terrifying Forest-Devil Mask]] to disguise herself as the Childe, she may use this Evocation reflexively to take on all of the Childe’s [[Intimacy|Intimacies]], as above, in place of the Defining [[Intimacy]] that Charm normally confers.
 None of those [[Intimacy|Intimacies]] can be weakened or changed for that Charm’s duration. She must suppress the same number of her own [[Intimacy|Intimacies]]; if she lacks sufficient [[Intimacy|Intimacies]] of equal or higher rating, she can’t use this Evocation.

@@ -17,7 +17,8 @@ Material: Moonsilver
 WeaponType:
   - Reaper Daiklave
 ---
-When the behemoth Entalion broke free of its imprisonment in Zen-Mu and escaped into Creation, it was greeted by the sorcerer-swordsman Kindu Slays-the-Cloud. The grotesque beast of coiling flesh fell easily to the [[Dawn]] Caste’s blade — but that was not Entalion, only his host.
+*When the behemoth Entalion broke free of its imprisonment in Zen-Mu and escaped into Creation, it was greeted by the sorcerer-swordsman Kindu Slays-the-Cloud.*
+The grotesque beast of coiling flesh fell easily to the [[Dawn]] Caste’s blade — but that was not Entalion, only his host.
 Formless and immaterial, Entalion hid itself in Kindu’s daiklave, biding its time until it could find another host.
 Its opportunity came when the Solar returned home to his family. As his husband, Melodious Flame, helped relieve Kindu of his arms, Entalion crept into the mortal’s mind. It rooted there, feeding on Melodious Flame’s memories until nothing of him remained.
 When Kindu learned what had happened, he fell into a rage beyond all measure. With dread sorceries of world-shaking power, he ripped Entalion from Melodious Flame’s mind and nailed it to the sky. But for all his power, he could not restore what had been taken from his beloved. Desperate, he summoned the demon-smith Ligier, who is the green sun of Hell itself, and demanded a way to return Melodious Flame’s memories.

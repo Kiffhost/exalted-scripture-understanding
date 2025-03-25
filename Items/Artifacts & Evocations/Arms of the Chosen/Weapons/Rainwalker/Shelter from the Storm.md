@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Arrows Like Raindrops]]"
 ---
-Rainwalker hums with defensive [[Essence]], rotating to deflect falling raindrops and incoming attacks alike. This Evocation waives a full defense’s [[Initiative]] cost. It also adds an additional +1 [[Defense|Parry]] that counts as a bonus from [[Charms]]. 
+*Rainwalker hums with defensive [[Essence]], rotating to deflect falling raindrops and incoming attacks alike.*
+This Evocation waives a full defense’s [[Initiative]] cost. It also adds an additional +1 [[Defense|Parry]] that counts as a bonus from [[Charms]]. 
 
 ## Resonant
 

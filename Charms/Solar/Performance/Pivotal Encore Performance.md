@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Soul Voice]]"
 ---
-Once per day, the Solar may reach down deep, buffeting her spirit with renewed power. Using this Charm resets [[Unmatched Showmanship Style]] and [[Soul Voice]].
+*Once per day, the Solar may reach down deep, buffeting her spirit with renewed power.*
+Using this Charm resets [[Unmatched Showmanship Style]] and [[Soul Voice]].

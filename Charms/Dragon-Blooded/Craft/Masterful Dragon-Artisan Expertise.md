@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood labors with hands steady as stone. She may add bonus dice to a [[Craft]] roll for one mote each. If she’s awarded a stunt on the supplemented roll, she gains one silver craft point, maximum one per scene.
+*The Dragon-Blood labors with hands steady as stone.*
+She may add bonus dice to a [[Craft]] roll for one mote each. If she’s awarded a stunt on the supplemented roll, she gains one silver craft point, maximum one per scene.

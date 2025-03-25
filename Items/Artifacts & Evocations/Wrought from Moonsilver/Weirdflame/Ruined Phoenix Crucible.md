@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Mad-Fire Ultimatum]]"
 ---
-Emerging from the ashes like a broken-winged phoenix, a foe is reborn. Wyld-Flame Crucible’s transformations last (wielder’s [[Essence]] x2) days, or ([[Essence]]) months against mortals. The wielder may commit Wyld-Flame Crucible’s cost when transforming a foe with equal or lesser [[Essence]], making the transformation’s duration Indefinite. 
+*Emerging from the ashes like a broken-winged phoenix, a foe is reborn.*
+Wyld-Flame Crucible’s transformations last (wielder’s [[Essence]] x2) days, or ([[Essence]]) months against mortals. The wielder may commit Wyld-Flame Crucible’s cost when transforming a foe with equal or lesser [[Essence]], making the transformation’s duration Indefinite. 
 
 ## Resonant
 

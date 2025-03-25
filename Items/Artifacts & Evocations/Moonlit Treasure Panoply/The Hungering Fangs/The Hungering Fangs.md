@@ -18,7 +18,8 @@ WeaponType:
   - Short Daiklaves
 Material: Moonsilver
 ---
-Bitter Night’s Fury was among the greatest hunters and monster-slayers of the First Age. Born too late to have fought in the Divine Revolution, her elder Circlemates’ tales of battle against the enemies of the gods inspired the young Lunar to test herself against the countless terrors that still threatened the still-young Old Realm.
+*Bitter Night’s Fury was among the greatest hunters and monster-slayers of the First Age.*
+Born too late to have fought in the Divine Revolution, her elder Circlemates’ tales of battle against the enemies of the gods inspired the young Lunar to test herself against the countless terrors that still threatened the still-young Old Realm.
 Ekaterina of the Unhinging Jaw, who was Fury’s Circlemate and the lover of her past incarnation, forged the Hungering Fangs as a gift for her before her first hunt. Armed with the moonsilver blades, Fury slew her quarry, the Miasma of Tongues — the first of many horrors to fall to her and her daiklaves.
 In the end, it was love that undid Fury. When not on the hunt, she spent her days with her Solar mate, the soft-spoken sorcerer Lysander the Aureate Rose. But when she returned from her pursuit of the Catechism Moth, she found her beloved had changed. Lysander had called forth the demon Kalojan, a great thief of faces, and its power defied his words of binding. Overcome with terrible rage, Fury sought out the demon alone, too consumed by her rage to warn others or request aid.
 The fangs struck true, nearly claiming the demon’s life — but Kalojan wore Lysander’s face, and Fury hesitated just a split-second too long.

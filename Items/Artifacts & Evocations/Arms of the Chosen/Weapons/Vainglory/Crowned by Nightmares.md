@@ -11,7 +11,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[ Wounded Enmity’s Grace]]"
 ---
-Vainglory’s unearthly jewels gather the light of the Exalt’s anima, congealing it into a ghastly radiance that sears the souls of her enemies. While the Exalt’s anima is at bonfire, each character that can see her suffers a penalty to his [[Defense]] against her attacks equal to the rating of her highest negative [[Intimacy]] toward him. 
+*Vainglory’s unearthly jewels gather the light of the Exalt’s anima, congealing it into a ghastly radiance that sears the souls of her enemies.*
+While the Exalt’s anima is at bonfire, each character that can see her suffers a penalty to his [[Defense]] against her attacks equal to the rating of her highest negative [[Intimacy]] toward him. 
 
 ## Resonant
 

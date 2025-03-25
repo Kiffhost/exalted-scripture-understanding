@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Charismatic Lunar Trick]]"
 ---
-Gripped by powerful passions, those under the Lunar’s sway reveal their true selves. A successful inspire roll imposes a −2 [[Guile]] penalty on affected characters for the scene when they try to conceal information or [[Intimacy|Intimacies]] related to the inspired emotion, or when that emotion naturally interferes with their efforts.
+*Gripped by powerful passions, those under the Lunar’s sway reveal their true selves.*
+A successful inspire roll imposes a −2 [[Guile]] penalty on affected characters for the scene when they try to conceal information or [[Intimacy|Intimacies]] related to the inspired emotion, or when that emotion naturally interferes with their efforts.

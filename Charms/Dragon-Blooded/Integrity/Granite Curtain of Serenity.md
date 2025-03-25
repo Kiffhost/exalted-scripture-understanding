@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Taking on the stoicism of stone, the Dragon-Blood stands unmoved by honeyed words or ferocious threats. She may raise her [[Resolve]] or add automatic successes to an [[Integrity]] roll for two motes each. In addition, she ignores a single point of penalty from wounds, deprivation, or poison.
+*Taking on the stoicism of stone, the Dragon-Blood stands unmoved by honeyed words or ferocious threats.*
+She may raise her [[Resolve]] or add automatic successes to an [[Integrity]] roll for two motes each. In addition, she ignores a single point of penalty from wounds, deprivation, or poison.

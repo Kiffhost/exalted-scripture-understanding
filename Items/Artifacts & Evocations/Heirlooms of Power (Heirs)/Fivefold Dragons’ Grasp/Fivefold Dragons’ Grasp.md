@@ -18,7 +18,8 @@ WeaponType:
   - Smashfist
 Material: Green Jade
 ---
-Earth nurtures wood. Wood fuels fire. Fire becomes smoke, diffusing into air. Air condenses, and rains down as water.
+*Earth nurtures wood.*
+Wood fuels fire. Fire becomes smoke, diffusing into air. Air condenses, and rains down as water.
 Water enriches the earth, beginning the cycle anew. Thus do the elements of Creation proceed, the foremost among the many elemental cycles studied by savants and occultists.
 Jurul Koba Kiriji forged [[Fivefold Dragons’ Grasp]] to further his understanding of this cycle, creating them not as a weapets is fashioned to resemble a dragon’s claws, with each finger composed of a different color of jade.
 Each gauntlet’s palm houses a lens of flawless adamant, a prism through which the five elements become one.

@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Doom-Gathering Arc]]"
 ---
-Destiny guides the Exalt’s stone without thought or aim. The Exalt may reflexively aim before attacking with [[Doom-Gathering Arc]]. 
+*Destiny guides the Exalt’s stone without thought or aim.*
+The Exalt may reflexively aim before attacking with [[Doom-Gathering Arc]]. 
 
 ## Resonant
 

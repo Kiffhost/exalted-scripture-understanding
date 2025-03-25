@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Weapons that should have just barely hit their mark slide through the edges of the Exalt’s outline instead. She gains +1 [[Defense]] and adds ([[Occult]]) to her armored soak against an attack, unless it can hit dematerialized targets. 
+*Weapons that should have just barely hit their mark slide through the edges of the Exalt’s outline instead.*
+She gains +1 [[Defense]] and adds ([[Occult]]) to her armored soak against an attack, unless it can hit dematerialized targets. 
 
 ## Resonant
 

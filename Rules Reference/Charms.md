@@ -15,7 +15,7 @@ Players (including the Storyteller) must openly declare which Charms their chara
 Each type of Exalted manifests a different variety of charms, and it is largely within those charms that we see the fundamental distinction between types of Chosen. 
 
 | Type of Exalted | Max. Charm Dice Pool Bonus                | Max. Static Value Bonus                                  |
-| --------------- | ----------------------------------------- | -------------------------------------------------------- |
+| --------------- | ----------------------------------------- | !!--------------------------------------------------------!! |
 | Solar           | Attribute + Ability                       | (Attribute + Ability)/2 round down                       |
 | Dragon-Blood    | Ability + Specialty<sup>1</sup>           | (Ability + Specialty<sup>1</sup>)/2 round down           |
 | Lunar           | Attribute + stunted Attribute<sup>2</sup> | (Attribute + stunted Attribute<sup>2</sup>)/2 round down |
@@ -37,7 +37,7 @@ One example of a rerolling Charm is [[Excellent Strike]], while [[Rumor of Form]
 ## Cost Code Reference
 
 | Label | Cost                                                     |
-| ----- | -------------------------------------------------------- |
+| ----- | !!--------------------------------------------------------!! |
 | m     | [[Essence#Mote Pools\|motes]]                            |
 | wp    | [[Willpower]]                                            |
 | hl    | bashing [[Health Track#bashing\|Health Levels]]          |

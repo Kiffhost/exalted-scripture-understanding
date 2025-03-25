@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Ordained Bridle of Mercury]]"
 ---
-The Sidereal invokes her intrinsic authority over the [[Celestial Bureaucracy]] to promote a familiar into its ranks. The Sidereal transforms one of her familiars into a god, conferring the following benefits: 
+*The Sidereal invokes her intrinsic authority over the [[Celestial Bureaucracy]] to promote a familiar into its ranks.*
+The Sidereal transforms one of her familiars into a god, conferring the following benefits: 
 - He gains a human-level faculty for complex and abstract thought and the ability to understand the Sidereal’s native tongue and Old Realm. 
 - His natural state is dematerialized. 
 - He gains a pool of ten personal motes, if he didn’t have one already, and the Materialize Charm (Exalted, p. 510). 

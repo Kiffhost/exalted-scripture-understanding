@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Argent Sphinx Enigma]]"
   - "[[Evil-Sealing Stamp]]"
 ---
-The Lunar draws upon the ancient oaths, pacts, and covenants recorded in the seal’s ink-blood, imprisoning spirits within cages of law and language.
+*The Lunar draws upon the ancient oaths, pacts, and covenants recorded in the seal’s ink-blood, imprisoning spirits within cages of law and language.*
 The Lunar can pay a five-mote surcharge to enhance [[Argent Sphinx Enigma]] (p. 47) when she uses it against a spirit or fae. Rather than telling a riddle, she vexes her foe with binding words. Gods and elementals obsess over complex issues of heavenly law, while demons are trapped in contemplation of their place in the surrender oaths of the Yozis. Ghosts are overcome by the words they once spoke in life, speaking seemingly nonsensical statements in fits of ecstatic passion. The Fair Folk are burdened by memories of every oath they’ve ever sworn, each promise a link in their chains.
 This Evocation has the follow benefits:
  - The Lunar can roll with [[Bureaucracy]] or [[Linguistics]] in addition to the usual Abilities.

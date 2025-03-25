@@ -13,7 +13,7 @@ Duration: One scene
 Prerequisite Charms:
   - "[[ Baleful Omen Strike]]"
 ---
-Deepening her enemies’ delirium, the direlash’s master traps them in a waking nightmare.
+*Deepening her enemies’ delirium, the direlash’s master traps them in a waking nightmare.*
 ## Resonant
 Only characters resonant with this weapon can awaken this Evocation.
 The wielder gains the following benefits:

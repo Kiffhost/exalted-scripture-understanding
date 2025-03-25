@@ -12,4 +12,5 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Healer’s Unerring Hands]]"
 ---
-When she needs it most, the Solar physician can infuse her actions with limitless [[Essence]], making her every movement and action flawless. Once per day, the Solar may double the successes on any [[Medicine]] roll.
+*When she needs it most, the Solar physician can infuse her actions with limitless [[Essence]], making her every movement and action flawless.*
+Once per day, the Solar may double the successes on any [[Medicine]] roll.

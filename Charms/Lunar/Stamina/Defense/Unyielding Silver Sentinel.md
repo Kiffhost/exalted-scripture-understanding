@@ -12,4 +12,5 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Unmoving Aurochs Defense]]"
 ---
-No power can force the Lunar back when she stands her ground, or turn her aside when she charges. She waives Unmoving Aurochs [[Defense]]’s cost, unless she’s crashed.
+*No power can force the Lunar back when she stands her ground, or turn her aside when she charges.*
+She waives Unmoving Aurochs [[Defense]]’s cost, unless she’s crashed.

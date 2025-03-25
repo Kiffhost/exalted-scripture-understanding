@@ -13,7 +13,7 @@ Duration: Until next turn
 Prerequisite Charms:
   - "[[Silver Ripple Mirage]]"
 ---
-No more substantial than a reflection, the Lunar mocks her foes as their blades pass harmlessly through where she seems to be.
+*No more substantial than a reflection, the Lunar mocks her foes as their blades pass harmlessly through where she seems to be.*
 When an enemy attacks the Lunar, she may dematerialize as per [[Silver Ripple Mirage]]. Unless the attack was enhanced with magic capable of striking the dematerialized, she perfectly defends against it. Even against attacks capable of striking the dematerialized, any damage dealt is halved, rounded down. This damage reduction applies only to whichever attack the Lunar uses this Charm against, not subsequent attacks during this Charm’s duration.
 While using [[Silver Ripple Mirage]], this Charm’s cost is reduced to three motes, one [[Willpower]].
 

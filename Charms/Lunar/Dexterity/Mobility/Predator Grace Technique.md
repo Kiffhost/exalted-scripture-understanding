@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Instinct-Driven Beast Movement]]"
 ---
-When the hunter falls upon the herd, the weak and feeble have no hope of escape. When the Lunar rushes an enemy, she adds his wound penalty as non-Charm dice.
+*When the hunter falls upon the herd, the weak and feeble have no hope of escape.*
+When the Lunar rushes an enemy, she adds his wound penalty as non-Charm dice.

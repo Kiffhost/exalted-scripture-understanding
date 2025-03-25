@@ -12,4 +12,5 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[Call the Blade]]"
 ---
-With a moment of concentration, the Solar may banish a weapon Elsewhere. She may reflexively lift commitment to this Charm, summoning her weapon to hand in a flash of [[Essence]].
+*With a moment of concentration, the Solar may banish a weapon Elsewhere.*
+She may reflexively lift commitment to this Charm, summoning her weapon to hand in a flash of [[Essence]].

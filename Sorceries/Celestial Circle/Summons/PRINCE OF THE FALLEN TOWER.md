@@ -2,7 +2,8 @@
 tags:
   - source/lunar-book
 ---
-Essence: 3; [[Willpower]]: 5; [[Join Battle]]: 10 dice Personal Motes: 30 Health Levels: −0x4/−1x4/−2x4/−4x2/Incap. Actions: [[Feats of Strength]]: 14 dice (may attempt [[Strength]] 10 feats); Resist Poison/Illness: 12 dice; Senses: 8 dice; [[Threaten]]: 9 dice [[Appearance]] 5 ([[Hideous]]), [[Resolve]] 4, [[Guile]] 3 
+*Essence: 3; [[Willpower]]: 5; [[Join Battle]]: 10 dice Personal Motes: 30 Health Levels: −0x4/−1x4/−2x4/−4x2/Incap.*
+Actions: [[Feats of Strength]]: 14 dice (may attempt [[Strength]] 10 feats); Resist Poison/Illness: 12 dice; Senses: 8 dice; [[Threaten]]: 9 dice [[Appearance]] 5 ([[Hideous]]), [[Resolve]] 4, [[Guile]] 3 
 
 ## COMBAT 
 
@@ -14,7 +15,7 @@ Corrupting Touch: The prince may destroy up to 10 cubic feet of mundane wood, st
 
 ## CHARMS
 
-Glory-Blighting Corruption (1m, 1wp; Reflexive; Instant; Decisive-only): Upon landing a decisive attack thatdeals3+levelsofdamage,theprincemaywaiveone level to corrupt an artifact attuned by its victim. The artifact’slightnessdiminishes,imposinga−2mobilitypenalty, and its [[Evocations]] incur a one-mote surcharge. Undoing this requires a major repair project (Exalted, p. 242). Red Rending Fury (5m; Supplemental; Instant): Double 7s on a feat of demolition. Sword-Shattering Sinew (3m, 2i; Reflexive; Instant; Decisive-only, Perilous): Add soak to [[Hardness]] against an attack. Mundane weapons that fail to overcome [[Hardness]] are destroyed. 
+Glory-Blighting Corruption (1m, 1wp; Reflexive; Instant; Decisive-only): Upon landing a decisive attack !!thatdeals3+levelsofdamage,theprincemaywaiveone!! level to corrupt an artifact attuned by its victim. The !!artifact’slightnessdiminishes,imposinga−2mobilitypenalty,!! and its [[Evocations]] incur a one-mote surcharge. Undoing this requires a major repair project (Exalted, p. 242). Red Rending Fury (5m; Supplemental; Instant): Double 7s on a feat of demolition. Sword-Shattering Sinew (3m, 2i; Reflexive; Instant; Decisive-only, Perilous): Add soak to [[Hardness]] against an attack. Mundane weapons that fail to overcome [[Hardness]] are destroyed. 
 
 ## MERITS
 

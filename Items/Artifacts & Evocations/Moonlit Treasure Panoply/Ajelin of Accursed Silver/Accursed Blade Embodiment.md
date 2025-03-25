@@ -12,7 +12,7 @@ Duration: One scene
 Prerequisite Charms:
   -  None
 ---
-Calling upon Ajelin’s cursed power, its wielder draws strength from hatred.
+*Calling upon Ajelin’s cursed power, its wielder draws strength from hatred.*
 The wielder gains the following benefits:
  - Ajelin gains +1 [[Accuracy]].
  - Her attacks ignore (Enmity) soak and [[Hardness]].

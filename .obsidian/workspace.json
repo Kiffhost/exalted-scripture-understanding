@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charms/Charm Keywords.md",
+                "file": "Charms/Lunar/Charisma/Influence/Enraged Predator’s Howl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Charm Keywords"
+              "title": "Enraged Predator’s Howl"
             }
           },
           {
@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
+                "file": "Sorceries/Archetypes/Soul-Perfecting Elixir/Soul-Perfecting Elixir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Progress Tracker"
+              "title": "Soul-Perfecting Elixir"
             }
           },
           {
@@ -99,113 +99,37 @@
               "icon": "lucide-file",
               "title": "Abyssal Character"
             }
+          },
+          {
+            "id": "546a801e374d12fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "6db88adf3b84a37c",
+        "id": "a25caee605a100db",
         "type": "tabs",
         "children": [
           {
-            "id": "6095a4c4ba07b5a4",
+            "id": "d7aa323a838a90c1",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Progress Tracker.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "tag:#charm -file:Excellency [\"mins\":Essence 1]",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "[\"mins\":Strength",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Dexterity",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Stamina",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Intelligence",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Wits",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Perception",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Appearance",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Charisma",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11621088
-                      }
-                    },
-                    {
-                      "query": "[\"mins\":Manipulation",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701233
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.97387543252595,
-                  "lineSizeMultiplier": 3.55034602076125,
-                  "collapse-forces": true,
-                  "centerStrength": 0.77681660899654,
-                  "repelStrength": 17.5432525951557,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.9066603265810531,
-                  "close": false
-                }
+                "file": "Character Advancement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Progress Tracker"
+              "icon": "lucide-file",
+              "title": "Character Advancement"
             }
           }
         ]
@@ -240,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"keywords\":apocry] ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -400,34 +324,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2620b2898567d939",
+  "active": "d7aa323a838a90c1",
   "lastOpenFiles": [
-    "Charms/Lunar/Wits/Cache/Argent Nagamani Boon.md",
-    "Charms/Lunar/Wits/Cache/Radiant Basilisc Jewel.md",
-    "Charms/Lunar/Appearance/Subterfuge/Smile Hides Everything.md",
-    "Charms/Lunar/Appearance/Subterfuge/Subtle Silver Declaration.md",
-    "Charms/Lunar/Appearance/Subterfuge/Shifting Penumbra Stance.md",
-    "Charms/Lunar/Appearance/Subterfuge/Silver Ripple Mirage.md",
-    "Charms/Lunar/Appearance/Subterfuge/Shadow Wisp Sublimation.md",
-    "Charms/Lunar/Appearance/Subterfuge/One of the Herd.md",
-    "Charms/Lunar/Appearance/Subterfuge/Mirror Slip Trick.md",
-    "Charms/Lunar/Appearance/Subterfuge/Ideal-Made-Flesh Apotheosis.md",
-    "Charms/Lunar/Appearance/Subterfuge/Lost Mirror Flight.md",
-    "Charms/Lunar/Appearance/Subterfuge/Cuckoo’s Nest Hospitality.md",
-    "Charms/Lunar/Appearance/Subterfuge/Enticing Butterfly Trick.md",
-    "Charms/Lunar/Appearance/Subterfuge/Changing Plumage Mastery.md",
-    "Charms/Lunar/Appearance/Subterfuge/Scent-of-All-Nations Attitude.md",
-    "Charms/Lunar/Appearance/Subterfuge/Essential Mirror Nature.md",
-    "Charms/Lunar/Appearance/Subterfuge/Moon’s Hidden Face.md",
-    "Charms/Lunar/Universal/Many-Faced Moon Transformation.md",
-    "Charms/Lunar/Appearance/Influence/Seductive Moonlit Dream.md",
-    "Charms/Lunar/Appearance/Influence/Divine Paramour’s Embrace.md",
-    "Charms/Lunar/Appearance/Influence/Perfect Symmetry.md",
-    "Charms/Lunar/Appearance/Influence/Glance-Oration Technique.md",
-    "Charms/Lunar/Appearance/Influence/Reflection Gazes Back.md",
-    "Charms/Lunar/Appearance/Influence/Argument-Eclipsing Shadow.md",
-    "Charms/Lunar/Appearance/Influence/Alluring Scent Technique.md",
-    "Charms/Lunar/Appearance/Influence/New Friend Aroma.md",
+    "Thaumaturgic Rituals/Speak with Ozashun.md",
+    "Thaumaturgic Rituals/Tear-Stained Talisman.md",
+    "Thaumaturgic Rituals/Unquenchable Flame.md",
+    "Thaumaturgic Rituals/Breath of Unlife.md",
+    "Thaumaturgic Rituals/Reading the Tea Leaves.md",
+    "Thaumaturgic Rituals/Final Testament.md",
+    "Character Advancement.md",
+    "Rules Reference/Excellencies.md",
+    "Sorceries/Archetypes/Soul-Perfecting Elixir/Soul-Perfecting Elixir.md",
+    "Charms/Lunar/Lunar Excellency.md",
+    "Charms/Lunar/Excellent Lunar Strength.md",
+    "Charms/Lunar/Excellent Lunar Stamina.md",
+    "Charms/Lunar/Charisma/Influence/Captivating Siren Voice.md",
+    "Charms/Lunar/Charisma/Influence/Beast-God Idolatry.md",
+    "Charms/Lunar/Charisma/Influence/Argent Glyph Enchantment.md",
+    "Traits/Willpower.md",
+    "Sorceries/Archetypes/Scarred by Nightmares/Scarred by Nightmares.md",
+    "Sorceries/Archetypes/Witch-Beast Pact/Witch-Beast Pact.md",
+    "Sorceries/Archetypes/The Path of Celestial Design/The Path of Celestial Design.md",
+    "Sorceries/Archetypes/Simendor Sorcery/Simendor Sorcery.md",
+    "Sorceries/Archetypes/The Talisman of Ten Thousand Eyes/The Talisman of Ten Thousand Eyes.md",
+    "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
+    "Sorceries/Archetypes/Dreamer of the Caul/Dreamer of the Caul.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Weapons/Courante and Galliard/Courante and Galliard.md",
+    "Items/Artifacts & Evocations/Arms of the Chosen/Misc/Arete/Arete.md",
     "Lore/Lore Sidebars/Dragon-Blooded Book",
     "Character Creation/My Characters",
     "Charms/Abyssal/Performance/Universal",

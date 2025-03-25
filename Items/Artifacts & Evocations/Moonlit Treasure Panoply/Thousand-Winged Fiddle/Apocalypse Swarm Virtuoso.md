@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Stridulating Strings Technique]]"
   - "[[Wild Fury Awakening]]"
 ---
-Playing with fervent intensity, the fiddler calls a plague of locusts to descend upon the battlefield.
+*Playing with fervent intensity, the fiddler calls a plague of locusts to descend upon the battlefield.*
 When the Lunar uses [[Wild Fury Awakening]] (Lunars, p. 175) to call a battle group of insects, she gains the following benefits  - The battle group appears in a single round.
  - The battle group has elite [[Drill]] and [[Might]] 2.
 Battle groups of grasshoppers have [[Might]] 3.

@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[Ferocious Jab]]"
   - "[[Thunderclap Rush Attack]]"
 ---
-Sensing an opening, the Solar launches a vicious blow with any part of her body. When the Exalt successfully disarms a close range opponent by any means, then she may use this Charm to launch an immediate decisive attack against them. If the opponent is trivial, ignore the [[Willpower]] cost.
+*Sensing an opening, the Solar launches a vicious blow with any part of her body.*
+When the Exalt successfully disarms a close range opponent by any means, then she may use this Charm to launch an immediate decisive attack against them. If the opponent is trivial, ignore the [[Willpower]] cost.
 
 ### On [[Swift Strike Prana]]
 

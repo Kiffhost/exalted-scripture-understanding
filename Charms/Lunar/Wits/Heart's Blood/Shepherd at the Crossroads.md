@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Moonlit Path Guide]]"
 ---
-A creature of boundaries and crossroads, the Lunar guides others on transformative journeys.
+*A creature of boundaries and crossroads, the Lunar guides others on transformative journeys.*
 The Lunar guides a character through a transfiguration or metamorphosis, assigning him a quest or task that will set him on the road to change. That character’s player must consent to the transformation, although the character needn’t do so. The more extensive the transformation, the more onerous the task that must be fulfilled:  
 - Transformations that could at least notionally be accomplished by mundane means and that don’t hold great personal significance to the questant require an inconvenient task (Exalted, p. 216). *Examples include changing hair color, repositioning a crooked tooth, or causing a character’s skin to tan.*
  - Mundane transformations that have great personal significance to the questant and supernatural transformations on the level of what a Terrestrial Circle working could accomplish (Exalted, p. 485) require a serious task. *Examples include physically transitioning genders, making someone grow significantly taller, or turning a mortal into a bear.*

@@ -15,7 +15,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Rustling Grapevine Whispers]]"
 ---
-He who denies, attacks; she who knows, invites. After parrying an attack made by an enemy whose secrets she knows, the wielder makes a withering or decisive counterattack. The attack roll gains a bonus success for a serious secret, or two successes for a life-changing secret. 
+*He who denies, attacks; she who knows, invites.*
+After parrying an attack made by an enemy whose secrets she knows, the wielder makes a withering or decisive counterattack. The attack roll gains a bonus success for a serious secret, or two successes for a life-changing secret. 
 
 ## Resonant
 

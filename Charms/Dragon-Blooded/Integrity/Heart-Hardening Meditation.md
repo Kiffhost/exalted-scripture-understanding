@@ -12,4 +12,5 @@ Duration: One scene
 Prerequisite Charms:
   - None
 ---
-The mountain sheds no tears for those who die upon it. The Dragon-Blood gains +2 [[Resolve]] against inspire rolls, as well as any influence that leverages either an inspired emotion or a [[Intimacy|Tie]] based on strong passions. In Earth Aura, this doesn’t count as a bonus from [[Charms]].
+*The mountain sheds no tears for those who die upon it.*
+The Dragon-Blood gains +2 [[Resolve]] against inspire rolls, as well as any influence that leverages either an inspired emotion or a [[Intimacy|Tie]] based on strong passions. In Earth Aura, this doesn’t count as a bonus from [[Charms]].

@@ -2,7 +2,8 @@
 tags:
   - source/arms-book
 ---
-In the latter days of the First Age, Mizhra Starshaper forged five legions of brass soldiers for the Southern despot Her Blazing Majesty. Constructed without hearts, they policed districts and crushed rebellions with cold, clinical practicality. Knowing no personal loyalty, they obeyed anyone who spoke their command codes. When Her Blazing Majesty sought safety from the Usurpation behind the protection of her Brass Legionnaires, this proved her doom, as her own Dragon-Blooded lieutenants ordered the automatons to murder her as she slept.
+*In the latter days of the First Age, Mizhra Starshaper forged five legions of brass soldiers for the Southern despot Her Blazing Majesty.*
+Constructed without hearts, they policed districts and crushed rebellions with cold, clinical practicality. Knowing no personal loyalty, they obeyed anyone who spoke their command codes. When Her Blazing Majesty sought safety from the Usurpation behind the protection of her Brass Legionnaires, this proved her doom, as her own Dragon-Blooded lieutenants ordered the automatons to murder her as she slept.
 
 After the Usurpation, the Brass Legions were disbanded and ordered destroyed, for fear that their maker had — like many artificers and sorcerers — left behind some cunning mechanism for revenge. But certain ambitious or thoughtful Dragon-Bloods quietly failed to follow through, keeping the remaining legionnaires in reserve for the wars to come. Most were cached in hidden places across the South, used only rarely and in secret.
 
@@ -43,7 +44,7 @@ Soak/Hardness: 14/8
 
 ## Maintenance and [[Repair]]
 
-For every week of operation in battle or similarly strenuous conditions, a [[Brass Legionnaire]] requires a roll to perform maintenance. This is an ([[Intelligence]] + Craft[Artifacts]) roll at a difficulty of (3 + the legionnaire’s current wound penalty), and requires one scene to complete. On a failed roll, the legionnaire must either wait another day before a character can retry the maintenance roll, or take one unpreventable die of decisive lethal damage if it presses on without delay. 
+For every week of operation in battle or similarly strenuous conditions, a [[Brass Legionnaire]] requires a roll to perform maintenance. This is an ([[Intelligence]] + Craft{Artifacts}) roll at a difficulty of (3 + the legionnaire’s current wound penalty), and requires one scene to complete. On a failed roll, the legionnaire must either wait another day before a character can retry the maintenance roll, or take one unpreventable die of decisive lethal damage if it presses on without delay. 
 
 Damage dealt to a [[Brass Legionnaire]] can be cleared from its health track with a repair project (Exalted, p. 242). Repairing a single level of damage is a major project. The difficulty of the [[Craft]] (Artifacts) roll and the time needed to complete repairs depends on the type of damage level being restored.
 

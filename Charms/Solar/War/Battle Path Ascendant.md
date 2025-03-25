@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Ideal Battle Knowledge Prana]]"
 ---
-The tide of battle turns, and the Lawgiver feels her body exult with renewing power, her very [[Essence]] moving to join the flow of battle. Whenever her army unleashes an attack which causes a battle group’s Magnitude to empty, the Solar may use this Charm to roll [[Join Battle]].
+*The tide of battle turns, and the Lawgiver feels her body exult with renewing power, her very [[Essence]] moving to join the flow of battle.*
+Whenever her army unleashes an attack which causes a battle group’s Magnitude to empty, the Solar may use this Charm to roll [[Join Battle]].

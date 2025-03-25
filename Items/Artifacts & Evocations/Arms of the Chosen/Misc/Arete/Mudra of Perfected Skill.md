@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Arete focuses and magnifies its wearer’s mastery of mortal skill, transforming it into something supernal. Once per scene, the wearer can reroll the lower of (Ability or [[Essence]]) failed dice, except for 1s, on a roll with an Ability this Evocation enhances in which Arete’s movements are an essential element to success. The Exalt may employ this Evocation to climb a rope or play an instrument with transcendent grace, but not to leap a chasm or sing. It cannot enhance [[Craft]] rolls to create an artifact or manse, or [[Occult]] rolls to cast a spell or complete a sorcerous working. 
+*Arete focuses and magnifies its wearer’s mastery of mortal skill, transforming it into something supernal.*
+Once per scene, the wearer can reroll the lower of (Ability or [[Essence]]) failed dice, except for 1s, on a roll with an Ability this Evocation enhances in which Arete’s movements are an essential element to success. The Exalt may employ this Evocation to climb a rope or play an instrument with transcendent grace, but not to leap a chasm or sing. It cannot enhance [[Craft]] rolls to create an artifact or manse, or [[Occult]] rolls to cast a spell or complete a sorcerous working. 
 
 ## Special activation rules
 

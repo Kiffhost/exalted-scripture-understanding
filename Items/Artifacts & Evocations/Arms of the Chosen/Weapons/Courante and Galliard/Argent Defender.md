@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - None (Galliard only)
 ---
-Galliard: Swift to Assist. Whenever the Exalt successfully defends her swordsibling with a defend other action, she gains one [[Initiative]]. 
+*Galliard: Swift to Assist.*
+Whenever the Exalt successfully defends her swordsibling with a defend other action, she gains one [[Initiative]]. 
 
 ## Resonant
 

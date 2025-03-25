@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Granite Venom Strike]]"
 ---
-Gorgon’srousedhungerunleashesatideofbloodsufficient to sate its thirst. The Exalt may activate this Evocation to add (Wakefulness) dice to a decisive attack’s damage. 
+*!!Gorgon’srousedhungerunleashesatideofbloodsufficient!! to sate its thirst.*
+The Exalt may activate this Evocation to add (Wakefulness) dice to a decisive attack’s damage. 
 
 ## Resonant
 

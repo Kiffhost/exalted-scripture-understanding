@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Threefold Magnetic Ardor]]"
 ---
-The Solar magnifies her presence to overwhelm a supplicant’s senses. The Solar may use this Charm in response to social influence being initiated by someone who desires her sexuallyorwhoisintimidatedbyher,amplifyingtheirdesire oruneasetosuchadegreethattheylosetheirsocialeaseand become flustered. This Charm removes (Solar’s [[Essence]]) dicefromaninitiate’sattemptatsocialinfluence.TheSolar’s fearsome aspect becomes momentarily more terrifying or her best features become ethereally pronounced. This effect is experienced subjectively and only by the initiate. To observers, the Solar merely inclines to listen.
+*The Solar magnifies her presence to overwhelm a supplicant’s senses.*
+The Solar may use this Charm in response to social influence being initiated by someone who desires her !!sexuallyorwhoisintimidatedbyher,amplifyingtheirdesire!! !!oruneasetosuchadegreethattheylosetheirsocialeaseand!! become flustered. This Charm removes (Solar’s [[Essence]]) !!dicefromaninitiate’sattemptatsocialinfluence.TheSolar’s!! fearsome aspect becomes momentarily more terrifying or her best features become ethereally pronounced. This effect is experienced subjectively and only by the initiate. To observers, the Solar merely inclines to listen.
 
 ### On Unnerving Solar [[Presence]]
 

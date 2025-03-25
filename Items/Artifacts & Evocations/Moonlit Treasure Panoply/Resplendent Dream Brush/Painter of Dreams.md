@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   -  None
 ---
-The [[Resplendent Dream Brush]] proclaims its painter’s brilliance to the world.
+*The [[Resplendent Dream Brush]] proclaims its painter’s brilliance to the world.*
 The artist gains the following benefits:
  - Artists see her as one of their own, and count as having a Minor [[Intimacy|Tie]] of respect to her. She can suppress or resume this effect reflexively.
  - Fair Folk and other fae can sense her artistic brilliance, and count as having a Minor [[Intimacy|Tie]] of fascination to her. She can suppress or resume this effect reflexively.

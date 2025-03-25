@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Storm Binding — Lightning Cleaves the Heavens]]"
 ---
-Dark hatred radiates from [[Stormcaller]] as it strikes, poisoning the skies with demonic fury. This Evocation adds (Intensity/2, round up) bonus dice on a decisive attack. As long as the attack deals at least one level of damage, the storm gains +1 Intensity. 
+*Dark hatred radiates from [[Stormcaller]] as it strikes, poisoning the skies with demonic fury.*
+This Evocation adds (Intensity/2, round up) bonus dice on a decisive attack. As long as the attack deals at least one level of damage, the storm gains +1 Intensity. 
 
 ## Resonant
 

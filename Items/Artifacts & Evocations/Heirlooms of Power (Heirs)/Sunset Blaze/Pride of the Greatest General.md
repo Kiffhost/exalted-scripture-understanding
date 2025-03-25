@@ -14,7 +14,8 @@ Prerequisite Charms:
   - "[[ General-Demoting Joust]]"
   - "[[Rising Phoenix]]"
 ---
-Banner, [[Safety in Numbers]] Bearing the banner of Cathak herself in hand, Sunset Blaze’s master enacts a peerless strategy. Allied battle groups with elite [[Drill]] gain the following benefits:
+*Banner, [[Safety in Numbers]] Bearing the banner of Cathak herself in hand, Sunset Blaze’s master enacts a peerless strategy.*
+Allied battle groups with elite [[Drill]] gain the following benefits:
  - They treat their effective [[Size]] as one dot higher (maximum 5).
  - They can use the wielder’s [[Initiative]] in place of their own, if higher, to determine when they act in combat.
  - The wielder’s rally for numbers action restores an additional ([[Essence]]) Magnitude to them.

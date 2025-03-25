@@ -12,7 +12,8 @@ Duration: One action
 Prerequisite Charms:
   - "[[Judge’s Ear Technique]]"
 ---
-The Lawgiver can reconstruct the statements of a witness so perfectly that the Solar gains a psychic vision of any case scene (Exalted p. 224) or profile character (Exalted p. 225) action the character describes. So long as that character has undertaken such an action, the Exalt can analyze the evidence or the profiled character as if she were there, adding her own [[Wits]] or [[Perception]] + [[Investigation]] roll to the witness’s own result and making an even more profound or clear reading of the situation. The Lawgiver may use [[Judge’s Ear Technique]] to evaluate any statements heard by the witness during this psychic vision, and she may use the [[Investigation]] Excellency to amplify her roll, but she may not use any Simple-type [[Charms]] or [[Charms]] which would require her to handle evidence in order to fill out the witness’s testimony.
+*The Lawgiver can reconstruct the statements of a witness so perfectly that the Solar gains a psychic vision of any case scene (Exalted p.*
+224) or profile character (Exalted p. 225) action the character describes. So long as that character has undertaken such an action, the Exalt can analyze the evidence or the profiled character as if she were there, adding her own [[Wits]] or [[Perception]] + [[Investigation]] roll to the witness’s own result and making an even more profound or clear reading of the situation. The Lawgiver may use [[Judge’s Ear Technique]] to evaluate any statements heard by the witness during this psychic vision, and she may use the [[Investigation]] Excellency to amplify her roll, but she may not use any Simple-type [[Charms]] or [[Charms]] which would require her to handle evidence in order to fill out the witness’s testimony.
 
 ### On [[Truth-Rendering Attitude]]
 

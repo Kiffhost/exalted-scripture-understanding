@@ -14,7 +14,8 @@ Prerequisite Charms:
   - "[[Invincible Berserker Approach]]"
   - "[[Unrelenting Destroyer Fury]]"
 ---
-Howling her pain to the sky, the Lunar taps the illimitable rage of every warrior to have ever borne [[Seven Furies Caged]] into battle. To use this Evocation, [[Relentless Lunar Fury]] must be active. She rolls ([[Stamina]] + [[Strength]]), ignoring her wound penalty and converting it into bonus dice, gaining [[Initiative]] equal to the successes. This Evocation can only be used once per scene, unless reset by incapacitating a nontrivial enemy with an attack that dealt 5+ levels of damage more than necessary to do so. 
+*Howling her pain to the sky, the Lunar taps the illimitable rage of every warrior to have ever borne [[Seven Furies Caged]] into battle.*
+To use this Evocation, [[Relentless Lunar Fury]] must be active. She rolls ([[Stamina]] + [[Strength]]), ignoring her wound penalty and converting it into bonus dice, gaining [[Initiative]] equal to the successes. This Evocation can only be used once per scene, unless reset by incapacitating a nontrivial enemy with an attack that dealt 5+ levels of damage more than necessary to do so. 
 
 ## Special activation rules
 

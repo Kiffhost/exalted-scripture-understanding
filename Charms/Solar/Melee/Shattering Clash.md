@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Fervent Blow]]"
 ---
-The Solar’s interdicting strike lays waste to her opponent. Upon a successful decisive attack, but before damage is rolled, the Lawgiver channels the fury of her [[Essence]] through the strike. If the attack does at least six health levels of damage to the target, three of that damage can be traded to destroy the target’s weapon, provided that weapon is made of natural (non-magical) materials such as steel.
+*The Solar’s interdicting strike lays waste to her opponent.*
+Upon a successful decisive attack, but before damage is rolled, the Lawgiver channels the fury of her [[Essence]] through the strike. If the attack does at least six health levels of damage to the target, three of that damage can be traded to destroy the target’s weapon, provided that weapon is made of natural (non-magical) materials such as steel.
 
 ### On [[Shattering Clash]]
 

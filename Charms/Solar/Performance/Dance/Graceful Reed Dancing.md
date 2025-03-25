@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Masterful Performance Exercise]]"
 ---
-The Exalt moves and sways with the [[Essence]] of the world, affecting a perfect rhythm. This Charm supplements a dance, granting double 9s.
+*The Exalt moves and sways with the [[Essence]] of the world, affecting a perfect rhythm.*
+This Charm supplements a dance, granting double 9s.

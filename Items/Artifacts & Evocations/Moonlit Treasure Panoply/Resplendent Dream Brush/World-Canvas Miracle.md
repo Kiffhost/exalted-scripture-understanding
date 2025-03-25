@@ -13,7 +13,7 @@ Duration: One project
 Prerequisite Charms:
   - "[[ Painted Peril Approach]]"
 ---
-With every brushstroke, the artist shapes a dream of the world as it could be — until at last, there is no difference between dream and reality.
+*With every brushstroke, the artist shapes a dream of the world as it could be — until at last, there is no difference between dream and reality.*
 ## Resonant
 Only characters resonant with the [[Resplendent Dream Brush]] can awaken this Evocation.
 The painter invokes a Defining [[Intimacy]] to undertake a mundane superior [[Craft]] (Painting) project (Exalted, p. 243). She paints her surrounding environs, but with a notable change to their landscape that relates to the invoked [[Intimacy]]. She might change a river’s course, add a forest, or erase one mountain from a range to improve her manse’s view.

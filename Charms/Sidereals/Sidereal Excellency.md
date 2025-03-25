@@ -14,7 +14,7 @@ Prerequisite Charms:
   - OR
   - (Ability) as Caste or Favoured
 ---
-Sidereals using this Excellency can add dice to relevant (Attribute + Ability) rolls for 1 mote per die or raise static values relevant to (Ability) for 2 motes per +1.
+*Sidereals using this Excellency can add dice to relevant (Attribute + Ability) rolls for 1 mote per die or raise static values relevant to (Ability) for 2 motes per +1.*
 
 With (Ability) 3, the Sidereal can pay 1 mote to reduce an (Attribute + Ability) roll’s [[Dice Rolls#Target Number|target number]] by 1 (usually to 6). 
 

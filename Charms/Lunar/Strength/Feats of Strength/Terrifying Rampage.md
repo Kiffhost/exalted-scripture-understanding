@@ -13,7 +13,7 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Surging Thew Technique]]"
 ---
-Wrenching mead-halls’ doors from their hinges or charging through stone walls, the Lunar spreads fear and destruction.
+*Wrenching mead-halls’ doors from their hinges or charging through stone walls, the Lunar spreads fear and destruction.*
 A successful feat of strength counts as a threaten roll against enemies who witnessed it. In combat, affected enemies lose one [[Initiative]]. On a [[Strength]] 5+ feat, they lose [[Initiative]] even if they resist with [[Willpower]].
 
 ## Protean 

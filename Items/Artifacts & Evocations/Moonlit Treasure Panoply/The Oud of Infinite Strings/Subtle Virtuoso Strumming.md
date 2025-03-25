@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Suspicion-Silencing Tune]]"
   - Any one Charm this Evocation enhances
 ---
-The Lunar musician works wonders with the oud’s moonsilver strings.
+*The Lunar musician works wonders with the oud’s moonsilver strings.*
 This Evocation upgrades the following [[Charms]] (Lunars, pp. 145-146, 219, 231).
 [[Glance-Oration Technique]]: The Lunar can convey complex meaning through the oud’s music.
 [[Many-Voiced Mockingbird Attitude]]: The Lunar can mimic the sounds of other instruments on the oud.

@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Angle-Tracing Edge]]"
 ---
-With a quick eye and lightning movement, the Solar may reflexively hurl a [[Thrown]]-based decisive attack at an opponent who takes an aim action, without needing to aim herself. If her attack does at least one health level of damage, the aim action is interrupted. This Charm allows the Exalt to attack ahead of her actual turn, so long as she can perceive the aim action being readied. Using this Charm uses the Exalt’s combat action, and therefore cannot be used if the Exalt has already attacked on that round. Lastly, this Charm allows the Solar to use the prerequisite reflexively in combination with itself. At [[Thrown]] 5+ [[Essence]] 3+, the Solar may use this Charm without using her combat action once per round.
+*With a quick eye and lightning movement, the Solar may reflexively hurl a [[Thrown]]-based decisive attack at an opponent who takes an aim action, without needing to aim herself.*
+If her attack does at least one health level of damage, the aim action is interrupted. This Charm allows the Exalt to attack ahead of her actual turn, so long as she can perceive the aim action being readied. Using this Charm uses the Exalt’s combat action, and therefore cannot be used if the Exalt has already attacked on that round. Lastly, this Charm allows the Solar to use the prerequisite reflexively in combination with itself. At [[Thrown]] 5+ [[Essence]] 3+, the Solar may use this Charm without using her combat action once per round.
 
 ### On [[Thunder-Quelling Gesture]]
 

@@ -12,4 +12,5 @@ Duration: Indefinite
 Prerequisite Charms:
   - None
 ---
-The Sidereal’s hand is wreathed with purifying cold, driving away bureaucratic corruption. Touching a character — a difficulty 1 unarmed gambit in combat — the Sidereal makes a special ([[Strength]] + [[Bureaucracy]]) instill roll against him. Success causes him to gain a Defining [[Intimacy|Principle]] of “I must perform my official duties diligently and refrain from all corruption.” He can’t voluntarily erode that [[Intimacy|Principle]] while this Charm remains active.
+*The Sidereal’s hand is wreathed with purifying cold, driving away bureaucratic corruption.*
+Touching a character — a difficulty 1 unarmed gambit in combat — the Sidereal makes a special ([[Strength]] + [[Bureaucracy]]) instill roll against him. Success causes him to gain a Defining [[Intimacy|Principle]] of “I must perform my official duties diligently and refrain from all corruption.” He can’t voluntarily erode that [[Intimacy|Principle]] while this Charm remains active.

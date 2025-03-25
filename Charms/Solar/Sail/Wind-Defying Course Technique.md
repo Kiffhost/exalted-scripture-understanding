@@ -14,4 +14,5 @@ Prerequisite Charms:
   - OR
   - "[[Salty Dog Method]]"
 ---
-The Solar charges her ship and sails with wind-slicing [[Essence]]. Fueled by her defiance, the ship may sail almost directly into the wind. This Charm cuts wind-based penalties to the ship’s speed and maneuverability, reducing such penalties by three.
+*The Solar charges her ship and sails with wind-slicing [[Essence]].*
+Fueled by her defiance, the ship may sail almost directly into the wind. This Charm cuts wind-based penalties to the ship’s speed and maneuverability, reducing such penalties by three.

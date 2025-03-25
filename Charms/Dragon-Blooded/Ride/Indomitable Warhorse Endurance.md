@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Reins-Like-Roots Unity]]"
 ---
-The Dragon-Blood may activate this Charm when her mount would take decisive damage, after any attack roll but before damage is rolled. She may spend up to ([[Essence]]) [[Initiative]] to subtract that many dice from the damage roll. Outside of combat, such as riding through an environmental hazard, she always subtracts ([[Essence]]) dice.
+*The Dragon-Blood may activate this Charm when her mount would take decisive damage, after any attack roll but before damage is rolled.*
+She may spend up to ([[Essence]]) [[Initiative]] to subtract that many dice from the damage roll. Outside of combat, such as riding through an environmental hazard, she always subtracts ([[Essence]]) dice.

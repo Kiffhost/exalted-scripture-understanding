@@ -13,7 +13,8 @@ Duration: One story
 Prerequisite Charms:
   - "[[ Shadow-Prince Conspiracy]]"
 ---
-Majestic Nightmare Visage ever schemes against its wearer’s superiors, whispering of how they might be toppled from their thrones and made to bow before her. The wearer spends a scene plotting to depose, overthrow, or otherwise remove a character that she has a negative Major or Defining [[Intimacy|Tie]] toward — this Evocation’s target — from a position of political, social, or military authority. She rolls ([[Manipulation]] + [Bureaucracy, [[Larceny]], or Socialize]), gaining betrayal points equal to her successes. She may spend them on the following effects:
+*Majestic Nightmare Visage ever schemes against its wearer’s superiors, whispering of how they might be toppled from their thrones and made to bow before her.*
+The wearer spends a scene plotting to depose, overthrow, or otherwise remove a character that she has a negative Major or Defining [[Intimacy|Tie]] toward — this Evocation’s target — from a position of political, social, or military authority. She rolls ([[Manipulation]] + {Bureaucracy, [[Larceny]], or Socialize}), gaining betrayal points equal to her successes. She may spend them on the following effects:
  - 1 Point: Waive Becoming Midnight’s Childe’s cost.
  - 3 Points: Add an automatic success on a roll opposing this Evocation’s target.
  - 3 Points: Gain +3 [[Guile]] against this Evocation’s target for one scene.

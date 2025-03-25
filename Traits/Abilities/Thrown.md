@@ -14,5 +14,5 @@ Note that thrown weapons have a variable [[Accuracy]] based on the target's [[Ra
 
 ```dataview
 LIST
-FROM "items" AND contains(['Keywords'], "Thrown")
+FROM "items" AND contains({'Keywords'}, "Thrown")
 ```

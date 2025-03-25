@@ -11,7 +11,7 @@ Duration: Indefinite
 Prerequisite Charms:
   -  None
 ---
-Drawing on the Shifter’s Skin’s mercurial nature, the Lunar transforms her sacred hunt.
+*Drawing on the Shifter’s Skin’s mercurial nature, the Lunar transforms her sacred hunt.*
 The Lunar temporarily gains a single Lunar Charm that lets her take shapes, either by expanding how she can perform sacred hunts or other means. She must meet its prerequisites, but if it requires any [[Charms]] that also let her take shapes, she can substitute another Charm that does so. For example, if she chooses [[Face-Taker’s Gaze]], she may use [[Debt of Borrowed Skin]] instead of [[Whispering Heart Revelation]] to meet its prerequisites.
 
 ## Reset 

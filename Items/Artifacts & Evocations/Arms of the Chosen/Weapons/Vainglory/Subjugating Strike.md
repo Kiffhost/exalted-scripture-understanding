@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-If an attack supplemented by this Evocation deals damage, it imposes a −1 penalty to the target’s [[Resolve]] against her next social influence attempt toward him this scene. This stacks up to a maximum of her Conceit. 
+*If an attack supplemented by this Evocation deals damage, it imposes a −1 penalty to the target’s [[Resolve]] against her next social influence attempt toward him this scene.*
+This stacks up to a maximum of her Conceit. 
 
 ## Resonant
 

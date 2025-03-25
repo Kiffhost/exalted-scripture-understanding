@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Armor-Rupturing Fang]]"
 ---
-The Dragon-Blood’s weapon descends on her foe with the force of a hurled boulder. She makes a decisive attack that shatters the ground beneath her target’s feet on a hit, creating difficult terrain beneath him.
+*The Dragon-Blood’s weapon descends on her foe with the force of a hurled boulder.*
+She makes a decisive attack that shatters the ground beneath her target’s feet on a hit, creating difficult terrain beneath him.

@@ -17,7 +17,8 @@ Type: Light (+5 ACC, +10 DMG, +0 DEF, OVW 3)
 Hearthstone slots: 2
 Era: The Fall of House Iselsi
 ---
-Part of it came from Petal Glider, the vain daiklave that defeated the Grass Dancer at the Battle of Three Crossings for the sake of its master’s camaraderie with foreign traders. Another came from Crow’s Friend, which annihilated the Gutter Water Gang, opening Nexus to Iselsi ambitions. A third piece belonged to Amara, which slit Sesus’ cheek in revenge for a night of adulterous beauties now long forgotten. Now all that remains is [[Vengeant]]. Many of House Iselsi’s ancestral blades were destroyed by the [[Scarlet Empress]] for their foolish attempt to strike at her. She had fragments of each forged into a new weapon to remind the Iselsi of her mercy and of the state she’d forced upon them. The Iselsi took the lesson well. With their old blades they’d fought to create dynasties — with [[Vengeant]], they would end them. 
+*Part of it came from Petal Glider, the vain daiklave that defeated the Grass Dancer at the Battle of Three Crossings for the sake of its master’s camaraderie with foreign traders.*
+Another came from Crow’s Friend, which annihilated the Gutter Water Gang, opening Nexus to Iselsi ambitions. A third piece belonged to Amara, which slit Sesus’ cheek in revenge for a night of adulterous beauties now long forgotten. Now all that remains is [[Vengeant]]. Many of House Iselsi’s ancestral blades were destroyed by the [[Scarlet Empress]] for their foolish attempt to strike at her. She had fragments of each forged into a new weapon to remind the Iselsi of her mercy and of the state she’d forced upon them. The Iselsi took the lesson well. With their old blades they’d fought to create dynasties — with [[Vengeant]], they would end them. 
 
 ## [[Evocations]] of [[Vengeant]] 
 

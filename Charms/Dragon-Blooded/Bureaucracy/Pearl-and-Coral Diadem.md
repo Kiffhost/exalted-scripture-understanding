@@ -13,7 +13,8 @@ Duration: One story
 Prerequisite Charms:
   - "[[Flowing Authority Insinuation]]"
 ---
-Flowing with the tides of a bureaucracy, the Dragon-Blood rises effortlessly to the top. She makes a special ([Appearance or Manipulation] + [[Bureaucracy]]) [[instill]] roll, ignoring the penalty for [[Social Influence#One Target vs. Many Targets|group influence]], against all members of a specific organization present in a scene.
+*Flowing with the tides of a bureaucracy, the Dragon-Blood rises effortlessly to the top.*
+She makes a special ({Appearance or Manipulation} + [[Bureaucracy]]) [[instill]] roll, ignoring the penalty for [[Social Influence#One Target vs. Many Targets|group influence]], against all members of a specific organization present in a scene.
 A character whose [[Resolve]] is beaten will perceive the Dragon-Blood as either someone who holds a position of superior rank within that organization or as someone whose credentials make them a natural choice for filling such a role, depending on which option is more plausible.
 The Dragon-Blood gains the benefits of any positive Ties those characters have toward the organization in question, and affected characters will carry out any inconvenient tasks (Exalted, p. 216) she assigns them without requiring an influence roll if they have such a [[Intimacy|Tie]].
 While this Charm is active, the Dragon-Blood may use [[Flowing Authority Insinuation]] for only five motes if she targets an affected character, and such characters can’t resist with [[Willpower]] unless they first resist this effect.

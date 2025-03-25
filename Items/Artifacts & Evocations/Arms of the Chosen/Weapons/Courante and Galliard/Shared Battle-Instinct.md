@@ -13,7 +13,8 @@ Prerequisite Charms:
   - OR
   - "[[Aureate Avenger]]"
 ---
-Faced by danger, true companions move and act as one. When the wielder and her sword-sibling [[Join Battle]], each 10 on her sword-sibling’s roll converts a single failure on her own [[Join Battle]] roll to a success. 
+*Faced by danger, true companions move and act as one.*
+When the wielder and her sword-sibling [[Join Battle]], each 10 on her sword-sibling’s roll converts a single failure on her own [[Join Battle]] roll to a success. 
 
 ## Special activation rules
 

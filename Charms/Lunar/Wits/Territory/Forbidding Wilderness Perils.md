@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[Boundary-Marking Meditation]]"
   - "[[The Spider’s Trapdoor]]"
 ---
-Bristling with traps and curses, the Lunar’s lair is a place of dread for her foes. She spends a day working in a territory claimed with [[Boundary-Marking Meditation]], granting it one of the following effects: Hazardous: The Lunar removes natural barriers to the wild’s perils, or bargains with nature spirits to assail her foes. Enemies traversing the territory suffer a difficulty (Lunar’s [[Essence]]), Damage 1B/hour environmental hazard: extremes of temperature, foul weather, rockslides, etc. Enemies can avoid the hazard by finding a shelter with a [[Survival]] roll and remaining within it. 
+*Bristling with traps and curses, the Lunar’s lair is a place of dread for her foes.*
+She spends a day working in a territory claimed with [[Boundary-Marking Meditation]], granting it one of the following effects: Hazardous: The Lunar removes natural barriers to the wild’s perils, or bargains with nature spirits to assail her foes. Enemies traversing the territory suffer a difficulty (Lunar’s [[Essence]]), Damage 1B/hour environmental hazard: extremes of temperature, foul weather, rockslides, etc. Enemies can avoid the hazard by finding a shelter with a [[Survival]] roll and remaining within it. 
 
 Inhospitable: The Lunar destroys natural resources, convinces spirits to withhold their bounty from outsiders, and otherwise denies foes any respite. Enemies suffer a penalty of (Lunar’s [[Essence]]) successes on rolls to forage or find shelter. Botches result in them encountering a significant natural danger, like a bear inhabiting the cave they’d hoped to rest in. 
 

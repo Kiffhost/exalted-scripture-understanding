@@ -12,4 +12,5 @@ Duration: One week
 Prerequisite Charms:
   - None
 ---
-Like the earth itself, the Terrestrial has no need for external nourishment. She ignores any deprivation penalties from starvation or dehydration (Exalted, p. 232). Additionally, she adds ([[Resistance]]) to the amount of time she can go before succumbing to starvation or dehydration, as long as she uses this Charm for that entire time.
+*Like the earth itself, the Terrestrial has no need for external nourishment.*
+She ignores any deprivation penalties from starvation or dehydration (Exalted, p. 232). Additionally, she adds ([[Resistance]]) to the amount of time she can go before succumbing to starvation or dehydration, as long as she uses this Charm for that entire time.

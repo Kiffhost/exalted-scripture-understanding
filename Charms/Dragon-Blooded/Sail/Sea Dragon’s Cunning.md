@@ -14,5 +14,6 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Skilled in the ways of war on the seas, the Dragon-Blood executes a peerless naval strategy. She doubles 9s on a Naval Maneuver roll (Exalted, p. 245). If she succeeds, she gains one Momentum.
+*Skilled in the ways of war on the seas, the Dragon-Blood executes a peerless naval strategy.*
+She doubles 9s on a Naval Maneuver roll (Exalted, p. 245). If she succeeds, she gains one Momentum.
 In Water Aura, the Dragon-Blood gains one Momentum even if she fails.

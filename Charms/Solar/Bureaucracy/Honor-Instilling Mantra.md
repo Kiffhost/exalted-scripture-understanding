@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Enigmatic Bureau Understanding]]"
 ---
-By spending an hour meditating on a charter of an organization she owns or leads, the Lawgiver may instill that charter with [[Intimacy|Intimacies]] that she feels are essential to running her business. This code of honor must be reflected in the writing of the charter, and the charter itself must be made available to every member the Solar wishes to effect with this Charm. Members who read the charter, or have had it read to them by a superior, become aware of the imbued [[Intimacy|Intimacies]] and can choose to act as the Solar would, taking advantage of those [[Intimacy|Intimacies]] as if they possessed them. Such a member can, for example, cite the Solar’s [[Intimacy]] in a [[Decision Points|decision point]] when someone is trying to promote corruption in the ranks of the Exalt’s subordinates. The effects of this Charm last until the Solar alters the charter, and may even continue beyond her death.
+*By spending an hour meditating on a charter of an organization she owns or leads, the Lawgiver may instill that charter with [[Intimacy|Intimacies]] that she feels are essential to running her business.*
+This code of honor must be reflected in the writing of the charter, and the charter itself must be made available to every member the Solar wishes to effect with this Charm. Members who read the charter, or have had it read to them by a superior, become aware of the imbued [[Intimacy|Intimacies]] and can choose to act as the Solar would, taking advantage of those [[Intimacy|Intimacies]] as if they possessed them. Such a member can, for example, cite the Solar’s [[Intimacy]] in a [[Decision Points|decision point]] when someone is trying to promote corruption in the ranks of the Exalt’s subordinates. The effects of this Charm last until the Solar alters the charter, and may even continue beyond her death.
 
 ### On [[Honor-Instilling Mantra]]
 

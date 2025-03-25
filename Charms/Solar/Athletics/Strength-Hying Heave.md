@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Increasing Strength Exercise]]"
 ---
-A Solar who has used the prerequisite to increase her [[Strength]] to the limit is sufficiently strong enough to hurl a human-sized ally forward or up one range band. This Charm uses the Solar’s own movement action for the round. If the Solar has learned [[Power Suffusing Form Technique]] (see Exalted, p. 266), she can combine that Charm with this to hurl an ally the size of a horse and rider safely up or forward one range band, or she may toss a human-sized ally forward two range bands. This use adds one [[Willpower]] to the cost of this Charm, but drops the mote cost to two.
+*A Solar who has used the prerequisite to increase her [[Strength]] to the limit is sufficiently strong enough to hurl a human-sized ally forward or up one range band.*
+This Charm uses the Solar’s own movement action for the round. If the Solar has learned [[Power Suffusing Form Technique]] (see Exalted, p. 266), she can combine that Charm with this to hurl an ally the size of a horse and rider safely up or forward one range band, or she may toss a human-sized ally forward two range bands. This use adds one [[Willpower]] to the cost of this Charm, but drops the mote cost to two.
 
 ### On [[Strength-Hying Heave]]
 

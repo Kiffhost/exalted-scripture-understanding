@@ -17,7 +17,7 @@ Defining Tie: The Gaoler of Uqad (Loyalty) Major Tie: Raw meat, red and bloody (
 Offensive [[Charms]] Razored Confession Smile (8m, 1wp; Supplemental; Instant; Decisive-only): After a successful decisive attack roll, the target must either confess a significant deception they’ve made or else suffer five additional dice of decisive damage. The confession should be what is most relevant to the scene or necromancer; if the [[Storyteller]] doesn’t have one in mind, they should ask players for suggestions.
 Once per scene.
 Shadow-Seizing Jaws (10m; Supplemental; Instant): The jackal attacks a known but unseen enemy within close range, whether invisible, in concealment, etc. Any penalty it suffers from this is halved, rounded down, and it adds (necromancer’s [[Essence]]) dice on the attack roll. It can strike dematerialized targets.
-Defensive [[Charms]] Dancing Among Serpents (6m [+1wp]; Reflexive; Instant; Uniform): The jackal adds (necromancer’s [[Essence]]) Evasion and reduces penalties to [[Defense]] by three.
+Defensive [[Charms]] Dancing Among Serpents (6m {+1wp}; Reflexive; Instant; Uniform): The jackal adds (necromancer’s [[Essence]]) Evasion and reduces penalties to [[Defense]] by three.
 For one [[Willpower]], it may also negate the penalties of an ambush or surprise attack.
 Swift-Shadowed Guardian (5m; Reflexive; Instant): The jackal reflexively takes a defend other action to protect its rider, using Evasion instead of Parry.
 Mobility [[Charms]] Loyal Predator Saddle (10m, 1wp; Simple; Indefinite): The jackal grows and elongates to bear up to (necromancer’s [[Essence]] + 3) riders. It adds one automatic success on movement actions.

@@ -19,7 +19,8 @@ WeaponType:
   - Dire Talons
 Material: Soulsteel
 ---
-The tragic rivalry of the blacksmiths Crane and Phoenix is still remembered centuries later. It began as a friendly competition, each forging their best knife to prove who was the better smith. Each employed the secret and subtle arts of their trade. Crane burnt offerings to her ancestors in her forge-flame and whispered her secrets into its steel. Phoenix tempered her blade in a golden crocodile’s blood, and sharpened it on the petrified wood of a sacred tree.
+*The tragic rivalry of the blacksmiths Crane and Phoenix is still remembered centuries later.*
+It began as a friendly competition, each forging their best knife to prove who was the better smith. Each employed the secret and subtle arts of their trade. Crane burnt offerings to her ancestors in her forge-flame and whispered her secrets into its steel. Phoenix tempered her blade in a golden crocodile’s blood, and sharpened it on the petrified wood of a sacred tree.
 When the time for the contest came, the two smiths found that the finished knives were uncannily identical, indistinguishable to every test Seething with bitter frustration, the two resolved to a duel, as a final test — yet when the blades met, they shattered. The stories differ on who was the first to turn their knife on the other, gripped with envy and murderous hatred, but in the end, both died of their wounds.
 Death brought them no peace. Their wrathful ghosts wandered the Underworld in search of each other, bearing spectral blades forged from soulsteel and the broken shards that had been interred alongside them as grave goods. They finally met in the Labyrinth’s depths, their bodies and minds warped by uncountable years. Yet no test could tell one from the other. They clashed, fell, rose, clashed again. Again. Again.
 Again.

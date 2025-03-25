@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Burning Fury Wreath]]"
 ---
-The Dragon-Blood channels the fury of the flame to strike a devastating blow. She adds (higher of [[Essence]] or [[Strength]]) to the raw damage of a withering attack, or doubles ([[Strength]]) 10s on a decisive damage roll.
+*The Dragon-Blood channels the fury of the flame to strike a devastating blow.*
+She adds (higher of [[Essence]] or [[Strength]]) to the raw damage of a withering attack, or doubles ([[Strength]]) 10s on a decisive damage roll.

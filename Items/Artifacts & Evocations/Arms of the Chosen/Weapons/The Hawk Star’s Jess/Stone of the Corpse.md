@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Titan-Subduing Stone]]"
 ---
-Neither god nor devil can survive the Exalt’s throw. The wielder may pay one [[Willpower]] when she uses DoomGathering Arc to double 9s on damage. 
+*Neither god nor devil can survive the Exalt’s throw.*
+The wielder may pay one [[Willpower]] when she uses DoomGathering Arc to double 9s on damage. 
 
 ## Dissonant
 

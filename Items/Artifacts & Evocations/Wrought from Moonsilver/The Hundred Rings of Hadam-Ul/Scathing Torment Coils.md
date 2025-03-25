@@ -14,7 +14,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Serpent Ornament Embrace]]"
 ---
-The Hundred Rings wind around their captured prey, extending razor-thin spines that press menacingly against him. When a grappled foe makes an attack against any character, the wielder may unleash a decisive counterattack against him. She adds her current rounds of control, maximum ([[Strength]]), as dice of damage. 
+*The Hundred Rings wind around their captured prey, extending razor-thin spines that press menacingly against him.*
+When a grappled foe makes an attack against any character, the wielder may unleash a decisive counterattack against him. She adds her current rounds of control, maximum ([[Strength]]), as dice of damage. 
 
 ## Resonant
 

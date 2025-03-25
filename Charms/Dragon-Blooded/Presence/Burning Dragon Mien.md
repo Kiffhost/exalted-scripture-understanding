@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The fury of a dragon strikes fear into even the boldest hearts. The Dragon-Blood makes a threaten roll with double 9s against a single character. An enemy whose [[Resolve]] is beaten in combat loses 1 [[Initiative]], even if he resists.
+*The fury of a dragon strikes fear into even the boldest hearts.*
+The Dragon-Blood makes a threaten roll with double 9s against a single character. An enemy whose [[Resolve]] is beaten in combat loses 1 [[Initiative]], even if he resists.

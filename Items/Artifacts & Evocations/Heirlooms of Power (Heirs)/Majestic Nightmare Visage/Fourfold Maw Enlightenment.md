@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   -  Any four Evocations of Majestic Nightmare Visage
 ---
-The Childe of Nightmares Unremembered creates itself from errant scraps of dream and from fantasies torn from its prey, forging its legend like a bird building a nest. The wearer may learn raksha [[Charms]] with the [[Eclipse]] Keyword from willing teachers for eight experience points each.
+*The Childe of Nightmares Unremembered creates itself from errant scraps of dream and from fantasies torn from its prey, forging its legend like a bird building a nest.*
+The wearer may learn raksha [[Charms]] with the [[Eclipse]] Keyword from willing teachers for eight experience points each.
 Additionally, upon accomplishing a major character or story goal by defeating a raksha — in combat, intrigue, or some other venue — the wearer may instantly learn one of his [[Eclipse]] [[Charms]], going into [[Experience Debt]] if necessary. She can’t benefit from this effect while already in [[Experience Debt]].
 
 ## Special activation rules

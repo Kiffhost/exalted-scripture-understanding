@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Masterful Performance Exercise]]"
 ---
-The Lawgiver’s genius voice is capable of fascinating mimicry.ThisCharmsupplementsanattempttomimicthe calls,songs,orsoundsofasmalltomediumanimalorinsect. Sheneedonlyhearthesoundoncetoperfectlycopyit.This Charm delights and amazes audiences and may aid in wilderness survival, by attracting food or a potential familiar.
+The Lawgiver’s genius voice is capable of fascinating !!mimicry.ThisCharmsupplementsanattempttomimicthe!! !!calls,songs,orsoundsofasmalltomediumanimalorinsect.!! !!Sheneedonlyhearthesoundoncetoperfectlycopyit.This!! Charm delights and amazes audiences and may aid in wilderness survival, by attracting food or a potential familiar.

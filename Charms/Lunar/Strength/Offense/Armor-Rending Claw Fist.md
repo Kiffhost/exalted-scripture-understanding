@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Unstoppable Beast-Force Blow]]"
 ---
-The Lunar cuts through steel like rice paper. Her withering attack ignores half an enemy’s armor soak. If she damages him, his onslaught penalty subtracts from his armor [[Hardness]] until his next turn. This Charm can only be used once per scene, unless reset by landing a decisive attack against a crashed enemy.
+*The Lunar cuts through steel like rice paper.*
+Her withering attack ignores half an enemy’s armor soak. If she damages him, his onslaught penalty subtracts from his armor [[Hardness]] until his next turn. This Charm can only be used once per scene, unless reset by landing a decisive attack against a crashed enemy.

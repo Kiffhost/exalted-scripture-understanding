@@ -14,7 +14,8 @@ Prerequisite Charms:
   - OR
   - Any 5 Ability Charms
 ---
-The Lawgiver wears her scars like armor. In a [[Decision Points|decision point]] she may cite something precious that she lost in defense of a [[Intimacy|Principle]] she still holds. Perhaps she lost an eye or a limb, or had to let go of someone she loved in order to pursue the path she’s now on. In doing so, she can resolve the [[Decision Points|decision point]] without paying a point of [[Willpower]], and without tapping a relevant [[Intimacy]] (if any even exist). This Charm can only be used once per story, but can be reset by successfully resisting influence regarding the defended [[Intimacy|Principle]] twice more.
+*The Lawgiver wears her scars like armor.*
+In a [[Decision Points|decision point]] she may cite something precious that she lost in defense of a [[Intimacy|Principle]] she still holds. Perhaps she lost an eye or a limb, or had to let go of someone she loved in order to pursue the path she’s now on. In doing so, she can resolve the [[Decision Points|decision point]] without paying a point of [[Willpower]], and without tapping a relevant [[Intimacy]] (if any even exist). This Charm can only be used once per story, but can be reset by successfully resisting influence regarding the defended [[Intimacy|Principle]] twice more.
 
 ### On [[Strength from Conviction Stance]]
 

@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Essence-Gathering Temper]]"
 ---
-TheExaltrememberspastlivesandpastfailures,andknows thatherdeathisthedeathoftheworld.Onceperscene,the Exalt may pay two [[Initiative]] when struck with a decisive attack, instantly regaining a point of temporary [[Willpower]]. This Charm is reset by surviving a decisive attack of 10+ rawdamagewithouttakingasinglehealthlevelofdamage.
+*!!TheExaltrememberspastlivesandpastfailures,andknows!! !!thatherdeathisthedeathoftheworld.Onceperscene,the!! Exalt may pay two [[Initiative]] when struck with a decisive attack, instantly regaining a point of temporary [[Willpower]].*
+This Charm is reset by surviving a decisive attack of 10+ !!rawdamagewithouttakingasinglehealthlevelofdamage.!!

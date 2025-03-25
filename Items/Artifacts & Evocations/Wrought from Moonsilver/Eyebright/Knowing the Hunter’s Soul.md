@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Ever-Wary Fox Technique]]"
 ---
-Upon a successful [[Perception]] roll enhanced by [[Ever-Wary Fox Technique]] (p. XX), the Lunar reflexively reads her attacker’s intentions to discern an [[Intimacy]] related to the attack. 
+*Upon a successful [[Perception]] roll enhanced by [[Ever-Wary Fox Technique]] (p.*
+XX), the Lunar reflexively reads her attacker’s intentions to discern an [[Intimacy]] related to the attack. 
 
 ## Special activation rules
 

@@ -11,7 +11,7 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[ Beast-Slayer’s Wisdom]]"
 ---
-The Hungering Fangs urge their wielder to seek out monsters in their dens.
+*The Hungering Fangs urge their wielder to seek out monsters in their dens.*
 When the wielder tracks an enemy who’s powerful enough to pose a challenge to her in combat, she adds (his [[Essence]]) dice on the roll and banks her extra successes. She can add banked successes to the following:
  - [[Awareness]] rolls opposing her quarry (including [[Join Battle]] rolls).
  - [[Stealth]] rolls opposing her quarry.

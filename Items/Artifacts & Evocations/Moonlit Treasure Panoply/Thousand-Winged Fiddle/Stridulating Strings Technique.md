@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Cadence of the Locust]]"
   - Any one Charm this Evocation enhances
 ---
-Grasshoppers harken to the Thousand-Winged Fiddle’s song, eager to aid its master.
+*Grasshoppers harken to the Thousand-Winged Fiddle’s song, eager to aid its master.*
 This Evocation upgrades the following [[Charms]] (Lunars, pp. 164, 238, 240, 283).
 [[Pack-Calling Cry]]: The Lunar adds ([[Essence]]) nonCharm dice on this Charm’s roll when calling an insect.
 Insects called with it add three dice on all rolls they make to fulfill the Lunar’s command. Grasshoppers add three automatic successes instead.

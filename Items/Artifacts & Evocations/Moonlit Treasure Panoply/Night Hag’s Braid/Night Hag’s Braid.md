@@ -20,7 +20,8 @@ WeaponType:
   - Direlash
 Material: Moonsilver
 ---
-Long ago, when the Old Realm still was young, a witch came to a faerie queen’s palace. A sorcerer and spirit-binder, Thousand Rainbow Petals had come to the Court of Unlit Candles as an emissary of the Exalted host, seeking to pact with the court’s leader, Kethara of Sere Autumn. Kethara welcomed them as an honored guest, giving great consideration to the Lunar envoy’s words.
+*Long ago, when the Old Realm still was young, a witch came to a faerie queen’s palace.*
+A sorcerer and spirit-binder, Thousand Rainbow Petals had come to the Court of Unlit Candles as an emissary of the Exalted host, seeking to pact with the court’s leader, Kethara of Sere Autumn. Kethara welcomed them as an honored guest, giving great consideration to the Lunar envoy’s words.
 Therein lay the trap. Kethara was obsession personified, and sought to claim the Lunar as her champion. She hid words of binding within the terms of their treaty, twisting the pact to trick Thousand Rainbow Petals into swearing eternal service to her.
 It might have worked, had Thousand Rainbow Petals been a lesser witch. Not long after their arrival to the court, they’d unraveled the court’s ever-shifting web of alliances, vendettas, and rivalries. The Lunar had made other bargains with Kethara’s enemies, and learned of her schemes long in advance. When the two of them swore to their pact, it was the queen who was bound, for Thousand Rainbow Petals had changed the oath’s terms at the last minute.
 As punishment for Kethara’s treachery, Thousand Rainbow Petals plucked every hair from her head.

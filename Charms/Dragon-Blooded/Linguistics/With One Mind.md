@@ -14,7 +14,8 @@ Prerequisite Charms:
   - "[[Dragon’s Voice Mastery]]"
   - "[[Speech Without Words]]"
 ---
-The Dragon-Blood weaves her mind together with that of her allies, creating a shared battle-consciousness that transcends language’s limitations. She forms a mental bond with either a single character she can see, or all of her Sworn Kin she can see. Participants in the bond gain the following benefits: 
+*The Dragon-Blood weaves her mind together with that of her allies, creating a shared battle-consciousness that transcends language’s limitations.*
+She forms a mental bond with either a single character she can see, or all of her Sworn Kin she can see. Participants in the bond gain the following benefits: 
 - They can communicate telepathically with each other. This isn’t limited by range or line of sight, but they must share a common language. 
 - As long as one of them is aware of a hidden threat or concealed character, all of them are. This may render them immune to unexpected attacks (Exalted, p. 203) or allow them to attack a concealed enemy. 
 - Whenever one of them is attacked, another bonded character within close range may reflexively interpose his [[Defense|Parry]], as though with a defend other action. Only one character may make this reflexive defense against a single attack, even if several are in range. 

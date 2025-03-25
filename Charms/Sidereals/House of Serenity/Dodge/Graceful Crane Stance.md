@@ -12,4 +12,5 @@ Duration: One scene
 Prerequisite Charms:
   - None
 ---
-The Sidereal is one with the world, balanced within and without. The Sidereal gains perfect balance and can stand on or move across surfaces too narrow or weak to support her normally without needing to roll.
+*The Sidereal is one with the world, balanced within and without.*
+The Sidereal gains perfect balance and can stand on or move across surfaces too narrow or weak to support her normally without needing to roll.

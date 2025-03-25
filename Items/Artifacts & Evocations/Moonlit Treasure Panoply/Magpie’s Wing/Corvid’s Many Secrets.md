@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   -  None
 ---
-Magpie’s Wing holds more tricks than could be mastered in a lifetime.
+*Magpie’s Wing holds more tricks than could be mastered in a lifetime.*
 Upon purchasing this Evocation, the wielder gains two of the following secrets. She can purchase additional secrets for one bonus point or three experience each.
 Chained Talon Blade: The skycutter’s wielder may separate it into two half-blades linked by a moonsilver chain, requiring a ready weapon action. It can be used as a fighting chain, but deals lethal damage and is compatible with [[Melee]] (+2 ACC; +9 DMG; +1 DEF; Lethal, [[Melee]], Disarming, Flexible, [[Grappling]], Reaching). In this form, it’s exceptional equipment if used as a grappling hook to aid in climbing or similar tasks. It can be changed back with another ready weapon action.
 Eager Accomplice Draw: Once per round, the wielder may reflexively ready [[Magpie’s Wing]]. This can be used for any ready weapon action required by the artifact’s [[Evocations]].

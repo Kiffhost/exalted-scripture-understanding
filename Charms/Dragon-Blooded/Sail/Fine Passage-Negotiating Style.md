@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood threads her ship like a needle through dangerous patches of sargasso seas, rockstrewn shallows, or warship-patrolled waters. She may add automatic success to a [[Sail]] roll for two motes each, and rerolls 6s until they cease to appear.
+*The Dragon-Blood threads her ship like a needle through dangerous patches of sargasso seas, rockstrewn shallows, or warship-patrolled waters.*
+She may add automatic success to a [[Sail]] roll for two motes each, and rerolls 6s until they cease to appear.

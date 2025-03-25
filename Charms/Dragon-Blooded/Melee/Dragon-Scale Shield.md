@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Flame-Borne Interception]]"
 ---
-The Dragon-Blood channels the force of her elemental Aspect into her defense, wreathing her blade or shield in anima. She gains a benefit based on her Aspect: 
+*The Dragon-Blood channels the force of her elemental Aspect into her defense, wreathing her blade or shield in anima.*
+She gains a benefit based on her Aspect: 
 ### Air
 The Dragon-Blood’s weapon unleashes a blast of air as she defends, adding +1 [[Defense|Parry]] as a non-Charm bonus against any ranged attack with a material projectile.
 

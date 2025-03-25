@@ -17,7 +17,7 @@ Prerequisite Charms:
 *Nyraxes still guides the dead to their final rest, drawing them like moths to the fallen star’s flame.*
 ## Dissonant
 Lanternbearers who are dissonant with Nyraxes can’t awaken this Evocation.
-Nyraxes’ light blazes out to long range as the lantern-bearer makes a special (Social Attribute + [Performance or Presence]) inspire roll against all undead who can see the light. She succeeds automatically against un-Exalted undead whose [[Essence]] is lower than hers.
+Nyraxes’ light blazes out to long range as the lantern-bearer makes a special (Social Attribute + {Performance or Presence}) inspire roll against all undead who can see the light. She succeeds automatically against un-Exalted undead whose [[Essence]] is lower than hers.
 Affected characters are filled with fascination with Nyraxes’ light, which counts as a Defining [[Intimacy]].
 They must approach as close to the lantern-bearer as possible, heedless of any peril in the way. In combat, they must use their movement action each turn to approach her, though they can still take other actions.
 They can’t attack the lantern-bearer, though they can still attack her allies as long as they also move toward the lantern on their turn. This costs three [[Willpower]] to resist, although a character can resist for only one [[Willpower]] if he takes damage as a result of pursuing the lantern-bearer through dangerous ground.

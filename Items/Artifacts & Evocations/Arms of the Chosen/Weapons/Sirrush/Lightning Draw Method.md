@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Sirrush all but leaps into its wielder’s hand when danger looms. On the first round of combat, she may treat her [[Initiative]] as ([[Wits]]) higher than it actually is to determine when she acts in the round, but must use her turn to make an attack. 
+*Sirrush all but leaps into its wielder’s hand when danger looms.*
+On the first round of combat, she may treat her [[Initiative]] as ([[Wits]]) higher than it actually is to determine when she acts in the round, but must use her turn to make an attack. 
 
 ## Special activation rules
 

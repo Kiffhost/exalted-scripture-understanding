@@ -13,4 +13,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-These enormous two-handed axes have blades a yard across and can be used to fell both huge trees and most foes in a single blow. Their blades are typically engraved with scenes of battle and conquest.
+*These enormous two-handed axes have blades a yard across and can be used to fell both huge trees and most foes in a single blow.*
+Their blades are typically engraved with scenes of battle and conquest.

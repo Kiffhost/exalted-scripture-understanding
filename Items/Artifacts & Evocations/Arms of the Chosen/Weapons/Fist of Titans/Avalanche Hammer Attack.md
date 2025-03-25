@@ -12,4 +12,5 @@ Prerequisite Charms:
   - "[[ Rising Sun Slash]]"
   - "[[Unstoppable Hammering Blow]]"
 ---
-This Evocation upgrades [[Rising Sun Slash]] (Exalted, p. 347). As long as [[Fist of Titans]] has 3+ charges, the Solar may pay an additional three motes to use the Charm to enhance smash attacks without needing to use a full [[Melee]] Excellency.
+*This Evocation upgrades [[Rising Sun Slash]] (Exalted, p.*
+347). As long as [[Fist of Titans]] has 3+ charges, the Solar may pay an additional three motes to use the Charm to enhance smash attacks without needing to use a full [[Melee]] Excellency.

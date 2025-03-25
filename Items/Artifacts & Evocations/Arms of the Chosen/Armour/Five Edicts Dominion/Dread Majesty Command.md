@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Beyond Your Reach]]"
 ---
-With a shout dredged from the slag of extinct languages, the Exalt unleashes a torrent of anima, force, and sharp black needles across the battlefield. All enemies within short range must roll ([[Stamina]] + [[Resistance]]) against a difficulty of the wearer’s ([[Linguistics]]) or be knocked back one range band and fall prone. 
+*With a shout dredged from the slag of extinct languages, the Exalt unleashes a torrent of anima, force, and sharp black needles across the battlefield.*
+All enemies within short range must roll ([[Stamina]] + [[Resistance]]) against a difficulty of the wearer’s ([[Linguistics]]) or be knocked back one range band and fall prone. 
 
 ## Special activation rules
 

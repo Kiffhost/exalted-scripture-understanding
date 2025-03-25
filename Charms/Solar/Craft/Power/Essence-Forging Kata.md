@@ -12,4 +12,5 @@ Duration: One day
 Prerequisite Charms:
   - "[[Unbroken Image Focus]]"
 ---
-The Solar channels [[Essence]] through her hands and tools to make the final product of her work a matter of legend. Powering this Charm requires a dramatic action lasting at least five minutes, in which the Exalt meditates on future tasks, steadies her mind, feels the weight of her tools, readies her forge for the day, and other similar preparatory actions. While this Charm is active, every two motes committed discounts the cost of the [[Craft]] Excellency by one.
+*The Solar channels [[Essence]] through her hands and tools to make the final product of her work a matter of legend.*
+Powering this Charm requires a dramatic action lasting at least five minutes, in which the Exalt meditates on future tasks, steadies her mind, feels the weight of her tools, readies her forge for the day, and other similar preparatory actions. While this Charm is active, every two motes committed discounts the cost of the [[Craft]] Excellency by one.

@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Shining Ice Mirror exhales a freezing breath when the Solar’s technique sends her opponent into fatal disarray. This Evocation may be activated after the Solar crashes her opponent with [[Shining Ice Mirror]] to wreathe the foe in a numbing cold. Until they recover from [[Initiative]] Crash, they suffer a -2 penalty to all actions and a -1 penalty to [[Defense]]. 
+*Shining Ice Mirror exhales a freezing breath when the Solar’s technique sends her opponent into fatal disarray.*
+This Evocation may be activated after the Solar crashes her opponent with [[Shining Ice Mirror]] to wreathe the foe in a numbing cold. Until they recover from [[Initiative]] Crash, they suffer a -2 penalty to all actions and a -1 penalty to [[Defense]]. 
 
 ## Special activation rules
 

@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Last Warrior’s Unity]]"
 ---
-None can defy Ajelin’s curse forever, but a Lunar’s affinity for moonsilver aids her in bending the blade to her will.
+*None can defy Ajelin’s curse forever, but a Lunar’s affinity for moonsilver aids her in bending the blade to her will.*
 The Lunar gains the following benefits:
  - She doesn’t need to roll to end her attunement to Ajelin.
  - She can withdraw or ready Ajelin reflexively.

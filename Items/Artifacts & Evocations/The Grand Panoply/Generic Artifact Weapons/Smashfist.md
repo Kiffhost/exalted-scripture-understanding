@@ -13,4 +13,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-These fighting gauntlets are composed of articulated plates of alloyed magical material. They’re always used as a pair.
+*These fighting gauntlets are composed of articulated plates of alloyed magical material.*
+They’re always used as a pair.

@@ -29,7 +29,7 @@ Instead of summoning an animal avatar, the sorcerer may cast this spell to ensur
 
 # Designing Animal Avatars
 Animal avatars are spirits. They’re material by nature, like elementals. All of them can dematerialize, using the same rules as materializing (Exalted, p. 510), but in reverse. If slain, they reform at the next full moon.
-**Essence:** Animal avatars typically have [[Essence]] 5 to 7. They have ([Essence x10] + 50) motes. **Willpower:** Animal avatars typically have 7-10 [[Willpower]]. 
+**Essence:** Animal avatars typically have [[Essence]] 5 to 7. They have ({Essence x10} + 50) motes. **Willpower:** Animal avatars typically have 7-10 [[Willpower]]. 
 **Health:** An avatar uses one of three health tracks, depending on his animal’s size: 
  - By default, the track is −0x5/−1x10/−2x10/−4x5/ Incap. 
  - If his animal has Minuscule [[Size]] or Tiny Creature, the track is −0x10/−1x10/−2x4/−4/Incap. 

@@ -16,7 +16,8 @@ Dots: "3"
 WeaponType:
   - Thunderbolt Shield
 ---
-Aria Skysinger forged [[Empyrean Aegis]] from blue jade and feathersteel, with the Tyrant Glacier’s frozen heart for her anvil and her fallen mother’s goremaul, stained with Solar blood, for her hammer. The Shogunate’s early days were marred by internecine conflict and civil war, and Aria sought a shield to defend her gens through the fray.
+*Aria Skysinger forged [[Empyrean Aegis]] from blue jade and feathersteel, with the Tyrant Glacier’s frozen heart for her anvil and her fallen mother’s goremaul, stained with Solar blood, for her hammer.*
+The Shogunate’s early days were marred by internecine conflict and civil war, and Aria sought a shield to defend her gens through the fray.
 [[Empyrean Aegis]] was passed down along Aria’s descendants. Ikke the Bastion-Breaker fended off the spears of the Storm That Rode. Madrigan Azure, honor guard to the shogun, wielded it to thwart a [[Lore/Factions/Silver Pact|Silver Pact]] assassination attempt against her, though it cost him his life.
 Opatha Kopal wielded it alongside her great-uncle, Tepet, when he challenged the [[Scarlet Empress]]’ claim and laid siege to the Imperial City. Kopal fell in her great-uncle’s war, but her daughter, Opatha Zari, lived to see the [[Scarlet Empress]] proclaim House Tepet’s ascension and bore her mother’s heirloom with her.
 Backer: Eric Deans 

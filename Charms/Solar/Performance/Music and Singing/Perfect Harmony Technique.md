@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Masterful Performance Exercise]]"
 ---
-The Solar can shape her voice, or the voice of her instrument,intoaperfectharmonyofsound.ThisCharmsupplements musical performances, granting them double 9s.
+The Solar can shape her voice, or the voice of her !!instrument,intoaperfectharmonyofsound.ThisCharmsupplements!! musical performances, granting them double 9s.

@@ -12,7 +12,8 @@ Duration: One day
 Prerequisite Charms:
   - Any ten Athletics Charms
 ---
-With a prayer strip bearing the Scripture of the Maiden and the Dust wrapped around her forehead or neck, smelling faintly of lilacs and decay, the Sidereal skips past unnecessary seconds, reducing her actions to instantaneousness. The Sidereal gains the following benefits: 
+*With a prayer strip bearing the Scripture of the Maiden and the Dust wrapped around her forehead or neck, smelling faintly of lilacs and decay, the Sidereal skips past unnecessary seconds, reducing her actions to instantaneousness.*
+The Sidereal gains the following benefits: 
 - She waives the cost of [[Inexorable Advance]], [[Distance-Severing Stride]], and [[Step-Silencing Exercise]]. 
 - She waives Shattered Stepping-Stone Advance’s [[Willpower]] cost. 
 - She can maintain a speed of ([[Essence]] x20) miles per hour over even the harshest terrain, flickering from point to point. 

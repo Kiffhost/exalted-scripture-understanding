@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Limb-Maiming Flourish]]"
 ---
-Even when those maimed by the Lunar’s claws escape her, their wounds remind them that the hunt isn’t over. Characters that suffer a crippling injury inflicted by the Lunar count as having a Minor [[Intimacy|Tie]] of fear toward her until it fully heals. If the injury is a severed limb or comparable maiming, it counts as a Major [[Intimacy|Tie]] instead. The Lunar adds ([[Essence]]) dice on threaten rolls with any Attribute against such characters. Receiving an artifact or other magical prosthetic replacement for a maimed limb counts as healing it for this Charm’s purposes. 
+*Even when those maimed by the Lunar’s claws escape her, their wounds remind them that the hunt isn’t over.*
+Characters that suffer a crippling injury inflicted by the Lunar count as having a Minor [[Intimacy|Tie]] of fear toward her until it fully heals. If the injury is a severed limb or comparable maiming, it counts as a Major [[Intimacy|Tie]] instead. The Lunar adds ([[Essence]]) dice on threaten rolls with any Attribute against such characters. Receiving an artifact or other magical prosthetic replacement for a maimed limb counts as healing it for this Charm’s purposes. 
 ## Totemic 
 
 A Lunar whose spirit shape has a threaten or intimidate dice pool may learn this as a [[Charisma]] Charm, with [[Endless Nightmare Hunt]] (p. XX) as its prerequisite.

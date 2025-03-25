@@ -23,6 +23,6 @@ The stylist gains the following benefits:
 - While fighting in a demesne or manse, she recovers an additional mote at the end of each round. She gains an additional mote if it’s a greater demesne or manse, and another mote if she’s attuned to it. 
 - She adds (Essence/2, rounded up) non-Charm successes on [[Lore]] and [[Occult]] rolls involving geomancy, including demesnes, manses, or hearthstones.
 ## Enlightenment
-While fighting in a demesne or manse, the stylist adds ([Lore or Occult]/2, rounded up) to her base [[Initiative]]. 
+While fighting in a demesne or manse, the stylist adds ({Lore or Occult}/2, rounded up) to her base [[Initiative]]. 
 ## Special activation rules
 The stylist can reflexively enter this Form when she Joins Battle while her mote pools are full or while in a demesne or manse.

@@ -12,7 +12,8 @@ Duration: Until the spell has been shaped
 Prerequisite Charms:
   - "[[ Goetic Condemnation]]"
 ---
-Terrestrial Circle [[Sorcery]] To the true sorcerous warrior, spear and spell are as one. Once the Exalt has begun to shape a spell, she may flurry attacks with further shape [[sorcery]] actions. 
+*Terrestrial Circle [[Sorcery]] To the true sorcerous warrior, spear and spell are as one.*
+Once the Exalt has begun to shape a spell, she may flurry attacks with further shape [[sorcery]] actions. 
 
 ## Dissonant
 

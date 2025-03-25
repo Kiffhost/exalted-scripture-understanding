@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Blessed Moon-Beast Empowerment]]"
   - "[[Memory-Drinking Meditation]]"
 ---
-Blurring the boundaries between herself and her familiar, the Lunar opens her mind to her companion.
+*Blurring the boundaries between herself and her familiar, the Lunar opens her mind to her companion.*
 As the Lunar and an intelligent familiar meditate together, they open a mental bond that allows them to share memories. They can either share glimpses of memories or permanently impart memories to each other. A glimpse allows both Lunar and familiar to relive a memory. They can’t make rolls to notice anything that was missed the first time around — if the familiar failed an [[Awareness]] roll, the Lunar wouldn’t get a second chance. The Storyteller may require a roll to recall memories with clear detail — typically the familiar’s Senses pool or the Lunar’s ([[Intelligence]] + [[Lore]]).
 Alternatively, the Lunar and her familiar can permanently grant memories to each other, along with all of their [[Intimacy|Intimacies]] related to that memory. The clarity and accuracy of these memories are limited as above.
 It’s even possible for them to share the entirety of their memories with each other. For such large-scale transfers, the Storyteller should reveal specific memories when they become relevant.

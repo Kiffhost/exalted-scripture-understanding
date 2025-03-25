@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Clairvoyant Mirror Technique]]"
 ---
-Perdurant Vault shelters the wielder’s psyche behind an ephemeral spiritual wall. The wielder gains +2 [[Resolve]] against an influence roll, or negates the [[Guile]] penalty for being unaware of an observer on a single roll. 
+*Perdurant Vault shelters the wielder’s psyche behind an ephemeral spiritual wall.*
+The wielder gains +2 [[Resolve]] against an influence roll, or negates the [[Guile]] penalty for being unaware of an observer on a single roll. 
 
 ## Resonant
 

@@ -12,7 +12,8 @@ ArmourType: Gunzosha Armour
 Material: White Jade
 Dots: §4
 ---
-A suit of alabaster-white gunzosha armor distinguished by a single gauntlet of red jade and orichalcum, Seralawi was not among the Seventh Legion’s initial arsenal when it encamped at Deheleshen. Instead, it was the scavenger prince Geshel Reave who discovered it in the Tomb of Ten Thousand. The fragmentary First Age texts he recovered along with it showed how to create and implant the attunement amulets but contained no mention of the toll gunzosha armor took on its wearer.
+*A suit of alabaster-white gunzosha armor distinguished by a single gauntlet of red jade and orichalcum, Seralawi was not among the Seventh Legion’s initial arsenal when it encamped at Deheleshen.*
+Instead, it was the scavenger prince Geshel Reave who discovered it in the Tomb of Ten Thousand. The fragmentary First Age texts he recovered along with it showed how to create and implant the attunement amulets but contained no mention of the toll gunzosha armor took on its wearer.
 Geshel entered old age a decade too early, believing his unnatural aging to be some curse left upon the Tomb.
 Geshel sought the counsel of many savants to free him of this curse, but it was not until he met Amilar Hakala of Valkhawsen Academy that he learned the truth.
 Crushed by this revelation, Geshel offered the armor to Hakala in exchange for a sorcerous working that would restore the semblance of his youth, if not his lifespan.

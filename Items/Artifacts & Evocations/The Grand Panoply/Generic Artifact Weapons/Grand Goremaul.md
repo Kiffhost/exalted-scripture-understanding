@@ -13,4 +13,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-These huge sledges deliver horrifying crushing blows, designed to crumple armor and drive back even the most powerful foes. Even most Exalts cannot lift these weapons without attuning to them.
+*These huge sledges deliver horrifying crushing blows, designed to crumple armor and drive back even the most powerful foes.*
+Even most Exalts cannot lift these weapons without attuning to them.

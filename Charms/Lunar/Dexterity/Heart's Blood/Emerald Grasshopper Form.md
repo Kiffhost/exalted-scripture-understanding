@@ -12,7 +12,8 @@ Duration: Indefinite
 Prerequisite Charms:
   - None
 ---
-The Lunar compresses the fullness of her divinity into the humblest of forms. She changes into an animal shape she possesses with the Minuscule [[Size]] Merit. 
+*The Lunar compresses the fullness of her divinity into the humblest of forms.*
+She changes into an animal shape she possesses with the Minuscule [[Size]] Merit. 
 
 ## Special activation rules
 

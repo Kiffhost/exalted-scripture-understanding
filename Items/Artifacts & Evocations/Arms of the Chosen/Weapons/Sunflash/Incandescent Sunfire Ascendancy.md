@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Darkest Before Dawn]]"
 ---
-Those who witness [[Sunflash]] in battle know that it is the god-weapon and that their defeat is a holy thing. Whenever the wielder crashes an enemy or deals enough damage to a battle group to reduce its [[Size]], [[Sunflash]] gains a level of anima. 
+*Those who witness [[Sunflash]] in battle know that it is the god-weapon and that their defeat is a holy thing.*
+Whenever the wielder crashes an enemy or deals enough damage to a battle group to reduce its [[Size]], [[Sunflash]] gains a level of anima. 
 
 ## Special activation rules
 

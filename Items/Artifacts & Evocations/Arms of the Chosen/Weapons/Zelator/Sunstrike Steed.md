@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - None
 ---
-While the Exalt is mounted, her mount gains Zelator’s power to make baneful attacks. In addition, whenever the Exalt can perceive an immaterial entity, her mount can both see and strike that entity. 
+*While the Exalt is mounted, her mount gains Zelator’s power to make baneful attacks.*
+In addition, whenever the Exalt can perceive an immaterial entity, her mount can both see and strike that entity. 
 
 ## Special activation rules
 

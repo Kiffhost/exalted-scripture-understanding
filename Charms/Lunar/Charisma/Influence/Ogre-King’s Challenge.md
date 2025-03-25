@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Herd-Reinforcement Stance]]"
   - "[[Lightning-Calling Challenge]]"
 ---
-Challenging the weak and unworthy for their thrones, the Lunar overthrows them in the hearts of their subjects.
+*Challenging the weak and unworthy for their thrones, the Lunar overthrows them in the hearts of their subjects.*
 The Lunar issues a public challenge to a formal or informal leader or figure of authority, rolling ([[Charisma]] + [[Presence]]) as a special persuade roll against both the leader and his followers that ignores multiple-target penalties.
 Against the leader, the Lunar can convince him to engage her in a physical contest without needing to leverage a supporting [[Intimacy]]: a duel, an archery competition, a race, etc. However, this benefit doesn’t apply for contests that are obviously one-sided or so dangerous as to be nigh-suicidal. Resisting this influence requires him to cite at least a Major [[Intimacy]] in a [[Decision Points|Decision Point]] and spend (Lunar’s [[Essence]]) [[Willpower]].
 Against the leader’s followers, any Ties they have to him — positive or negative — count as supporting this influence. Affected characters must watch this contest without disturbing or interrupting it. If time allows, they’ll try to convince as many people as possible to watch with them, adding (Lunar’s [[Essence]]) dice on persuade rolls to do so. Nontrivial characters can resist this influence for one [[Willpower]], or two [[Willpower]] if they wish to interfere with the contest.

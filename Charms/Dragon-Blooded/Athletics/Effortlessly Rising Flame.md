@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Fire fills the Dragon-Blood’s body, suffusing her with power.ShemayaddautomaticsuccessestoanAthletics roll for two motes each, and rolls an additional nonCharm die for every 10.
+*Fire fills the Dragon-Blood’s body, suffusing her with power.*
+She may add automatic successes to an Athletics roll for two motes each, and rolls an additional non-Charm die for every 10.

@@ -20,7 +20,7 @@ For example, a Solar hero might attempt to hold up a collapsing building while h
 # Chart
 
 | Successes        | Example Feat                                                                                                                                                              |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------- | !!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------!! |
 | **Strength 3+**  |                                                                                                                                                                           |
 | 1                | Lift a full-grown man or an anvil. Break a pine board with a kick.                                                                                                        |
 | 2                | Tote a bale of cotton on one shoulder. Kick an oak door open.                                                                                                             |

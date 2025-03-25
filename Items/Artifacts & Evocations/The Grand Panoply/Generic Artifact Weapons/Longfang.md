@@ -12,4 +12,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-A longfang is a sharp and deadly one-handed spear forged with an alloy of magical material. It can be thrown, but unlike most artifact thrown weapons, it does not return to the user.
+*A longfang is a sharp and deadly one-handed spear forged with an alloy of magical material.*
+It can be thrown, but unlike most artifact thrown weapons, it does not return to the user.

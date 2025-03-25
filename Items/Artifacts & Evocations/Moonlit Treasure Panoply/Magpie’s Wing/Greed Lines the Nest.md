@@ -13,7 +13,7 @@ Duration: Until the stolen object is retrieved
 Prerequisite Charms:
   - "[[ Ingenuity of the Magpie]]"
 ---
-Magpie’s Talon keeps a tight grip on plundered treasures, defying those come to reclaim what’s rightfully theirs.
+*Magpie’s Talon keeps a tight grip on plundered treasures, defying those come to reclaim what’s rightfully theirs.*
 The wielder reflexively makes a special disarm gambit against something that could fit within [[Magpie’s Wing]].
 This isn’t limited solely to weapons — anything that could be stolen with a [[Larceny]] roll can be targeted. On a successful gambit, that object is trapped within the skycutter’s secret compartment before it flies back to the wielder.
 The wielder can retrieve the stolen object from [[Magpie’s Wing]] with a ready weapon action, but it’s much harder for others. Even if they can get the [[skycutter]] away from the wielder — typically via a disarm gambit of their own — opening the hidden compartment while it’s reinforced by this Evocation requires a difficulty 7 lockpicking roll or feat of strength that must be enhanced by magic. Such feats of strength require [[Strength]] 5+. In combat, each such roll costs two [[Initiative]] and can’t be flurried.

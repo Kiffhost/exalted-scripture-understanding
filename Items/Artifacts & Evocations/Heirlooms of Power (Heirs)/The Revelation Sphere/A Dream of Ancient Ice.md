@@ -11,7 +11,8 @@ Duration: One day
 Prerequisite Charms:
   -  None
 ---
-Holding the Revelation Sphere to her chest as she sleeps, the wielder dreams of an otherworldly maze of ice, chasing her unknown goal through its gelid passageways. She rolls ([[Perception]] + [Integrity, [[Lore]], or Occult]) and banks her successes. She can add up to ([[Essence]]) of these successes on any of the following rolls:
+*Holding the Revelation Sphere to her chest as she sleeps, the wielder dreams of an otherworldly maze of ice, chasing her unknown goal through its gelid passageways.*
+She rolls ([[Perception]] + {Integrity, [[Lore]], or Occult}) and banks her successes. She can add up to ([[Essence]]) of these successes on any of the following rolls:
  - Any roll enhanced by the Revelation Sphere’s equipment bonus.
  - [[Introducing a Fact|Introduce fact]] rolls.
  - [[Shape Sorcery]] rolls.

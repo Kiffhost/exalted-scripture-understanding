@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Flawed Strike Mockery]]"
 ---
-Penumbra Gleam exaggerates flaws — especially flawed attacks. After an attack overcomes the wielder’s [[Defense|Parry]], she may use this Evocation to impose a penalty on the damage roll equal to the attack roll 1s, maximum ([[Perception]]).
+*Penumbra Gleam exaggerates flaws — especially flawed attacks.*
+After an attack overcomes the wielder’s [[Defense|Parry]], she may use this Evocation to impose a penalty on the damage roll equal to the attack roll 1s, maximum ([[Perception]]).

@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Emerald Grasshopper Form]]"
 ---
-The Lunar shrinks even the most colossal forms to a grass-blade’s size. She may use [[Emerald Grasshopper Form]] to grant her current shape Minuscule [[Size]], instead of changing into a different form. Clothing and moonsilver artifacts rescale with her for this Charm’s duration, while equipment incompatible with her reduced size is banished Elsewhere. Minuscule [[Size]] confers the following: 
+*The Lunar shrinks even the most colossal forms to a grass-blade’s size.*
+She may use [[Emerald Grasshopper Form]] to grant her current shape Minuscule [[Size]], instead of changing into a different form. Clothing and moonsilver artifacts rescale with her for this Charm’s duration, while equipment incompatible with her reduced size is banished Elsewhere. Minuscule [[Size]] confers the following: 
 - She adds +3 [[Defense|Evasion]] against attacks by larger foes, or +2 [[Defense|Evasion]] against enemies with the Tiny Creature Merit. This counts as a Charm bonus. 
 - Larger characters subtract three successes from [[Awareness]]-based rolls to notice her, or two successes if they have the Tiny Creature Merit. 
 - Against enemies without Minuscule [[Size]], the base damage of her withering attacks can’t exceed ([[Strength]]) before adding attack roll extra successes or dice from [[Charms]]. 

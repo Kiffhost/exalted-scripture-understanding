@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Motive-Discerning Technique]]"
 ---
-The Lawgiver can seed the minds of others with resounding goodwill or disfavor. This Charm supplements an instill action in which the Solar attempts to raise a target’s Minor [[Intimacy]] to Major, or a Major [[Intimacy]] to Defining. If the instill action is successful, the target also gains a new Minor [[Intimacy]] that reflects the one being increased. Thus a Solar could link “duty to one’s nation” to “appreciation for the captain of the guard.” This Charm fails if the target has Major or Defining [[Intimacy|Intimacies]] that directly contradict the proposed Minor [[Intimacy]]. 
+*The Lawgiver can seed the minds of others with resounding goodwill or disfavor.*
+This Charm supplements an instill action in which the Solar attempts to raise a target’s Minor [[Intimacy]] to Major, or a Major [[Intimacy]] to Defining. If the instill action is successful, the target also gains a new Minor [[Intimacy]] that reflects the one being increased. Thus a Solar could link “duty to one’s nation” to “appreciation for the captain of the guard.” This Charm fails if the target has Major or Defining [[Intimacy|Intimacies]] that directly contradict the proposed Minor [[Intimacy]]. 
 
 ## Special activation rules
 

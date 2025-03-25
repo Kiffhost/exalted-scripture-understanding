@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Sidereal’s feint exposes the weaknesses of an enemy’s defense. A successful distract gambit inflicts a penalty equal to the enemy’s soak and [[Hardness]] equal to the [[Initiative]] transferred. This lasts until the end of the gambit beneficiary’s next turn. If this reduction exceeds either his soak or [[Hardness]], he suffers dice of unspeakable withering damage equal to the total difference. This damage awards [[Initiative]] to the gambit’s beneficiary, separate from the gambit’s bonus.
+*The Sidereal’s feint exposes the weaknesses of an enemy’s defense.*
+A successful distract gambit inflicts a penalty equal to the enemy’s soak and [[Hardness]] equal to the [[Initiative]] transferred. This lasts until the end of the gambit beneficiary’s next turn. If this reduction exceeds either his soak or [[Hardness]], he suffers dice of unspeakable withering damage equal to the total difference. This damage awards [[Initiative]] to the gambit’s beneficiary, separate from the gambit’s bonus.

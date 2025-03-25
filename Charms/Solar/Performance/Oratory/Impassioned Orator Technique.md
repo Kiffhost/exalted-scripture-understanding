@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Masterful Performance Exercise]]"
 ---
-The Solar speaks with the voice of Heaven, magnifying her authority. This Charm supplements a Performancebased speech, granting it double 9s.
+*The Solar speaks with the voice of Heaven, magnifying her authority.*
+This Charm supplements a Performancebased speech, granting it double 9s.

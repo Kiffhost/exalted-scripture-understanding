@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   -  None
 ---
-Smiling Yathe speaks, his voice sizzling like a drop of acid in the wielder’s mind.
+*Smiling Yathe speaks, his voice sizzling like a drop of acid in the wielder’s mind.*
 The gauntlets’ wearer can communicate with [[Smiling Yathe]] while meditating. Yathe is always eager to offer his counsel. He advises ruthlessness in all things, proposing the cruelest solutions to the wielder’s problems.
 However, Yathe isn’t cruel for cruelty’s sake — he advises only what he sincerely believes is the most effective course of action.
 Yathe’s primary areas of knowledge are poison, spirits, and preying on emotional vulnerabilities, along with the gauntlets and their history. Communing with him lets the wielder use these topics as [[Lore]] backgrounds to introduce facts.

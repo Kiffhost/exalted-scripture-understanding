@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Myth Made Real]]"
 ---
-Blessed by Inkwarden, a mortal smith’s work will endure for millennia after her end.
+*Blessed by Inkwarden, a mortal smith’s work will endure for millennia after her end.*
 ## Resonant
 Only a character resonant with Inkwarden can awaken this Evocation.
 Inkwarden’s bearer can pay a ten-mote surcharge when she uses [[Myth Made Real]] to permanently empower an object, rather than needing to maintain MasterpieceAcclaiming Mark indefinitely. It becomes indestructible, like an artifact, but still doesn’t gain artifact traits. The first character to attune to the blessed object waives the experience point cost of the first Evocation he awakens from it, even if he wasn’t its intended recipient.

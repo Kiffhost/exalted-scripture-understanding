@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Midnight Phantom Movement]]"
 ---
-Adapting to the flow of an enemy’s attack, the Lunar moves with it to step into her attacker’s blind spot. After dodging an attack, she may use this Charm to reflexively roll to enter concealment, subject to the usual penalties to [[Stealth]] in combat.
+*Adapting to the flow of an enemy’s attack, the Lunar moves with it to step into her attacker’s blind spot.*
+After dodging an attack, she may use this Charm to reflexively roll to enter concealment, subject to the usual penalties to [[Stealth]] in combat.

@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Boundary-Marking Meditation]]"
   - "[[Mirror Slip Trick]]"
 ---
-The Lunar claims a twofold dominion, stalking behind the mirrors of her sacred ground.
+*The Lunar claims a twofold dominion, stalking behind the mirrors of her sacred ground.*
 Each of the Lunar’s territories has an otherworldly reflection, a twinned mirror-world born of her protean [[Essence]]. She can access a territory’s mirror-realm by using [[Mirror Slip Trick]] on a reflective surface within it, and can bring her Circle and up to ([[Essence]] x2) other characters with her when she does so. In combat, leaving that reflective surface to enter the mirror-realm proper requires withdrawing from combat (Exalted, p.
 199).
 The reflected territory is not completely identical to the original, for Lunar [[Essence]] is a fickle mirror. The sky is always midnight, and the moon looms larger and brighter than it should. The mirror-world’s wilderness is more verdant than the original; its cities are ruined or overgrown. Light is starker, shadows deeper, and heights and depths seem far greater. It counts as a greater Lunar demesne, though it has no hearthstone. This reflection doesn’t extend past the territory’s boundaries; beyond them, there is only darkness.

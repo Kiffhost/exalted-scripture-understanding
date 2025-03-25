@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Charms/Abyssal/Lore/Essence-Draining Touch]]"
 ---
 *The deathknight looses a bolt of crackling darkness from her outstretched palm.*
-The Abyssal makes a withering or decisive attack with a bolt of necrotic energy, rolling ([[Dexterity]] + [Archery or Thrown]) against an enemy within medium range. It has the following traits:
+The Abyssal makes a withering or decisive attack with a bolt of necrotic energy, rolling ([[Dexterity]] + {Archery or Thrown}) against an enemy within medium range. It has the following traits:
  - The [[Accuracy]] of an artifact [[Archery]] weapon: Close −1; Short +5; Medium +3; Long +1; Extreme −1.
  - Damage (10 + [[Essence]])L. The Abyssal doesn’t add her [[Strength]] to its raw withering damage.
  - Overwhelming ([[Essence]] + 1).

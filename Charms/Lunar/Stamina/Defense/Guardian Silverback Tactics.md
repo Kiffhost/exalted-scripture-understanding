@@ -14,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Den Warden Method]]"
 ---
-The Lunar guards her pack, covering for openings in their defenses and holding off foes.
+*The Lunar guards her pack, covering for openings in their defenses and holding off foes.*
 The Lunar can use this Charm after a withering damage roll against an ally within close range, redirecting up to (higher of [[Essence]] or 3) points of damage from him to her.
 If the Lunar’s protecting him with a defend other action, the attacker doesn’t gain [[Initiative]] from the withering damage transferred to her. If she uses magic that extends the action’s range, it applies to this Charm as well.
 

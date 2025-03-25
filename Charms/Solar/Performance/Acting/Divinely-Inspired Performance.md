@@ -12,7 +12,8 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[Drama-Fueling Ardor]]"
 ---
-By attuning herself to the [[Essence]] flowing between stage, actors, and audience, the Solar can inhabit a role completely. Upon activating this Charm, the Solar knows every line of a play she is acting in, without having read the script. She can divine the correct line and which character must speak it, just from listening to the dialogue. She also understands the exact emotion that needs to be evoked from any one response.
+*By attuning herself to the [[Essence]] flowing between stage, actors, and audience, the Solar can inhabit a role completely.*
+Upon activating this Charm, the Solar knows every line of a play she is acting in, without having read the script. She can divine the correct line and which character must speak it, just from listening to the dialogue. She also understands the exact emotion that needs to be evoked from any one response.
 
 ### On [[Divinely-Inspired Performance]]
 

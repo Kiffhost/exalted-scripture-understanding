@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Raptor Takes Flight]]"
 ---
-Wearer and wings move in harmony. This Evocation permanently upgrades its prerequisite, removing the −3 precision penalty from the [[Wings]] merit. 
+*Wearer and wings move in harmony.*
+This Evocation permanently upgrades its prerequisite, removing the −3 precision penalty from the [[Wings]] merit. 
 
 ## Special activation rules
 

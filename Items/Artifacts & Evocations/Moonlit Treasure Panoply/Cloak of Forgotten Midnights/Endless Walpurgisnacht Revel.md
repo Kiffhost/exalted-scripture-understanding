@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Queen of Darkness]]"
   - "[[Veiled in Midnight]]"
 ---
-Echoing Luna’s legend, the cloak’s master brings night to the world.
+*Echoing Luna’s legend, the cloak’s master brings night to the world.*
 The Lunar may pay a ten-mote surcharge when she uses [[Veiled in Midnight]] to bring an end to day:
  - The darkness extends out to long range.
  - The Evocation’s duration becomes one hour.

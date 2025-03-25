@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Harbinger of Slaughter]]"
   - "[[Sheathed in Moonsilver]]"
 ---
-Ajelin’s moonsilver seeps through skin and burrows into muscle, rooting itself in its wielder’s flesh as she becomes the perfect sword.
+*Ajelin’s moonsilver seeps through skin and burrows into muscle, rooting itself in its wielder’s flesh as she becomes the perfect sword.*
 ## Resonant
 Only characters resonant with Ajelin can awaken this Evocation.
 The wielder may pay a surcharge of five motes and one aggravated health level when she uses [[Accursed Blade Embodiment]] to gain the following benefits:
