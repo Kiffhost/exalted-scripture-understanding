@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Snarling Outburst Rebuke]]"
 ---
-!!Imbuinghervoicewithdivineappeal,theLunarswaysthose!! !!ofweakerpassions.Shemakesapersuade,bargain,orthreatenrollthatupholdsoneofherownIntimacies.Resistingthis!! influence costs an additional point of [[Willpower]], unless one invokes an [[Intimacy]] in the [[Decision Points|Decision Point]] whose intensity equals or exceeds that of the Lunar’s [[Intimacy]].
+*Imbuing her voice with divine appeal, the Lunar sways those of weaker passions.* 
+She makes a persuade, bargain, or threaten roll that up holds one of her own Intimacies. Resisting this influence costs an additional point of [[Willpower]], unless one invokes an [[Intimacy]] in the [[Decision Points|Decision Point]] whose intensity equals or exceeds that of the Lunar’s [[Intimacy]].

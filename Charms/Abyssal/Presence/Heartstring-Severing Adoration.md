@@ -19,6 +19,6 @@ The Abyssal makes an instill roll against a single target to create or strengthe
  - Against influence that leverages the instilled [[Intimacy]], he must weaken another of his positive Ties to resist with [[Willpower]], if he has any. Ties based on romantic or sexual desire must be weakened first.
  - If he voluntarily weakens a positive Tie, it can’t be strengthened by any means unless he pays two [[Willpower]] per level of intensity.
  - Once per day, when he voluntarily weakens another positive Tie in the Abyssal’s presence, she gains one [[Willpower]].
-With an [[Essence]] 5 repurchase, the Abyssal may target multiple characters with this roll, paying a threemote surcharge for each additional target.
+With an [[Essence]] 5 repurchase, the Abyssal may target multiple characters with this roll, paying a three-mote surcharge for each additional target.
 ## Reset 
 This Charm can only be used against a character once per story.

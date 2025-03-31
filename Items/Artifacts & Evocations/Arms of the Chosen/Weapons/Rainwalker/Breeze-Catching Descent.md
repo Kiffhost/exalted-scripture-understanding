@@ -17,7 +17,7 @@ This Evocation reduces falling damage from any descent (Exalted, p. 232). Treat 
 
 ## Special activation rules
 
-As long as the wielder isn’t !!dissonantwithRainwalker,thisEvocationawakensatnocost!! upon attuning to it. 
+As long as the wielder isn’t dissonant with Rainwalker, this Evocation awakens at no cost upon attuning to it. 
 
 ## Resonant
 

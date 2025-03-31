@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Terrifying Ogre Alteration]]"
 ---
 *Embodying the apex of feral divinity, the Lunar culls the herds of the enemies of the gods.*
-While using [[Deadly Beastman Transformation]], any [[Initiative]] Breaks she receives are increased by (1 + crashed enemy’s wound penalty).
+While using [[Deadly Beastman Transformation]], any [[Initiative#Break|Initiative Breaks]] she receives are increased by (1 + crashed enemy’s wound penalty).

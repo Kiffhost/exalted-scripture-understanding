@@ -47,7 +47,7 @@ aliases:
 
 # Experience Points
 
-Each character gains 5 experience points at the end of every session. These points may be spent immediately, or saved to be spent later.
+Each character gains **5** experience points at the end of every session. These points may be spent immediately, or saved to be spent later.
 ## Exalted Experience
 #custom/note This section has been generalised, each book lists each type of Exalted Experience separately.
 

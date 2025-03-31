@@ -11,9 +11,10 @@ Keywords:
 Duration: Until next turn
 Prerequisite Charms:
   - "[[Charms/Lunar/Dexterity/Mobility/Graceful Crane Stance]]"
+  - "[[Instinct-Driven Beast Movement]]"
 ---
-*Instinct-Driven Beast [[Movement]] The Lunar finds purchase on smooth stone and craggy overhangs, reshaping her body to maintain her grip.*
+*The Lunar finds purchase on smooth stone and craggy overhangs, reshaping her body to maintain her grip.*
 She can move up or down sheer vertical surfaces like walls or move upside down on horizontal surfaces like ceilings. If she ends her movement somewhere she couldn’t normally stand and doesn’t use this Charm on her next turn, she falls as usual. 
 ## Totemic 
 
-A Lunar whose spirit shape can adhere to and !!climbsheersurfacesmaylearnthisasaWitsCharm,with!! [[Moon-Cloaked Wanderer]] (p. XX) as its prerequisite.
+A Lunar whose spirit shape can adhere to and climb sheer surfaces may learn this as a Wits Charm, with [[Moon-Cloaked Wanderer]] (p. XX) as its prerequisite.

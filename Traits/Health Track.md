@@ -37,9 +37,13 @@ Quickly regaining lost health is difficult, requiring rare and powerful magic. T
 - Recovering a -1 health level takes 12 hours if bashing, or two days if lethal. 
 - Recovering a -2 health level takes one day if bashing, or three days if lethal. 
 - Recovering a -4 health level takes two days if bashing, or five days if lethal. 
-- Recovery from Incapacitation is up to the Storyteller— in the case of being knocked out by bashing damage, it usually happens at the end of the scene, but might happen in the same scene shortly after the end of combat (if the Storyteller wants to get the player back into the action), or could potentially occur hours later. Incapacitation by lethal damage is usually fatal, though the Storyteller can allow the character to linger at death’s doorstep for a few rounds, giving other characters a chance to stabilize him with emergency medical treatment. In this case, it might take hours, days, or even weeks before the character regains consciousness and heals his Incapacitated health level.
+## Recovery from Incapacitation 
+Recovery from Incapacitation is up to the Storyteller— in the case of being knocked out by bashing damage, it usually happens at the end of the scene, but might happen in the same scene shortly after the end of combat (if the Storyteller wants to get the player back into the action), or could potentially occur hours later. Incapacitation by lethal damage is usually fatal, though the Storyteller can allow the character to linger at death’s doorstep for a few rounds, giving other characters a chance to stabilize him with emergency medical treatment. In this case, it might take hours, days, or even weeks before the character regains consciousness and heals his Incapacitated health level.
 These times assume characters are primarily resting and avoiding strenuous exertion. If the character remains fully active while injured, double any healing times.
 
+# Incapacitated
+#custom/summary 
+A character is considered *incapacitated* if the final box on their [[health track]] is filled with [[#bashing]], [[#lethal]] or [[#aggravated]] damage. Incapacitated characters may recover as described in [[#Recovery from Incapacitation]]. 
 # wound penalties
 As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as [[Defense]] and [[Resolve]].
 

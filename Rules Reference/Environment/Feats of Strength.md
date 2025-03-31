@@ -20,7 +20,7 @@ For example, a Solar hero might attempt to hold up a collapsing building while h
 # Chart
 
 | Successes        | Example Feat                                                                                                                                                              |
-| ---------------- | !!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------!! |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Strength 3+**  |                                                                                                                                                                           |
 | 1                | Lift a full-grown man or an anvil. Break a pine board with a kick.                                                                                                        |
 | 2                | Tote a bale of cotton on one shoulder. Kick an oak door open.                                                                                                             |
@@ -37,7 +37,7 @@ For example, a Solar hero might attempt to hold up a collapsing building while h
 | 11               | Raise a locked portcullis by hand. Punch through the wooden gate of a fortress.                                                                                           |
 | 12               | Pull a fully laden wagon from a sand trap. Rip iron bars out of their stone settings with one hand. Rip loose the stone supports of a city gate.                          |
 | 13               | Lift a boulder with one hand. Tear down the pillars holding up a mighty temple.                                                                                           |
-| 14               | Lift a tyrant lizard. Carry an enormous statue on one shoulder. Tip over a [[Guild]] wagon. Push open a locked and reinforced fortress gate.                                  |
+| 14               | Lift a tyrant lizard. Carry an enormous statue on one shoulder. Tip over a [[Guild]] wagon. Push open a locked and reinforced fortress gate.                              |
 | **Strength 10+** |                                                                                                                                                                           |
 | 15               | Uproot a mighty tree. Slowly bash through the stone wall of a fortress.                                                                                                   |
 | 16               | Lift a mammoth. Hurl an elephant. Tear apart the welded steel bars of a portcullis.                                                                                       |

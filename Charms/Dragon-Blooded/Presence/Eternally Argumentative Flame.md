@@ -14,4 +14,5 @@ Prerequisite Charms:
   - None
 ---
 *A Dragon-Blood’s tongue is but one of her many weapons.*
-!!WhensheflurriesaPresence-orSocialize-basedinfluence!! roll, the flurry penalty on both actions is reduced by one point, and she doesn’t suffer a [[Defense]] penalty. In Fire Aura, this Charm removes the flurry penalty entirely.
+When she flurries a [[Presence]]- or [[Socialize]]-based influence roll, the [[flurry]] penalty on both actions is reduced by one point, and she doesn’t suffer a [[Defense]] penalty. 
+In Fire Aura, this Charm removes the flurry penalty entirely.

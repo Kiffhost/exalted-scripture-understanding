@@ -18,8 +18,7 @@ The [[Essence]] of Mars pierces the target’s fears and composure, removing men
 
 ## Special activation rules
 
-As long as the wielder isn’t !!dissonantwithstarmetal,thisEvocationawakensatnocostwhen!! she witnesses a character use strength or martial prowess in !!awaythatoffendsoneofherMajororDefiningPrinciples.!! 
-
+As long as the wielder isn’t dissonant with star metal, this Evocation awakens at no cost when she witnesses a character use strength or martial prowess in a way that offends one of her Major or Defining Principles.
 ## Resonant
 
 If an enemy provoked by this Evocation initiates hostilities and the wielder designates him as her chosen opponent, she may reflexively clash the first attack he makes against her with a decisive attack. This doesn’t count as her combat action for the round.

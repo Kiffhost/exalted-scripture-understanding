@@ -12,5 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-*!!TheExalt’sjadedinsightsgiveheratalentforseeingthrough!! the gambits of her opponents.*
-This Charm supplements a read intentions action against an opponent in a game of !!chanceorstrategy,loweringthetarget’sGuilebytwo.Ifsuccessful,!! it tells the Lawgiver how her opponent feels about his current chances. For example, a target who is acting morose but feels exultant is almost certainly bluffing.
+*The Exalt’s jaded insights give her a talent for seeing through the gambits of her opponents.*
+This Charm supplements a read intentions action against an opponent in a game of chance or strategy, lowering the target’s Guile by two. If successful, it tells the Lawgiver how her opponent feels about his current chances. For example, a target who is acting morose but feels exultant is almost certainly bluffing.

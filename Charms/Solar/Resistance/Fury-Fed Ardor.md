@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Willpower-Enhancing Spirit]]"
 ---
 *When struck, the Solar can absorb the force from a decisive attack, increasing her combat momentum with empowering wrath.*
-This Charm may be activated before a !!damageroll,convertinghalfitsnon-successesbeforererolls!! (rounded up) to [[Initiative]] and awarding it to the Solar.
+This Charm may be activated before a damage roll, converting half its non-successes before rerolls (rounded up) to [[Initiative]] and awarding it to the Solar.

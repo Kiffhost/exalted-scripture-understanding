@@ -17,4 +17,4 @@ Prerequisite Charms:
 She adds a grapple’s attack roll extra successes as dice on the [[Initiative]] roll. Against lower-[[Initiative]] enemies (determined before paying the gambit’s cost), she also adds these dice to the control roll. 
 ## Protean 
 
-In shapes with Legendary [[Size]] or grapple-related abilities, the Lunar adds ([[Essence]] + [[Strength]]) to her !!Initiativetodetermineifshereceivesthecontrolrollbonus.!!
+In shapes with Legendary Size or grapple-related abilities, the Lunar adds ([[Essence]] + [[Strength]]) to her Initiative to determine if she receives the control roll bonus.

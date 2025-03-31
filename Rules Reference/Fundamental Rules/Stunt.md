@@ -5,9 +5,9 @@ tags:
 # TLDR
 A stunt is a narration of an in-game action. Stunting (narrating/roleplaying) grants a mechanical bonus to its action (or static value, like [[Defense|Parry]] or [[Guile]]). The better the narration/roleplaying, the bigger the bonus.
 
-| [[Stunt]] Level       | Significance and Frequency                                            | Mechanical Benefit                                                                                                       |
-| ----------------- | !!---------------------------------------------------------------------!! | !!------------------------------------------------------------------------------------------------------------------------!! |
-| One-point [[Stunt]]   | Provides some narrative to an action, should be possible every action | +2 dice pool OR +1 static value                                                                                          |
+| [[Stunt]] Level       | Significance and Frequency                                            | Mechanical Benefit                                                                                                           |
+| --------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| One-point [[Stunt]]   | Provides some narrative to an action, should be possible every action | +2 dice pool OR +1 static value                                                                                              |
 | Two-point [[Stunt]]   | A memorable highlight of the scene                                    | +2 dice pool and +1 automatic success OR +2 static value AND Gain a point of temporary [[Willpower]] (but not above maximum) |
 | Three-point [[Stunt]] | Highlight of a session, rare and memorable                            | +2 dice pool and +2 automatic successes OR +3 static value AND +2 temporary [[Willpower]] (which can go over maximum)        |
 

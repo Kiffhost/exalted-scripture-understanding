@@ -16,11 +16,11 @@ Created superior slots vanish when the superior project they’re sustaining end
 Creating artifacts is an intensely demanding art, part craftsmanship, part spiritual communion. The character not only labors through the work-intensive task of shaping and tempering the magical materials, she also coaxes the artifact’s spirit into being and forges its [[Essence]] to suit her vision. As such, artifacts require a minimum time spent laboring over their construction before a character can attempt to finish them. 
 
 | [[Artifact]] Dots | Minimum time | Goal number | [[Crafting Projects#Crafting Experience\|wxp]] |
-| ------------- | ------------ | ----------- | !!----------------------------------------------!! |
-| 2             | 6 weeks      | 30          | 3                                              |
-| 3             | 3 months     | 50          | 5                                              |
-| 4             | 1 year       | 75          | 7                                              |
-| 5             | 2 years      | 100         | 9                                              |
+| ----------------- | ------------ | ----------- | ---------------------------------------------- |
+| 2                 | 6 weeks      | 30          | 3                                              |
+| 3                 | 3 months     | 50          | 5                                              |
+| 4                 | 1 year       | 75          | 7                                              |
+| 5                 | 2 years      | 100         | 9                                              |
 
 ^effebd
 

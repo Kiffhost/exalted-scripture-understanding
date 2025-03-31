@@ -23,4 +23,4 @@ To use this Charm, [[Hybrid Body Transformation]] (p. XX) must be active. The Lu
 
 ## Special activation rules
 
-WhentheLunarusesHybridBody !!Transformation,shemayreflexivelyactivatethisCharm.!!
+When the Lunar uses [[Hybrid Body Transformation]], she may reflexively activate this Charm.

@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ Chiming Castigation]]"
 ---
 *Stroking metal against metal, the Exalt imparts one of the Bell’s harmonics to her blade.*
-While wielding [[Irenio’s Bell]] !!togetherwithanotherweapon,shemayusethisEvocation!! to enhance an attack made with that other weapon, ignoring two points of soak and [[Hardness]].
+While wielding [[Irenio’s Bell]] together with another weapon, she may use this Evocation to enhance an attack made with that other weapon, ignoring two points of soak and [[Hardness]].

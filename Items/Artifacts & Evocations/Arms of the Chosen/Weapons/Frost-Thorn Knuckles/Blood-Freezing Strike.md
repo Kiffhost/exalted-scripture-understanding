@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[ Glacial Beast Claw]]"
 ---
 *Striking with icy fury, the [[Frost-Thorn Knuckles]] freeze their victim’s blood into crimson razors slashing him from within.*
-[[Blood-Freezing Strike]] is a decisive attack that can only be made against a prone enemy, adding ([[Strength]]) damage dice. Additionally, the victim loses 1 [[Initiative]] for each 10 on the decisive damage roll. The wielder doesn’t gain this [[Initiative]]. An enemy crashed by this [[Initiative]] !!lossisfrozeninplace,unabletotakeanymovementactions!! except to rise from prone until he recovers from crash. 
+[[Blood-Freezing Strike]] is a decisive attack that can only be made against a prone enemy, adding ([[Strength]]) damage dice. Additionally, the victim loses 1 [[Initiative]] for each 10 on the decisive damage roll. The wielder doesn’t gain this [[Initiative]]. An enemy crashed by this [[Initiative]] loss is frozen in place, unable to take any movement actions except to rise from prone until he recovers from crash. 
 
 ## Special activation rules
 

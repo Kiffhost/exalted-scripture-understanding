@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[ Evolving Quicksilver Body]]"
 ---
 *The Exalt’s passions become the armor’s passions.*
-[[Unison]] suffuses her strikes with more force and speed when it senses that they hold great import. To use this Evocation, !!thewearermustbeinQuicksilverHostMienorFinalUnity!! Mien. She chooses an [[Intimacy]] that represents her reason for fighting, and adds ([[Intimacy]]) to the Overwhelming rating of all her withering attacks for the rest of the scene. 
+[[Unison]] suffuses her strikes with more force and speed when it senses that they hold great import. To use this Evocation, the wearer must be in [[Unison#Quicksilver Host Mien|Quicksilver Host Mien]] or [[Unison#Final Unity Mien|Final Unity Mien]]. She chooses an [[Intimacy]] that represents her reason for fighting, and adds ([[Intimacy]]) to the Overwhelming rating of all her withering attacks for the rest of the scene. 
 
 ## Special activation rules
 

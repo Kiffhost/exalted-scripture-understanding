@@ -40,7 +40,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [x] Abyssal Stuff
 		- [ ] Exigent Charm Creation
 	- [ ] [[Mortal]] Exaltation
-- { ] Test suitability of Foundry [Exalted 3rd by !!Aliharu}(https://github.com/Aliharu/Foundry-Ex3)!! importer.
+- [ ] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
 	- [ ] *Direct script to import rather than JSON*
 	- [ ] Make txt importers for each full charmset
 
@@ -85,8 +85,8 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [ ] Script which converts charms-as-notes to charms-as-json in compendium
 	- [ ] Script which adds (or accelerates adding) a charm's rules into a json
 - [ ] Make a foundry module to access compendia
-	- { ] Compatible with [Exalted 3rd by !!Aliharu}(https://github.com/Aliharu/Foundry-Ex3)!!
-- { ] [More Solar Occult Sorcery !!Charms?}(https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)!!
+	- [ ] Compatible with [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3)
+- [ ] [More Solar Occult Sorcery Charms?](https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)
 # Completed
 
 - [x] Import Charms

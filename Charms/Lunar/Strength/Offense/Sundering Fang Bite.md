@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Unstoppable Beast-Force Blow]]"
 ---
 *The Lunar wrings steel with her bare hands, stripping enemies of that which they imagine makes them mighty.*
-After a decisive attack roll beats an enemy’s [[Defense|Parry]] or wins a clash, she can activate this Charm to shatter the weapon he tried to block or clash with if it’s mundane. [[Artifact]] weapons are automatically disarmed instead. !!ThisCharm’sInitiativecostispaidbeforerollingdamage.!!
+After a decisive attack roll beats an enemy’s [[Defense|Parry]] or wins a clash, she can activate this Charm to shatter the weapon he tried to block or clash with if it’s mundane. [[Artifact]] weapons are automatically disarmed instead. This Charm’s Initiative cost is paid before rolling damage.

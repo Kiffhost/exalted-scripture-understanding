@@ -15,7 +15,7 @@ Prerequisite Charms:
 ---
 *Wisps of the Lunar’s anima shine through as her skin sloughs away, revealing the perfected body of the invincible shapeshifter beneath.*
 She gains the following benefits: 
-- +(Essence/2, rounded up) natural soak and !![[Hardness]],stackingwithotherHardnesssources.!! 
+- +(Essence/2, rounded up) natural soak and [[Hardness]], stacking with other Hardness sources. 
 - When she uses the [[Stamina]] Excellency to raise her soak, it costs only one mote per +2 soak, and the maximum amount she can add with it increases by 1. 
 - She reduces the costs of [[Enduring Mammoth Bastion]], [[Impenetrable Beast-Armor]], [[Stone Rhino’s Skin]], and [[Unflagging Predator Vitality]] by one mote. 
 This Charm is incompatible with armor.

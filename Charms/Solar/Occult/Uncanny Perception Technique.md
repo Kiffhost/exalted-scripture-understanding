@@ -12,5 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Spirit-Detecting Glance]]"
 ---
-*!!TheSolar’ssensesarepreternaturallyattunedtothemovements!! of spirits and other uncanny beings.*
-Whenever a spirit or Fair Folk is within the range of the Exalt’s senses, she experiences a strange sensory phenomena; she might hear bells tinkling, smell a particularly strong or !!unusualscent,ortastesomethingresonant.TheSolargains!! !!halfherOccult(roundedup)insuccessestoanAwarenessbasedattempt!! to notice suchabeing.The warning signaled by this Charm occurs even when a spirit is immaterial, allowing the Solar to use [[Spirit-Detecting Glance]].
+*The Solar’s senses are preternaturally attuned to the movements of spirits and other uncanny beings.*
+Whenever a spirit or Fair Folk is within the range of the Exalt’s senses, she experiences a strange sensory phenomena; she might hear bells tinkling, smell a particularly strong or unusual scent, or taste something resonant. The Solar gains half her Occult (rounded up) in successes to an Awareness-based attempt to notice such a being. The warning signaled by this Charm occurs even when a spirit is immaterial, allowing the Solar to use [[Spirit-Detecting Glance]].

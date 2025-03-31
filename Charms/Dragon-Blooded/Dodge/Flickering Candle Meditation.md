@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood dances like a flame around the flaws in !!herenemy’sattack.([[Essence]])1sonherenemy’sattackrollallow!! her to ignore that many points of penalty to her [[Defense|Evasion]].
+*The Dragon-Blood dances like a flame around the flaws in her enemy’s attack.* 
+([[Essence]]) 1s on her enemy’s attack roll allow her to ignore that many points of penalty to her [[Defense|Evasion]].

@@ -17,4 +17,4 @@ The wielder may use this Evocation on her turn to reflexively roll to introduce 
 
 ## Special activation rules
 
-As long as the wielder isn’t !!dissonantwithorichalcum,thisEvocationawakensatnocost!! when she succeeds with 5+ successes on a roll to introduce or challenge a fact.
+As long as the wielder isn’t dissonant with orichalcum, this Evocation awakens at no cost when she succeeds with 5+ successes on a roll to introduce or challenge a fact.

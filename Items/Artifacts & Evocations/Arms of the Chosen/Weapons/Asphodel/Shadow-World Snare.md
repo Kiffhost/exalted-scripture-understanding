@@ -12,8 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Shade-Revealing Radiance]]"
 ---
-*This Evocation is a gambit against an undead whose [[Essence]] rating doesn’t exceed (the wielder’s [[Essence]] + 2), banishing it into the shadow-world hidden within [[Asphodel]] to be dealt with by the prince in the jewel as he sees fit.*
-The gambit’s difficulty is (the higher of the target’s !!EssenceorResolve).Banishingatrulypuissantbeing,such!! as a nephwrack, could conceivably result in it overthrowing Shou Ren and claiming the hidden world for itself. Undead Exalted and [[Deathlords]] are immune to this Evocation, as are any undead the Storyteller deems uniquely powerful. 
+This Evocation is a gambit against an undead whose [[Essence]] rating doesn’t exceed (the wielder’s [[Essence]] + 2), banishing it into the shadow-world hidden within [[Asphodel]] to be dealt with by the prince in the jewel as he sees fit. The gambit’s difficulty is (the higher of the target’s Essence or Resolve). Banishing a truly puissant being, such as a nephwrack, could conceivably result in it overthrowing Shou Ren and claiming the hidden world for itself. Undead Exalted and [[Deathlords]] are immune to this Evocation, as are any undead the Storyteller deems uniquely powerful. 
 
 ## Dissonant
 

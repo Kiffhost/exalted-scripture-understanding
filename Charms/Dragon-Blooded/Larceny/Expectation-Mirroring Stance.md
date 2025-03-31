@@ -12,5 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Face-Stealing Reflection]]"
 ---
-*Instant [[Disguise]] Prana !!Thosewhogazetoolongintotheirownreflectioninthe!! water risk drowning in themselves.*
+*Instant [[Disguise]] Prana Those who gaze too long into their own reflection in the water risk drowning in themselves.*
 Upon successfully using [[Face-Stealing Reflection]], the Dragon-Blood may use this Charm to instantly and reflexively roll to disguise herself as the revealed character. Every threshold success on her read intentions roll grants her one mote to spend enhancing her disguise.

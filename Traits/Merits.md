@@ -3,6 +3,7 @@ aliases:
   - Merit
 tags:
   - source/solar-book
+  - source/lunar-book
 ---
 Merits are special features that add distinction to characters. Some [[Merits]] are physical advantages (such as [[Strong Lungs]]), while others represent specific learned aptitudes—additional languages the character knows how to read and speak are a common example. Still other [[Merits]] may represent social advantages, such as great wealth.
 
@@ -37,6 +38,9 @@ These [[Merits]] bestow supernatural capabilities, and may generally only be obt
 These [[Merits]] are primarily presented to represent the warping power of the Wyld, and to aid Storytellers in putting together beastfolk, Wyld mutants, or similar characters. It’s very uncommon for individuals with such [[Merits]] to experience Solar Exaltation, but not unheard of. Characters can only begin play with supernatural [[Merits]] with explicit permission from the Storyteller.
 ## Sorcerous
 These merits are each associated with a particular [[Shape Sorcery#Archetypes|archetypes]]. Only sorcerers belonging to that archetype may gain these merits. They are always [[#Purchased]] merits.
+
+## Mutations
+Mutations are [[#Innate]] or [[#Purchased]] [[Merits]] (Exalted, p. 158), mundane or [[#supernatural]], that alter or improve a character’s physical body, such as [[Ambidextrous]], [[Giant]], or [[Wings]].
 # List
 Lists of non-sorcerous merits
 ## Solar Appropriate
@@ -78,3 +82,4 @@ TABLE WITHOUT ID
 FROM "Merits" and #merit and #Dragon-Blooded  
 SORT contains(file.etags, "Supernatural"), string(filter(file.tags, (t) => contains(t, "merit/")))
 ```
+

@@ -10,9 +10,9 @@ In a world of capricious gods, restless dead, and nameless horrors baying at the
 
 However, this does not mean they have nothing to fear. In Exalted, a disease is treated as a debilitating status effect that progresses in severity over time. Each disease has three main statistics: [[#Virulence]], [[#Morbidity]], and [[#Interval]].
 ### Virulence
-The difficulty which characters must overcome to avoid contracting the disease. 
+The difficulty which characters must overcome to avoid contracting the disease. Roll ([[Stamina]] + [[Resistance]]) against Virulence.
 ### Morbidity
-The difficulty which characters must overcome to keep their symptoms from worsening. 
+The difficulty which characters must overcome to keep their symptoms from worsening. Roll ([[Stamina]] + [[Resistance]]) against Morbidity.
 ### Interval
 The duration of time after which a character must roll when to see if the disease’s effects intensify. 
 ## Progression
