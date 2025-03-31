@@ -16,5 +16,7 @@ Accuracy:
   - Medium +2
   - Long -1
   - Extreme* -3
+aliases:
+  - darts
 ---
-Essentially a shorter, lighter javelin, typically around one foot long.
+Essentially a shorter, lighter [[javelin]], typically around one foot long.

@@ -11,5 +11,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-*These staves are often taller than their wielder and are forged or created from exquisitely carved blocks of magical material alloys.*
+*These [[Staff|staves]] are often taller than their wielder and are forged or created from exquisitely carved blocks of magical material alloys.*
 Most are both works of art and comfortable walking sticks in addition to being deadly weapons.

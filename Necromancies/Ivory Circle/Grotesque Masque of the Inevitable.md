@@ -13,6 +13,6 @@ The victim must roll ([[Wits]] + [[Integrity]]) against (necromancer’s [[Manip
 Against mortals, this spell’s duration is indefinite, though the necromancer may proclaim a circumstance under which it breaks: when her victim slays one of her foes, swears his fealty to her, stands atop Mount Namas, and so on.
 On ghosts, this spell can instead be used to change their natural forms, shaping their corpus to change the apparent nature of their death and associated cosmetic supernatural features.
 ## Control
-The necromancer may spend three motes or one [[Willpower]] to change her apparent age, inflict herself with cosmetic wounds and afflictions, or appear either dead or alive. This grants her (higher of [[Essence]] or 3) non-Charm dice to appropriate [[disguise]] rolls. This transformation lasts until she chooses to end it.
+The necromancer may spend three motes or one [[Willpower]] to change her apparent age, inflict herself with cosmetic wounds and afflictions, or appear either dead or alive. This grants her (higher of [[Essence]] or 3) non-Charm dice to appropriate [[Disguise]] rolls. This transformation lasts until she chooses to end it.
 ## Distortion (9)
 The illusion is lessened for the scene, removing the [[Hideous]] merit and allowing the character to see their reflection without incident. Characters still perceive them as undead.

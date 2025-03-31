@@ -10,5 +10,6 @@ WeaponTags:
 Cost: " 2"
 aliases:
   - War Fan
+  - war fans
 ---
 This weapon can be as simple as an undecorated steel ring, but it typically has handles built into it and sharpened protrusions jutting from the top, bottom and front. These weapons are often wielded paired; they deliver crushing or slashing blows and can block or catch enemy weapons.

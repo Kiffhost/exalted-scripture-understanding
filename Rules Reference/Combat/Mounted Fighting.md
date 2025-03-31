@@ -24,7 +24,7 @@ Some rare mounts render these rules unsuitable. Flying mounts, such as the giant
 # Attacking Mounts
 Mounts generally don’t have their own [[Initiative]] track, though the Storyteller may waive this if it seems appropriate (such as a Fair Folk noble entering battle on the back of a behemoth more dangerous than its rider). Unless a mount has its own [[Initiative]] track, all [[Attack#withering|withering]] attacks against it are considered to target its rider. [[Attack#decisive|Decisive]] attacks can be used to target mounts with the intent of killing them out from under their riders; in many circumstances, however, the [[Attack#Gambit#Unhorse|unhorse gambit]] is a more effective option.
 # Equipping and Fighting with Mounts
-Characters may obtain specialized defensive equipment designed for mounts, called barding. They may also wish to equip their mount with weaponry such as fortified crowns, horns, or fixed lances.
+Characters may obtain specialized defensive equipment designed for mounts, called barding. They may also wish to equip their mount with weaponry such as fortified crowns, horns, or fixed [[Lance|lances]].
 
 In general, barding for mounts works exactly the same as armor for any other character—light, medium, and heavy barding is available, with the same traits as armor for humans. Barding’s [[Mobility Penalty]] is applied to the mount’s [[#Speed Bonus]], and in certain cases might even turn it into a speed penalty (such as with heavy barding on a mammoth). In the likely event that a barded mount isn’t tracking [[Initiative]], it’s suggested that barding subtract [[Attack#raw damage|raw damage]] from incoming [[Attack#decisive|decisive]] attacks against the mount (-2 for light, -4 for medium, -6 for heavy).
 
@@ -32,5 +32,5 @@ Weapons, by contrast, give access to special advantages. Horns or spikes grant t
 
 Commanding the mount to attack or use an attack technique uses up its rider’s [[Combat Action]]. This is considered an [[Attack]] action, and can be placed in a [[Flurry]].
 ## Impale attack
-To impale an enemy, the character must make a withering or decisive attack with a fixed lance after moving two consecutive range bands toward her target; this adds +5 to the attack’s raw damage if withering, or +3 if decisive.
+To impale an enemy, the character must make a withering or decisive attack with a fixed [[lance]] after moving two consecutive range bands toward her target; this adds +5 to the attack’s raw damage if withering, or +3 if decisive.
 

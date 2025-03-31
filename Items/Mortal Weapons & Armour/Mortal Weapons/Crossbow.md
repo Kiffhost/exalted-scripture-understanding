@@ -17,5 +17,7 @@ Accuracy:
   - Medium +2
   - Long +0
   - Extreme* -2
+aliases:
+  - crossbows
 ---
 Crossbows are large, mechanically-powered weapons that require both hands to load and fire. 

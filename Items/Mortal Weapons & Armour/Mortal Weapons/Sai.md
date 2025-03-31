@@ -8,5 +8,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Disarming|Disarming]]"
 Cost: "2"
+aliases:
+  - sais
 ---
 Sai are three-pronged, fork-shaped weapons as long as large daggers. They are specially designed to twist weapons out of an opponent’s grasp by catching the blade between the prongs.

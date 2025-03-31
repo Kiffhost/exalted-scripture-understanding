@@ -18,5 +18,5 @@ An Abyssal without [[Hideous]] is suffused with deathly beauty: skin turns death
 An Abyssal with [[Hideous]] decays into a grotesque horror: her eyes sink deeper into her skull; skin wither, desiccates, or rots away entirely; blood or bile drips from her eyes, mouth, or skin; the scent of death clings to her; etc.
 The Abyssal’s altered appearance adds ([[Essence]]) non-Charm dice on certain [[Influence roll|influence rolls]]. If she doesn’t have [[Hideous]], she does so on [[persuade]] and [[bargain]] rolls to seduce others and [[instill]] rolls to create or strengthen Ties based on desire for the Abyssal. If she has [[Hideous]], she does so [[threaten]] rolls and [[instill]] rolls to create or strengthen [[Intimacy|Tie]]s of fear toward herself.
 Regardless of the nature of the Abyssal’s transformation, her distinctive appearance betrays her nature.
-She suffers a −([[Appearance]]) penalty on [[disguise]] rolls.
+She suffers a −([[Appearance]]) penalty on [[Disguise]] rolls.
 With [[Presence]] 3, the Abyssal adds (higher of [[Essence]] or 3) dice. With [[Essence]] 3, this increases to ([[Essence]] + 1).

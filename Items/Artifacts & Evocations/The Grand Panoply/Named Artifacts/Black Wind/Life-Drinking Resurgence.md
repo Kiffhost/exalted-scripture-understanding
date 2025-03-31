@@ -17,4 +17,4 @@ For such an individual, death becomes power. Once this Evocation has been awaken
 
 ## Special activation rules
 
-This Evocation cannot be purchased with experience. It awakens after the skycutter’s master uses it to kill a non-trivial opponent in direct support of a Major or Defining [[Intimacy|Principle]].
+This Evocation cannot be purchased with experience. It awakens after the [[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Skycutter|skycutter]]’s master uses it to kill a non-trivial opponent in direct support of a Major or Defining [[Intimacy|Principle]].

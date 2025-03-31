@@ -15,4 +15,4 @@ Era: Five-Dragon Crusade
 ## [[Evocations]] of [[Mela’s Coil]]
 
 Air [[Essence]] infuses [[Mela’s Coil]]. Heavy as it is, the armor doesn’t impair the wielder’s grace or agility; it imposes no mobility penalty, and the wearer remains buoyant in water as though unarmored. This airy [[Essence]] also extends outward into a thin layer of fresh, clean air. This renders the wearer immune to drowning and to airborne poisons, diseases, and [[environmental hazards]] based on corrosive agents like acid. 
-The wearer may reflexively extend dragon-like claws from the armor’s gauntlets. Treat these as razor claws (Light: +5 ACC, +10 DMG, +0 DEF, OVW 3; Tags: Lethal, [[Brawl]], Concealable, Worn).
+The wearer may reflexively extend dragon-like claws from the armor’s gauntlets. Treat these as [[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Razor Claws|razor claws]] (Light: +5 ACC, +10 DMG, +0 DEF, OVW 3; Tags: Lethal, [[Brawl]], Concealable, Worn).

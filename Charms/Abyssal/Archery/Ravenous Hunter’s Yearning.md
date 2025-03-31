@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Bloodthirsty Arrow]]"
 ---
 *The Abyssal dedicates herself to the hunt, making her more alert, deft, and aggressive.*
-The Abyssal chooses an individual to be her quarry. She adds one non-Charm die on rolls to [[Tracking|track]] him, [[rush]] him, or oppose his [[disguise]] or [[Stealth]] rolls for each of the following that’s true:
+The Abyssal chooses an individual to be her quarry. She adds one non-Charm die on rolls to [[Tracking|track]] him, [[rush]] him, or oppose his [[Disguise]] or [[Stealth]] rolls for each of the following that’s true:
  - She’s faced her quarry in combat in the current story.
  - Her quarry has a −1 or higher [[Health Track#wound penalties|wound penalty]].
  - She has a Major or Defining [[Intimacy|Tie]] that supports pursuing her quarry.

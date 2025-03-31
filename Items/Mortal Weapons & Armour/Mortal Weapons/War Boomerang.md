@@ -16,6 +16,8 @@ Accuracy:
   - Medium +2
   - Long -1
   - Extreme* -3
+aliases:
+  - boomerangs
 ---
 These weapons are curved, flat pieces of sharpened metal or specially hardened ironwood that spin through the air with deadly force. While not normally designed to return, highly skilled characters can perform this impressive feat.
 Players of characters who have three or more dots in

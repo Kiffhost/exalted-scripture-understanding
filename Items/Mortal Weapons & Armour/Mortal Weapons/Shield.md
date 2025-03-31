@@ -8,5 +8,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Shield|Shield]]"
 Cost: " 1"
+aliases:
+  - shields
 ---
 A relatively flat weapon of metal or wood that the wielder holds or straps to her arm and used to deflect attacks and bash foes. 

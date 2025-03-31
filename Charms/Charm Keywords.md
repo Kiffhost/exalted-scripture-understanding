@@ -83,7 +83,7 @@ A synonym of [[#Totemic]] used in the Many-Faced Strangers book.
 # Sidereal
 
 #### Divination
-Divination [[Charms]] are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal [[Charms]] that predict the future, like God-King’s Shrike, aren’t Divination [[Charms]]. 
+Divination [[Charms]] are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal [[Charms]] that predict the future, like [[God-King’s Shrike]], aren’t Divination [[Charms]]. 
 
 #### Shaping
 Shaping effects transforms characters’ bodies, minds, souls, or fates. They can be defended against with magic like [[Destiny-Manifesting Method]] (Exalted, p. 304). 

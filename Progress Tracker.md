@@ -5,17 +5,8 @@ tags: []
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
- - [ ] Abyssals
-	 - [x] Charms
-		 - [x] Martial arts
-	 - [x] Evocations
-	 - [x] Hearthstones
-	 - [x] Necromancy
-	 - [ ] Rules
-		 - [x] Character Creation
-		 - [x] Castes
-		 - [x] Limit
-- [ ] Split armor and weapon Type text into Traits list
+ 
+- [ ] Split armor and weapon Type text into Traits list?
 - [ ] Merits
 	- [ ] Animal/bestiary
 		- [ ] Solar
@@ -23,7 +14,6 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Strangers
 		- [ ] Exigents
 		- [ ] Other?
-- [ ] Sort out double spaces after bullet points
 - [ ] Rules
 	- [x] Charms
 	- [x] Sorcery
@@ -39,10 +29,8 @@ Very next steps, each completable within 1 day - 1 week
 		- [ ] Dragon-Blooded Stuff
 		- [x] Abyssal Stuff
 		- [ ] Exigent Charm Creation
-	- [ ] [[Mortal]] Exaltation
-- [ ] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
-	- [ ] *Direct script to import rather than JSON*
-	- [ ] Make txt importers for each full charmset
+	- [x] [[Mortal]] Exaltation
+
 
 
 # Medium Term
@@ -53,6 +41,7 @@ Overarching goals, completable within 1 month
 - [ ] Bestiary?
 	- [ ] Inhuman Charms
 - [x] In-text cross-links
+- [ ] Charm-set summaries/guides
 - [ ] Charm Trees
 	- [x] Solar
 	- [x] Dragon-Blooded
@@ -70,6 +59,7 @@ Overarching goals, completable within 1 month
 	- [ ] Sorcery
 	- [ ] Rules
 		- [ ] Modules?
+- [ ] [More Solar Occult Sorcery Charms?](https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)
 
 # Long Term
 
@@ -79,14 +69,15 @@ Possible large-scale project outcomes which will take more than 1 month.
 	- [ ] Quick start
 	- [ ] Locations/Geography
 	- [ ] Notable Characters
+		- [ ] Gods
 	- [ ] Factions
 	- [ ] Historical Events
-- [ ] Make a charms compendium in foundry
-	- [ ] Script which converts charms-as-notes to charms-as-json in compendium
-	- [ ] Script which adds (or accelerates adding) a charm's rules into a json
+- [ ] Make a charms available in foundry
+	- [x] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
+	- *Direct script to import rather than JSON*
+	- [ ] Make txt importers for each full charmset
 - [ ] Make a foundry module to access compendia
 	- [ ] Compatible with [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3)
-- [ ] [More Solar Occult Sorcery Charms?](https://forum.theonyxpath.com/forum/main-category/exalted/913443-occult-sorcery-charms-homebrew-peach)
 # Completed
 
 - [x] Import Charms
@@ -154,3 +145,13 @@ Possible large-scale project outcomes which will take more than 1 month.
 		- [x] Ships
 	- [x] sorceries
 	- [x] other
+- [x] Abyssals
+	 - [x] Charms
+		 - [x] Martial arts
+	 - [x] Evocations
+	 - [x] Hearthstones
+	 - [x] Necromancy
+	 - [x] Rules
+		 - [x] Character Creation
+		 - [x] Castes
+		 - [x] Limit

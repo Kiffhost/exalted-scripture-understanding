@@ -21,8 +21,8 @@ The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, dist
 **Health Levels**: −0x2/−1x3/−2x3/−4x4/Incap. 
 **Actions**: [[Command]] actions: 5 dice; [[Feats of Strength]]: 12 dice (may attempt [[Strength]] 7 feats); Senses: 7 dice; [[Stealth]]: 5 dice; Strategic maneuvers: 5 dice; [[Threaten]]: 10 dice; [[Appearance]] 2, [[Resolve]] 3, [[Guile]] 1 
 ###### COMBAT
-[[Attack]] (spear): 10 dice (Damage 13L)
-[[Attack]] (short sword): 12 dice (Damage 11L)
+[[Attack]] ([[spear]]): 10 dice (Damage 13L)
+[[Attack]] ([[short sword]]): 12 dice (Damage 11L)
 [[Attack]] (self bow): 9 dice at close range (Damage 11L)
 [[Attack]] (unarmed): 9 dice (Damage 11B)
 Combat [[Movement]]: 7 dice

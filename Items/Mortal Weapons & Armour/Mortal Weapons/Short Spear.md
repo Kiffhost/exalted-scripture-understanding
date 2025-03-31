@@ -9,5 +9,7 @@ WeaponTags:
   - "[[Item Tags#Thrown|Thrown (Short)]]"
   - "[[Item Tags#Piercing|Piercing]]"
 Cost: " 1"
+aliases:
+  - short spears
 ---
 A short-hafted weapon used primarily for stabbing, the short spear often has a long head so that it can be used for slashing and chopping in a pinch. Short spears are versatile weapons and much-favored by warrior cultures and elite troops. 

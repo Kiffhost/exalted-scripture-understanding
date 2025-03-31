@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "[\"mins\":Athletics] tag:#Solar tag:#charm [\"mins\":Essence 1] ",
   "showTags": false,
   "showAttachments": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.35595611150056006,
-  "close": true
+  "scale": 0.35236614274755357,
+  "close": false
 }

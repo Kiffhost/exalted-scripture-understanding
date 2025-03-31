@@ -13,4 +13,4 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-These seven-section staves are usually made completely of metal rods composed of an alloy of magical materials held together by short segments of chain.
+These [[Seven-Section Staff|seven-section staves]] are usually made completely of metal rods composed of an alloy of magical materials held together by short segments of chain.

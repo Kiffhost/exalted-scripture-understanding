@@ -12,5 +12,7 @@ WeaponTags:
 Cost: —
 aliases:
   - Baton
+  - batons
+  - clubs
 ---
 A club may be a simple billet of wood, or it may be wrapped in metal bands with a leather grip. Clubs are popular among barbaric tribes, peasants in revolt and relatively poor outlaws. A club may be balanced as a thrown weapon (using the [[Thrown]] Ability). Small improvised weapons like chair legs are treated as clubs, but gain the Improvised tag.

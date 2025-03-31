@@ -6,7 +6,7 @@ tags:
 ---
 **This Ability is important in combat.** 
 
-[[Martial Arts]] covers formal study of martial systems, such as the styles detailed in Chapter Seven. In addition to providing mastery of unarmed techniques, [[Martial Arts]] also facilitates the use of certain exotic weapons, such as the staff, the rope dart, sais, and hook swords. Like [[Brawl]], it can be used to calculate a character’s [[Defense|Parry]] [[Defense]]. 
+[[Martial Arts]] covers formal study of martial systems, such as the styles detailed in Chapter Seven. In addition to providing mastery of unarmed techniques, [[Martial Arts]] also facilitates the use of certain exotic weapons, such as the [[staff]], the [[rope dart]], [[Sai|sais]], and [[Hook Sword|hook swords]]. Like [[Brawl]], it can be used to calculate a character’s [[Defense|Parry]] [[Defense]]. 
 
 ### Special rules
 

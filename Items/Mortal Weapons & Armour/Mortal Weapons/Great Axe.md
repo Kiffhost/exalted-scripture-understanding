@@ -12,6 +12,8 @@ WeaponTags:
 Cost: " 1"
 aliases:
   - Scythe
+  - scythes
+  - great axes
 ---
 These fearsome long-hafted weapons are typically used for striking downward or for wide, sweeping blows. The great axe is a narrow-bladed axe designed for use in both hands, and it is a favorite weapon of the Realm’s heavy infantry, which uses them during sieges and assaults.
 Scythes are thick, curved blades attached to a long handle, used by farmers for cutting swathes of grain—and occasionally employed on the battlefield to do the same to troops. 

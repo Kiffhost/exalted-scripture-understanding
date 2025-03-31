@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Lunar’s rage cannot be constrained, erupting as a silver nimbus that forms deadly claws of [[Essence]].*
 In human shapes, her unarmed attacks or another natural weapon gain artifact weapon traits (Exalted, p. 594) and deal lethal damage; in animal shapes, she enhances a single natural attack with +1 [[Accuracy]], +3 damage, and Overwhelming ([[Strength]]) on withering attacks. She may pay three motes to add ([[Brawl]]) non-Charm dice on feats of demolition using the enhanced attack.
-Upon changing shapes, she chooses a new natural weapon to enhance. [[Unarmed]] attacks enhanced with this Charm generally aren’t compatible with [[Martial Arts]], although specific attacks may be compatible with individual styles at the Storyteller’s discretion—e.g., rending talons might be used with styles that use tiger claws.
+Upon changing shapes, she chooses a new natural weapon to enhance. [[Unarmed]] attacks enhanced with this Charm generally aren’t compatible with [[Martial Arts]], although specific attacks may be compatible with individual styles at the Storyteller’s discretion—e.g., rending talons might be used with styles that use [[tiger claws]].
 This Charm may be repurchased any number of times, each repurchase adding an Evocation to the Lunar’s claws. These Evocations draw their themes and function from the Lunar’s personality, spirit shape, and Caste. 
 
 ## Special activation rules

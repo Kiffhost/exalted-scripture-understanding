@@ -12,4 +12,6 @@ WeaponTags:
   - "[[Item Tags#Two-Handed|Two-Handed]]"
 Cost: 
 Special: Garrotes have the Improvised tag, except when used to grapple.
+aliases:
+  - garrotes
 ---

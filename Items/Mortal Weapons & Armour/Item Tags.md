@@ -8,7 +8,7 @@ The power and leverage provided by this weapon give it an Overwhelming one point
 ## Bashing
 This weapon normally does bashing damage when used to deliver a decisive attack. [[Brawl]]: Attacks with this weapon normally use [[Brawl]]. 
 ## Chopping
-This weapon is capable of making chopping attacks. A chopping attack costs one point of [[Defense]] until the attacker’s next turn, as well as one point of [[Initiative]], but raises a withering attack’s raw damage by 3, or allows a decisive attack to treat [[Hardness]] as two points lower than its true value. This tag is primarily found on weapons with heavy blades, such as axes and chopping swords. 
+This weapon is capable of making chopping attacks. A chopping attack costs one point of [[Defense]] until the attacker’s next turn, as well as one point of [[Initiative]], but raises a withering attack’s raw damage by 3, or allows a decisive attack to treat [[Hardness]] as two points lower than its true value. This tag is primarily found on weapons with heavy blades, such as axes and [[Chopping Sword|chopping swords]]. 
 ## Disarming
 This weapon reduces the difficulty and cost of disarm gambits by 1. 
 ## Flexible
@@ -20,7 +20,7 @@ This weapon can be used to make grappling gambits.
 ## Lethal
 This weapon normally does lethal damage when used to deliver a decisive attack. Lethal close combat weapons can deliver bashing damage with an appropriate stunt, by e.g. attacking with the pommel or with the flat of the blade. 
 ## [[Martial Arts]]
-Attacks with this weapon don’t use [[Melee]] or [[Brawl]]. Wielding it requires an applicable [[Martial Arts]] Ability. For example, the hook sword requires facility with a style like [[Martial Arts]] ([[Snake Style]]) or [[Martial Arts]] ([[Crane Style]]); [[Martial Arts]] ([[Tiger Style]]) wouldn’t do. 
+Attacks with this weapon don’t use [[Melee]] or [[Brawl]]. Wielding it requires an applicable [[Martial Arts]] Ability. For example, the [[hook sword]] requires facility with a style like [[Martial Arts]] ([[Snake Style]]) or [[Martial Arts]] ([[Crane Style]]); [[Martial Arts]] ([[Tiger Style]]) wouldn’t do. 
 ## [[Melee]] 
 Attacks with this weapon normally use [[Melee]]. 
 ## Natural
@@ -36,7 +36,7 @@ This weapon can make smash attacks. Smash attacks sacrifice one [[Defense]] unti
 ## [[Thrown]]
 This weapon can be used to make ranged attacks using the [[Thrown]] ability. All [[Thrown]] weapons also have their maximum range listed in parenthesis, such as [[Thrown]] (Medium). When throwing a weapon, the wielder doesn’t benefit from the weapon’s normal [[Accuracy]] bonus; see [[Thrown]] Weapons, below. 
 ## Two-Handed
-This weapon requires the user wield it with both hands, preventing them from holding a shield or another weapon at the same time. Two-handed weapons grant a +2 bonus to [[Clash]] attacks. 
+This weapon requires the user wield it with both hands, preventing them from holding a [[shield]] or another weapon at the same time. Two-handed weapons grant a +2 bonus to [[Clash]] attacks. 
 ## Worn
 Wearable weapons can be removed, but while worn they count as natural weapons. Equipping or removing a weapon with the worn tag takes an action.
 # Ranged Weapon Tags

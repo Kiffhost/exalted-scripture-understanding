@@ -8,5 +8,8 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Reaching|Reaching]]"
 Cost: " —"
+aliases:
+  - staves
+  - staffs
 ---
 A staff is a length of sturdy wood, sometimes wrapped in metal bands or leather. Many staves are clearly weapons, but more than one thug has been thrashed by a traveler’s well-worn walking stick. Staves are also excellent defensive weapons. 

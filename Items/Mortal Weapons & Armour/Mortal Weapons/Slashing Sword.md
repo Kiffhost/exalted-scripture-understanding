@@ -8,5 +8,7 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Balanced|Balanced]]"
 Cost: " 2"
+aliases:
+  - slashing swords
 ---
 A slashing sword has a single-edged blade about three feet long. These swords are quick and used primarily for arcing cuts. The slashing sword is favored by cavalry, as its shape and length make it suited for use from horseback.

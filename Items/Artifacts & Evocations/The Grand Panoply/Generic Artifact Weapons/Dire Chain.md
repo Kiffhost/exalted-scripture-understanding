@@ -14,5 +14,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-*The dire chain is a fighting chain composed of an alloy of one of the five magical materials.*
+*The dire chain is a [[fighting chain]] composed of an alloy of one of the five magical materials.*
 The chain is relatively thick and would be much heavier were it not buoyed by the wielder’s [[Essence]].

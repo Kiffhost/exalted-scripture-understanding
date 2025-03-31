@@ -23,4 +23,4 @@ He concluded that his companions were without peer in their speed, precision of 
 
 ## [[Evocations]] of [[Volcano Cutter]]
 
-A Solar who attunes to [[Volcano Cutter]] awakens [[Grand Eruption]] at no experience cost. By paying an extra three motes when attuning the grand daiklave, the Solar gains an additional point of [[Initiative]] on any successful withering attack made with [[Volcano Cutter]] which rolls no 1s.
+A Solar who attunes to [[Volcano Cutter]] awakens [[Grand Eruption]] at no experience cost. By paying an extra three motes when attuning the [[grand daiklave]], the Solar gains an additional point of [[Initiative]] on any successful withering attack made with [[Volcano Cutter]] which rolls no 1s.
