@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[League of Iron Preparation]]"
 ---
 *At the dawn of the world, man knew nothing of the gods save that they were inviolate and could not be vanquished. The [[Solar Exalted]] changed that.* 
-Through the use of this Charm, even the worst gutter-sweepings and bandits can be trained into an elite fighting force. This Charm enhances the effects of Drill (p. 206). The Solar’s training regimens are brilliant, ingraining her troops with perfect actions codified from a peerless mind for war. 
+Through the use of this Charm, even the worst gutter-sweepings and bandits can be trained into an elite fighting force. This Charm enhances the effects of [[Drill]] (p. 206). The Solar’s training regimens are brilliant, ingraining her troops with perfect actions codified from a peerless mind for war. 
 With this Charm, she can train an undisciplined unit up to Average after just a week, and she can instill an Average unit with Elite status after only a month. Any unit which gains Average [[Drill]] under the aegis of this training also gains the combat traits of battle-ready soldiers, while any unit raised to Elite [[Drill]] gains the combat traits of elite troops (p. 497). 
 In addition, at [[Essence]] 3+, the Solar can further enhance an Elite battle group with her transforming will. 
 **Demon-Fighting Principle**: For 2xp, she can train her elite units to be more effective at fighting [[CREATURES OF DARKNESS|ghosts, demons, and other nighted creatures from the haunted tracts of Creation]]. The battle group gains +2 [[Might]] against such foes. 

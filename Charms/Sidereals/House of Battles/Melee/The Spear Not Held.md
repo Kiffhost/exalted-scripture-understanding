@@ -17,4 +17,4 @@ The Sidereal makes a ([[Perception]] + [[Melee]]) withering attack against an en
 
 ## Special activation rules
 
-This Charm can be flurried with an aim, full defense, or threaten action.
+This Charm can be flurried with an aim, [[full defense]], or threaten action.

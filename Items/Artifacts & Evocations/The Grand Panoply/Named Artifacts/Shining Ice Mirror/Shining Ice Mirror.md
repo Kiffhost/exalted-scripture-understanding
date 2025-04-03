@@ -21,4 +21,4 @@ It’s a blade of deliberate nature, rewarding foresight in battle while disdain
 
 ## [[Evocations]] of [[Shining Ice Mirror]]
 
-A Solar who pays two extra motes to attune to [[Shining Ice Mirror]] may partake of its perfect balance and discerning spirit so that an aim action taken with the intent to strike with the blade also conveys the benefits (but not costs) of a full defense action.
+A Solar who pays two extra motes to attune to [[Shining Ice Mirror]] may partake of its perfect balance and discerning spirit so that an aim action taken with the intent to strike with the blade also conveys the benefits (but not costs) of a [[full defense]] action.

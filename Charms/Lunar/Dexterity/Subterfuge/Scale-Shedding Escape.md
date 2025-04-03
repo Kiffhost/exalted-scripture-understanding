@@ -11,8 +11,9 @@ Keywords:
 Duration: Permanent
 Prerequisite Charms:
   - "[[Quicksilver Second Face]]"
+  - "[[Skulking Rat Spirit]]"
 ---
-*Skulking Rat Spirit The Lunar slips away from her foes with a well-timed transformation.*
+*The Lunar slips away from her foes with a well-timed transformation.*
 When the Lunar uses [[Quicksilver Second Face]] and makes a [[Stealth]] roll on the same tick, characters whose [[Initiative]] is lower than hers suffer a −3 penalty on their rolls against her [[Stealth]]. Characters who weren’t aware the Lunar could shapeshift also suffer this penalty.
 Penalized characters who fail their roll lose 1 [[Initiative]].
 

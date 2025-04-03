@@ -16,7 +16,7 @@ Prerequisite Charms:
 When the Lunar uses [[Wild Fury Awakening]] (Lunars, p. 175) to call a battle group of insects, she gains the following benefits  - The battle group appears in a single round.
  - The battle group has elite [[Drill]] and [[Might]] 2.
 Battle groups of grasshoppers have [[Might]] 3.
- - The battle group gains +1 [[Size]] and adds (Lunar’s [[Essence]]) to its Magnitude (Exalted, p. 208).
+ - The battle group gains +1 [[Size]] and adds (Lunar’s [[Essence]]) to its [[Magnitude Track|Magnitude]] (Exalted, p. 208).
  - The battle group adds three dice to all dice pools, maximum 14. For pools lower than six dice, add four dice instead.
  - The battle group’s attacks gain +3 Damage and Overwhelming (Lunar’s [[Essence]]).
  - The battle group adds +2 [[Defense|Evasion]] and [[Defense|Parry]], maximum 7. For values lower than 3, add +3 instead.

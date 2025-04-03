@@ -33,7 +33,7 @@ Achieved by [[#Crashing]] an enemy who [[#Crash]]ed you.
 
 - If you are currently below your [[#Base|Base Initiative]], [[#Shift]] returns you to [[#Base|Base Initiative]].
 - Then, make a [[Join Battle]] roll, adding the result to your initiative.
-- Your turn is then refreshed: any #Action/combat or #Action/movement you have used that turn are reset, allowing you to act again, immediately; however, should this renewed action be used to [[Attack]], you can only attack the character you Shifted against.
+- Your turn is then refreshed: any [[Combat Action]] or [[movement]] you have used that turn are reset, allowing you to act again, immediately; however, should this renewed action be used to [[Attack]], you can only attack the character you Shifted against.
 
 A character who entered [[#Crash]] as a result of his own actions (such as by using a [[Disengage]] action) cannot achieve [[Initiative]] [[#Shift]].
 # Base

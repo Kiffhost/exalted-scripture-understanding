@@ -1,4 +1,6 @@
 ---
+tags:
+  - source/dragon-book
 aliases:
   - creature of darkness
 ---

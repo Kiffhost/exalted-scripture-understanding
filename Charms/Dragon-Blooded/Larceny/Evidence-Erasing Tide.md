@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Resetting Tumblers Technique]]"
 ---
 *The Dragon-Blood’s anima banner overflows, rushing across a crime scene to wash away all signs of her presence.*
-She completes a conceal evidence roll instantly, and adds a non-Charm bonus success.
+She completes a [[conceal evidence]] roll instantly, and adds a non-Charm bonus success.

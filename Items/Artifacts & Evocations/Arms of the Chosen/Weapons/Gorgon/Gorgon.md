@@ -26,7 +26,7 @@ Most of Gorgon’s [[Evocations]] can only be activated when it’s reached a ce
 | Slitted     | +1     |
 | Half-Open   | +2     |
 | Wide Open   | +3     |
-Successful​ withering attacks inflicted while the eye is open add automatic successes equal to its Wakefulness rating on the withering damage roll. When [[Gorgon]] inflicts decisive damage or deals Magnitude damage to a battle group, its Wakefulness increases by one step if the Exalt rolled a number of 10s that equal or exceed the next step’s Wakefulness rating. 
+Successful​ withering attacks inflicted while the eye is open add automatic successes equal to its Wakefulness rating on the withering damage roll. When [[Gorgon]] inflicts decisive damage or deals [[Magnitude Track|Magnitude]] damage to a battle group, its Wakefulness increases by one step if the Exalt rolled a number of 10s that equal or exceed the next step’s Wakefulness rating. 
 A character dissonant with jade cannot raise Gorgon’s Wakefulness above Half-Open. While the eye is shut, the Exalt can reflexively spend one Willpower to rouse Gorgon from deep slumber, opening the eye to slitted. She may even do so unconsciously, the blade responding to dangers of which its wielder is unaware. 
 The sword’s Wakefulness can only increase once per turn. Lifeless foes such as zombies and automata may not appeal sufficiently to Gorgon’s appetites to awaken it, at the Storyteller’s discretion. 
 All Wakefulness is lost at end of scene, the sword’s eye closing. 

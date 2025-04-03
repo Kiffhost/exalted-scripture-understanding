@@ -1,8 +1,11 @@
 ---
 tags:
   - source/sidereal-book
+aliases:
+  - constellation
 ---
-The constellations of Creation’s zodiac stand out against the night sky, each presiding over certain threads of fate. Sidereals invoke the constellations to create resplendent destinies and speak prophecy. Constellations are also the thematic foundations of Sidereal Charms. 
+*The constellations of Creation’s zodiac stand out against the night sky, each presiding over certain threads of fate.*
+Sidereals invoke the constellations to create resplendent destinies and speak prophecy. Constellations are also the thematic foundations of [[Sidereal]] [[Charms]]. 
 
 Creation’s cultures demarcate the stars in countless different ways and ascribe vastly different meanings to the same signs. These beliefs and perspectives don’t influence Sidereal magic that draws on the constellations.
 

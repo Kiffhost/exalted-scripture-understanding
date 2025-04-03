@@ -10,7 +10,7 @@ Keywords:
   - Withering-only
 Duration: Instant
 Prerequisite Charms:
-  - "[[Charms/Sidereal/The House of Secrets/Occult/Celestial Circle Sorcery]]"
+  - "[[Charms/Sidereals/House of Secrets/Occult/Celestial Circle Sorcery]]"
   - "[[Sorcerer’s Crystal Aegis]]"
 ---
 *The Quincunx’s master releases a torrent of gathered power as an unblockable withering attack with ([[Wits]] + [[Occult]]) against all enemies within short range.*

@@ -1,57 +1,58 @@
 # Make files
-Dragon-Blooded, terrestrial
-Abyssal, deathknight
-Solar, lawgiver
-Lunar
-Sidereal
 living
 undead
-spirit shape
-enemies of fate, enemy of fate
-conceal tracks (Lunar?)
 {bestiary charms + merits}
+- Camouflage
+- venomous
+- poisonous
+- tiny creature
+- miniscule size
+- ambush hunter
+- trample
+- legendary size
+- keen nose
+- pack hunting
+- immense guardian
+- speed bonus
+- deadly charge
+- berzerker
+- infinite grasp
+- crippling attacks?
+- leaping pounce
+- impenetrable armor
+- tail decoy
+- beast of burden
+- crushing coils
 # link
 prone
 persuade
 bargain
 threaten
-sacred hunt
 influence roll
 inspire
 instill
 read intentions
-profile character 
-case scene
-conceal evidence
 rush
 range
 feats of strength
 difficult terrain
 aim
 cover
-introducing a fact
-challenging a fact
 hearthstone
 artifact
-experience debt
 language
 social influence
 disease
 specialty
 poison
 flurry
-Decision points
 order
 command
-rally
-rally for numbers
 Join Battle
-Positioning
 disengage
 defend other
 full defense
 familiar
-tracking
 battle group
 Size Aa
 magnitude track
@@ -61,7 +62,6 @@ rout
 defense
 soak
 clash
-combat action
 derangement
 bargain
 falling
@@ -82,7 +82,13 @@ take cover
 countermagic
 rise from prone
 attunement
-
+Dragon-Blooded 
+Abyssal
+Solar
+Lunar
+Exigent
+Sidereal
+enemies of fate
 Overwhelm Aa
 Accuracy Aa
 {All Attributes, Abilities, general Traits}
@@ -96,14 +102,11 @@ range bands, close range, short range, medium range, long range, extreme range -
 attacking - attack
 feat of demolition, feats of demolition, feat of strength - feats of strength
 case a scene - case scene
-introduce fact, introduces facts, introduces a fact - introducing a fact
-challenge fact, challenging a fact, challenges a fact - challenging a fact
 concealment, concealed - Combat/Stealth
 profile a character - profile character
 grappled - grappling
 specialties - specialty
 flurries - flurry
-Decision point - Decision points
 miscellaneous action - miscellaneous
 joining battle, joins battle - join battle
 mounted, mounted combat - mounted fighting
@@ -112,7 +115,7 @@ derangements - derangement
 read the intentions, read his intentions, read her intentions, reading her intentions, reading his intentions, reading its intentions - read intentions
 influenced - social influence
 track - tracking
-Magnitude - magnitude track
+Magnitude - magnitude track Aa
 rushing - rush
 strategic maneuver, maneuver - strategic warfare
 battle groups - battle group
@@ -141,6 +144,12 @@ story goal, story goals, social goal, social goals, character or story goal - Go
 daiklave - Generic Artifact Weapons/Daiklave
 Ability - Abilities
 Attribute - Attributes
+{aliases} - Solar
+{aliases} - Lunar
+{aliases} - Abyssal
+{aliases} - Sidereal
+{aliases} - Dragon-Blooded
+enemy of fate - enemies of fate
 
 life-changing task, life-defining task, serious task, inconvenient task - persuade#
 anima level, anima surcharge - The Anima Banner#anima levels
@@ -199,5 +208,7 @@ distortion, distorting, distort - Countermagic#Distortion
 {armor tags}
 incapacitated, incapacitation - Health Track#incapacitated
 smash attack - item tags#smashing
+piercing attack - item tags#piercing
 experience points, experience point - character advancement#
 project - leadership#projects
+spirit shape - Shapeshifting#The Spirit Shape

@@ -20,4 +20,4 @@ The wielder makes a gambit against a character with an appropriate [[Intimacy]] 
 
 ## Resonant
 
-With [[Essence]] 3, this gambit can target Derangements. This functions as above, except that success temporarily lowers the Derangement’s intensity by one step for the story (suppressing Minor Derangements altogether).
+With [[Essence]] 3, this gambit can target Derangements. This functions as above, except that success temporarily lowers the [[Derangement]]’s intensity by one step for the story (suppressing Minor Derangements altogether).

@@ -17,7 +17,7 @@ A handful of legionnaires break these limits due to meddling from [[sorcery]], s
 
 The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, distinguished only by metal skin and hematite eyes. Each successive series’ members appear cruder and more abstract, with the last wave featuring minimalist metal armatures. Despite these unexplained changes in semblance — did their creator go mad, grow obsessed with function over form, or simply lose interest? — the final models are as efficacious as the first. All carry mortal weapons; their armor is innate.
 #### [[Brass Legionnaire]]
-**Essence**: 1; **Willpower**: 7; **Join Battle**: 7 dice
+**Essence**: 1; **Willpower**: 7; **[[Join Battle]]**: 7 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x4/Incap. 
 **Actions**: [[Command]] actions: 5 dice; [[Feats of Strength]]: 12 dice (may attempt [[Strength]] 7 feats); Senses: 7 dice; [[Stealth]]: 5 dice; Strategic maneuvers: 5 dice; [[Threaten]]: 10 dice; [[Appearance]] 2, [[Resolve]] 3, [[Guile]] 1 
 ###### COMBAT

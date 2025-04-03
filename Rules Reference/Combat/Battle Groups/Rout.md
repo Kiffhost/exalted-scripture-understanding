@@ -15,4 +15,4 @@ A rout check is normally a [[Willpower]] roll, using the [[Willpower]] rating of
 | +1         | per point of [[Size]] the battle group has already lost during the scene.                                                            |
 | +1         | The rout check is provoked by a devastating supernatural area-of-effect assault such as the spell [[Death of Obsidian Butterflies]]. |
 
-If the rout check succeeds, the battle group loses a point of [[Size]] and restores all points of Magnitude. If it fails, the battle group suffers *dissolution* on its next turn and attempts to surrender or run—either way, it’s no longer a meaningful participant in the battle.
+If the rout check succeeds, the battle group loses a point of [[Size]] and restores all points of [[Magnitude Track|Magnitude]]. If it fails, the battle group suffers *dissolution* on its next turn and attempts to surrender or run—either way, it’s no longer a meaningful participant in the battle.

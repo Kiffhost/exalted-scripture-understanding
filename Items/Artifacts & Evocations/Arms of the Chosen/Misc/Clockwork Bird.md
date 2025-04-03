@@ -13,7 +13,7 @@ These blue jade automata resemble songbirds small enough to fit in the palm of o
 Much rarer versions of the clockwork bird, their feathers banded with orichalcum, trace back to the First Age and the inaccessible montane workshop of the god Vanileth, Shogun of Artificial Flight. Only the [[Solar Exalted]] were known to make more; even the Realm’s finest artisans cannot replicate them. Ordinary clockwork birds, for all their prodigious memory, are scarcely smarter than actual songbirds. **Vanileth’s birds** possess human intellect, great eloquence, and personal initiative, making them excellent — albeit unusual — envoys and secretaries. Their delicate clockworks are sorcerously hardened ice, kept frozen only by rarefied essence of air filling their innards to provide buoyancy
 
 #### Vanileth's Birds
-**Essence**: 1; **Willpower**: 5; **Join Battle**: 7 dice 
+**Essence**: 1; **Willpower**: 5; **[[Join Battle]]**: 7 dice 
 **Health Levels**: −1x2/−2x2/−4/Incap. 
 **Actions**: Senses: 6 dice; [[Persuade]]: 7 dice; [[Bargain]]: 6 dice; [[Inspire]]: 10 dice; [[Read Intentions]]: 6 dice; [[Stealth]]: 4 dice (see Tiny Creature below); [[Appearance]] 3, [[Resolve]] 4, [[Guile]] 4 
 ###### COMBAT

@@ -17,4 +17,4 @@ She makes a special ({Appearance or Charisma} + {Performance or Presence}) inspi
 With a [[Charisma]] 5, [[Essence]] 4 repurchase, affected characters can’t attack or try to harm the Lunar or her allies. Characters who attack any pursuer lose this protection against all. 
 ## Totemic 
 
-A Lunar whose spirit shape is a prey animal with Tiny Creature or Minuscule [[Size]] may learn this as an [[Appearance]] Charm, with Attention-Demanding [[Presence]] (p. XX) as its prerequisite.
+A Lunar whose spirit shape is a prey animal with Tiny Creature or Minuscule Size may learn this as an [[Appearance]] Charm, with [[Attention-Demanding Presence]] (p. XX) as its prerequisite.

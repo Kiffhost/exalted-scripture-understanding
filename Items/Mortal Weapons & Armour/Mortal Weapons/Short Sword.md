@@ -2,7 +2,7 @@
 tags:
   - object
   - source/solar-book
-Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 1)
+Type: Light (+4 ACC, +7 DMG, +0 DEF, OVW 2)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
   - "[[Item Tags#Melee|Melee]]"

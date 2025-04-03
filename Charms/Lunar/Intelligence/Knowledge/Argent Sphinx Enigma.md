@@ -19,7 +19,7 @@ A character who succeeds discovers an answer to the riddle, gaining insight into
 A character who fails the roll obsesses over the riddle for the rest of the scene. He must roll ([[Intelligence]] + [[Lore]]) at difficulty 5 each turn as he tries to solve it, requiring him to flurry to take other actions. Success frees him, but offers no insight. He also suffers a −3 penalty on rolls involving the chosen area of expertise, his thoughts still perturbed by the riddle, which lasts until he next rests.
 This Charm risks aiding enemies or hindering allies.
 Using it again lets the Lunar strip an enemy of his insight if he fails the opposed roll, or free an ally from his captivation if he succeeds. She waives such uses’ [[Willpower]] costs and can use them reflexively, but only once per round on her turn.
-Using this Charm to conclude a sacred hunt with ShapeStealer’s Riddle lets the Lunar steal one [[Willpower]] from her target.
+Using this Charm to conclude a [[sacred hunt]] with ShapeStealer’s Riddle lets the Lunar steal one [[Willpower]] from her target.
 
 ## Reset 
 This Charm can only be used on a character once per day. This doesn’t apply to using it to negate a previous use’s effect.

@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Lunar
   - source/lunar-strangers-book
   - Martial-Arts
 Cost: 8m

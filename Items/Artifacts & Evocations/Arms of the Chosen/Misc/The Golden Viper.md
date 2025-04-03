@@ -13,7 +13,7 @@ Second Age artificers have sought to replicate these miracles, crafting golems, 
 Aside from its vivid construction, the Viper is as subtle as any mundane serpent, and its bite deadlier. Its venom turns victims to statues of gold. Further, it drinks the knowledge and experiences of everyone it kills this way. The only gap in its knowledge is that it recalls nothing of the First Age… or so it claims. Its intellect is prodigious beyond mortal measure, albeit cruel and cynical, and none of its masters remain innocent in the face of its generous wisdom.
 
 #### [[The Golden Viper]]
-**Essence**: 3; **Willpower**: 8; **Join Battle**: 8 dice
+**Essence**: 3; **Willpower**: 8; **[[Join Battle]]**: 8 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x2/Incap.
 **Actions**: [[Lore]]: 11 dice (see Ten Million Memories below); [[Occult]]: 9 dice; [[Read Intentions]]: 9 dice; Senses: 9 dice (see Killer’s Nose below); [[Social Influence]]: 9 dice; [[Stealth]]: 7 dice (see Tiny Creature below); [[Appearance]] 4, [[Resolve]] 5, [[Guile]] 3 
 ###### COMBAT 

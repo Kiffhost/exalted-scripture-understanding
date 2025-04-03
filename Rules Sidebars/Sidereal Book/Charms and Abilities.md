@@ -11,6 +11,6 @@ Several Sidereal [[Charms]] have unorthodox effects for their Ability. You may w
 **Feats of Strength**: [[Resistance]], [[Survival]]. 
 **Social**: [[Craft]], [[Dodge]], [[Lore]], [[Ride]], [[Sail]]. 
 **Healing**: [[Craft]]. 
-**Tracking**: [[Awareness]]. 
+**[[Tracking]]**: [[Awareness]]. 
 **Training**: [[Performance]], [[Sail]]. 
 **Dealing With Spirits**: [[Bureaucracy]], [[Medicine]]. Familiars: [[Ride]].

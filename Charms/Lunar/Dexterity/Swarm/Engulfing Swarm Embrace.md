@@ -20,5 +20,5 @@ If an enemy’s attack would cause the Lunar to lose a round of control over the
 If the Lunar has [[Ant-and-Starfish Trick]], she can transfer control of the grapple to independent replicas to maintain, leaving her free to act. Those replicas can still sacrifice other replicas to preserve rounds of control. She can pay a one-[[Willpower]] surcharge to enhance the replica created by this Charm as per [[Ant-and-Starfish Trick]].
 
 ## Archetype 
-A Lunar whose spirit shape has Tiny Creature or Minuscule [[Size]] may learn this as a [[Manipulation]] or [[Wits]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Manipulation]] or [[Wits]] Charm.
 Backers: Adam Pecar and Eric Schalk

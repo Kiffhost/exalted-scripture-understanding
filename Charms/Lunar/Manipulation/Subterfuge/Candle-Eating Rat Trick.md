@@ -16,4 +16,4 @@ Prerequisite Charms:
 Upon spending 5+ muted motes while her anima is dim, she extinguishes all light sources other than anima banners within medium range. Alternatively, she can extinguish a single light source within long range. Magical light sources relight themselves at scene’s end; mundane light sources must be relit normally. If the Lunar uses Clouds [[Cover]] Moon together with this Charm, a single activation covers all extinguished light sources, and she doubles 8s. This Charm can only be used once per scene. 
 ## Totemic 
 
-ALunarwhosespiritshapehasTinyCreature or Minuscule [[Size]] may learn this as a [[Dexterity]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Dexterity]] Charm.

@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Surging Thew Technique]]"
 ---
 *The Lunar is a living pillar of near-endless might.*
-She converts ([[Strength]]) dice on a feat of strength to nonCharm successes.
+She converts ([[Strength]]) dice on a feat of strength to non-Charm successes.

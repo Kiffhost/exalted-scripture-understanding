@@ -11,8 +11,9 @@ Keywords:
 Duration: One scene
 Prerequisite Charms:
   - "[[Beast-Power Awakening]]"
+  - "[[Instinctive Unity Approach]]"
 ---
-*Instinctive Unity Approach The Lunar manifests her spirit shape as a divine beast, a moon-graced familiar born of her Exaltation.*
+*The Lunar manifests her spirit shape as a divine beast, a moon-graced familiar born of her Exaltation.*
 The Lunar manifests her spirit shape as a familiar to fight alongside her, paying five motes per dot of its [[Familiar]] rating and one [[Willpower]]. The manifested spirit shape uses its normal animal traits, but Tiny Creature and Minuscule [[Size]] don’t reduce its damage.
 It has a defining [[Intimacy|Tie]] of loyalty to the Lunar, and any of her [[Intimacy|Intimacies]] that are compatible with its level of intelligence.
 The spirit shape has all latent and magical abilities listed with its traits, and any latent or magical abilities the Lunar has trained other familiars in, as long as they’re physically compatible with the spirit shape’s body.

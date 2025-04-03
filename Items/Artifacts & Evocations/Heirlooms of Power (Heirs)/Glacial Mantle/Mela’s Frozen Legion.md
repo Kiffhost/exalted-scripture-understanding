@@ -11,9 +11,9 @@ Keywords:
 Duration: One scene
 Prerequisite Charms:
   - "[[ Glacier Bulwark Fortification]]"
-  - "[[Winter]]"
+  - "[[Winter Brings Death]]"
 ---
-*Brings Death Glacial Mantle’s master blesses her soldiers with boreal might, encasing their weapons and armor in ice as strong as jade.*
+*Glacial Mantle’s master blesses her soldiers with boreal might, encasing their weapons and armor in ice as strong as jade.*
 She grants an allied battle group within medium range the following benefits:
  - They gain [[Might]] 1.
  - Their attacks gain +1 [[Accuracy]] and Overwhelming 5.

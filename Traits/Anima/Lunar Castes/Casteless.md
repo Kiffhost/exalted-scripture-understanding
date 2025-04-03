@@ -32,7 +32,7 @@ The [[Casteless]] lack Caste Attributes but have greater aptitude at mastering u
 
 # Experience Trigger
 
-Overcoming a significant enemy or obstacle in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining [[Intimacy]] by completing a sacred hunt; removing a major impediment to her or her Circle’s goals through shapeshifting; protecting a Major or Defining [[Intimacy]] to an institution or community in which she’s made a place for herself.
+Overcoming a significant enemy or obstacle in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining [[Intimacy]] by completing a [[sacred hunt]]; removing a major impediment to her or her Circle’s goals through shapeshifting; protecting a Major or Defining [[Intimacy]] to an institution or community in which she’s made a place for herself.
 
 # Associations
 

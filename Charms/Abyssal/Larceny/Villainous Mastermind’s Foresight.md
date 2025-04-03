@@ -17,7 +17,7 @@ After a scene spent making preparations, the deathknight rolls ([[Intelligence]]
 The Abyssal may spend contingency points on the following effects reflexively:
 3 points: Waive Red-Handed Villain Artistry’s cost.
 3 points: Retroactively reveal exceptional equipment (Exalted, p. 580) for a specific [[Larceny]] action (lockpicking, disguise, etc.) on the deathknight’s person.
-3 points: Make a conceal evidence roll retroactively to conceal a piece of evidence. The Abyssal can use magic to enhance this roll as usual. The contingency point cost to use [[Inescapable Burden of Guilt]] or [[Red-Handed Villain Artistry]] on the roll is reduced by two points each.
+3 points: Make a [[conceal evidence]] roll retroactively to conceal a piece of evidence. The Abyssal can use magic to enhance this roll as usual. The contingency point cost to use [[Inescapable Burden of Guilt]] or [[Red-Handed Villain Artistry]] on the roll is reduced by two points each.
 4 points: Waive Inescapable Burden of Guilt’s cost.
 5 points: Gain +2 [[Guile]] or [[Resolve]] for one scene.
 5 points: Reduce Insidious Shade Infiltration’s cost by five motes.

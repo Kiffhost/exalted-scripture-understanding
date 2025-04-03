@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Fatal Strix Flight]]"
 ---
-*After using [[Fatal Strix Flight]], the Lunar bounds upward in a flash, arriving at the apex of her victim’s arc in time to slam him back to earth.*
+After using [[Fatal Strix Flight]], the Lunar bounds upward in a flash, arriving at the apex of her victim’s arc in time to slam him back to earth.
 This counts as her move action for the round. She makes a reflexive decisive attack against her victim, with base damage equal to the amount that [[Mighty [[Ram]] Smash]] would have normally inflicted, ignoring [[Hardness]]. This doesn’t include her [[Initiative]] or reset her to base. She doesn’t suffer falling damage from landing. 
 ## Protean 
 

@@ -33,6 +33,6 @@ This is subject to the following modifiers:
 • Gore points can only be gathered from foes with flesh to harvest. Automata, animated skeletons, and similar creatures have nothing to offer [[Huskflayer]]. A ghost’s corpus counts as flesh, as does the substance of most other spirits.
 • Incapacitating an enemy awards an additional point, but the wielder doesn’t gain points for damage in excess of her enemy’s Incapacitated level.
 • If an enemy takes a crippling injury to negate decisive damage, the wielder still gains points for those levels.
-• Against battle groups and enemies with Legendary [[Size]], double the point award. (The wielder still doesn’t reap points for dealing Magnitude damage to battle groups with withering attacks.) • Against trivial enemies, the wielder reaps only one point per attack.
+• Against battle groups and enemies with Legendary [[Size]], double the point award. (The wielder still doesn’t reap points for dealing [[Magnitude Track|Magnitude]] damage to battle groups with withering attacks.) • Against trivial enemies, the wielder reaps only one point per attack.
 As [[Huskflayer]] swells with stolen flesh, its blows grow more forceful. For every three gore points it has, add one damage die on decisive attacks and +1 Damage and +1 Overwhelming on withering attacks.
 Gore points spent on [[Evocations]] that enhance an attack still count toward determining this damage bonus, and any similar bonuses from Huskflayer’s [[Evocations]].

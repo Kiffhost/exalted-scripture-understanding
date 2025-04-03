@@ -16,4 +16,4 @@ Prerequisite Charms:
 The Sidereal may pay a one-[[Willpower]] surcharge when she uses [[Unswerving Juggernaut Principle]] to gain the following benefits: 
 - +1 [[Defense|Evasion]]. If she’s unarmored, this bonus is non-Charm. 
 - Against unexpected attacks, the soak bonus increases to ({Dexterity, [[Stamina]], or Strength} + [[Resistance]]) and the [[Hardness]] bonus increases to ([[Essence]]). 
-- She can roll to cover her tracks reflexively, without ending [[Unswerving Juggernaut Principle]]. Until a character succeeds on an opposed tracking roll or sees her in motion, he won’t realize she’s moving in a straight line, no matter how obvious this is.
+- She can roll to cover her tracks reflexively, without ending [[Unswerving Juggernaut Principle]]. Until a character succeeds on an opposed [[tracking]] roll or sees her in motion, he won’t realize she’s moving in a straight line, no matter how obvious this is.

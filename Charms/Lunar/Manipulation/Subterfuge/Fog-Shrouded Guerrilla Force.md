@@ -17,4 +17,4 @@ The Lunar rolls an [[Ambush]] stratagem with ({Appearance or Manipulation} + [[W
 
 ## Archetype 
 A Lunar whose spirit shape has Camouflage may learn this as an [[Appearance]] Charm.
-Backer: Dmitri Kolytchev [[Perception]] Senses
+Backer: Dmitri Kolytchev 

@@ -21,4 +21,3 @@ In animal shapes capable of [[Strength]] 5+ feats, the Lunar gains one [[Initiat
 
 ## Archetype 
 A Lunar whose spirit shape has a special ability or [[Merits]] that involves threaten rolls or other fearbased influence may learn this as an [[Appearance]] Charm, with [[Glance-Oration Technique]] as its prerequisite.
-[[Wits]] Heart’s Blood

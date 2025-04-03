@@ -24,4 +24,4 @@ She may use [[Cunning Anglerfish Decoy]] for three motes and one [[Willpower]] t
 - The Lunar may touch a replica and end this Charm to absorb it into herself, gaining its memories. If she ends this Charm without doing so or a replica is killed, she doesn’t gain its memories. Replicas enhanced with this Charm count toward the maximum the Lunar can have, but don’t benefit from the discount for multiple activations. 
 ## Totemic 
 
-ALunarwhosespiritshapehasTinyCreature or Minuscule [[Size]] may learn this as a [[Manipulation]] or [[Wits]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule [[Size]] may learn this as a [[Manipulation]] or [[Wits]] Charm.

@@ -2,6 +2,7 @@
 tags:
   - "#Action/sorcery"
   - source/solar-book
+  - Action/combat
 aliases:
   - Shape Necromancy
 ---

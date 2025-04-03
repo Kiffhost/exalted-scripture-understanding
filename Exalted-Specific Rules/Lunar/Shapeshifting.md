@@ -9,6 +9,10 @@ A Lunar may enter an animal or human shape she possesses as a miscellaneous acti
 
 Note that some Lunar [[Charms]] refine or expand on the default shapeshifting powers presented here.
 
+# The Spirit Shape
+A Lunar’s spirit shape emerges as she Exalts, an animal form that’s as much her true self as her human form. A Lunar doesn’t choose what animal her spirit shape is, but it’s always one that holds deep personal or cultural meaning for her, an avatar and embodiment of all she is.
+A wandering sell-sword who trusts no one to fight at her side discovers the tiger as her spirit shape, seeing herself embodied in the solitary hunter’s power and ferocity. A shaman takes on the skin of a raiton, an animal revered by his clan as a messenger from the spirit world. A struggling merchant finds himself reflected in the scorpion, small enough to be underestimated, yet deadly.
+The Lunar may not understand why her spirit shape is what it is at first. But as she learns more of herself, her understanding of the reason for her spirit shape grows.
 # Animal Shapes
 
 The Lunar’s [[Essence]], [[Willpower]], base [[Initiative]], health levels, Attributes, Abilities, specialties, [[Resolve]], and [[Guile]] are unaffected. 

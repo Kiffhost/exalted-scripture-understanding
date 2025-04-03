@@ -3,7 +3,7 @@ tags:
   - Action/combat
   - source/solar-book
 ---
-# [[Attack]]
+# Attack
 The goal of combat is to damage your opponent's [[Health Track]]. This is achieved using [[#decisive]] attacks, which spend [[Initiative]]. [[#Withering]] attacks lower your opponent's initiative while increasing your own, but usually do not affect [[Health Track]]. 
 ## withering
 1. First, decide which #Ability/combat is appropriate for the attack (this is often determined by the weapon being used)
@@ -40,6 +40,10 @@ The character leads, threatens, or feints his target into the path of an ally’
 #### Grapple
 (difficulty 2)
 The character seizes her opponent in a clinch, limiting his movement and gaining the opportunity to do truly severe damage. Grapples are a bit more complicated than other gambits, and are explained in greater detail below.
+## Weapon-Specific Attacks
+![[Item Tags#Chopping]]
+![[Item Tags#Piercing]]
+![[Item Tags#Smashing]]
 # Glossary
 ## raw damage
 The dice pool of a [[#withering]] [[#damage roll]] before [[Soak]] is applied. Usually ([[Strength]] + Damage (of the weapon) + [[Dice Rolls#Threshold Successes|threshold successes]] from the [[#hit roll]])
@@ -51,3 +55,5 @@ The second roll in an [[#Attack]], after the [[#hit roll]]. Used to determine th
 [[#withering|Withering]] attacks have a damage [[Dice Rolls#Dice Pool|pool]] of [[#raw damage]] - [[Soak]]. 
 
 [[#decisive|Decisive]] attacks have a damage pool equal to the attacker's current [[Initiative]].
+## Clash attack
+See [[Clash]].

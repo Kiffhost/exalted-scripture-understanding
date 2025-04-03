@@ -18,7 +18,7 @@ Prerequisite Charms:
 The stylist’s attack gains one of the following benefits: 
 The stylist can use this Charm multiple times to enhance the same attack with different effects.
 ### Black Jade (Water)
-Moving with the fluidity of black jade, the attack inflicts its onslaught penalty before the attack roll and ignores [[Defense]] bonuses from light and heavy cover and the full defense action.
+Moving with the fluidity of black jade, the attack inflicts its onslaught penalty before the attack roll and ignores [[Defense]] bonuses from light and heavy cover and the [[full defense]] action.
 ### Blue Jade (Air)
 Striking with the swiftness and precision of blue jade, the stylist adds ([[Lore]] or [[Occult]]) dice on an attack roll. Its onslaught penalty is increased by one.
 ### Green Jade (Wood)

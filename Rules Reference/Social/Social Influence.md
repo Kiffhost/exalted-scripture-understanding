@@ -24,7 +24,7 @@ FROM #Action/social
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", contains(file.etags, "Action/social/influence") AS "Uses [[Influence roll]]"
 FROM #Action/social
-SORT file.ctime
+SORT file.name
 ```
 ## Retrying Social Actions
 Each [[#Social Actions|social action]] has different conditions under which it may be retried. See the individual files.

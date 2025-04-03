@@ -28,5 +28,5 @@ If the Lunar wins the battle with 4+ swarm points remaining, she gains one [[Wil
 If the Lunar is in the same shape as an animal duplicate, the die she adds for it is non-Charm.
 
 ## Archetype 
-A Lunar whose spirit shape has Tiny Creature or Minuscule [[Size]] may learn this as a [[Manipulation]] or [[Wits]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Manipulation]] or [[Wits]] Charm.
 Backer: Michael Watkins

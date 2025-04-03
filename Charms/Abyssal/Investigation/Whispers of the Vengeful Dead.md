@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Uncanny Detective Practice]]"
 ---
 *The unquiet dead call out for justice, and Death’s Lawgiver answers.*
-The Abyssal adds (higher of [[Essence]] or 3) dice on a profile character roll. For every three extra successes she rolls, she can ask one of the following questions:
+The Abyssal adds (higher of [[Essence]] or 3) dice on a [[profile character]] roll. For every three extra successes she rolls, she can ask one of the following questions:
  - Is he planning to commit an act of violence? 
  - Who is his greatest enemy among the dead?
  - What has he done to disrespect or anger the dead? 

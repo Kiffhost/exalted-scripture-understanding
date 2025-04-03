@@ -2,6 +2,10 @@
 tags:
   - Action/reflexive
   - source/solar-book
+aliases:
+  - challenge fact
+  - challenges a fact
+  - challenge a fact
 ---
 Similar to the rules that allow the [[Introducing a Fact|introduction of a fact]], a character with a [[Lore]] rating of 3+, or [[Lore]] 1+ and a relevant [[Specialty]], has the potential to ([[Action#Reflexive|reflexively]]) notice any information that rings false. 
 

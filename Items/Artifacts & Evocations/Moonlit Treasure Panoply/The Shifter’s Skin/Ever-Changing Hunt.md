@@ -16,4 +16,4 @@ The Lunar temporarily gains a single Lunar Charm that lets her take shapes, eith
 
 ## Reset 
 Once per story, unless reset by learning the chosen Charm normally. The Lunar may incur [[Experience Debt]] to do so and waives training times.
-Awakening: This Charm can’t be bought with experience points. It awakens for free when the Lunar upholds a Major or Defining [[Intimacy]] in the course of a sacred hunt.
+Awakening: This Charm can’t be bought with experience points. It awakens for free when the Lunar upholds a Major or Defining [[Intimacy]] in the course of a [[sacred hunt]].

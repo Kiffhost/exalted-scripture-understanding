@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Bottomless Wellspring Approach]]"
 ---
 *The Solar is a bottomless font of knowledge, renewed by any source of true intrigue.*
-While pursuing the goals of her Circle or the goals of someone for whom she holds a Major or Defining [[Intimacy|Tie]], the Solar may use this Charm to roll to introduce a fact, even if she has already introduced a fact that scene. The Solar may only use this Charm when she perceives a need for her expertise, and only if it pertains to the events at hand.
+While pursuing the goals of her Circle or the goals of someone for whom she holds a Major or Defining [[Intimacy|Tie]], the Solar may use this Charm to roll to [[Introducing a Fact|introduce a fact]], even if she has already introduced a fact that scene. The Solar may only use this Charm when she perceives a need for her expertise, and only if it pertains to the events at hand.
 
 ### On [[Cloud-Wreathed Scholar]]
 

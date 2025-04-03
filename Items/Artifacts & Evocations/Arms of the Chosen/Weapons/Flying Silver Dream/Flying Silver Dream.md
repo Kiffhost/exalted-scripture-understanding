@@ -23,7 +23,7 @@ Drawing or readying the daiklave incurs no [[Defense]] penalty, the sword leapin
 
 # FLYING SILVER DREAM 
 
-**Essence**: (Exalt’s [[Essence]]); **Willpower**: (Exalt’s [[Willpower]]); **Join Battle**: 10 dice 
+**Essence**: (Exalt’s [[Essence]]); **Willpower**: (Exalt’s [[Willpower]]); **[[Join Battle]]**: 10 dice 
 ##### Combat
 **Attack**: (10+Essence) dice (Damage 15, minimum 4)
 **Combat movement**: (10+Essence) dice 

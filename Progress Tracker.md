@@ -22,10 +22,10 @@ Very next steps, each completable within 1 day - 1 week
 	- [x] Thaumaturgy
 	- [x] Character Advancement
 	- [ ] Exalted unique stuff
-		- [ ] Organise?
+		- [x] Organise?
 		- [x] Solar Stuff
 		- [ ] Lunar Stuff
-		- [ ] Sidereal Stuff
+		- [x] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
 		- [x] Abyssal Stuff
 		- [ ] Exigent Charm Creation

@@ -22,4 +22,3 @@ Once per scene.
 
 ## Archetype 
 Lunars with predatory spirit shapes may learn this as a [[Wits]] Charm.
-[[Strength]] Offense

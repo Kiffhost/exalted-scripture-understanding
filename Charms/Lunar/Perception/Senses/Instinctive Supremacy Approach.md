@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Wolf-Eye Advantage]]"
 ---
 *Surveying the battlefield in an eyeblink, the Lunar finds the path to perfect action.*
-After winning Join Battle, she may use this Charm once during the first round of combat to add a free full Excellency to a single action made with any Attribute.
+After winning [[Join Battle]], she may use this Charm once during the first round of combat to add a free full Excellency to a single action made with any Attribute.
 While [[Sense-Sharpening Change]] is active, this Charm’s cost is waived. 
 ## Totemic 
 

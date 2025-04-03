@@ -4,14 +4,14 @@ tags:
 ---
 
 Hunting the Secret Self (Essence 2; Whispering
-Heart Revelation): Complete a sacred hunt by witnessing your quarry do something he’d never do if
+Heart Revelation): Complete a [[sacred hunt]] by witnessing your quarry do something he’d never do if
 he knew someone else was watching.
 Swift Hunter's Eye (Essence 2; Prowling Stalker Concentration): The Lunar can use Prowling
 Stalker Concentration instantly, without needing to
 survey the area. When she defends against an ambush with Observed Prey Instinct, she can spend
 banked successes to raise her [[Defense]] up to its
-base rating. With Essence 3, winning Join Battle
-lets her use it reflexively to bank her Join Battle
+base rating. With Essence 3, winning [[Join Battle]]
+lets her use it reflexively to bank her [[Join Battle]]
 successes.
 Eye-and-Fingertip Wisdom (Essence 3; Fivefold
 Transcendent Insight): The Lunar can use Charms

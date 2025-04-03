@@ -7,7 +7,8 @@ Keywords:
   - None
 Duration: One scene
 ---
-Calling to the Essence of fire and earth that roils deep beneath her, the sorcerer wills ten tentacles of lava to erupt from the ground, shaking the earth as they burst forward in torrents of molten stone. She designates where each appears, out to as far as long range from her. Together, these form the Magma Kraken. 
+*Calling to the Essence of fire and earth that roils deep beneath her, the sorcerer wills ten tentacles of lava to erupt from the ground, shaking the earth as they burst forward in torrents of molten stone.*
+She designates where each appears, out to as far as long range from her. Together, these form the Magma Kraken. 
 It is [[join battle|rolled into battle]] with the sorcerer’s ([[Wits]] + [[Occult]]), and has a base [[Initiative]] equal to her [[Essence]]. As it erupts from the ground, any character who is at the point where a tentacle emerges must make a difficulty 2 ([[Dexterity]] + [[Athletics]]) roll to avoid it, or else be flung one range band away and knocked prone by the eruption. 
 The Magma Kraken may acton its turn to make a withering or decisive attack, grapple an enemy, or wreak general havoc on the scenery. It uses the sorcerer’s ([[Intelligence]] + [[Occult]] + [[Essence]]) for all attack and feat of strength rolls, and each tentacle can strike out to short range from its location. If it becomes necessary for the kraken to make a roll for another action, such as opposing an enemy’s stealth attempt, its dice pool is equal to the sorcerer’s ({Relevant Attribute} + [[Occult]] + [[Essence]]).
 [[Magma Kraken]] tentacles have [[Defense|Parry]] and [[Defense|Evasion]] values of 5, and 10 points of soak. 

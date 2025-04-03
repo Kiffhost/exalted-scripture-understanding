@@ -16,5 +16,5 @@ Prerequisite Charms:
 The Abyssal gains craft points as though she’d completed a [[basic project]] when she:
  - Upholds [[Abyssal Nature#Death’s Chivalry|death's chivalry]] either by using something she’s created or through her intellect.
  - Obtains valuable raw materials or components for one of her Crafts.
- - Successfully introduces a fact related to one of her Crafts or challenges such a fact.
+ - Successfully [[Introducing a Fact|introduces a fact]] related to one of her Crafts or challenges such a fact.
  - Succeeds on a [[Medicine]] roll while using equipment or medicine she created.

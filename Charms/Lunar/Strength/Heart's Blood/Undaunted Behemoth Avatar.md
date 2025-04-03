@@ -18,4 +18,4 @@ Prerequisite Charms:
 She waives the recurring mote costs of [[Towering Beast Form]] and [[Hungry All-Consuming Cloud]] (p. XX) unless she’s crashed. 
 ## Totemic 
 
-A Lunar whose spirit shape has Legendary [[Size]] may learn this as a [[Stamina]] Charm, with [[Towering Beast Form]] and any seven [[Stamina]] [[Charms]] as its prerequisite.
+A Lunar whose spirit shape has Legendary Size may learn this as a [[Stamina]] Charm, with [[Towering Beast Form]] and any seven [[Stamina]] [[Charms]] as its prerequisite.

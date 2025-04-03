@@ -24,5 +24,5 @@ While in the shape of a Legendary Size animal, the Lunar gains the following ben
  - Against battle groups, her withering attacks double their attack roll extra successes when determining their raw damage. Decisive attacks against them double the damage bonus they receive (Exalted, p. 208). 1s subtract successes on rout checks triggered by her attacks.
 
 ## Archetype 
-A Lunar whose spirit shape has Legendary [[Size]] may learn this as a [[Stamina]] Charm. (While it has a dual-Attribute prerequisite, it counts as a [[Strength]] Charm normally).
+A Lunar whose spirit shape has Legendary Size may learn this as a [[Stamina]] Charm. (While it has a dual-Attribute prerequisite, it counts as a [[Strength]] Charm normally).
 Backer: Jason Duncan Mobility

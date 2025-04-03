@@ -2,7 +2,7 @@
 tags:
   - object
   - source/solar-book
-Type: Medium (+2 ACC, +9 DMG, +1 DEF, OVW 1)
+Type: Medium (+2 ACC, +9 DMG, +1 DEF, OVW 2)
 WeaponTags:
   - "[[Item Tags#Lethal|Lethal]]"
   - "[[Item Tags#Melee|Melee]]"

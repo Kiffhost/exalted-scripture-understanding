@@ -13,4 +13,4 @@ Prerequisite Charms:
   - None
 ---
 *Feeding on fear, the Lunar rips away her prey’s form.*
-When she performs a sacred hunt against an animal or human with a [[Intimacy|Tie]] of fear toward her (or her current shape), she may claim his shape by nonlethally incapacitating him or accepting his surrender in combat.
+When she performs a [[sacred hunt]] against an animal or human with a [[Intimacy|Tie]] of fear toward her (or her current shape), she may claim his shape by nonlethally incapacitating him or accepting his surrender in combat.

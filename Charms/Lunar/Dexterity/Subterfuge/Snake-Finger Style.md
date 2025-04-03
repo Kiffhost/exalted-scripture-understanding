@@ -17,4 +17,4 @@ Prerequisite Charms:
 She doubles 9s on a roll to pickpocket a character, pick a lock, disable a trap, cheat at cards or dice, poison a drink, or similar actions. She suffers no penalties or increased difficulty from lacking equipment. 
 ## Totemic 
 
-ALunarwhosespiritshapehasTinyCreatureor Minuscule [[Size]] may learn this as a [[Manipulation]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Manipulation]] Charm.
