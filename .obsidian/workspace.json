@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Thousand Horrors Harvest"
             }
           },
           {
@@ -26,31 +28,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Touch Attacks.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Touch Attacks"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "100e5a9d7346655e",
+        "id": "a7322dc49f30240e",
         "type": "tabs",
         "children": [
           {
-            "id": "4d64c4138f67661d",
+            "id": "4e9c9c8c16a69cf0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Touch Attacks.md",
                 "options": {
-                  "collapse-filter": false,
-                  "search": "tag:#Sidereal  ",
-                  "localJumps": 2,
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -59,20 +63,22 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 3.06041666666667,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
-                  "close": true
+                  "scale": 1.4019828977761084,
+                  "close": false
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Touch Attacks"
             }
           }
         ]
@@ -94,8 +100,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -110,7 +119,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -118,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Touch Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Touch Attacks"
             }
           },
           {
@@ -158,10 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+                "file": "Touch Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Touch Attacks"
             }
           },
           {
@@ -172,7 +189,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -181,8 +200,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
-              }
+                "file": "Touch Attacks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Touch Attacks"
             }
           },
           {
@@ -194,7 +215,9 @@
                 "sortOrder": "frequency",
                 "showSearch": true,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -203,8 +226,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md"
-              }
+                "file": "Touch Attacks.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Touch Attacks"
             }
           },
           {
@@ -212,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -220,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "BC-tree",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -241,32 +270,32 @@
   },
   "active": "62fe389b99f04942",
   "lastOpenFiles": [
-    "Sorceries/Archetypes/Bargain with Mara/Bargain with Mara.md",
-    "Sorceries/Archetypes/Bargain with Mara/Soul extraction via seduction.md",
-    "Sorceries/Archetypes/Bargain with Mara/Shadow and Darkness.md",
-    "Sorceries/Archetypes/Bargain with Mara/Dark Paramour.md",
-    "Sorceries/Archetypes/Bargain with Mara/Power from adoration.md",
-    "Sorceries/Archetypes/Bargain with Mara/Infernal Nobility.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Ecstatic Discipline.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Dreams of Green and Silver.md",
-    "Sorceries/Archetypes/Dreamer of the Caul/Dreamer of the Caul.md",
-    "Sorceries/Celestial Circle/Cloud Trapeze.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Umaza's Hymns.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Bleak Tide Voice.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Weeper.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Siren.md",
-    "Necromancies/Archetypes/Umaza's Hymns/Hymn of the Horror.md",
-    "Sorceries/Terrestrial Circle/Invulnerable Skin of Bronze.md",
-    "Sorceries/Terrestrial Circle/Stormwind Rider.md",
-    "Sorceries/Terrestrial Circle/Sculpted Seafoam Eidolon.md",
-    "Sorceries/Terrestrial Circle/Mists of Eventide.md",
-    "Sorceries/Terrestrial Circle/Keel Cleaves the Clouds.md",
-    "Sorceries/Terrestrial Circle/Peacock Shadow Eyes.md",
-    "Sorceries/Terrestrial Circle/Beckoning That Which Stirs the Sky.md",
-    "Sorceries/Terrestrial Circle/Death of Obsidian Butterflies.md",
-    "Sorceries/Terrestrial Circle/Corrupted Words.md",
-    "Sorceries/Terrestrial Circle/Cirrus Skiff.md",
-    "Sorceries/Terrestrial Circle/Blood Lash.md",
+    "Progress Tracker.md",
+    "Exaltation.md",
+    "Character Progression.md",
+    "Character Advancement.md",
+    "Character Creation/START HERE.md",
+    "Charms/Sidereals/House of Journeys/Ride/Yellow Path.md",
+    "Charms/Sidereals/House of Journeys/Ride/Without Temptation.md",
+    "Charms/Sidereals/House of Journeys/Ride/Spirit-Shape Companion.md",
+    "Charms/Sidereals/House of Journeys/Ride/Plausible Stabling Arrangement.md",
+    "Charms/Sidereals/House of Journeys/Ride/Riding the Dragon.md",
+    "Charms/Sidereals/House of Journeys/Ride/Message-Without-Messenger Pact.md",
+    "Charms/Sidereals/House of Journeys/Ride/Iron Heart, Iron Horse.md",
+    "Charms/Sidereals/House of Journeys/Ride/Invisible Spirit Rider.md",
+    "Charms/Sidereals/House of Journeys/Ride/Fiend-Humbling Horsemanship.md",
+    "Charms/Sidereals/House of Journeys/Ride/Desirable Maiden’s Bargain.md",
+    "Charms/Sidereals/House of Journeys/Ride/Blow-Wind-Blow Style.md",
+    "Charms/Sidereals/House of Journeys/Ride/Acquaintance-Improving Dressage.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Hero-Supporting Performance.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Understanding Ecstatic Ways.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Auspicious Implement for Strife.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Ascending Battles Horoscope.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Angry Maiden Mantle.md",
+    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Keening Netherworld Wail.md",
+    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Gentle Embrace of the Grave.md",
+    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Albicant Sepulcher of Extinction Form.md",
+    "Charms/Sidereals/House of Endings/Any Endings Ability/Ascending Endings Horoscope.md",
     "Items/Artifacts & Evocations/Underworld Artifacts",
     "Items/Artifacts & Evocations/Underworld Artifacts/The Ravenous Throne",
     "Items/Artifacts & Evocations/Underworld Artifacts/Nyraxes, the Dead Ember",
