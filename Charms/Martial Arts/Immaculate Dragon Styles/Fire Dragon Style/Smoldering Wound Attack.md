@@ -15,5 +15,6 @@ Prerequisite Charms:
   - "[[Essence-Igniting Nerve Strike]]"
   - "[[Fiery Blade Attack]]"
 ---
-This Charm may only be used after landing a decisive attack, but before rolling damage. For every 10 on the damage roll, the Immaculate rolls one die of unsoakable withering damage, which adds to her base [[Initiative]] upon resetting. She can’t gain more than ([[Essence]]) [[Initiative]] this way. Against a crashed enemy, she rolls decisive damage instead, but still gains [[Initiative]] equal to the damage dealt. 
+This Charm may only be used after landing a decisive attack, but before rolling damage.
+For every 10 on the damage roll, the Immaculate rolls one die of unsoakable withering damage, which adds to her base [[Initiative]] upon resetting. She can’t gain more than ([[Essence]]) [[Initiative]] this way. Against a crashed enemy, she rolls decisive damage instead, but still gains [[Initiative]] equal to the damage dealt. 
 In Fire Aura, this Charm may be used after damage has been rolled.

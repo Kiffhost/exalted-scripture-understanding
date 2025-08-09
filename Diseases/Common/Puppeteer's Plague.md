@@ -6,7 +6,7 @@ Virulence: 4
 Morbidity: 3
 Interval: 1 week
 ---
-Born from the accursed meat of cattle fed on human flesh and made infamous as a weapon of war by the [[The Mask of Winters]], puppeteer’s plague slowly seeps through the marrow of its victims, bringing their bones to accursed unlife within the bodies of their still-living hosts.
+Born from the accursed meat of cattle fed on human flesh and made infamous as a weapon of war by the [[Mask of Winters]], puppeteer’s plague slowly seeps through the marrow of its victims, bringing their bones to accursed unlife within the bodies of their still-living hosts.
 # Minor Symptom
 The victim’s bones begin to stir with malicious intent. Insatiable itches seem to flare up along the bones of his limbs and spine, and he dreams of committing the most horrific atrocities. Each night, the victim must roll ([[Stamina]] + [[Resistance]]) at difficulty 3. On a failed roll, he cannot regain any [[Willpower]] from that night’s sleep. 
 # Major Symptom

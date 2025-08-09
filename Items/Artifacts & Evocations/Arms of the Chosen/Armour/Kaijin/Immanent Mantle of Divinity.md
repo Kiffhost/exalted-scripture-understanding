@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Hazy Mirage Edge]]"
 ---
-For just a moment, the stars align to bring Kaijin’s wearer briefly out of phase with the material world. This Evocation enhances a roll to oppose a grapple, disengage or withdraw from an enemy, or otherwise escape from an enemy. The target number of the roll — the number a die must show to be counted as a success — is lowered by one. No combination of effects can lower a roll’s target number below 4. 
+*For just a moment, the stars align to bring Kaijin’s wearer briefly out of phase with the material world.*
+This Evocation enhances a roll to oppose a grapple, disengage or withdraw from an enemy, or otherwise escape from an enemy. The target number of the roll — the number a die must show to be counted as a success — is lowered by one. No combination of effects can lower a roll’s target number below 4. 
 
 ## Dissonant
 

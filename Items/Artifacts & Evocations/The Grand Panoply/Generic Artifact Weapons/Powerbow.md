@@ -12,5 +12,6 @@ Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1
 Dots: 3
 ---
-Standing at least as tall as the archer, this bow is a masterwork of Exalted craft. The design of the bow directs
+*Standing at least as tall as the archer, this bow is a masterwork of Exalted craft.*
+The design of the bow directs
 [[Essence]] into the arrow, hurling it with deadly force.

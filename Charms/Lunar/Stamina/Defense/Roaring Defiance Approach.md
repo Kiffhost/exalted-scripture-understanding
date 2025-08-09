@@ -14,7 +14,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Frenzied Bear Fortification]]"
 ---
-The Lunar meets her foe head on, letting him waste his strength as he strikes her.
+*The Lunar meets her foe head on, letting him waste his strength as he strikes her.*
 The Lunar forgoes the chance to defend against a withering attack, whether by applying her [[Defense|Evasion]] or [[Defense|Parry]] against the attack roll, clashing it, or other means.
 Instead, she adds her effective [[Defense]] against the attack — potentially modified by [[Charms]] — to her soak.
 Her attacker doesn’t gain [[Initiative]] for hitting her.

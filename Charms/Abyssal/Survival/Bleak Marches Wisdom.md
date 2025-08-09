@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Shadowed Paths Unveiled]]"
 ---
 *Stalking through shade-darkened wilderness, Death’s Lawgiver discovers its secrets in the entrails of moldering carrion and the scent of decay carried on the wind.*
-After a scene spent scouting or examining a wilderness locale, the Abyssal rolls ([Intelligence or Perception] + [[Survival]]) and banks scouting points equal to her successes. Within the scouted area, the deathknight can spend scouting points reflexively to use the following effects:
+After a scene spent scouting or examining a wilderness locale, the Abyssal rolls ({Intelligence or Perception} + [[Survival]]) and banks scouting points equal to her successes. Within the scouted area, the deathknight can spend scouting points reflexively to use the following effects:
 1 point: Use [[Pomegranates Full and Fine]] retroactively, revealing provisions gathered by the Abyssal while scouting.
 1, 3, or 5 points: Declare the presence of an animal suitable to the region nearby. The cost depends on the animal’s familiar rating (Exalted, p. 161): one point for a one-dot familiar, three points for a two-dot familiar, or five for a three-dot familiar .
 3 points: Declare the existence of a small terrain feature suitable to the region somewhere nearby, like a quicksand trap, a mountain stream, or the entrance to an underground cave.

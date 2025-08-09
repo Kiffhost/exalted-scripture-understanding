@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[Fervent Blow]]"
   - "[[Hail-Shattering Practice]]"
 ---
-The Solar meets an attack with a strike that can cut through the heavens. This Charm supplements a clash attack, allowing the Solar to roll her clash twice and take the higher of two results. In addition, any [[Charms]] she uses on the first roll enhance the second roll for free. New [[Charms]] may not be added to the rerolled clash.
+*The Solar meets an attack with a strike that can cut through the heavens.*
+This Charm supplements a clash attack, allowing the Solar to roll her clash twice and take the higher of two results. In addition, any [[Charms]] she uses on the first roll enhance the second roll for free. New [[Charms]] may not be added to the rerolled clash.
 
 ### On [[All-Sundering Strike]]
 

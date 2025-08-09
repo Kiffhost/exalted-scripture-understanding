@@ -12,7 +12,7 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[ All Your Yesterdays]]"
 ---
-The difference between belief and illusion means little before Fond Remembrance’s edge.
+*The difference between belief and illusion means little before Fond Remembrance’s edge.*
 ## Resonant
 Only characters who are resonant with [[Fond Remembrance]] can awaken this Evocation.
 The wielder can use this Evocation when she strengthens one of a character’s [[Intimacy|Intimacies]] related to a false memory to Defining intensity. Until that false memory’s Psyche effect is broken, that [[Intimacy]] can’t be weakened or altered.

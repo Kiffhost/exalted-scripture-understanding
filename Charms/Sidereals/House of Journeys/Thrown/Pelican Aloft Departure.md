@@ -12,4 +12,5 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Returning Swallow Flight]]"
 ---
-Closing her fingers into a fist as her weapon flies, the Sidereal turns her lingering grasp into a forceful blow. The Sidereal may pay a two-mote surcharge to knock an enemy back with [[Returning Swallow Flight]] rather than dragging him to her.
+*Closing her fingers into a fist as her weapon flies, the Sidereal turns her lingering grasp into a forceful blow.*
+The Sidereal may pay a two-mote surcharge to knock an enemy back with [[Returning Swallow Flight]] rather than dragging him to her.

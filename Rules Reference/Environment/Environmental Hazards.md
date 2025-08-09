@@ -1,6 +1,8 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - environmental hazard
 ---
 Sometimes the world is trying to kill you outright—it’s unendurably cold, or scouring away your skin with a sandstorm, or everything is on fire. These are environmental hazards, represented as areas that inflict damage on any character within them. They can generally be mitigated to some degree with a roll, which characters are permitted every time an environmental hazard attempts to harm them. 
 
@@ -31,3 +33,5 @@ A mitigation roll for an environmental hazard can take many forms:
 A character who succeeds at a mitigation roll manages to avoid injury, at least until the next roll. 
 # Traps
 Traps work the same way as environmental hazards, save that characters are allowed a ([[Perception]] + [[Awareness]]) roll to spot them before setting them off, and they *usually* take effect instantly, with no ongoing **interval**.
+# Example: The Mirror Court
+The Mirror Court is a maze of mirrors left behind by the Wyld’s retreat. Ships that sail into the Mirror Court are almost inevitably lost forever. Each round of sailing through the Mirror Court is made at difficulty 5. Each time the player fails a roll, the ship’s crew—possibly disoriented by hundreds of reflections—steers into one of the mirrors, causing the ship to impact with its reflection exactly as if having been struck with the [[Ram]] maneuver. Other hazards exist in the Mirror Court. [[Safe Bearing Technique]] vastly reduces the threat of these and any other hazards the Solar has bested. 

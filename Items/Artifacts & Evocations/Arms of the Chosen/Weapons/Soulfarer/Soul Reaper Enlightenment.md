@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Blood-Stained Secrets Initiation]]"
 ---
-Celestial Circle [[Sorcery]] Drawing out its victim’s life, [[Soulfarer]] suffuses its wielder with sorcerous puissance. When the wielder incapacitates a non-trivial enemy while SoulDrinking Hunger is active, she gains his ([[Essence]] x 2) in banked sorcerous motes, which last until the end of the scene. 
+*Celestial Circle [[Sorcery]] Drawing out its victim’s life, [[Soulfarer]] suffuses its wielder with sorcerous puissance.*
+When the wielder incapacitates a non-trivial enemy while SoulDrinking Hunger is active, she gains his ([[Essence]] x 2) in banked sorcerous motes, which last until the end of the scene. 
 
 ## Resonant
 

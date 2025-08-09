@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Beast-King Dictates]]"
 ---
-The herd of mortal society is at times predictable. The Lunar doubles 9s on a persuade, bargain, or threaten roll to convince her targets to act in a way that aligns with a custom of a culture they belong to.
+*The herd of mortal society is at times predictable.*
+The Lunar doubles 9s on a persuade, bargain, or threaten roll to convince her targets to act in a way that aligns with a custom of a culture they belong to.

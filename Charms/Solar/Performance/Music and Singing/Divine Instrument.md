@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Mood-Inducing Music]]"
 ---
-With but a gesture, the Solar dismisses her instrument. Be it a sanxian or a lyre, she sends it Elsewhere for one mote. The Solar may only draw it back with a flourish, often a swipe of her hand that causes it to materialize from a glimmer, or from a gout of Solar flame. This flourish costs two motes, and all who witness it become immediately aware of the Solar’s divinity. Any relevant [[Intimacy|Intimacies]] they have for “divine beings” or “spirits” or “holiness” automatically qualify as [[Resolve]] modifiers for the Solar’s music, regardless of what she intends by it.
+*With but a gesture, the Solar dismisses her instrument.*
+Be it a sanxian or a lyre, she sends it Elsewhere for one mote. The Solar may only draw it back with a flourish, often a swipe of her hand that causes it to materialize from a glimmer, or from a gout of Solar flame. This flourish costs two motes, and all who witness it become immediately aware of the Solar’s divinity. Any relevant [[Intimacy|Intimacies]] they have for “divine beings” or “spirits” or “holiness” automatically qualify as [[Resolve]] modifiers for the Solar’s music, regardless of what she intends by it.
 
 ### On [[Divine Instrument]]
 

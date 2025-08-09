@@ -22,7 +22,7 @@ Fire Aspects tend toward a constant flushed tone to their skin. Many radiate mor
 # Anima Effects
 
 Fire Aspects are unburnt by flame while immolating their foes with anima flux, and draw power from their passions (p. 155). 
-- For five motes, the [[Fire Aspect]] becomes completely immune to mundane environmental hazards based on fire or heat for a scene. She adds ([[Essence]]) natural soak and gains [[Hardness]] 2 against fire-based attacks like firewands. She gains these benefits for free while at bonfire.
+- For five motes, the [[Fire Aspect]] becomes completely immune to mundane [[environmental hazards]] based on fire or heat for a scene. She adds ([[Essence]]) natural soak and gains [[Hardness]] 2 against fire-based attacks like [[Firewand|firewands]]. She gains these benefits for free while at bonfire.
 - Once per day, when the [[Fire Aspect]] takes a nonextended action to uphold an emotion-based [[Intimacy]], she adds ([[Intimacy]]) non-Charm bonus dice to the roll.
 - A Fire Aspect’s anima flux deals (higher of [[Essence]] or 3) damage to characters without [[Hardness]] instead of one die.
 

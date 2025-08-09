@@ -12,4 +12,5 @@ Prerequisite Charms:
   - "[[ Adamant Skin Technique]]"
   - "[[Shared Passion Outburst]]"
 ---
-This Evocation upgrades [[Adamant Skin Technique]] (Exalted, p.377). In Quicksilver Host Mien, its cost is reduced to seven motes. In Final Unity Mien, its cost is reduced to five motes.
+*This Evocation upgrades [[Adamant Skin Technique]] (Exalted, p.377).*
+In [[Unison#Quicksilver Host Mien|Quicksilver Host Mien]], its cost is reduced to seven motes. In [[Unison#Final Unity Mien|Final Unity Mien]], its cost is reduced to five motes.

@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Mudra of Perfected Skill]]"
 ---
-What greater source of conviction can one have than one’s own excellence? Whenever a roll supplemented by [[Mudra of Perfected Skill]] achieves 10+ threshold successes, the Exalt gains one temporary [[Willpower]]. This can exceed her permanent rating. 
+*What greater source of conviction can one have than one’s own excellence? Whenever a roll supplemented by [[Mudra of Perfected Skill]] achieves 10+ threshold successes, the Exalt gains one temporary [[Willpower]].*
+This can exceed her permanent rating. 
 
 ## Special activation rules
 

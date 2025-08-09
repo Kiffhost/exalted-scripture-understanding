@@ -4,7 +4,7 @@ aliases:
 tags:
   - source/solar-book
 ---
-Superior projects describe two sorts of endeavor: [[Artifact|Artifacts]] ([[Items/Artifacts & Evocations/The Grand Panoply/Generic [[Artifact]] Weapons/Daiklave]]s and magical armour) and largescale construction (palaces and warships). Mortals may perform Superior Projects to the purpose of largescale construction, but not artifacts.
+Superior projects describe two sorts of endeavor: [[Artifact|Artifacts]] (e.g. [[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Daiklave|daiklave]]s and magical armour) and [[Craft#Large-Scale Projects|large-scale construction]] (palaces and warships). Mortals may perform Superior Projects to the purpose of large-scale construction, but not artifacts.
 # Beginning
 Creating artifacts requires the crafter be a character capable of manipulating [[Essence]] (such as an Exalt or sorcerer), have at least [[Lore]] 3, [[Occult]] 3, a relevant [[Craft]] Ability rated to at least 4, and must then purchase dots of [[Craft]] (Artifacts). In addition, all artifacts require high-quality tools and significant amounts of the magical materials; most also demand various exotic or mystical reagents such as frozen flame, behemoth bones, the captured love of a raksha noble, or other such wonders. Designing and building an artifact is a massive drain on a crafter, and as such these superior projects require a superior crafting [[#Slot]]. 
 # Slot
@@ -16,15 +16,15 @@ Created superior slots vanish when the superior project they’re sustaining end
 Creating artifacts is an intensely demanding art, part craftsmanship, part spiritual communion. The character not only labors through the work-intensive task of shaping and tempering the magical materials, she also coaxes the artifact’s spirit into being and forges its [[Essence]] to suit her vision. As such, artifacts require a minimum time spent laboring over their construction before a character can attempt to finish them. 
 
 | [[Artifact]] Dots | Minimum time | Goal number | [[Crafting Projects#Crafting Experience\|wxp]] |
-| ------------- | ------------ | ----------- | ---------------------------------------------- |
-| 2             | 6 weeks      | 30          | 3                                              |
-| 3             | 3 months     | 50          | 5                                              |
-| 4             | 1 year       | 75          | 7                                              |
-| 5             | 2 years      | 100         | 9                                              |
+| ----------------- | ------------ | ----------- | ---------------------------------------------- |
+| 2                 | 6 weeks      | 30          | 3                                              |
+| 3                 | 3 months     | 50          | 5                                              |
+| 4                 | 1 year       | 75          | 7                                              |
+| 5                 | 2 years      | 100         | 9                                              |
 
 ^effebd
 
-These times assume the character is spending several hours each day actively working on the artifact. In practice, it often takes much longer than the minimum allotted time to complete an artifact. 
+These times assume the character is spending several hours each day actively working on the artifact. In practice, it often takes much longer than the minimum allotted time to complete an artifact (See [[Labor Time]]).
 
 Once the character is ready to try to finish the project, she must spend 10 [[Crafting Projects|gold points]] and roll Attribute + (Lower of [[Craft]] ([[Artifact]]) or the highest-rated most appropriate mundane [[Craft]] skill she possesses). Unlike [[Basic Project|basic]] and [[Major Project|major projects]], finishing a superior project is an [[Action#Extended|extended roll]]. This roll is difficulty 5, has a [[Action#Extended#Terminus|terminus]] of 6, and a goal number depending on the [[#^effebd|artifact's rating]]. The roll has no set [[Action#Extended#Interval|interval]]; each time the character pays 10 gold points to attempt to complete the project, she can roll once, and may attempt her next roll once she can pay another 10 gold points to try again. A botch immediately ruins the project, while failure to complete the artifact before the terminus means that the artifact’s spirit has failed to kindle, its [[Essence]] has not aligned, and that the artifact cannot be created—the character must scrap the project and start over. If the intended artifact was one-of-a-kind, such as all daiklaves and similar weapons are, the character can never attempt to build that specific artifact again. She might one day create a different daiklave, but the dream she strove to realize with that particular failed project is gone forever.
 # Reward

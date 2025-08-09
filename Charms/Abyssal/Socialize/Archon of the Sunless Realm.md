@@ -17,4 +17,4 @@ Prerequisite Charms:
 *Drawing from her memories of the living and forbidden wisdoms of the dead, Death’s Lawgiver speaks a new order unto the world.*
 The Abyssal invokes a free full [[Socialize]] Excellency.
 ## Reset 
-Once per scene, unless reset by causing a significant setback to a character the Abyssal has a negative Major or Defining Tie towards through social influence or devious cunning.
+Once per scene, unless reset by causing a significant setback to a character the Abyssal has a negative Major or Defining [[Intimacy|Tie]] towards through [[social influence]] or devious cunning.

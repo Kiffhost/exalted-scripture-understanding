@@ -12,7 +12,8 @@ Duration: Indefinite
 Prerequisite Charms:
   - "[[Watchful Eyes of Heaven]]"
 ---
-The Solar might grow to consider her allies to be an extension of her self. With a touch, the Lawgiver may use [[Empathic Aegis Discipline]] to deepen this connection. If the Solar has a Major or Defining [[Intimacy|Tie]] for a character who shares one of her Defining Principles, when the subject feels physical or emotional agony the Solar senses it and understands the context of their suffering. This is not a debilitating experience — a subject losing a hand does not have the same impact on the Solar. But she does understand that he’s been caught thieving and is being punished. If the subject is somewhere the Lawgiver has been, this Charm makes her aware of the subject’s whereabouts. If not, she gets a general sense of direction and (greater of [[Essence]] or three) non-Charm successes to [[Awareness]], [[Investigation]], or [[Survival]] to find them. At [[Essence]] 4+, the cost of this Charm drops to three motes. 
+*The Solar might grow to consider her allies to be an extension of her self.*
+With a touch, the Lawgiver may use [[Empathic Aegis Discipline]] to deepen this connection. If the Solar has a Major or Defining [[Intimacy|Tie]] for a character who shares one of her Defining Principles, when the subject feels physical or emotional agony the Solar senses it and understands the context of their suffering. This is not a debilitating experience — a subject losing a hand does not have the same impact on the Solar. But she does understand that he’s been caught thieving and is being punished. If the subject is somewhere the Lawgiver has been, this Charm makes her aware of the subject’s whereabouts. If not, she gets a general sense of direction and (greater of [[Essence]] or three) non-Charm successes to [[Awareness]], [[Investigation]], or [[Survival]] to find them. At [[Essence]] 4+, the cost of this Charm drops to three motes. 
 
 ## Special activation rules
 

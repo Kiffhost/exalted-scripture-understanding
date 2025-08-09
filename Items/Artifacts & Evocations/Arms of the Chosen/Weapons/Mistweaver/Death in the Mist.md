@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Sea-Smoke Veil]]"
 ---
-The mist is kind to its master, but treacherous to her foes. This Evocation supplements a surprise attack within watery concealment, increasing the [[Defense]] penalty to −4. 
+*The mist is kind to its master, but treacherous to her foes.*
+This Evocation supplements a surprise attack within watery concealment, increasing the [[Defense]] penalty to −4. 
 
 ## Resonant
 

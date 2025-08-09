@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Material Exegesis Prana]]"
 ---
-Focusing her [[Essence]] into the corporeal form of a spirit familiar,asummonedelemental,orsorcerously-bounddemon, the Solar may pour her anima into such a creature to heal its wounds. The Exalt pays one mote to activate the Charm, and foreverytwomotesandonelevelofanimashespends,oneof the spirit’s damaged health levels is instantly healed.
+*Focusing her [[Essence]] into the corporeal form of a spirit familiar, a summoned elemental, or sorcerously-bound demon, the Solar may pour her anima into such a creature to heal its wounds.*
+The Exalt pays one mote to activate the Charm, and for every two motes and one level of anima she spends, one of the spirit’s damaged health levels is instantly healed.
 
 ### On [[Anima-Suffused Spirit]]
 

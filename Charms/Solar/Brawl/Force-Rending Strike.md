@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Ferocious Jab]]"
 ---
-The Exalt glances into the aura of violence before her and knows the course of her opponent’s strike, meeting it with a greater violence of her own. This Charm allows the Solar to make a reflexive [[Brawl]]-based clash attack(p.202)against an incoming decisive attack. This does not count as the Solar’s combat action.
+*The Exalt glances into the aura of violence before her and knows the course of her opponent’s strike, meeting it with a greater violence of her own.*
+This Charm allows the Solar to make a reflexive [[Brawl]]-based clash attack(p.202)against an incoming decisive attack. This does not count as the Solar’s [[combat action]].

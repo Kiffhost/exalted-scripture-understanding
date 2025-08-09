@@ -13,7 +13,8 @@ Duration: One story
 Prerequisite Charms:
   - "[[ Shadow-Prince Conspiracy]]"
 ---
-Majestic Nightmare Visage ever schemes against its wearer’s superiors, whispering of how they might be toppled from their thrones and made to bow before her. The wearer spends a scene plotting to depose, overthrow, or otherwise remove a character that she has a negative Major or Defining [[Intimacy|Tie]] toward — this Evocation’s target — from a position of political, social, or military authority. She rolls ([[Manipulation]] + [Bureaucracy, [[Larceny]], or Socialize]), gaining betrayal points equal to her successes. She may spend them on the following effects:
+*Majestic Nightmare Visage ever schemes against its wearer’s superiors, whispering of how they might be toppled from their thrones and made to bow before her.*
+The wearer spends a scene plotting to depose, overthrow, or otherwise remove a character that she has a negative Major or Defining [[Intimacy|Tie]] toward — this Evocation’s target — from a position of political, social, or military authority. She rolls ([[Manipulation]] + {Bureaucracy, [[Larceny]], or Socialize}), gaining betrayal points equal to her successes. She may spend them on the following effects:
  - 1 Point: Waive Becoming Midnight’s Childe’s cost.
  - 3 Points: Add an automatic success on a roll opposing this Evocation’s target.
  - 3 Points: Gain +3 [[Guile]] against this Evocation’s target for one scene.
@@ -28,4 +29,4 @@ This Evocation can only be used once per story, unless reset by upholding a Majo
 The wearer can’t use the seven-point effects.
 ## Resonant
 The wearer doubles 9s on this Evocation’s activation roll.
-[[EXPERIENCE DEBT]] Certain effects let player characters increase or gain new traits by incurring experience debt equal to the normal cost of purchasing those traits. Any experience points she subsequently receives go toward paying off the debt, until it’s paid in full. Until the debt’s fully paid, the character can’t benefit from other effects that cause experience debt. Storyteller characters never go into experience debt.
+[[Experience Debt]] Certain effects let player characters increase or gain new traits by incurring [[Experience Debt]] equal to the normal cost of purchasing those traits. Any experience points she subsequently receives go toward paying off the debt, until it’s paid in full. Until the debt’s fully paid, the character can’t benefit from other effects that cause [[Experience Debt]]. Storyteller characters never go into [[Experience Debt]].

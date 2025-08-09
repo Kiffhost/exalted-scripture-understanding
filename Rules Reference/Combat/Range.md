@@ -1,12 +1,20 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - close range
+  - short range
+  - medium range
+  - long range
+  - extreme range
+  - range band
+  - range bands
 ---
 The [[Accuracy]] of ranged weapons generally varies with range.
 
-There are several range categories that two characters can potentially occupy in relation to one another:
+There are several **range bands** that two characters can potentially occupy in relation to one another:
 # Close
-When a character is at close range, he is in an opponent’s face, close enough to easily attack with a hand-to-hand weapon such as a sword, spear, or his fists. This doesn’t mean that the characters are necessarily within arm’s reach of each other at all times, but rather that they are able to close such a distance in moments. 
+When a character is at close range, he is in an opponent’s face, close enough to easily attack with a hand-to-hand weapon such as a sword, [[spear]], or his fists. This doesn’t mean that the characters are necessarily within arm’s reach of each other at all times, but rather that they are able to close such a distance in moments. 
 
 If an opponent is within close range of a character, that character is *embattled*, and must use a [[Disengage]] if he wishes to move away from the opponent.
 # Short

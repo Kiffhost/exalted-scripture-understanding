@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The wielder channels the shield’s harmonics into her opponent’s weapon, which shakes wildly in his hand. Upon successfully blocking an attack using [[Irenio’s Bell]], the Exalt can activate this Evocation to impose a two-die penalty on the opponent’s attack rolls. The penalty lasts until the end of the opponent’s next turn for unarmed attacks, but a weapon continues to vibrate until end of scene. This vibration can be damped by successfully striking a target. 
+*The wielder channels the shield’s harmonics into her opponent’s weapon, which shakes wildly in his hand.*
+Upon successfully blocking an attack using [[Irenio’s Bell]], the Exalt can activate this Evocation to impose a two-die penalty on the opponent’s attack rolls. The penalty lasts until the end of the opponent’s next turn for unarmed attacks, but a weapon continues to vibrate until end of scene. This vibration can be damped by successfully striking a target. 
 
 ## Resonant
 

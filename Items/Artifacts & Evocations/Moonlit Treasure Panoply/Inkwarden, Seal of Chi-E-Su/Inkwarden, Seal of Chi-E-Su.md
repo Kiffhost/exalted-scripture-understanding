@@ -10,12 +10,13 @@ Backer: Chase Burton
 Material: Moonsilver
 Dots: "4"
 ---
-The sorcerer Chi-E-Su cared little for his own fame. In his eyes, the First Age’s greatest injustice was that the Exalted shone too bright in their glory, denying mortals of great skill and greater passion the chance to make their mark on history. He created Inkwarden to elevate the creations and works of mortals, turning his power to the ennoblement of others.
+*The sorcerer Chi-E-Su cared little for his own fame.*
+In his eyes, the First Age’s greatest injustice was that the Exalted shone too bright in their glory, denying mortals of great skill and greater passion the chance to make their mark on history. He created Inkwarden to elevate the creations and works of mortals, turning his power to the ennoblement of others.
 The seal is a finger-length rod, ending in a blank disc of moonsilver that’s shaped to make Inkwarden’s mark.
 The rest of the seal seems made from glass, spun from the heart grace of an ancient faerie smith. Within the glass roils midnight-black ink — a drop of blood from the Demon Prince called Elloge, whose flesh is language and legend.
 Chi-E-Su invited crafters from across Creation to seek out Inkwarden’s blessing. Each suppliant recounted the tale of their masterpiece’s creation, telling him how they spent years laboring atop a mountain, stole precious jewels from the Jadeborn’s vaults, or used a behemoth’s skull for their anvil. When the sorcerer deemed a suppliant worthy and their tale true, Inkwarden imbued their story into their own creation, empowering it with its own legend.
 After the sorcerer’s death, Inkwarden was entrusted to his Moon-Touched descendants, passed down over generations. But none could wake the full power that the seal had held in Chi-E-Su’s hands, and not all followed his example in their deeds. Some mastered its power over spirits, like Cheseth of Mari, a magistrate of the Old Realm and binder of criminal gods. Others turned it to selfish ends, like the wayward Logue, who made her fortune lending the seal’s imprimatur to all manner of counterfeit wares, forgeries, and damaged goods.
-Chi-E-Su’s descendants were among the collateral damage of the Usurpation. The family’s surviving members were scattered throughout Creation, and many fell in the first days of the Wyld Hunt. No Shogunate records Inkwarden’s discovery, nor has the Silver Pact sniffed out its location. Some say it remains yet in the hands of Chi-E-Su’s descendants; such tale-tellers invent details of the Moon-Touched clan’s secret sanctuary around campfires or over drinks. 
+Chi-E-Su’s descendants were among the collateral damage of the Usurpation. The family’s surviving members were scattered throughout Creation, and many fell in the first days of the Wyld Hunt. No Shogunate records Inkwarden’s discovery, nor has the [[Lore/Factions/Silver Pact|Silver Pact]] sniffed out its location. Some say it remains yet in the hands of Chi-E-Su’s descendants; such tale-tellers invent details of the Moon-Touched clan’s secret sanctuary around campfires or over drinks. 
  
 ## [[Evocations]] of Inkwarden
 

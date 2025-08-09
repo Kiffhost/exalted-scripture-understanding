@@ -11,7 +11,8 @@ Speed: Magically impelled +2, Current +1, Oars +1, empty cargo hold +1
 Maneuverability: "+3"
 Hull: -1/-2/-4/Incapacitated
 ---
-Tossing a leaf, petal, or fruit into a body of water, the sorcerer beckons it with mudras of the turning seasons to grow into a small, seaworthy craft. This is a #ship with the following traits:
+*Tossing a leaf, petal, or fruit into a body of water, the sorcerer beckons it with mudras of the turning seasons to grow into a small, seaworthy craft.*
+This is a #ship with the following traits:
 - [[Ship Speed]]: Magically impelled +2; current +1; oars +1; empty cargo hold +1 -
 - [[Maneuverability]]: +3;
 - [[Hull]]: −1/−2/−4/Incapacitated 

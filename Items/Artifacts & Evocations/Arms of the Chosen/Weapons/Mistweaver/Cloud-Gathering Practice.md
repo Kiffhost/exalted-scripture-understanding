@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Death in the Mist]]"
 ---
-Weaving mist has become second nature to the wielder. Upon winning [[Join Battle]], she can reflexively activate [[Fog-Raising Gesture]] at no cost. 
+*Weaving mist has become second nature to the wielder.*
+Upon winning [[Join Battle]], she can reflexively activate [[Fog-Raising Gesture]] at no cost. 
 
 ## Special activation rules
 

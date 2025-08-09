@@ -11,8 +11,9 @@ Keywords:
 Duration: One project
 Prerequisite Charms:
   - "[[Devil-Pleasing Chiminage]]"
+  - "[[Dreaming Wisdom Revelation]]"
 ---
-Dreaming Wisdom Revelation The Lunar offers her patronage to those who worship at her shrine in the wilderness, blessing them with secret rites of otherworldly power.
+*The Lunar offers her patronage to those who worship at her shrine in the wilderness, blessing them with secret rites of otherworldly power.*
 The Lunar creates a shrine, monument, cairn, or similar site in a place that’s close to a community, but set apart from it — a forest bordering a village, a mountain peak that looms above a mining town, First Age ruins beneath a city, etc. This requires at least a major [[Craft]] project (Exalted, p. 240). As part of this project, the Lunar must spread word of her shrine among the community, teaching them the rites that must be performed there.
 Once the Lunar completes her shrine, the community’s people may invoke her favor and protection by performing the shrine’s rites.
 The shrine’s rites can take many forms, but always require a community member to travel to the shrine no less than once a year at Calibration. The Lunar also imposes additional requirements whose severity depends on how much of the community must be involved to meet them. If a majority of its populace is required, their obligation need only be an inconvenient task (Exalted, p. 216), like observing a dietary restriction or praying to the Lunar. If a smaller group is necessary, it must be at least a serious task, like making lavish offerings of animal sacrifices. If only the person who travels to the shrine is necessary, it must be a life-changing task, like killing a lion alone and bringing its carcass to the shrine.

@@ -13,7 +13,7 @@ Prerequisite Charms:
   - None
 ---
 *Death’s Lawgiver conceals truth behind lies and knowledge in ignorance, employing subtle nuances of tone, body language, and professional jargon to shape assumptions.*
-The Abyssal may reflexively invoke one of the following attitudes. Each can be leveraged with social influence as though it were a Minor [[Intimacy]].
+The Abyssal may reflexively invoke one of the following attitudes. Each can be leveraged with [[social influence]] as though it were a Minor [[Intimacy]].
 [[Corruption]]: Any character who desires or intends to have dealings with a corrupt official will perceive the Abyssal as dishonest, dissolute, and open to bribes in whatever position of authority she may hold, ensuring she will be sought out by those looking to make backroom deals, solicit abuses of her power, or otherwise circumvent the law. Characters attempting to uncover or investigate corruption never experience this assumption, even if they seek to deal with corrupt officials as part of their investigation.
 Honesty: The Abyssal appears utterly incorruptible in whatever position of authority she may hold.
 Investigators and auditors are inclined to pass her over when rooting out corruption or abuses of power, and those in need of help that only an honest official can provide will assume that she can aid them.

@@ -13,8 +13,8 @@ Duration: Until next turn
 Prerequisite Charms:
   - "[[All-Consuming Guardian Stance]]"
 ---
-The passion within [[Pyre of Legions]] cannot be contained in the form of a single hero — she’s consumed alive, becoming a walking pyre that scorches the earth around her. On her turn, she wreathes herself in a bonfire (difficulty 5, damage 4L/round) that extends out to short range, moving with her. The flames deal her no damage (other than the health level cost). If she activated this Evocationonherpreviousturn,shewaivesitsmotecost. 
-
+*The passion within [[Pyre of Legions]] cannot be contained in the form of a single hero — she’s consumed alive, becoming a walking pyre that scorches the earth around her.*
+On her turn, she wreathes herself in a bonfire (difficulty 5, damage 4L/round) that extends out to short range, moving with her. The flames deal her no damage (other than the health level cost). If she activated this Evocationon her previous turn, she waives its mote cost. 
 ## Resonant
 
 The bonfire gains +1 difficulty and +2L Damage.

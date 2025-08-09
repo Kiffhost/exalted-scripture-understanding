@@ -2,6 +2,8 @@
 tags:
   - Action
   - source/solar-book
+aliases:
+  - treat disease
 ---
 Treating [[Disease]] is a protracted process, requiring the physician spend at least one hour treating the patient for each day of the sickness’s [[Disease#Interval|interval]]. Depending on the disease, this may require access to medical equipment or costly treatments, the absence of which may increase the difficulty of the roll. At the end of the course of treatment, roll ([[Intelligence]] + [[Medicine]]). When the victim makes his own roll to resist the disease, he may substitute the result of the physician’s roll for his own if it is higher. 
 # Example

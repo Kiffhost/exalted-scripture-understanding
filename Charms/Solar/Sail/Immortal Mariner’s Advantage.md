@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Talents honed by lifetimes of effort and sacrifice, the Exalt channels her experience into perfected motions of hand and sail, cunning naval attack plans, and decisive marine gambits. For one mote, the Exalt may use this Charm after any [[Sail]]-based roll, allowing her to either apply the double 9s rule or to reroll 1s until 1s fail to appear. For two motes, she may do both.
+*Talents honed by lifetimes of effort and sacrifice, the Exalt channels her experience into perfected motions of hand and sail, cunning naval attack plans, and decisive marine gambits.*
+For one mote, the Exalt may use this Charm after any [[Sail]]-based roll, allowing her to either apply the double 9s rule or to reroll 1s until 1s fail to appear. For two motes, she may do both.

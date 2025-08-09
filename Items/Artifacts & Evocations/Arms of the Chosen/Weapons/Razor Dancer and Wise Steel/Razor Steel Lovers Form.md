@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[ Razor Dancer Form]]"
   - "[[Wise Steel Form]]"
 ---
-Moving as harmoniously as they did in life, the swords that once were Adalin and Seren guide the Exalt through their dance of battle. She gains +1 [[Accuracy]] with both weapons and +1 [[Defense|Parry]], and adds ([[Essence]]) bonus dice on combat movement rolls and rolls opposing enemy movement. She waives the cost of disengaging and gains 1 [[Initiative]] whenever she wins an opposed movement roll. She adds her ([[Essence]] + 1) to her [[Initiative]] to determine when she acts in the round. 
+*Moving as harmoniously as they did in life, the swords that once were Adalin and Seren guide the Exalt through their dance of battle.*
+She gains +1 [[Accuracy]] with both weapons and +1 [[Defense|Parry]], and adds ([[Essence]]) bonus dice on combat movement rolls and rolls opposing enemy movement. She waives the cost of disengaging and gains 1 [[Initiative]] whenever she wins an opposed movement roll. She adds her ([[Essence]] + 1) to her [[Initiative]] to determine when she acts in the round. 
 
 ## Special activation rules
 

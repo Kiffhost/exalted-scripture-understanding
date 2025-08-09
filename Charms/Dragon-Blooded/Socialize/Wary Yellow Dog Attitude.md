@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The line between social pleasantries and drawn blades can be all too thin, but the Dragon-Blood isn’t caught unawares. When combat breaks out amid social interaction, she may use this Charm to [[Join Battle]] with ([Perception or Wits] + [[Socialize]]). If she’s successfully influenced or read the intentions of one of her enemies earlier in the scene, she rolls an additionalnon-Charmdieforeach10onherJoinBattleroll.
+*The line between social pleasantries and drawn blades can be all too thin, but the Dragon-Blood isn’t caught unawares.*
+When combat breaks out amid social interaction, she may use this Charm to [[Join Battle]] with ({Perception or Wits} + [[Socialize]]). If she’s successfully influenced or read the intentions of one of her enemies earlier in the scene, she rolls an additional non-Charm die for each 10 on her [[Join Battle]] roll.

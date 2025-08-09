@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Spitting Hand Technique]]"
 ---
-When she sees the perfect moment to act, the Lawgiver strikes with unthinkable speed. This Charm supplements a [[Thrown]] Disarm, Distract, or Unhorse Gambit, allowing it to be made without needing an aim action.
+*When she sees the perfect moment to act, the Lawgiver strikes with unthinkable speed.*
+This Charm supplements a [[Thrown]] Disarm, Distract, or Unhorse Gambit, allowing it to be made without needing an aim action.
 
 ### On [[Diving Hawk Discipline]]
 

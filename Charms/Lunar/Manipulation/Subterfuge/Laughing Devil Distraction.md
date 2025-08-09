@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Catching a foe’s attention with mockery or mischief, the Lunar creates an opening for her allies. She rolls a distract gambit with ([[Manipulation]] + [Performance, [[Presence]], or Socialize]) against the [[Resolve]] of an enemy within medium range. 
+*Catching a foe’s attention with mockery or mischief, the Lunar creates an opening for her allies.*
+She rolls a distract gambit with ([[Manipulation]] + {Performance, [[Presence]], or Socialize}) against the [[Resolve]] of an enemy within medium range. 
 
 ## Special activation rules
 

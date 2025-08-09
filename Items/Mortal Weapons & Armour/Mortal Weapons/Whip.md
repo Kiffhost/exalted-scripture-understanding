@@ -11,5 +11,7 @@ WeaponTags:
   - "[[Item Tags#Grappling|Grappling]]"
   - "[[Item Tags#Reaching|Reaching]]"
 Cost: " 1"
+aliases:
+  - whips
 ---
 A whip is a handle with a coil of leather thongs or tightly woven cord, primarily used by drovers to control beasts. Whips inflict more pain than damage, but a skilled user can entangle foes or wrench weapons from their grip. Most whips are between two and five yards long. 

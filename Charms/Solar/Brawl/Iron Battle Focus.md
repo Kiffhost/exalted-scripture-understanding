@@ -12,4 +12,5 @@ Duration: One turn
 Prerequisite Charms:
   - "[[Fists of Iron Technique]]"
 ---
-Though she may take a beating, the Exalt’s resolve is tougher than iron. The Solar may activate this Charm to become immune to further onslaught penalties until her next action.
+*Though she may take a beating, the Exalt’s resolve is tougher than iron.*
+The Solar may activate this Charm to become immune to further onslaught penalties until her next action.

@@ -14,4 +14,5 @@ Duration: Until next turn
 Prerequisite Charms:
   - None
 ---
-Flames wreathe the Exalt’s weapon, burning brighter with each blow that it deflects. She gains +1 [[Defense|Parry]] until her next turn. This increases by one each time she blocks an attack. This bonus resets if the Dragon-Blood is hit by an attack, or defends using an Ability other than [[Melee]].
+*Flames wreathe the Exalt’s weapon, burning brighter with each blow that it deflects.*
+She gains +1 [[Defense|Parry]] until her next turn. This increases by one each time she blocks an attack. This bonus resets if the Dragon-Blood is hit by an attack, or defends using an Ability other than [[Melee]].

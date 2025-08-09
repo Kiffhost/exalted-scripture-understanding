@@ -11,4 +11,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-Daiklaves are elaborately decorated swords with blades between four and six feet long and often up to six inches wide. They are forged from magical material alloyed with the finest of mundane steel, bronze, or other metal—or more exotic substances. They are large and clumsy unless attuned to the user’s [[Essence]], but once attuned they become swift and deadly.
+*Daiklaves are elaborately decorated swords with blades between four and six feet long and often up to six inches wide.*
+They are forged from magical material alloyed with the finest of mundane steel, bronze, or other metal—or more exotic substances. They are large and clumsy unless attuned to the user’s [[Essence]], but once attuned they become swift and deadly.

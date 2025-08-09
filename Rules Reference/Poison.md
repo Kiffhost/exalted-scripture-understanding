@@ -2,10 +2,9 @@
 tags:
   - source/solar-book
 ---
-# TLDR
-[[Poison]] lasts its [[#Duration]] - <successes on (Stamina+Resistance) roll>, applying its [[#Penalty]] and dealing its [[#Damage]] every [[#Interval]]. Poisoning with an envenomed weapon requires a [[Attack#decisive|decisive attack]].
-# Full text
-Whether it is a serpent’s venom, an assassin’s weapon, or the distilled malevolence of a Demon Prince, there are ten thousand poisons to be found throughout the world of Creation. Mighty as the Exalted may be, even they can be laid low by such means. 
+[[Poison]] lasts its [[#Duration]] - {successes on (Stamina+Resistance) roll}, applying its [[#Penalty]] and dealing its [[#Damage]] every [[#Interval]]. Poisoning with an envenomed weapon requires a [[Attack#decisive|decisive attack]].
+# Poison
+*Whether it is a serpent’s venom, an assassin’s weapon, or the distilled malevolence of a Demon Prince, there are ten thousand poisons to be found throughout the world of Creation. Mighty as the Exalted may be, even they can be laid low by such means.* 
 
 In Exalted, a poison is treated as a debilitating status effect that deals damage to a character over an extended period of time. Each poison has five main statistics: [[#Damage]], [[#Interval]], [[#Duration]], [[#Penalty]], and [[#Vector]].
 
@@ -36,7 +35,7 @@ A penalty that is applied to all actions the character takes while poisoned (wit
 # Vector
 The usual means by which the poison is contracted. 
 
-Common vectors include damage (for weapons that can be applied to poison), touch, inhalation, and ingestion. Poisoning someone with an envenomed weapon requires a successful [[Attack#decisive|decisive attack]]. 
+Common vectors include damage (for weapons that can be applied to poison), touch, inhalation, and ingestion. Poisoning someone with an [[Item Tags#Poisonable|envenomed]] weapon requires a successful [[Attack#decisive|decisive attack]]. 
 # Common poisons
 
 | Name                        | [[#Damage]]                            | [[#Interval]]         | [[#Duration]]             | [[#Penalty]] | [[#Vector]]                              |
@@ -48,4 +47,4 @@ Common vectors include damage (for weapons that can be applied to poison), touch
 | Snake Venom                 | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage                                   |
 | Yozi Venom                  | 1L                                     | minute                | 10 minutes                | -5           | Damage                                   |
 | [[Bright Morning]] overdose | 1B                                     | hour                  | 8 hours                   | -3           | Inhalation                               |
-| [[Dawnflower]] paste        | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage to [[Creatures of Darkness\|CoD]] |
+| [[Dawnflower]] paste        | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage to [[CREATURES OF DARKNESS\|CoD]] |

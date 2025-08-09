@@ -12,4 +12,5 @@ Prerequisite Charms:
   - "[[ Giant-Felling Stroke]]"
   - "[[Godspeed Steps]]"
 ---
-This Evocation upgrades [[Godspeed Steps]] (Exalted, pp. 265-266). The Solar waives its [[Willpower]] cost when she uses it to rush her quarry and make a decisive attack.
+*This Evocation upgrades [[Godspeed Steps]] (Exalted, pp.*
+265-266). The Solar waives its [[Willpower]] cost when she uses it to rush her quarry and make a decisive attack.

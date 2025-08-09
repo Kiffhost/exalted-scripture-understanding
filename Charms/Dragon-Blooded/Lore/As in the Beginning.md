@@ -13,7 +13,8 @@ Duration: Five hours
 Prerequisite Charms:
   - "[[Dragon Vortex Attack]]"
 ---
-Embodying the creative and destructive power of the Five Elemental Dragons, the Dragon-Blood unleashes a primal force not witnessed since Creation’s birth. Her anima banner flares to bonfire, straining with barely-contained force that mounts over the course of five hours. During this time, the Dragon-Blood can’t take any non-reflexive actions or movement actions. Anyone who can see her anima banner can tell that disaster is imminent; a difficulty 2 ([Intelligence or Perception] + [[Occult]] roll) reveals exactly how much time remains.
+*Embodying the creative and destructive power of the Five Elemental Dragons, the Dragon-Blood unleashes a primal force not witnessed since Creation’s birth.*
+Her anima banner flares to bonfire, straining with barely-contained force that mounts over the course of five hours. During this time, the Dragon-Blood can’t take any non-reflexive actions or movement actions. Anyone who can see her anima banner can tell that disaster is imminent; a difficulty 2 ({Intelligence or Perception} + [[Occult]] roll) reveals exactly how much time remains.
 The Dragon-Blood’s anima collapses, dispersing harmlessly, if she leaves Aura or is crashed, incapacitated, or forcibly moved by an enemy.
 After five hours uninterrupted, the Dragon-Blood expends her Aura and rolls ([[Intelligence]] + [[Lore]]), unleashing a blast that extends (successes/2) miles outwards.
 She and her Hearthmates are immune to the blast’s immediate consequences; she can use [[Enfolded in the Dragon’s Wings]] (Dragon-Blooded, p. 282) to grant the same protection to all allied characters within medium range. The Storyteller determines how much damage the blast inflicts on mundane scenery and trivial opponents, up to [[uncountable damage]]. Affected battle groups must check for rout against difficulty 4. The blast’s other effects depend on its elemental aspect: 
@@ -22,24 +23,24 @@ The sky darkens, pouring down harsh rain or heavy snowfall accompanied by gale-f
  - Precipitation imposes a –2 penalty on all vision- or hearing-based rolls.
  - Winds impose a –3 penalty on movement actions, ranged attacks, and similar rolls.
  - Airborne characters and trivial opponents treat all movement as difficult terrain.
- - Characters exposed to the storm suffer an environmental hazard with difficulty 2, Damage 10L/hour; a failed roll indicates they’ve been struck by lightning.
+ - Characters exposed to the storm suffer an [[Environmental Hazards|environmental hazard]] with difficulty 2, Damage 10L/hour; a failed roll indicates they’ve been struck by lightning.
 The storm lasts (Dragon-Blood’s successes/2) hours, rounded up, but can be dispersed earlier through magic or the creative actions of characters.
 
 ### Earth
 The land shakes and grinds horrifically as seismic tremors shudder through it.
- - All characters within range must make a difficulty 3 ([[Dexterity]] + [[Athletics]]) balance roll or fall into a yawning chasm, suffering falling damage as per a short-range fall (Exalted, p. 232) unless they find a way to mitigate it. Climbing out requires a difficulty 3 ([Dexterity or Strength] + [[Athletics]]) roll, although characters may escape by other means, such as [[Monkey Leap Technique]].
+ - All characters within range must make a difficulty 3 ([[Dexterity]] + [[Athletics]]) balance roll or fall into a yawning chasm, suffering falling damage as per a short-range fall (Exalted, p. 232) unless they find a way to mitigate it. Climbing out requires a difficulty 3 ({Dexterity or Strength} + [[Athletics]]) roll, although characters may escape by other means, such as [[Monkey Leap Technique]].
  - The damage wrought by the earthquake renders the entire area difficult terrain (Exalted, p. 199), and the speed of any long-range travel through the affected area is halved.
 
 ### Fire
 A roaring conflagration engulfs the land, setting the world ablaze.
- - All characters suffer a one-time environmental hazard with difficulty 5, Damage 6L.
+ - All characters suffer a one-time [[Environmental Hazards|environmental hazard]] with difficulty 5, Damage 6L.
  - Forests, grasslands, wooden structures, and other flammable terrain catches fire and continues to burn with a lesser intensity (difficulty 5, Damage 4L/round) until they’re extinguished or no fuel remains.
  - A haze of smoke and ash hangs over the affected area, imposing a –2 penalty on any vision- or scentbased rolls. This lasts (Dragon-Blood’s successes/2) hours, rounded up, unless dispersed earlier by natural weather, magic, or the creative actions of characters, and may last longer if large regions remain ablaze.
 
 ### Water
 A swirling pillar of water descends from the sky or rises from the sea, before dispersing in all directions as a crushing tidal wave.
  - Depending on a character’s proximity to the Dragon-Blood, the amount of time they have to prepare for the wave’s impact varies — those within long range are struck by it instantly, without an opportunity to seek cover, while someone miles away from her might have minutes to prepare.
- - Characters unable to reach a place of safety before being hit must make a difficulty 5 ([Strength or Stamina] + [[Athletics]]) roll to avoid being carried away. If they fail, they’re knocked one range band away from the Dragon-Blood per success they failed by. If this movement is interrupted by hitting a barrier, the character takes damage as though he’d suffered a fall from a height equal to the number of range bands of movement prevented.
+ - Characters unable to reach a place of safety before being hit must make a difficulty 5 ({Strength or Stamina} + [[Athletics]]) roll to avoid being carried away. If they fail, they’re knocked one range band away from the Dragon-Blood per success they failed by. If this movement is interrupted by hitting a barrier, the character takes damage as though he’d suffered a fall from a height equal to the number of range bands of movement prevented.
  - Ships caught in this wave suffer ten dice of [[Hull]] damage. Captains can roll ([[Wits]] + [[Sail]]) to avoid the worst of it, subtracting one die of damage per success.
  - The blast is also likely to cause mass flooding in valleys and similar areas.
 

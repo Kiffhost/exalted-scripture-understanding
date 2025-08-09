@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Truth in Silvered Reflections]]"
 ---
-Having peered into the nightmare-haunted depths of the silver blade’s [[Essence]], the wielder is tempered against lesser horrors. She adds +2 [[Resolve]] against any fear-based social influence, and doubles 9s on [[Willpower]] rolls to resist Derangements. 
+*Having peered into the nightmare-haunted depths of the silver blade’s [[Essence]], the wielder is tempered against lesser horrors.*
+She adds +2 [[Resolve]] against any fear-based social influence, and doubles 9s on [[Willpower]] rolls to resist Derangements. 
 
 ## Special activation rules
 

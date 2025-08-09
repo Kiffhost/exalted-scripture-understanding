@@ -3,7 +3,17 @@ tags:
   - source/solar-book
 aliases:
   - Social Actions
+  - influence
 ---
+## AT A GLANCE
+- Discovering the [[Intimacy|Intimacies]] of others. 
+- Protecting your own Intimacies from discovery. 
+- Exploiting others’ Intimacies to persuade them. 
+- Instilling others with new Intimacies to affect their feelings or beliefs.
+- Strengthening or weakening the Intimacies others already hold. 
+
+In short: The social influence system is all about discovering, building or weakening the beliefs or emotional connections of others in order to convince them to do what you want them to do. 
+# Social Influence
 In Exalted, the words of prophets, courtiers, and princes carry as much power as a warrior’s sword or a sorcerer’s magic. Social influence is the system used for resolving interactions in which characters attempt to manipulate, persuade, or coerce each other. With the social actions listed below, characters can gain the trust of others and then use that to influence them, changing or shaping their beliefs over the course of a conversation, oration, or artistic performance.
 # Overview
 Social influence in Exalted revolves around [[Intimacy|Intimacies]]. In terms of gameplay, you’re either going to be *influencing someone’s outlook* (by creating, destroying, strengthening, or weakening [[Intimacy|Intimacies]]), or using [[Intimacy|Intimacies]] to *persuade someone to do what you want*. [[Intimacy|Intimacies]] are the core of this system.
@@ -23,8 +33,9 @@ FROM #Action/social
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", contains(file.etags, "Action/social/influence") AS "Uses [[Influence roll]]"
 FROM #Action/social
-SORT file.ctime
+SORT file.name
 ```
+See also: [[SEDUCTION]]
 ## Retrying Social Actions
 Each [[#Social Actions|social action]] has different conditions under which it may be retried. See the individual files.
 # [[Appearance]]
@@ -40,6 +51,10 @@ Sometimes, a character may wish to make a single [[Influence roll]] against mult
 
 Because the different targets of an influence roll can have varying [[Resolve]] ratings, the success or failure of the action is determined separately for each target.
 <details><summary>Example</summary>A [[Dawn]] Caste who rolls four successes to threaten a mercenary cadre into backing down from a fight might successfully intimidate the rank and file with [[Resolve]] 2, but not the unit’s God-Blooded leader with [[Resolve]] 5.</details>
+
+### Don't Get Stage Fright
+Unless they say otherwise, Solar [[Performance]] [[Charms]] ignore the penalty for [[Social Influence#One Target vs. Many Targets|group influence]] detailed here.
+
 ## Written [[Social Actions]]
 The written word can be used to persuade or manipulate others just as easily as speech or whisper. Characters who wish to convey influence through a letter, pamphlet, book, or other written work do so as a written [[Social Actions|social action]]. The time taken to create a written missive varies based on the form and length of the work. The Storyteller decides how long it takes, with a minimum time of five minutes in most cases. Likewise, the time needed to read the missive is decided by the Storyteller based on length.
 
@@ -62,3 +77,4 @@ Second, a petitioner who wishes to overturn existing persuasive influence must s
 If the contradictory persuasion succeeds, the targeted character may use a [[Influence roll#Decision Points|Decision Point]] to resist it by citing a conflicting [[Intimacy]], *without spending a point of [[Willpower]] to initiate the [[Decision Points|Decision Point]]*—it’s easier to stand by a hard-fought decision than to abandon it and reverse yourself. Conversely, if he wants to abandon his present course of action and accept the new influence, the character must spend a point of [[Willpower]] and cite the [[Intimacy]] which was used to change his mind.
 
 It’s possible to use these rules to model several reversals, so long as each new argument put forward pulls on a different [[Intimacy]] than all those before (which have previously been refuted, similar to [[Influence roll#Lengthy Debates]]). These conditions remain in place for one [[Time#Story|story]] after a character has been influenced to take a course of action—once the next story begins, any lingering influence can be overturned with an ordinary persuasion, bribery, or intimidation attempt.
+

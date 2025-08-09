@@ -17,6 +17,6 @@ The Abyssal can pay an additional four-mote surcharge when she uses [[Fervent Ca
 4 successes: Add one white point toward the cost of a [[Craft]] project or [[Craft]] Charm.
 5 or 7 successes: Use a [[Craft]], [[Linguistics]], [[Medicine]], [[Occult]], or [[Performance]] Charm that’s currently “down” without needing to reset it. This costs seven successes for [[Charms]] that can only be used once per story and five successes for other [[Charms]].
 7 successes: Waive the cost of a [[Craft]], [[Linguistics]], [[Medicine]], [[Occult]], or [[Performance]] Charm with instant duration.
-7 successes: Temporarily gain a [[Craft]], [[Linguistics]], [[Medicine]], [[Occult]], or [[Performance]] Charm for Morbid Inspiration Witness’ duration. The Abyssal must meet its prerequisites, and can only use it for purposes of her goal.
+7 successes: Temporarily gain a [[Craft]], [[Linguistics]], [[Medicine]], [[Occult]], or [[Performance]] Charm for [[Morbid Inspiration Witness]]’ duration. The Abyssal must meet its prerequisites, and can only use it for purposes of her goal.
 ## Reset 
 Once per session, the Abyssal can invoke her [[Whispers]] to roll ([[Whispers]]) dice, banking her successes.

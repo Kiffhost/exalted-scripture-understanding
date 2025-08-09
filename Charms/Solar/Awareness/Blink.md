@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Inner Eye Focus]]"
 ---
-Cast down into the darkness, the Lawgiver has known an absence of sensation greater than the deepest abyss. The wicked cannot hide; their shadows avail them nothing. With but a thought, the Solar can impel her senses toward greater form. The player may reroll any [[Awareness]] roll, maintaining the effects of any [[Charms]] she paid for on the initial roll and activating any [[Charms]] she wishes to pay for to enhance her second attempt.
+*Cast down into the darkness, the Lawgiver has known an absence of sensation greater than the deepest abyss.*
+The wicked cannot hide; their shadows avail them nothing. With but a thought, the Solar can impel her senses toward greater form. The player may reroll any [[Awareness]] roll, maintaining the effects of any [[Charms]] she paid for on the initial roll and activating any [[Charms]] she wishes to pay for to enhance her second attempt.

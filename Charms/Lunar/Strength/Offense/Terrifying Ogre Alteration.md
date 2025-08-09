@@ -12,4 +12,5 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Deadly Beastman Transformation]]"
 ---
-The Lunar refines her war-form, unleashing the full power of the beast within. Upon purchasing this Charm, she chooses four dots of mutations reflecting her spirit shape. She gains them while [[Deadly Beastman Transformation]] is active.
+*The Lunar refines her war-form, unleashing the full power of the beast within.*
+Upon purchasing this Charm, she chooses four dots of mutations reflecting her spirit shape. She gains them while [[Deadly Beastman Transformation]] is active.

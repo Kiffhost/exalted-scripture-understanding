@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Mercurial Predator Transformation]]"
   - "[[Shape-Dancer’s Defense]]"
 ---
-Shifting between skins with effortless grace, the Lunar attains the pinnacle of formless perfection.
+*Shifting between skins with effortless grace, the Lunar attains the pinnacle of formless perfection.*
 The Skin’s wearer gains the following benefits while using Constant Quicksilver Transformation:
  - In animal shapes, the armor’s [[Hardness]] increases by ([[Essence]]).
  - Mercurial Predator Transformation’s bonus increases to +3.

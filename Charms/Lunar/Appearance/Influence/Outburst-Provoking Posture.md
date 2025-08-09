@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Feral Smile Tactic]]"
 ---
-Strutting haughtily past her rivals, the Lunar drives them to frothing incoherence or stuttering rage. A successful influence roll also instills a [[Intimacy|Tie]] of her choice of irritation, anger, or disgust toward the Lunar (or her current shape) in targets of her choice. Affected characters suffer a −2 penalty to social and mental rolls for the scene.
+*Strutting haughtily past her rivals, the Lunar drives them to frothing incoherence or stuttering rage.*
+A successful [[Social Influence|influence]] roll also [[instill]]s a [[Intimacy|Tie]] of her choice of irritation, anger, or disgust toward the Lunar (or her current shape) in targets of her choice. Affected characters suffer a −2 penalty to social and mental rolls for the scene.

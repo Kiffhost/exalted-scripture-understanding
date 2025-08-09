@@ -1,3 +1,7 @@
+---
+tags:
+  - source/realm-book
+---
 Dragon-Blooded sorcerers, stigmatized by Dynastic society, commonly gather into small societies to network, make friendships, and throw parties they can attend without feeling unwanted. These may be as small as one Hearth or as large as thirty members. Some go to great lengths to conceal their membership, communicating only through intermediaries and Infallible Messengers. Others proclaim membership by displaying intricately inked mystic tattoos, decorative sashes, or the society’s preferred colors. 
 # The Sorcerers of the Scarlet Throne
 This society is open to any registered sorcerer residing in Scarlet Prefecture, and thus is full of connivers with political leanings who seek to live as close to the Realm’s governance as possible. They made grand shows of serving the Empress at her request, a folly she always enjoyed. She spoke of the importance of the tasks she entrusted to them and their vital importance to the Realm, while assigning them unimportant duties and makework. Since her disappearance, the society has descended into pointless squabbling, although a small group has approached the prefect of Scarlet Prefecture and the Imperial City’s governor, quietly offering support should civil war break out. 

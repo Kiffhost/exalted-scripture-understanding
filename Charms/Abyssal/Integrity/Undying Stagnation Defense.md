@@ -20,4 +20,4 @@ BEGIN TABLE WITHIN SIDEBAR Intensity Difficult Interval Possible Effects Borderm
 Middlemarch 5 Weekly [[Addiction]]. Minor Derangements.
 Undesirable transformations, inflicting a −2 penalty on a limited range of actions or similar detriments: physical dependency on an unusual substance, vulnerability to iron, etc.
 Deep [[Wyld]] 7 Daily [[Addiction]]. Major Derangements, or increasing existing Major Derangements to Defining. Life-altering transformations: bodily reconstructions that impose a −3 penalty on a broad range of actions; eternally rotting and unhealing flesh; sapient, parasitic organs; etc.
-END TABLE Characters who roll against the [[Wyld]] may choose to go into experience debt to purchase up to five dots of thematically appropriate mutations whether they succeed or fail.
+END TABLE Characters who roll against the [[Wyld]] may choose to go into [[Experience Debt]] to purchase up to five dots of thematically appropriate mutations whether they succeed or fail.

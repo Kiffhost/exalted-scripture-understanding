@@ -12,7 +12,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Elemental Sheath]]"
 ---
-When the Dragon-Blood recalls a banished weapon with [[Elemental Sheath]], it’s wreathed with the element she summons it forth from (or her Aspect element, if she expends anima to summon it). Alternatively, the Dragon-Blood can use [[Elemental Sheath]] to reflexively shape and ready a mundane [[Melee]] weapon from an elemental manifestation, drawing the flames of a bonfire into a lance or shaping a sword from the razor-sharp edge of a biting gale. Either way, the weapon gains benefits based on the chosen element: 
+*When the Dragon-Blood recalls a banished weapon with [[Elemental Sheath]], it’s wreathed with the element she summons it forth from (or her Aspect element, if she expends anima to summon it).*
+Alternatively, the Dragon-Blood can use [[Elemental Sheath]] to reflexively shape and ready a mundane [[Melee]] weapon from an elemental manifestation, drawing the flames of a bonfire into a [[lance]] or shaping a sword from the razor-sharp edge of a biting gale. Either way, the weapon gains benefits based on the chosen element: 
 
 ### Air
 Wind chills the weapon to a deadly cold. An enemy damaged by a decisive attack takes a −1 penalty on physical rolls until the end of his next turn. 

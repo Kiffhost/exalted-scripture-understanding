@@ -14,4 +14,5 @@ Prerequisite Charms:
   - OR
   - Any 5 Charms
 ---
-Once per story, the Solar may supplement any action to uphold, defend, or act upon a Defining [[Intimacy|Principle]] with this Charm.Iftheactionissuccessful,allwhowitnessitbecome automatically aware of the Exalt’s [[Intimacy|Principle]] and its intensity, as if they had succeeded at a read intentions action.
+Once per story, the Solar may supplement any action to uphold, defend, or act upon a Defining [[Intimacy|Principle]] with this Charm. 
+If the action is successful, all who witness it become automatically aware of the Exalt’s [[Intimacy|Principle]] and its intensity, as if they had succeeded at a read intentions action.

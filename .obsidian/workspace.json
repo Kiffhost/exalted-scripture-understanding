@@ -1,84 +1,25 @@
 {
   "main": {
-    "id": "d5cec0f9e28acf2b",
+    "id": "e5c2a00ff360222e",
     "type": "split",
     "children": [
       {
-        "id": "dfe166dbd269c893",
+        "id": "6a4ba8fa05af12c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b6782bd23056a731",
+            "id": "6666fdd3f4d2f2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer/Thousand Horrors Harvest.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thousand Horrors Harvest"
-            }
-          },
-          {
-            "id": "62fe389b99f04942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Touch Attacks.md",
+                "file": "Traits/Flaws.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Touch Attacks"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a7322dc49f30240e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e9c9c8c16a69cf0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Touch Attacks.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761084,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Touch Attacks"
+              "title": "Flaws"
             }
           }
         ]
@@ -87,20 +28,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9bc4d08a68799cf7",
+    "id": "bdf6053f7f53aea6",
     "type": "split",
     "children": [
       {
-        "id": "07975790ae996fdb",
+        "id": "023116ff596aab65",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5d214276320e48",
+            "id": "89f33812ee79c5ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -108,24 +49,24 @@
             }
           },
           {
-            "id": "654ff318f4cd4494",
+            "id": "b9d477da27622beb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"emerald circle\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "59aad9b80729329d",
+            "id": "aee7759dfaa28ccc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,82 +79,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 300
   },
   "right": {
-    "id": "d3f03f9e2c185d65",
+    "id": "7617dbc0dd47b8ff",
     "type": "split",
     "children": [
       {
-        "id": "7e9ef189849b1725",
+        "id": "9a163bc672c9b2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f681cbbf25eaff6e",
+            "id": "0a1a9bca623ed062",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Touch Attacks.md",
+                "file": "Traits/Flaws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Touch Attacks"
+              "title": "Backlinks for Flaws"
             }
           },
           {
-            "id": "ac35b303648da84c",
+            "id": "106e1f7e1bf4d200",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Touch Attacks.md",
+                "file": "Traits/Flaws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Touch Attacks"
+              "title": "Outgoing links from Flaws"
             }
           },
           {
-            "id": "2cb6185f52419552",
+            "id": "7f4104893656d966",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "c8687db642245369",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Touch Attacks.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Touch Attacks"
-            }
-          },
-          {
-            "id": "19b2474784eea866",
+            "id": "d6e38cc1c2a4e8d5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -221,42 +152,25 @@
             }
           },
           {
-            "id": "1de4e1116e1d7f9c",
+            "id": "db3c86d2d32b6066",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "Touch Attacks.md"
+                "file": "Traits/Flaws.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "File properties for Touch Attacks"
-            }
-          },
-          {
-            "id": "1a8c5271dfe7db8a",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "19dfe583876070d4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-list",
+              "title": "Outline of Flaws"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -268,53 +182,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62fe389b99f04942",
+  "active": "6666fdd3f4d2f2cd",
   "lastOpenFiles": [
-    "Progress Tracker.md",
-    "Exaltation.md",
-    "Character Progression.md",
-    "Character Advancement.md",
-    "Character Creation/START HERE.md",
+    "Sorceries/Archetypes/Pact with an Ifrit Lord/Pact with an Ifrit Lord.md",
+    "Rules Sidebars/Exigent Book/DIVINE PATRONAGE.md",
+    "Rules Sidebars/Exigent Book/DICE LIMITS AND THE UN-EXALTED.md",
+    "Rules Sidebars/Arms of the Chosen/ARTIFACT TEMPERAMENT.md",
     "Charms/Sidereals/House of Journeys/Ride/Yellow Path.md",
     "Charms/Sidereals/House of Journeys/Ride/Without Temptation.md",
     "Charms/Sidereals/House of Journeys/Ride/Spirit-Shape Companion.md",
-    "Charms/Sidereals/House of Journeys/Ride/Plausible Stabling Arrangement.md",
     "Charms/Sidereals/House of Journeys/Ride/Riding the Dragon.md",
+    "Charms/Sidereals/House of Journeys/Ride/Breaking the Wild Mortal.md",
+    "Exalted-Specific Rules/Sidereal/Arcane Fate.md",
+    "Traits/Intimacy.md",
+    "Charms/Sidereals/House of Journeys/Ride/Plausible Stabling Arrangement.md",
     "Charms/Sidereals/House of Journeys/Ride/Message-Without-Messenger Pact.md",
+    "Charms/Sidereals/House of Journeys/Ride/Messenger’s Oath.md",
     "Charms/Sidereals/House of Journeys/Ride/Iron Heart, Iron Horse.md",
+    "Rules Reference/Combat/Combat Traits/Overwhelm.md",
     "Charms/Sidereals/House of Journeys/Ride/Invisible Spirit Rider.md",
     "Charms/Sidereals/House of Journeys/Ride/Fiend-Humbling Horsemanship.md",
     "Charms/Sidereals/House of Journeys/Ride/Desirable Maiden’s Bargain.md",
     "Charms/Sidereals/House of Journeys/Ride/Blow-Wind-Blow Style.md",
     "Charms/Sidereals/House of Journeys/Ride/Acquaintance-Improving Dressage.md",
-    "Charms/Sidereals/House of Battles/Any Battles Ability/Hero-Supporting Performance.md",
+    "Charms/Sidereals/House of Endings/Any Endings Ability/Descending Endings Horoscope.md",
     "Charms/Sidereals/House of Battles/Any Battles Ability/Understanding Ecstatic Ways.md",
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Hero-Supporting Performance.md",
     "Charms/Sidereals/House of Battles/Any Battles Ability/Auspicious Implement for Strife.md",
-    "Charms/Sidereals/House of Battles/Any Battles Ability/Ascending Battles Horoscope.md",
-    "Charms/Sidereals/House of Battles/Any Battles Ability/Angry Maiden Mantle.md",
-    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Keening Netherworld Wail.md",
-    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Gentle Embrace of the Grave.md",
-    "Charms/Martial Arts/Albicant Sepulcher of Extinction Stylle/Albicant Sepulcher of Extinction Form.md",
-    "Charms/Sidereals/House of Endings/Any Endings Ability/Ascending Endings Horoscope.md",
-    "Items/Artifacts & Evocations/Underworld Artifacts",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Ravenous Throne",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Nyraxes, the Dead Ember",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Feverfear Guise",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Nemesis Cuirass",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Huskflayer",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Scavenger’s Shroud",
-    "Items/Artifacts & Evocations/Underworld Artifacts/The Shatterbond Knives",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Pra Gita",
-    "Items/Artifacts & Evocations/Underworld Artifacts/Rattlebones",
-    "Charms/Solar/Archery/Solar Archery Charm Tree.canvas",
-    "Charms/Martial Arts/Righteous Devil Style/Righteous Devil Style.canvas",
-    "Charms/Martial Arts/Black Claw Style/Black Claw Charm Tree.canvas",
-    "Charms/Martial Arts/Mantis Style/Mantis Style.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Fire Dragon Style/Fire Dragon Style.canvas",
-    "Charms/Martial Arts/Immaculate Dragon Styles/Air Dragon Style/Air Dragon Tree.canvas",
-    "Charms/Martial Arts/Golden Janissary Style/Golden Janissary Style.canvas",
-    "Charms/Martial Arts/Crane Style/Crane Charm Tree.canvas",
-    "Charms/Martial Arts/Dreaming Pearl Courtesan Style/Dreaming Pearl Courtesan Tree.canvas",
-    "Charms/Dragon-Blooded/Melee/Dragon-Blooded Melee Charm Tree.canvas"
+    "Charms/Sidereals/House of Battles/Any Battles Ability/Ascending Battles Horoscope.md"
   ]
 }

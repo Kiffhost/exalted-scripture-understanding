@@ -12,7 +12,7 @@ Duration: Permanent
 Prerequisite Charms:
   - None
 ---
-The Lunar’s mastery of shapeshifting affords precise control of her metabolism and bodily processes.
+*The Lunar’s mastery of shapeshifting affords precise control of her metabolism and bodily processes.*
 Upon purchasing this Charm, the Lunar gains two of the following gifts. She may purchase additional gifts for one bonus point or three experience each.
 Internal Form 
 ## Mastery

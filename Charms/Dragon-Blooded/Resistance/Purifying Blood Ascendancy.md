@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The blood of the Dragons suffuses the Terrestrial’s body with legendary vigor. She may add automatic successes to a [[Resistance]] roll for two motes each, and rerolls 6s until they cease to appear.
+*The blood of the Dragons suffuses the Terrestrial’s body with legendary vigor.*
+She may add automatic successes to a [[Resistance]] roll for two motes each, and rerolls 6s until they cease to appear.

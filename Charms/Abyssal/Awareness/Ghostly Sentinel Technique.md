@@ -22,6 +22,6 @@ Eager: The cost of creating wraiths past the first is reduced by two motes.
 Enduring: The Charm’s duration is extended to one day.
 Far-Roving: The wraiths’ maximum range increases to ([[Perception]] + [[Essence]]) range bands.
 Haunting: Rather than creating a stationary wraith, the Abyssal can create one that ceaselessly pursues an individual she can see, manifesting within close range of him and following him unfailingly out to its normal range limits.
-Insightful: The Abyssal can make profile character and read intentions rolls through her wraiths.
+Insightful: The Abyssal can make [[profile character]] and read intentions rolls through her wraiths.
 Legion: The maximum number of wraiths is increased to ([[Perception]] + [[Essence]]).
 The player may work with the [[Storyteller]] to create new upgrades.

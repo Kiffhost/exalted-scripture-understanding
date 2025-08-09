@@ -2,7 +2,7 @@
 tags:
   - source/solar-book
 ---
-From repairing a wagon wheel to forging a [[Items/Artifacts & Evocations/The Grand Panoply/Generic [[Artifact]] Weapons/Daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
+From repairing a wagon wheel to forging a [[Items/Artifacts & Evocations/The Grand Panoply/Generic Artifact Weapons/Daiklave|daiklave]] which will be carried into battle for centuries to come, crafting in Exalted is encompassed by four categories describing the nature and difficulty of a project, each with its own demands and rewards. The categories of crafting projects are: [[Basic Project]], [[Major Project]], [[Superior Project]], and [[Legendary Project]].
 # Elements of Crafting
 Crafting projects have two special concerns, described below: [[#Project Slots]] and [[#Crafting Experience]]. In brief, characters can only support a certain number of simultaneous crafting projects, which take a toll on their creative energies—these are abstracted into project slots. By contrast, successfully finishing projects renews the character’s inspiration and helps further her skill and ambitions, allowing her to take on greater numbers of projects and to see more difficult and demanding projects to completion. This is modeled as the character gaining crafting experience.
 # Crafting Experience
@@ -21,8 +21,11 @@ Additionally, crafters may earn crafting experience at the end of a story.
 
 At the end of a story, characters gain:
 - **3 silver experience points** for each [[Craft]] Ability rated at 3+ that was used to complete a project during the story.
-- 5 **silver experience points** for each [[Craft]] Ability rated at 5+ that was used to complete a project during the story.
-- 5 **gold experience points** per artifact successfully created during the story.
+- **5 silver experience points** for each [[Craft]] Ability rated at 5+ that was used to complete a project during the story.
+- **5 gold experience points** per [[artifact]] successfully created during the story.
+### Point Generating Charms
+Charms such as [[Supreme Perfection of Craft]] only function if the Solar is actively using [[Craft]] in each [[Time#Story|story]]. A character who sleeps a thousand years will not awaken to an infinity of craft points awaiting her. Likewise, a character who spends a season lazing about Dajaz and romancing the revelers there should not accrue very many points in general. These awards are specifically furnished for those who are extremely hard working crafters and inventers by nature. 
+Characters who also spend many scenes studying, researching, tinkering, or performing sorcerous projects or medical experiments also qualify for these rewards, as long as they use [[Craft]] intermittently. 
 # Project Slots
 Project slots are an abstract representation of how well the character can split focus between multiple significant projects at once. There are three sorts of project slots: 
 - **Major project slots** are used when a character undertakes a major project. 
@@ -41,3 +44,6 @@ Creating and repairing such First Age wonders requires a depth of genius and res
 - The character must perform these repairs and construction with the [[Craft]] (First Age Artifice) Ability. The character cannot begin buying this Ability unless she possesses [[Lore]] 5, [[Occult]] 5, [[Craft]] (Artifacts) 5, and is capable of at least [[Charms/Solar/Occult/Terrestrial Circle Sorcery]]. 
 - All crafting and repairs must be done with [[#Crafting Experience|white points]], regardless of the artifact’s dot rating. 
 - Each attempt to finish the project or to roll to repair such an artifact must generally be preceded by a sorcerous project (p. 483) to design key components or replacements for damaged parts (the Storyteller may opt to waive this requirement for very basic repairs). The most standard example is to use [[sorcery]] to craft a slate of solidified [[Essence]] which can be carved or fused into circuit-like channels, conductors for the artifact’s subtle miracles. Crafting or repairing an artifact rated 2 or 3 requires Terrestrial Circle workings, 4 and 5 require at least one Celestial Circle working in addition to Terrestrial Circle workings, and an N/A example of First Age artifice requires at least one Solar Circle working and multiple Celestial Circle workings.
+# Crafting Sorcerous Relics
+
+While a character may gain [[The Talisman of Ten Thousand Eyes]] at character creation by learning one of its shaping rituals, rather than investing dots in the [[Artifact]] background, it is still a four-dot artifact, as are any other relics of comparable sorcerous power. A character attempting to craft such a wonder must first design the perfect shape of a relic to channel mystical energies. This is an Ambition 1 working of the Celestial Circle. If the sorcerous working succeeds, the character may then begin crafting the artifact using the usual rules (p. 241), unlocking one of its shaping rituals for free upon completion. If the working fails, then the design is intrinsically flawed, and the sorcerer may not attempt to recreate it again without some source of inspiration for a new design.

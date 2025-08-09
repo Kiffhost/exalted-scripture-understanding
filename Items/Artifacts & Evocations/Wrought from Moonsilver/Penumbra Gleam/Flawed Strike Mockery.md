@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Meditation in Silver]]"
 ---
-Enemies who witness their failed techniques reflected in [[Penumbra Gleam]] falter. Successfully blocking an attack steals one point of [[Initiative]] from the attacker and grants one Reflection. 
+*Enemies who witness their failed techniques reflected in [[Penumbra Gleam]] falter.*
+Successfully blocking an attack steals one point of [[Initiative]] from the attacker and grants one Reflection. 
 
 ## Resonant
 

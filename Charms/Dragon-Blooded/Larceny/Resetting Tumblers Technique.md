@@ -13,4 +13,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood washes away all signs of her trespass, doubling 9s on a roll to conceal evidence (Exalted, p. 224).
+The Dragon-Blood washes away all signs of her trespass, doubling 9s on a roll to [[conceal evidence]] (Exalted, p. 224).

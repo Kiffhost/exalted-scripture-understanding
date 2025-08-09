@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Gleaningsubtletyfromtheshadows,theLunardarkens her soul’s light. She mutes all motes spent on a [[Larceny]] roll, [[Stealth]] roll, or action taken in concealment. 
+*Gleaning subtlety from the shadows, the Lunar darkens her soul’s light.*
+She mutes all motes spent on a [[Larceny]] roll, [[Stealth]] roll, or action taken in concealment. 
 ## Totemic 
 
-ALunarwhosespiritshapehasTinyCreature or Minuscule [[Size]] may learn this as a [[Manipulation]] Charm.
+A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Manipulation]] Charm.

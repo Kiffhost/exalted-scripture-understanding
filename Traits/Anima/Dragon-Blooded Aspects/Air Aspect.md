@@ -20,7 +20,7 @@ The anima banners of the Azure Dragons shimmer with pale blue or white light, wh
 # Anima Effects
 
 Air Aspects call on the wind to speed them and deflect harm, and draw power from their ideals (p. 154). 
-- For five motes, the [[Air Aspect]] can use her reflexive move action to leap an entire range band vertically or horizontally without needing to roll, and suffers no falling damage for the rest of the round. At bonfire, this power is free. 
+- For five motes, the [[Air Aspect]] can use her reflexive move action to leap an entire [[Range|range band]] vertically or horizontally without needing to roll, and suffers no falling damage for the rest of the round. At bonfire, this power is free. 
 - For three motes, the [[Air Aspect]] may deflect projectiles with a gust of wind, imposing a −1 environmental penalty on all ranged attacks against her until her next turn.
 - Once per day, when the [[Air Aspect]] takes a nonextended social or mental action to uphold a [[Intimacy|Principle]], she adds ([[Intimacy]]) non-Charm bonus dice on the roll.
 # Aspect Abilities

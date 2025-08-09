@@ -5,7 +5,8 @@ Virulence: (6-Intimacy)
 Morbidity: (6-Intimacy)
 Interval: 1 week
 ---
-Doom of Tamokhet, a supernatural disease that infects a positive [[Intimacy|Tie]] to an individual (see [[Sting of Betrayal]]). It has virulence and morbidity (6 − [[Intimacy]]) and an interval of one week. The Doom is a Psyche effect as well as a disease; rolls against it use ([[Wits]] + [[Integrity]]) instead of ([[Stamina]] + [[Resistance]]). Medical diagnosis and treatment are useless unless enhanced by magic.
+*Doom of Tamokhet, a supernatural disease that infects a positive [[Intimacy|Tie]] to an individual (see [[Sting of Betrayal]]).*
+It has virulence and morbidity (6 − [[Intimacy]]) and an interval of one week. The Doom is a Psyche effect as well as a disease; rolls against it use ([[Wits]] + [[Integrity]]) instead of ([[Stamina]] + [[Resistance]]). Medical diagnosis and treatment are useless unless enhanced by magic.
 # Minor
 The victim’s relationship is infected with irrational mistrust. Voluntarily strengthening the [[Intimacy|Tie]] costs one [[Willpower]]. 
 # Major

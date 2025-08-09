@@ -13,4 +13,4 @@ Your character’s surface [[Essence]] is known as his *peripheral mote pool*, w
 
 Mote pools replenish themselves over time. **Characters with mote pools regain five motes of [[Essence]] at the end of each round while in combat**, as the dynamism of battle stirs the world around them. **Outside of battle, characters regain five motes per hour.** In the most relaxed of times—such as when a character is asleep, meditating, or quietly reading—they respire [[Essence]] at a rate of 10 motes per hour. Motes in the peripheral pool are replenished before motes in the personal pool. 
 
-A Solar’s personal mote pool is ([Essence x 3] + 10) motes, while her peripheral mote pool holds ([Essence x 7] + 26) motes.
+A Solar’s personal mote pool is ({Essence x 3} + 10) motes, while her peripheral mote pool holds ({Essence x 7} + 26) motes.

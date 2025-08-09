@@ -13,7 +13,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[ Clutching Dragon Coil]]"
 ---
-Emulating the Air Dragon, the armor unfolds a pair of blue jade wings. As long as the wearer has sufficient clearance for her 20-foot wingspan, she can fly as swiftly as a horse gallops. This functions as the five-dot version of the [[Wings]] Merit (Exalted, p. 167), including the penalty on actions taken in the air. While flying, she adds two bonus dice to all movement rolls. This Evocation ends if the wearer is crashed. If she is in the air, she plummets to the ground, although the armor cushions her from suffering any falling damage. 
+*Emulating the Air Dragon, the armor unfolds a pair of blue jade wings.*
+As long as the wearer has sufficient clearance for her 20-foot wingspan, she can fly as swiftly as a horse gallops. This functions as the five-dot version of the [[Wings]] Merit (Exalted, p. 167), including the penalty on actions taken in the air. While flying, she adds two bonus dice to all movement rolls. This Evocation ends if the wearer is crashed. If she is in the air, she plummets to the ground, although the armor cushions her from suffering any falling damage. 
 
 ## Special activation rules
 

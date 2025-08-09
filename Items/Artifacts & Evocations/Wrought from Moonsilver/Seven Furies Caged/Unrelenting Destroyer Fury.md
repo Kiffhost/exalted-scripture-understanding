@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Jubilant Loss of Control]]"
 ---
-The berserker unleashes her anger in blows that crush stone and turn bones to dust. She adds ([[Strength]]) dice on anattackrollagainstanenemythat’sdealtdecisivedamage to her since her last turn. Withering attacks add (wound penalty) dice of post-soak damage; decisive attacks add (woundpenalty)attackrollextrasuccessesasdamagedice. 
+*The berserker unleashes her anger in blows that crush stone and turn bones to dust.*
+She adds ([[Strength]]) dice on an attack roll against an enemy that’s dealt decisive damage to her since her last turn. Withering attacks add (wound penalty) dice of post-soak damage; decisive attacks add (wound penalty) attack roll extra successes as damage dice. 
 
 ## Resonant
 

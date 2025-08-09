@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Towering Beast Form]]"
 ---
-Suffusing her body with illimitable beast-power, the Lunar grows unto a gigantic monster of myth. She may activate [[Towering Beast Form]] to grant her current shape Legendary [[Size]] instead of changing into a different form. Clothing and moonsilver artifacts rescale with her for this Charm’s duration; equipment incompatible with her increased size vanishes Elsewhere. Legendary [[Size]] grants the following benefits: 
+*Suffusing her body with illimitable beast-power, the Lunar grows unto a gigantic monster of myth.*
+She may activate [[Towering Beast Form]] to grant her current shape Legendary Size instead of changing into a different form. Clothing and moonsilver artifacts rescale with her for this Charm’s duration; equipment incompatible with her increased size vanishes Elsewhere. Legendary Size grants the following benefits: 
 - Smaller enemies’ attacks don’t inflict onslaught penalties. Magically inflicted onslaught penalties still apply. 
 - She can’t be reduced below [[Initiative]] 1 by smaller characters’ withering attacks unless they have 10+ dice of post-soak damage. Such attacks still award the full amount of [[Initiative]] damage rolled. 
 - She can’t take more than (attacker’s [[Strength]] + 3) levels of damage from decisive attacks made by smaller characters. Levels of damage added by magic don’t count against this limit. 
@@ -25,4 +26,4 @@ Suffusing her body with illimitable beast-power, the Lunar grows unto a gigantic
 - She adds +5 to her shape’s effective [[Strength]] rating for determining what feats of strength she can attempt. 
 ## Totemic 
 
-A Lunar whose spirit shape has Legendary [[Size]] may learn this as a [[Stamina]] Charm.
+A Lunar whose spirit shape has Legendary Size may learn this as a [[Stamina]] Charm.

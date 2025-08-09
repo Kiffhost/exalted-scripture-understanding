@@ -18,7 +18,7 @@ Prerequisite Charms:
 The martial artist must have [[White Reaper Form]] active and at least one damaged -2 health level to use [[Snow Follows Winter]], paying a point of [[Willpower]] at the start of her turn to heal (current halos) levels of bashing and lethal damage. Doing so expends these halos at the end of her turn. This healing surge can only be used once per scene.
 Additionally, for the rest of the scene, the martial artist gains the following benefits while she is in [[White Reaper Form]]:
 - The martial artist reduces any wound penalties she suffers by the number of halos she has. 
-- Enemies who have witnessed the awful power of their seemingly invincible enemy lose their courage in battle. Any rout check provoked by the martial artist’s attacks are made at (1 + [halos/2, round up]) difficulty.
+- Enemies who have witnessed the awful power of their seemingly invincible enemy lose their courage in battle. Any rout check provoked by the martial artist’s attacks are made at (1 + {halos/2, round up}) difficulty.
 - Whenever she resets to base [[Initiative]] after making a decisive attack, she may add +1 to her base [[Initiative]] for each halo she has. Doing so expends all halos at the end of the turn. 
 ## Reset
 [[Snow Follows Winter]] can only be used once per fight. 

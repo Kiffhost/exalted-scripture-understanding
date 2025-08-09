@@ -24,6 +24,6 @@ Endurance Beyond Extinction: Each purchase of this boon subtracts one success fr
 Lurking Horror Refinement: The familiar adds (Abyssal’s [[Essence]]) automatic successes on [[Stealth]] rolls.
 Unholy Beast of Slaughter: The familiar adds (Abyssal’s [[Essence]]) to its base [[Initiative]].
 Wretched Abomination Form: The Abyssal may grant the familiar an additional dot of mutations for each purchase of this boon. She chooses which mutations are granted each time she uses this Charm.
-With an [[Essence]] 4 repurchase, the Abyssal may grant her familiar Legendary [[Size]] (p. XX), unless it had the Tiny Creature or Minuscule [[Size]] merits. If it already had Legendary [[Size]], it grows even larger, letting it attack with its natural weapons out to short range and requiring enemies within short range to disengage to move away from it.
+With an [[Essence]] 4 repurchase, the Abyssal may grant her familiar Legendary [[Size]], unless it had the Tiny Creature or Minuscule [[Size]] merits. If it already had Legendary [[Size]], it grows even larger, letting it attack with its natural weapons out to short range and requiring enemies within short range to disengage to move away from it.
 ## Reset 
 Once per scene, unless reset when a familiar incapacitates a nontrivial enemy with [[Unslakable Hunger Unleashed]].

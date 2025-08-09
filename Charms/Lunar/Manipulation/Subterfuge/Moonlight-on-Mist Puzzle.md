@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-A natural genius at deception, the Lunar ensures no traces remain to contradict her lies. She completes a roll to conceal evidence or conceal tracks instantly, doubling 9s. She may optionally roll with [[Manipulation]] insteadoftheAttributenormallyusedforthoseactions.
+*A natural genius at deception, the Lunar ensures no traces remain to contradict her lies.*
+She completes a roll to [[conceal evidence]] or [[conceal tracks]] instantly, doubling 9s. She may optionally roll with [[Manipulation]] instead of the Attribute normally used for those actions.

@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Sidereal mirrors her enemy’s hostility, wreathing her fists in baleful radiance. The Sidereal’s attack adds (lower of her [[Strength]] or enemy’s [[Essence]]) dice to of post-soak withering damage or decisive damage. Against enemies of fate, she isn’t limited by her [[Strength]] and her decisive attacks deal aggravated damage.
+*The Sidereal mirrors her enemy’s hostility, wreathing her fists in baleful radiance.*
+The Sidereal’s attack adds (lower of her [[Strength]] or enemy’s [[Essence]]) dice to of post-soak withering damage or decisive damage. Against enemies of fate, she isn’t limited by her [[Strength]] and her decisive attacks deal aggravated damage.

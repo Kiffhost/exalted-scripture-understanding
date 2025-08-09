@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Eyebright sees when an enemy will act before he knows it himself. The wearer rerolls non-1 failures on [[Join Battle]] equal to the highest Insight she possesses into any opponent. 
+*Eyebright sees when an enemy will act before he knows it himself.*
+The wearer rerolls non-1 failures on [[Join Battle]] equal to the highest Insight she possesses into any opponent. 
 
 ## Resonant
 

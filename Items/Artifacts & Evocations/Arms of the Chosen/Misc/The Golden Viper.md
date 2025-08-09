@@ -5,14 +5,15 @@ tags:
   - source/arms-book
 Dots: §5
 ---
-With arts lost to time, the First Age’s mighty sorcererartisans breathed life into inanimate matter, creating a bewildering menagerie of clockwork creatures to act as servants, companions, ornaments, and weapons. Second Age artificers have sought to replicate these miracles, crafting golems, homunculi, and simulacra animated by [[Essence]] or bound spirits, but these automatons are either of animalistic intelligence or dangerously free-willed. Of those few sapient automata to survive into the [[Time]] of Tumult, the Golden Viper may be the most notorious. 
+*With arts lost to time, the First Age’s mighty sorcererartisans breathed life into inanimate matter, creating a bewildering menagerie of clockwork creatures to act as servants, companions, ornaments, and weapons.*
+Second Age artificers have sought to replicate these miracles, crafting golems, homunculi, and simulacra animated by [[Essence]] or bound spirits, but these automatons are either of animalistic intelligence or dangerously free-willed. Of those few sapient automata to survive into the [[Time]] of Tumult, the Golden Viper may be the most notorious. 
 
 [[The Golden Viper]] is a lifelike serpent four feet long and two inches thick, its jewel-crusted orichalcum scales covering starmetal bones, moonsilver musculature, and ichor condensed from the invisible radiance of the moon’s dark face. The automaton moves and acts of its own accord, requiring neither [[Essence]] nor attunement. It takes as its master the first person to address it after its last master’s death, acting in all ways as a familiar. It serves in two capacities: advisor and assassin.
 
 Aside from its vivid construction, the Viper is as subtle as any mundane serpent, and its bite deadlier. Its venom turns victims to statues of gold. Further, it drinks the knowledge and experiences of everyone it kills this way. The only gap in its knowledge is that it recalls nothing of the First Age… or so it claims. Its intellect is prodigious beyond mortal measure, albeit cruel and cynical, and none of its masters remain innocent in the face of its generous wisdom.
 
 #### [[The Golden Viper]]
-**Essence**: 3; **Willpower**: 8; **Join Battle**: 8 dice
+**Essence**: 3; **Willpower**: 8; **[[Join Battle]]**: 8 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x2/Incap.
 **Actions**: [[Lore]]: 11 dice (see Ten Million Memories below); [[Occult]]: 9 dice; [[Read Intentions]]: 9 dice; Senses: 9 dice (see Killer’s Nose below); [[Social Influence]]: 9 dice; [[Stealth]]: 7 dice (see Tiny Creature below); [[Appearance]] 4, [[Resolve]] 5, [[Guile]] 3 
 ###### COMBAT 
@@ -32,4 +33,4 @@ Soak/Hardness: 8/4
 **Killer’s Nose**: Double 9s on scent-based [[Perception]] rolls, or double 8s on rolls to detect an assassination target whose scent it’s tasted. 
 **Languages**: [[The Golden Viper]] knows all major languages and countless tribal tongues. 
 **Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new [[Intimacy|Intimacies]] to Major or Defining. 
-**Ten Million Memories**: When introducing a fact, the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.
+**Ten Million Memories**: When [[introducing a fact]], the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.

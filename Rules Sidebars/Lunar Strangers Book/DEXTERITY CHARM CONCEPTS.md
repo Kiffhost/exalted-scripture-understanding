@@ -1,5 +1,9 @@
+---
+tags:
+  - source/lunar-strangers-book
+---
 Face-Thieving Legerdemain (Essence 2;
-Nest-Raiding Slyness): Perform a sacred hunt that
+Nest-Raiding Slyness): Perform a [[sacred hunt]] that
 concludes when you steal whatever’s most valuable to someone or something they have a positive
 Major or Defining [[Intimacy|Tie]] to while they’re nearby.
 Flowing Moonsilver Infiltration (Essence 3;

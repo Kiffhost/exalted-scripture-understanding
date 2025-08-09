@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Argent Songbird Voice]]"
 ---
-The Lunar reflexively makes an influence roll with any Attribute on her turn. She can only make one influence roll per turn.
+*The Lunar reflexively makes an influence roll with any Attribute on her turn.*
+She can only make one influence roll per turn.

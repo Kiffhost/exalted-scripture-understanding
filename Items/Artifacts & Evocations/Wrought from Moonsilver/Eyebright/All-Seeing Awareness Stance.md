@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[ Knowing the Hunter’s Soul]]"
   - "[[Thousand-Eyed Sword Dancer]]"
 ---
-Eyebright’s sapphires blaze like tiny suns, their perceptions sharpening to supernal heights. At the start of each turn, the Lunar reflexively aims at an enemy into which she has Insight. She ignores environmental penalties on rolls to detect enemies into which she has Insight, and adds (Insight) non-Charm dice on rolls opposing their concealment or disguises. 
+*Eyebright’s sapphires blaze like tiny suns, their perceptions sharpening to supernal heights.*
+At the start of each turn, the Lunar reflexively aims at an enemy into which she has Insight. She ignores environmental penalties on rolls to detect enemies into which she has Insight, and adds (Insight) non-Charm dice on rolls opposing their concealment or disguises. 
 
 ## Special activation rules
 

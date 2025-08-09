@@ -11,5 +11,7 @@ WeaponTags:
 Cost: " 1"
 aliases:
   - Hatchet
+  - axes
+  - hatchets
 ---
 A broad-bladed weapon balanced for use in one hand, an axe is easy to manufacture and of great utility as a tool as well as a weapon. Axes can also be thrown. 

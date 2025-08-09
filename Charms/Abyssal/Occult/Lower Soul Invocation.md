@@ -13,5 +13,5 @@ Prerequisite Charms:
   - "[[Shroud of Shining Dark]]"
 ---
 *Withered spectral limbs manifest around the Abyssal as she rouses her voracious lower soul, bidding it weave her dark magics.*
-The Abyssal flurries a Shape Necromancy action with a non-attack action, ignoring all penalties from flurrying.
+The Abyssal flurries a [[Necromancy|Shape Necromancy]] action with a non-attack action, ignoring all penalties from flurrying.
 An [[Occult]] 5, [[Essence]] 3 repurchase lets the Abyssal pay a four-mote, one-[[Willpower]] surcharge to extend this Charm’s duration to one scene.

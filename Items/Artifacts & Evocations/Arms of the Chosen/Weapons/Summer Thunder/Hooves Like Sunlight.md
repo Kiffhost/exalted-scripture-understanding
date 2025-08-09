@@ -11,8 +11,7 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Summer Thunder exults in its wielder’s affection for her steed, and shares sunlight’s flashing swiftness with them both. Her mount adds (her [[Intimacy]] toward it) to its Speed bonus for one movement action. 
-
+*Summer Thunder exults in its wielder’s affection for her steed, and shares sunlight’s flashing swiftness with them both.*
+Her mount adds (her [[Intimacy]] toward it) to its Speed bonus for one movement action. 
 ## Resonant
-
-If the supplemented roll succeeds, the wielder gains1Initiative.Ifherbondedmountisrolledintocombat withSeasonedBeast-Rider’sApproachorsimilareffects,it gains 1 [[Initiative]], too.
+If the supplemented roll succeeds, the wielder gains 1 Initiative. If her bonded mount is rolled into combat with [[Seasoned Beast-Rider’s Approach]] or similar effects, it gains 1 [[Initiative]], too.

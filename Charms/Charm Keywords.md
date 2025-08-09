@@ -2,11 +2,10 @@
 tags:
   - reference
 ---
-Keywords are used to quickly and easily denote that a Charm is using a special rule, or belongs to a particular category that other effects may interact with. A list of keywords follows:
+*Keywords are used to quickly and easily denote that a Charm is using a special rule, or belongs to a particular category that other effects may interact with.*
+A list of keywords follows:
 #### Aggravated
 The [[Health Track]] damage inflicted by this Charm cannot be healed magically, nor can magic be used to speed up the natural process of healing it.
-#### Bridge
-A Charm with this keyword can be purchased with alternate prerequisites from another Ability. If all the prerequisites used to buy a Bridge Charm enjoy a Caste/Favored cost discount, so does the Bridge Charm. No non-[[Integrity]] Charm can act as a prerequisite for more than one Bridge Charm, and [[Integrity]] [[Charms]] can never serve as an alternate Bridge prerequisite. If [[Integrity]] is Caste or Favored, the character may buy in via half the listed number of Bridge prerequisites (round up, or round down if Supernal).
 #### [[Clash]]
 Cannot be used simultaneously with or in response to a Charm with the Counterattack keyword.
 #### Counterattack
@@ -24,13 +23,27 @@ A power with this keyword is an unnatural, hypnotic, or sorcerous power that mag
 #### Perilous
 Be cautious about your reliance on this Charm! [[Charms]] with this keyword cannot be used in [[Initiative#Crash]].
 #### Salient
-This keyword indicates that the Charm’s cost requires silver, gold, and white points for major, superior, and legendary craft projects, respectively. -Stackable: This Charm’s effects can stack.
+This keyword indicates that the Charm’s cost requires silver, gold, and white points for major, superior, and legendary craft projects, respectively. 
+#### Stackable
+This Charm’s effects can stack.
 #### Uniform
 This Charm has the same function for both withering and decisive attacks or defenses.
 #### Withering-only
 If it’s an attack Charm, the Charm can only be used with a withering attack. If it is a defensive Charm, it can only be used to defend against a withering attack.
 #### Written-only
 A Charm with this keyword can only be used to enhance, supplement, or create written social influence.
+# Martial Arts
+#### Form
+Each style has a Form, a scene-long Charm that aligns the martial artist wholly with the spirit or principle of the style. As such, a character can only have one Form Charm active at a time—activating a new one during the same scene ends the old one. However, when this happens, all motes committed to the previous Form Charm are counted towards the cost of the new Form, requiring that the martial artist pay only the difference. 
+<details><summary>Example</summary> For example a character transitioning from the eight-mote [[Snake Form]] to the 10-mote [[Tiger Form]] would only need to commit an additional two motes to pay the cost of [[Tiger Form]]. Conversely, if that character later transitioned from [[Tiger Form]] back to [[Snake Form]], he would not need to pay any additional motes at all, with the two excess motes becoming uncommitted as usual. Note that cost transfer does not apply to other Charms that enhance or modify Form Charms, such as Snake style’s [[Essence Fangs and Scales Technique]] or Tiger style’s [[Angry Predator Frenzy]].</details>
+
+#### Mastery
+This keyword denotes Charms that have a greater effect when used by those Exalted who are masters of mortal Abilities: the Solar and Abyssal Exalted. The Sidereal Exalted, peerless masters of the martial arts, have their own esoteric methods for accessing these effects: Sidereals gain Mastery with a style’s Charms while in its [[#Form]]. Learning all of a style’s Charms grants permanent Mastery. While using a Sidereal Martial Arts Form, a Sidereal gains Mastery with all styles.
+#### Terrestrial
+This keyword denotes that a Martial Arts Charm grants a lesser or restricted effect when used by Dragon-Blooded martial artists. Certain masters of the Immaculate Order have developed spiritual initiations that allow them to overcome these limitations.
+# Solar
+#### Bridge
+A Charm with this keyword can be purchased with alternate prerequisites from another Ability. If all the prerequisites used to buy a Bridge Charm enjoy a Caste/Favored cost discount, so does the Bridge Charm. No non-[[Integrity]] Charm can act as a prerequisite for more than one Bridge Charm, and [[Integrity]] [[Charms]] can never serve as an alternate Bridge prerequisite. If [[Integrity]] is Caste or Favored, the character may buy in via half the listed number of Bridge prerequisites (round up, or round down if Supernal).
 #### Apocryphal
 A Charm with this keyword is non-canonical and not considered to be an actual Charm of the [[Solar Exalted]]. 
 ##### Apocryphal [[Charms]]
@@ -41,16 +54,6 @@ The main limitation of Solar [[Charms]] is that they require a very standard met
 However, you will also notice that such [[Charms]] take a tremendous amount of buy-in and cultivation, and a strange Ability such as [[Occult]] slips into the uncanny much more easily than [[Socialize]]. The strangest Solar [[Charms]] build out of a valid demonstration of the Solar’s capacity with any certain Ability before becoming deviant in any way — and even then, the most eclectic Solar [[Charms]] are still anchored heavily within the limitations of human technique and myth-hero logic. Which is to say, a Solar Charm will never involve taking your eye out and hurling it over the rooftops so you can spy on the streets below.
 
 So apocryphal [[Charms]] are thus because they violate the tenets of skill or technique that make Solar [[Charms]] allowable. Just be aware that if you allow apocryphal [[Charms]] without discernment, you will find it harder to discern Solars from some of the stranger Exalted that appear later in the edition.
-
-# Martial Arts
-#### Form
-Each style has a Form, a scene-long Charm that aligns the martial artist wholly with the spirit or principle of the style. As such, a character can only have one Form Charm active at a time—activating a new one during the same scene ends the old one. However, when this happens, all motes committed to the previous Form Charm are counted towards the cost of the new Form, requiring that the martial artist pay only the difference. 
-<details><summary>Example</summary> For example a character transitioning from the eight-mote Snake Form to the 10-mote Tiger Form would only need to commit an additional two motes to pay the cost of Tiger Form. Conversely, if that character later transitioned from Tiger Form back to Snake Form, he would not need to pay any additional motes at all, with the two excess motes becoming uncommitted as usual. Note that cost transfer does not apply to other Charms that enhance or modify Form Charms, such as Snake style’s Essence Fangs and Scales Technique or Tiger style’s Angry Predator Frenzy.</details>
-
-#### Mastery
-This keyword denotes Charms that have a greater effect when used by those Exalted who are masters of mortal Abilities: the Solar and Abyssal Exalted. The Sidereal Exalted, peerless masters of the martial arts, have their own esoteric methods for accessing these effects: Sidereals gain Mastery with a style’s Charms while in its [[#Form]]. Learning all of a style’s Charms grants permanent Mastery. While using a Sidereal Martial Arts Form, a Sidereal gains Mastery with all styles.
-#### Terrestrial
-This keyword denotes that a Martial Arts Charm grants a lesser or restricted effect when used by Dragon-Blooded martial artists. Certain masters of the Immaculate Order have developed spiritual initiations that allow them to overcome these limitations.
 # Dragon-Blooded
 
 #### Air, Earth, Fire, Water, Wood
@@ -80,7 +83,7 @@ A synonym of [[#Totemic]] used in the Many-Faced Strangers book.
 # Sidereal
 
 #### Divination
-Divination [[Charms]] are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal [[Charms]] that predict the future, like God-King’s Shrike, aren’t Divination [[Charms]]. 
+Divination [[Charms]] are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal [[Charms]] that predict the future, like [[God-King’s Shrike]], aren’t Divination [[Charms]]. 
 
 #### Shaping
 Shaping effects transforms characters’ bodies, minds, souls, or fates. They can be defended against with magic like [[Destiny-Manifesting Method]] (Exalted, p. 304). 

@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Coyote-and-Badger Tactic]]"
 ---
-As the Lunar forces an opening, her allies hasten to strike. A successful distract gambit lets its beneficiary take his turn immediately on the same tick if he hasn’t acted this round. 
+*As the Lunar forces an opening, her allies hasten to strike.*
+A successful distract gambit lets its beneficiary take his turn immediately on the same tick if he hasn’t acted this round. 
 
 ## Special activation rules
 

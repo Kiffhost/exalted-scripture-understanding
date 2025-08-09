@@ -1,1 +1,5 @@
+---
+tags:
+  - source/lunar-book
+---
 In Immaculate fables, the Full Moons are monsters drunk on power stolen from the moon, rampaging through villages and cities slaughtering man and beast alike to gorge on their heart’s blood. Only the mighty Dragon-Blooded stand between the innocent and these inhuman abominations’ savage appetites, driving them back into the tainted lands whence they came. For their insatiable hunger and lunatic rage, these Anathema are called the Frenzied.

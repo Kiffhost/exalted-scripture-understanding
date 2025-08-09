@@ -14,7 +14,8 @@ Prerequisite Charms:
   - OR
   - Any 6 Charms that reflect the focal Principle
 ---
-As the Solar strengthens her defining [[Intimacy|Principle]], she can also draw strength from the Principles that sustain her. This Charm allows the Solar to channel power through a Defining [[Intimacy|Principle]] not protected by Righteous Lion [[Defense]]. As long as she upholds this [[Intimacy|Principle]] at the Defining level, she may use it to reflexively shake off and ignore one of the following forms of magic: 
+*As the Solar strengthens her defining [[Intimacy|Principle]], she can also draw strength from the Principles that sustain her.*
+This Charm allows the Solar to channel power through a Defining [[Intimacy|Principle]] not protected by Righteous Lion [[Defense]]. As long as she upholds this [[Intimacy|Principle]] at the Defining level, she may use it to reflexively shake off and ignore one of the following forms of magic: 
  - Fiat-level alterations to her destiny. 
  - Sorcerous curses such as the spell [[Corrupted Words]]. 
  - Psychic assaults of any kind. 

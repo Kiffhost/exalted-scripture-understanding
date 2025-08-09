@@ -12,4 +12,6 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Sinuous Striking Grace]]"
 ---
-The Lunar acts with fluid grace and incomparable coordination. She makes a flurry that includes at least one physical action, reducing the penalty on each flurried action by one and ignoring the [[Defense]] penalty. With [[Dexterity]] 5, [[Essence]] 3, the Lunar may pay a fourmote surcharge to flurry three actions, although she still can’tincludemorethanoneofthesameactionintheflurry.
+*The Lunar acts with fluid grace and incomparable coordination.*
+She makes a flurry that includes at least one physical action, reducing the penalty on each flurried action by one and ignoring the [[Defense]] penalty. 
+With [[Dexterity]] 5, [[Essence]] 3, the Lunar may pay a four-mote surcharge to flurry three actions, although she still can’t include more than one of the same action in the flurry.

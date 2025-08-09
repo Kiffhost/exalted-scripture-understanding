@@ -14,7 +14,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Like an ember that burns an unsuspecting hand, the Exalt strikes suddenly from ambush and vanishes as quickly as she came. When she rolls to establish concealment in combat, she doubles 9s. 
+*Like an ember that burns an unsuspecting hand, the Exalt strikes suddenly from ambush and vanishes as quickly as she came.*
+When she rolls to establish concealment in combat, she doubles 9s. 
 
 ## Special activation rules
 

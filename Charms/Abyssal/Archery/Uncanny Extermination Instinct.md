@@ -15,4 +15,3 @@ Prerequisite Charms:
 ---
 *The Abyssal’s killing precision has become second nature, an effortless extension of her being.*
 The Abyssal adds ([[Essence]]) dice of decisive damage or raw withering damage on an attack that benefits from aiming.
-Athletics

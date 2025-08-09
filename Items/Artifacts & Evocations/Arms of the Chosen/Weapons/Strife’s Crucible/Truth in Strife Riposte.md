@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ First Blood Poise]]"
 ---
-The duel opens its wielder’s eyes to the truths revealed about someone fighting for what he believes in. After successfully parrying an attack, the wielder can use this Evocation to read her attacker’s intentions, adding ([[Brawl]]) bonus dice on the roll. Success reveals the [[Intimacy]] that is that character’s primary reason for fighting — not only in the present battle, but more generally. This might include a [[Intimacy|Tie]] of vengeance, a [[Intimacy|Principle]] of defending the weak, or a [[Intimacy|Tie]] to his sifu. 
+*The duel opens its wielder’s eyes to the truths revealed about someone fighting for what he believes in.*
+After successfully parrying an attack, the wielder can use this Evocation to read her attacker’s intentions, adding ([[Brawl]]) bonus dice on the roll. Success reveals the [[Intimacy]] that is that character’s primary reason for fighting — not only in the present battle, but more generally. This might include a [[Intimacy|Tie]] of vengeance, a [[Intimacy|Principle]] of defending the weak, or a [[Intimacy|Tie]] to his sifu. 
 
 ## Resonant
 

@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Sever the Flow]]"
 ---
-The world’s lifeblood withers and runs dry at Death at the Root’s fall. The wielder may pay a one-[[Willpower]] surcharge to extend the suppression inflicted by [[Sever the Flow]] to ([[Essence]] + [[Strength]]) days. 
+*The world’s lifeblood withers and runs dry at Death at the Root’s fall.*
+The wielder may pay a one-[[Willpower]] surcharge to extend the suppression inflicted by [[Sever the Flow]] to ([[Essence]] + [[Strength]]) days. 
 
 ## Special activation rules
 

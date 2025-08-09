@@ -2,7 +2,8 @@
 tags:
   - source/solar-book
 ---
-Evocations are a special kind of magic associated primarily with artifact weapons and armor. They sleep within an artifact, an inchoate potential of [[Essence]], roused as the artifact’s wielder establishes a rapport and connection with the wonder. Evocations exist because the forging of battle-artifacts is as much a spiritual communion as a physical act of beating metal into shape or carving Essence channels into a blade. While artifacts aren’t truly “alive” in the sense of beasts, people, or spirits, there’s still a character and motive to their Essence and a spirituality that kindles within them. This spark can be fanned to greater prominence—and power—through extended use by and rapport with an Exalted wielder. Ultimately, an Exalt must come to understand her artifacts and to build a bond with them before they will yield up their power. 
+*Evocations are a special kind of magic associated primarily with artifact weapons and armor.*
+They sleep within an artifact, an inchoate potential of [[Essence]], roused as the artifact’s wielder establishes a rapport and connection with the wonder. Evocations exist because the forging of battle-artifacts is as much a spiritual communion as a physical act of beating metal into shape or carving Essence channels into a blade. While artifacts aren’t truly “alive” in the sense of beasts, people, or spirits, there’s still a character and motive to their Essence and a spirituality that kindles within them. This spark can be fanned to greater prominence—and power—through extended use by and rapport with an Exalted wielder. Ultimately, an Exalt must come to understand her artifacts and to build a bond with them before they will yield up their power. 
 
 The Evocations an artifact manifests are dependent on a number of factors—the magical materials used in its forging are the most fundamental determinant of an artifact’s nature, but the circumstances and techniques that forged it, the personality and combat style of the one who wields it, and the deeds it’s used to perform also play a role. A [[daiklave]] used to hunt and slay ghosts for decades after its forging will likely develop into a different sort of blade than one used primarily for honor duels, and a murderer’s weapon is apt to be different from either. 
 
@@ -30,3 +31,7 @@ Different types of Exalted are resonant, neutral, or dissonant with particular m
 | Liminal        | Dissonant                            | Dissonant                | Dissonant                            | Dissonant                          | Neutral                            |
 | Exigent        | Varies                               | Varies                   | Varies                               | Varies                             | Varies                             |
 
+## Resonant
+Chosen can make better use of artifacts made from materials that they are resonant with.
+## Dissonant
+Chosen wielding artifacts made of materials they are dissonant with will sometimes not have access to some of those artifact's powers, or else have more limited ability to use them.

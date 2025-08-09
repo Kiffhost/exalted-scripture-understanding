@@ -15,4 +15,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Adept at criminal ways, the Dragon-Blood moves effortlessly within criminal underworlds. She may add automatic successes to a [[Larceny]] roll for two motes each.
+*Adept at criminal ways, the Dragon-Blood moves effortlessly within criminal underworlds.*
+She may add automatic successes to a [[Larceny]] roll for two motes each.

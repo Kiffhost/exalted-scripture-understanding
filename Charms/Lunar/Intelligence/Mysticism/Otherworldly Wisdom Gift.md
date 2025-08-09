@@ -11,5 +11,7 @@ Keywords:
 Duration: Permanent
 Prerequisite Charms:
   - "[[Inevitable Genius Insight]]"
+  - "[[Penumbra Witch Mastery]]"
 ---
-Penumbra Witch Mastery The Lunar has walked reality’s edges and sipped from fonts of unearthly knowledge. When she introduces or challenges a fact related to spirits, fae, or other inhuman supernatural creatures, or to other realms of existence or their phenomena, she rerolls ([[Essence]]) failed dice.
+*The Lunar has walked reality’s edges and sipped from fonts of unearthly knowledge.*
+When she introduces or [[Challenging a Fact|challenges a fact]] related to spirits, fae, or other inhuman supernatural creatures, or to other realms of existence or their phenomena, she rerolls ([[Essence]]) failed dice.

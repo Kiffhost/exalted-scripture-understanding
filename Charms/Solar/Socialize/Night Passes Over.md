@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Shadow Over Day]]"
 ---
-The Solar may reflexively ignore all penalties to her [[Guile]] from fatigue, surprise or other emotional states. This Charm does not remove penalties incurred through physical injury or from being observed by hidden characters.
+*The Solar may reflexively ignore all penalties to her [[Guile]] from fatigue, surprise or other emotional states.*
+This Charm does not remove penalties incurred through physical injury or from being observed by hidden characters.

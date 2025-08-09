@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[Crashing Wave Throw]]"
   - "[[Heaven Thunder Hammer]]"
 ---
-After launching an opponent with one of the prerequisite [[Charms]], the Solar channels [[Essence]] through her arms and legs and rips through the space between, flashing into her opponent to make an additional attack using any Ability and allowing the Exalt to reflexively draw a weapon to do so. When the Exalt uses [[Lightning Strikes Twice]] after using one of the prerequisites to unleash a decisive attack, her [[Initiative]] does not roll over until after the extra attack has been completed. Making this attack has slightly different effects depending on whether the Charm was triggered with [[Crashing Wave Throw]] or [[Heaven Thunder Hammer]]: 
+*After launching an opponent with one of the prerequisite [[Charms]], the Solar channels [[Essence]] through her arms and legs and rips through the space between, flashing into her opponent to make an additional attack using any Ability and allowing the Exalt to reflexively draw a weapon to do so.*
+When the Exalt uses [[Lightning Strikes Twice]] after using one of the prerequisites to unleash a decisive attack, her [[Initiative]] does not roll over until after the extra attack has been completed. Making this attack has slightly different effects depending on whether the Charm was triggered with [[Crashing Wave Throw]] or [[Heaven Thunder Hammer]]: 
 
 ### [[Crashing Wave Throw]]
 

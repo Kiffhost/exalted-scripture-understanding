@@ -12,8 +12,8 @@
     "WeaponType": "multitext",
     "ArmourTags": "multitext",
     "Threshold": "number",
-    "Virulence": "text",
-    "Morbidity": "text",
+    "Virulence": "number",
+    "Morbidity": "number",
     "Roll": "multitext",
     "Prerequisites": "multitext",
     "ArmorType": "multitext"

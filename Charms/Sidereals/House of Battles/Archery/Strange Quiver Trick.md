@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Generalized Ammunition Technique]]"
 ---
-The Sidereal’s quiver is stocked with the right arrow for every eventuality. Reaching for ammunition on her person, the Sidereal rolls ([[Wits]] + [[Archery]]) to produce a mundane object that’s small enough to fire with [[Generalized Ammunition Technique]] with a [[Resources]] rating less than or equal to her successes. She can’t use this to steal specific objects. 
+*The Sidereal’s quiver is stocked with the right arrow for every eventuality.*
+Reaching for ammunition on her person, the Sidereal rolls ([[Wits]] + [[Archery]]) to produce a mundane object that’s small enough to fire with [[Generalized Ammunition Technique]] with a [[Resources]] rating less than or equal to her successes. She can’t use this to steal specific objects. 
 
 ## Special activation rules
 

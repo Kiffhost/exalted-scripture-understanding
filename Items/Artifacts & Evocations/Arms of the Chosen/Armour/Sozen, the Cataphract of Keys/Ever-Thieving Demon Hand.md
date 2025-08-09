@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Evanescent Omen Body]]"
 ---
-Theft is Sozen’s [[Essence]]. This Evocation supplements a withering attack. If successful, the wearer makes a reflexive pickpocket roll (Exalted, p. 224) against the target. The wielder may forgo any amount of [[Initiative]] earned from the attack to add that many bonus dice on the ([[Dexterity]] + [[Larceny]]) roll. 
+*Theft is Sozen’s [[Essence]].*
+This Evocation supplements a withering attack. If successful, the wearer makes a reflexive pickpocket roll (Exalted, p. 224) against the target. The wielder may forgo any amount of [[Initiative]] earned from the attack to add that many bonus dice on the ([[Dexterity]] + [[Larceny]]) roll. 
 
 ## Special activation rules
 

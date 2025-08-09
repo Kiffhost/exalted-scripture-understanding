@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar lashes out with strength born of fury. She adds +([[Essence]]) Overwhelming on a withering attack, or adds (lower of [[Essence]] or [[Strength]]) attack roll extra successes on a decisive attack as damage dice. She can deal lethal damage bare-handed.
+*The Lunar lashes out with strength born of fury.*
+She adds +([[Essence]]) Overwhelming on a withering attack, or adds (lower of [[Essence]] or [[Strength]]) attack roll extra successes on a decisive attack as damage dice. She can deal lethal damage bare-handed.

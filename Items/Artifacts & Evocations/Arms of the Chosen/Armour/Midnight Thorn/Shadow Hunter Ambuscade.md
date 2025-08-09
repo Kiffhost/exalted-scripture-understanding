@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Elusive Forest Shadow]]"
 ---
-Razor blooms fly from the armor like arrows as the wearer strikes from stealth, harrying her foes and catching them off guard. This Evocation can enhance an unexpected attack made with any Ability, stripping away ([[Essence]]) points of [[Initiative]] from the target and granting it to the wearer on a hit. Alternatively, she may transfer these points of [[Initiative]] to an ally within short range, creating an opening for him to take advantage of. 
+*Razor blooms fly from the armor like arrows as the wearer strikes from stealth, harrying her foes and catching them off guard.*
+This Evocation can enhance an unexpected attack made with any Ability, stripping away ([[Essence]]) points of [[Initiative]] from the target and granting it to the wearer on a hit. Alternatively, she may transfer these points of [[Initiative]] to an ally within short range, creating an opening for him to take advantage of. 
 
 ## Resonant
 

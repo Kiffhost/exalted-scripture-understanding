@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Great forces sent against the Lunar merely multiply her opportunities for carnage.
+*Great forces sent against the Lunar merely multiply her opportunities for carnage.*
 The Lunar adds a non-Charm die to her [[Join Battle]] roll for each nontrivial enemy she faces, maximum (higher of [[Essence]] or 3). If she wins [[Join Battle]], on her first turn, she ignores penalties from flurrying and can flurry an attack with a shapeshifting action.
 
 ## Archetype 

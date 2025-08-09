@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ A Sword’s Purpose]]"
 ---
-Ajelin makes violence second nature to its wielder, sharpening their instincts and speeding their sword-hand.
+*Ajelin makes violence second nature to its wielder, sharpening their instincts and speeding their sword-hand.*
 The wielder reflexively makes a decisive attack against an enemy whose [[Initiative]] is lower than (her [[Initiative]] + Enmity). She can always attack crashed enemies.
 An enemy damaged by the attack is caught off guard by the wielder’s deadly speed. In the next round, he can’t take his turn until the tick after the wielder, regardless of his actual [[Initiative]].
 This Evocation’s [[Willpower]] cost is waived if the wielder uses it simultaneously with [[Accursed Blade Embodiment]].

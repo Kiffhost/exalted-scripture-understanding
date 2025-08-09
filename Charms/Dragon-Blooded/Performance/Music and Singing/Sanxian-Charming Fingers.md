@@ -12,4 +12,4 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-TheDragon-Blooddrawsonpractice-honedperfection and creative virtuosity, doubling 9s on a [[Performance]] roll to play a musical instrument.
+The Dragon-Blood draws on practice-honed perfection and creative virtuosity, doubling 9s on a [[Performance]] roll to play a musical instrument.

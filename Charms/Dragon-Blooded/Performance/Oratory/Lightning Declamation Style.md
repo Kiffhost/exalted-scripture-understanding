@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The voice of a dragon evinces perfection. The Exalt rerolls 6s until they cease to appear on an oratorical [[Performance]] roll. If she’s upholding a Major or Defining [[Intimacy|Principle]], she rerolls 5s until they cease to appear as well.
+*The voice of a dragon evinces perfection.*
+The Exalt rerolls 6s until they cease to appear on an oratorical [[Performance]] roll. If she’s upholding a Major or Defining [[Intimacy|Principle]], she rerolls 5s until they cease to appear as well.

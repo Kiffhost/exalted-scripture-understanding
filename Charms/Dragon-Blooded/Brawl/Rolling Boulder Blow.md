@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Stone Fist Strike]]"
 ---
-The Dragon-Blood strikes with the force of a falling mountain, sending her foes flying. She adds ([[Strength]]) threshold successes on the attack roll of a decisive smash attack as dice of damage, and may both knock her enemy prone and send him one range band back.
+*The Dragon-Blood strikes with the force of a falling mountain, sending her foes flying.*
+She adds ([[Strength]]) threshold successes on the attack roll of a decisive smash attack as dice of damage, and may both knock her enemy prone and send him one range band back.

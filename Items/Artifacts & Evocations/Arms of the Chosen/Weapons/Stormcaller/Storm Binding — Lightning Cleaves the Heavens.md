@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Fulminating Edge Flash]]"
 ---
-Stormcaller’s wielder sheathes the blade with a whispered prayer, concentrating the fury of the storm into a single bolt of lightning that moves with her will. This takes the place of the normal consequences of sheathing [[Stormcaller]]. She makes an unblockable decisive attack against an enemy out to medium range, adding (Intensity x2) bonus damage. Once this Evocation has been used, it doesn’t reset until the wielder succeeds on a roll to purify [[Stormcaller]] under the new moon. The [[Dawn]] Caste anima power cannot reset this Evocation. 
+*Stormcaller’s wielder sheathes the blade with a whispered prayer, concentrating the fury of the storm into a single bolt of lightning that moves with her will.*
+This takes the place of the normal consequences of sheathing [[Stormcaller]]. She makes an unblockable decisive attack against an enemy out to medium range, adding (Intensity x2) bonus damage. Once this Evocation has been used, it doesn’t reset until the wielder succeeds on a roll to purify [[Stormcaller]] under the new moon. The [[Dawn]] Caste anima power cannot reset this Evocation. 
 
 ## Resonant
 

@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Faith Maintains]]"
 ---
-Discord and lawlessness encumber the soul. The wielder imposes a penalty of (her [[Intelligence]]) on an enemy’s roll to disengage. 
+*Discord and lawlessness encumber the soul.*
+The wielder imposes a penalty of (her [[Intelligence]]) on an enemy’s roll to disengage. 
 
 ## Resonant
 

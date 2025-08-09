@@ -5,7 +5,7 @@ tags:
 ---
 The moon turns its face away, plunging Creation into deep darkness that teems with inscrutable mysteries. None can say where its light falls on the night of the new moon; does it illumine the Wyld that laps at Creation’s edge, or the invisible world of spirits? Luna’s Shamans are seekers of knowledge, uncovering wisdom hidden by the night and traveling beyond the world to learn the secrets of spirits and monsters. 
 
-No Moons are lorekeepers and storytellers who learn and pass on the collective wisdom of both mortal societies and the Silver Pact, as well as mystics and shamans who intercede with gods, demons, and stranger things on humanity’s behalf. They travel Creation and beyond on hooves, wings, or fins borrowed from countless beasts, offer guidance to chieftains and princes in the guise of trusted advisors or wandering wise women, and petition gods with the voices of their favored priests. 
+No Moons are lorekeepers and storytellers who learn and pass on the collective wisdom of both mortal societies and the [[Lore/Factions/Silver Pact|Silver Pact]], as well as mystics and shamans who intercede with gods, demons, and stranger things on humanity’s behalf. They travel Creation and beyond on hooves, wings, or fins borrowed from countless beasts, offer guidance to chieftains and princes in the guise of trusted advisors or wandering wise women, and petition gods with the voices of their favored priests. 
 
 When the Lunars remade their Castes, they knew even the brightest minds could not recreate the fallen First Age’s lost glories. Instead, they made the No Moons a Caste of mystics, shamans, and witches who would plumb the Age of Sorrows’ darkness to unearth the secret wisdom they needed to survive. No Moons guide their Circles with sagacious insight, using skill as healers, sorcerers, and artificers to aid their Circlemates. 
 
@@ -21,7 +21,7 @@ Mystics and witches, the No Moons’ anima lets them shroud themselves in shadow
 
 - For five motes, the [[No Moon]] shrouds herself in a shadowy penumbra until her next turn, imposing a −2 penalty on vision-dependent rolls against her, including most attacks. This is free at bonfire anima. 
 - For three motes, she senses the location and general nature of a nearby place of power or occult significance — a demesne, manse, spirit sanctum, shadowland, Wyld zone, otherworldly gateway, sorcerous working, etc. She adds (highest mental Attribute) non-Charm successes on rolls to navigate towards it. The Storyteller should choose not the closest such locale, but the one that’s most interesting and narratively relevant.
-- Once per day, while her anima is at bonfire, she can reflexively expend it completely to either gain one [[Willpower]], add ([[Essence]] + [highest mental Attribute]) sorcerous motes to a spell she’s shaping, or add a free full Excellency (which counts as Charm dice) on a mental Attribute-based roll other than [[Join Battle]].
+- Once per day, while her anima is at bonfire, she can reflexively expend it completely to either gain one [[Willpower]], add ([[Essence]] + {highest mental Attribute}) sorcerous motes to a spell she’s shaping, or add a free full Excellency (which counts as Charm dice) on a mental Attribute-based roll other than [[Join Battle]].
 
 # Caste Attributes
 

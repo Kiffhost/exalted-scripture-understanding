@@ -17,5 +17,7 @@ Accuracy:
   - Medium +2
   - Long +0
   - Extreme* -2
+aliases:
+  - flame pieces
 ---
-A flame piece is a small firewand, made for one-handed use. Most are wielded by elite Southern cavalry. Like larger firewands, this weapon uses firedust or specialized alchemical reagents as ammunition. See the entry for firewands for further information. 
+A flame piece is a small [[firewand]], made for one-handed use. Most are wielded by elite Southern cavalry. Like larger [[Firewand|firewands]], this weapon uses firedust or specialized alchemical reagents as ammunition. See the entry for [[Firewand|firewands]] for further information. 

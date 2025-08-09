@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-Feeling the pulse of energy that moves through the world, the Solar can sense her exact position on any body of water. As long as she is on the deck of a ship, and that ship is touching a body of water, the Exalt can sense both the direction of the Pole of Earth and the North Star, even in broad daylight. The moment she uses this Charm, she knows her exact latitude, longitude, and bearing, and can plot an accurate course without a roll.
+*Feeling the pulse of energy that moves through the world, the Solar can sense her exact position on any body of water.*
+As long as she is on the deck of a ship, and that ship is touching a body of water, the Exalt can sense both the direction of the Pole of Earth and the North Star, even in broad daylight. The moment she uses this Charm, she knows her exact latitude, longitude, and bearing, and can plot an accurate course without a roll.
 
 ### On [[Perfect Reckoning Technique]]
 

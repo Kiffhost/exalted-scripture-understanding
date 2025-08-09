@@ -11,7 +11,8 @@ Duration: Permanent
 Prerequisite Charms:
   - Any Martial Arts Form Charm
 ---
-Step Between Seconds When Gnomon’s wielder uses [[Step Between Seconds]], she may use her action during the frozen time to reflexively activate any [[Martial Arts]] Form Charm she knows. 
+*Step Between Seconds When Gnomon’s wielder uses [[Step Between Seconds]], she may use her action during the frozen time to reflexively activate any [[Martial Arts]] Form Charm she knows.*
+
 
 ## Dissonant
 

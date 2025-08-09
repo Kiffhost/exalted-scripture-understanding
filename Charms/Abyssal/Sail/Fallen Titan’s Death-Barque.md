@@ -13,7 +13,8 @@ Prerequisite Charms:
   - "[[Black Water Odyssey]]"
   - "[[Ocean’s Maw Malediction]]"
 ---
-*The deathknight’s fleet is wreathed in dark glories and bound to her iron will; what better accolade could an admiral have? Upon purchasing this Charm, the Abyssal chooses a ship she’s claimed with [[Dread Captain’s Command]] to be her flagship. The flagship counts as a shadowland (p. XX). The undead are immune to the deleterious effects of the sun while aboard it, as are grave goods. It can’t be used to travel between Creation and the Underworld, though the ghosts of the drowned may emerge from the waters around it by night.*
+*The deathknight’s fleet is wreathed in dark glories and bound to her iron will; what better accolade could an admiral have?*
+Upon purchasing this Charm, the Abyssal chooses a ship she’s claimed with [[Dread Captain’s Command]] to be her flagship. The flagship counts as a shadowland. The undead are immune to the deleterious effects of the sun while aboard it, as are grave goods. It can’t be used to travel between Creation and the Underworld, though the ghosts of the drowned may emerge from the waters around it by night.
 The Abyssal gains the following benefits while aboard her flagship:
  - She may activate [[Ocean’s Maw Malediction]] to wreathe her ship in the Foul Tide or Mists of Despair with a duration of one day. This is harmless to her vessel or other vessels claimed by her with [[Dread Captain’s Command]], but subjects anyone within a mile to the chosen peril.
  - While aboard her flagship, she counts as having used [[Dread Captain’s Command]] to claim all ships within ([[Essence]] x10) miles that she owns or whose captain has a Major or Defining Tie of loyalty, obedience, fear, or love toward her.

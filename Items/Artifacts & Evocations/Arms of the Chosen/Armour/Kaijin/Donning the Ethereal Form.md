@@ -14,7 +14,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[ Fateful Shift Evasion]]"
 ---
-Harmonizing her [[Essence]] with the invisible world of spirits around her, Kaijin’s wearer walks between worlds. She and all objects on her person become dematerialized, unable to interact with the material world or be harmed by it without the use of magic. She remains visible to materialized characters, but seems like a divine spirit rather than flesh and blood, requiring a difficulty 7 ([[Perception]] + [[Occult]]) roll to distinguish. 
+*Harmonizing her [[Essence]] with the invisible world of spirits around her, Kaijin’s wearer walks between worlds.*
+She and all objects on her person become dematerialized, unable to interact with the material world or be harmed by it without the use of magic. She remains visible to materialized characters, but seems like a divine spirit rather than flesh and blood, requiring a difficulty 7 ([[Perception]] + [[Occult]]) roll to distinguish. 
 
 ## Special activation rules
 

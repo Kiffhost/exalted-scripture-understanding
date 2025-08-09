@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Unshakable Belief Affliction]]"
 ---
-Striking at the past itself, False Remembrance’s master carves out her place in history.
+*Striking at the past itself, False Remembrance’s master carves out her place in history.*
 ## Resonant
 Only characters who are resonant with [[Fond Remembrance]] can awaken this Evocation.
 The wielder makes a false memory gambit against any number of characters within ([[Essence]]) range bands.

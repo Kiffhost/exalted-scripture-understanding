@@ -1,6 +1,7 @@
 ---
 tags:
   - source/abyssal-book
+  - source/Abyssal-Book
 ---
 Necromancy is divided into three circles, each a dramatic increase in power and rarity from the one before. 
 The First Circle of necromancy — more poetically, the Ivory Circle — allows its practitioner to reshape reality in ways that are limited and local. It spells lay potent curses on single foes, bind and enchant lesser ghosts, and conjure ghostly perils like pyreflame and prayer-ash. Its most common practitioners are those puissant ghosts with necromantic talent; for them, initiation is a road to power and status. A few gods and other spirits likewise have the talent, usually because their nature is touched with death. 
@@ -16,4 +17,10 @@ In return, necromancy grants access to a wide array of unique spells. These spel
 Some savants pursue both sorcery and necromancy, gaining access to the unique benefits of each appropriate to the circles they’ve mastered. Even those who study both arts find themselves drawn to particular magics may have only a single control spell at the first, second, or third circle. A character who learns a control spell through [[Terrestrial Circle Sorcery]] who later initiates into [[Ivory Circle Necromancy]] may choose a new control spell from her necromantic ones, but this replaces her older choice. 
 In all other respects, sorcery and necromancy interact as if they were parallel. *Necromancy can be used to distort sorcery and vice-versa*. Unless otherwise specified, necromantic and sorcerous motes can be spent interchangeably. Likewise, [[Ivory Circle Necromancy]] can be used instead of [[Terrestrial Circle Sorcery]] to to learn [[Craft]] (First Age Artifice), and [[necromantic workings]] can be used to create First Age artifice.
 # Initiation
-Like sorcery, would-be necromancers must seek out initiation into the bleak arts. Hundreds of paths to power exist, with countless others waiting to be innovated or discovered. Each initiation comes with its own shaping rituals, special ways to gather necromantic motes.
+Like [[Rules Reference/Sorcery/Sorcery|Sorcery]], would-be necromancers must seek out initiation into the bleak arts. Hundreds of paths to power exist, with countless others waiting to be innovated or discovered. Each initiation comes with its own shaping rituals, special ways to gather necromantic motes.
+
+# Thaumaturgy
+Most of the people that Creation calls “necromancer” aren’t initiates of the Ivory Circle proper, but those who’ve mastered certain thaumaturgical rites that allow them to conjure, animate, bind, and banish the dead. These are learned like any other thaumaturgical rituals (Exalted, p. 490). Some sample thaumaturgical necromancy might include: 
+[[Breath of Unlife]]
+[[Final Testament]]
+[[Tear-Stained Talisman]]

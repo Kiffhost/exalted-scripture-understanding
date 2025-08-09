@@ -12,5 +12,7 @@ Keywords:
 Duration: Instant
 Prerequisite Charms:
   - "[[Loyalty-Reading Meditation]]"
+  - "[[Smoke-Wreathed Mien]]"
 ---
-Smoke-Wreathed Mien Even as she flaunts her finery and shares laughter with intimate friends, the Dragon-Blood is at her most vigilant. Shegains+1Guileagainstthereadintentionsrollofacharacter she’s unaware of. If she defeats his roll, she may roll ([[Perception]] + [[Awareness]]) with double 9s to detect him.
+*Even as she flaunts her finery and shares laughter with intimate friends, the Dragon-Blood is at her most vigilant.*
+She gains +1 Guile against the read intentions roll of a character she’s unaware of. If she defeats his roll, she may roll ([[Perception]] + [[Awareness]]) with double 9s to detect him.

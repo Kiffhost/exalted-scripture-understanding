@@ -12,4 +12,4 @@ Prerequisite Charms:
   - "[[ Evolving Quicksilver Body]]"
   - "[[Increasing Strength Exercise]]"
 ---
-This Evocation upgrades [[Increasing [[Strength]] Exercise]] (Exalted, p. 262). When the Solar enters Quicksilver Host Mien or Final Unity Mien, she may invoke the Charm reflexively.
+This Evocation upgrades [[Increasing Strength Exercise]] (Exalted, p. 262). When the Solar enters [[Unison#Quicksilver Host Mien|Quicksilver Host Mien]] or [[Unison#Final Unity Mien|Final Unity Mien]], she may invoke the Charm reflexively.

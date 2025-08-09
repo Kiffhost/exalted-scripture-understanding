@@ -6,9 +6,9 @@ tags:
 ---
 Size is simple—it measures how big a [[Battle Group]] is, in terms of how many fighters are in it. The greater a battle group’s [[Size]], the harder it hits and the tougher it is; [[Size]] is the single greatest source of a battle group’s power. 
 
-Battle groups enjoy a bonus to their [[Attack]] rolls, [[Attack#raw damage|damage]], [[Magnitude Track|Magnitude]], and [[Soak]] equal to their [[Size]]. Thus, a [[Size]] 3 battle group adds +3 to its attack pools, +3 to its raw damage, +3 to its soak, and has 3 extra points of Magnitude.
+Battle groups enjoy a bonus to their [[Attack]] rolls, [[Attack#raw damage|damage]], [[Magnitude Track|Magnitude]], and [[Soak]] equal to their [[Size]]. Thus, a [[Size]] 3 battle group adds +3 to its attack pools, +3 to its raw damage, +3 to its soak, and has 3 extra points of [[Magnitude Track|Magnitude]].
 # [[Size]] 0
-One or two fighters. These should be modeled as individual combatants, not as a battle group. Any battle group reduced to [[Size]] 0 through Magnitude loss effectively ceases to exist—all of its members are either dead, fled, or surrendered. 
+One or two fighters. These should be modeled as individual combatants, not as a battle group. Any battle group reduced to [[Size]] 0 through [[Magnitude Track|Magnitude]] loss effectively ceases to exist—all of its members are either dead, fled, or surrendered. 
 # [[Size]] 1
 A small group: a half-dozen thugs in an alley, a fang of Realm legionnaires, a bar brawl, ten Dune People lying in wait beneath the sand. A dozen or fewer combatants. 
 # [[Size]] 2

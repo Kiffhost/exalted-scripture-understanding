@@ -11,7 +11,7 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Walking in the Dragons’ Footsteps]]"
 ---
-The wielder can use Walking in the Dragon’s Footsteps to enter the Aura of the previous element in the cycle — e.g., entering Fire Aura instead of Air Aura.
+*The wielder can use Walking in the Dragon’s Footsteps to enter the Aura of the previous element in the cycle — e.g., entering Fire Aura instead of Air Aura.*
 
 ## Special activation rules
 Dragon-Blooded Ledaal scions may awaken this Evocation at no experience point cost.

@@ -2,7 +2,8 @@
 tags:
   - source/arms-book
 ---
-In the latter days of the First Age, Mizhra Starshaper forged five legions of brass soldiers for the Southern despot Her Blazing Majesty. Constructed without hearts, they policed districts and crushed rebellions with cold, clinical practicality. Knowing no personal loyalty, they obeyed anyone who spoke their command codes. When Her Blazing Majesty sought safety from the Usurpation behind the protection of her Brass Legionnaires, this proved her doom, as her own Dragon-Blooded lieutenants ordered the automatons to murder her as she slept.
+*In the latter days of the First Age, Mizhra Starshaper forged five legions of brass soldiers for the Southern despot Her Blazing Majesty.*
+Constructed without hearts, they policed districts and crushed rebellions with cold, clinical practicality. Knowing no personal loyalty, they obeyed anyone who spoke their command codes. When Her Blazing Majesty sought safety from the Usurpation behind the protection of her Brass Legionnaires, this proved her doom, as her own Dragon-Blooded lieutenants ordered the automatons to murder her as she slept.
 
 After the Usurpation, the Brass Legions were disbanded and ordered destroyed, for fear that their maker had — like many artificers and sorcerers — left behind some cunning mechanism for revenge. But certain ambitious or thoughtful Dragon-Bloods quietly failed to follow through, keeping the remaining legionnaires in reserve for the wars to come. Most were cached in hidden places across the South, used only rarely and in secret.
 
@@ -16,12 +17,12 @@ A handful of legionnaires break these limits due to meddling from [[sorcery]], s
 
 The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, distinguished only by metal skin and hematite eyes. Each successive series’ members appear cruder and more abstract, with the last wave featuring minimalist metal armatures. Despite these unexplained changes in semblance — did their creator go mad, grow obsessed with function over form, or simply lose interest? — the final models are as efficacious as the first. All carry mortal weapons; their armor is innate.
 #### [[Brass Legionnaire]]
-**Essence**: 1; **Willpower**: 7; **Join Battle**: 7 dice
+**Essence**: 1; **Willpower**: 7; **[[Join Battle]]**: 7 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x4/Incap. 
 **Actions**: [[Command]] actions: 5 dice; [[Feats of Strength]]: 12 dice (may attempt [[Strength]] 7 feats); Senses: 7 dice; [[Stealth]]: 5 dice; Strategic maneuvers: 5 dice; [[Threaten]]: 10 dice; [[Appearance]] 2, [[Resolve]] 3, [[Guile]] 1 
 ###### COMBAT
-[[Attack]] (spear): 10 dice (Damage 13L)
-[[Attack]] (short sword): 12 dice (Damage 11L)
+[[Attack]] ([[spear]]): 10 dice (Damage 13L)
+[[Attack]] ([[short sword]]): 12 dice (Damage 11L)
 [[Attack]] (self bow): 9 dice at close range (Damage 11L)
 [[Attack]] (unarmed): 9 dice (Damage 11B)
 Combat [[Movement]]: 7 dice
@@ -43,7 +44,7 @@ Soak/Hardness: 14/8
 
 ## Maintenance and [[Repair]]
 
-For every week of operation in battle or similarly strenuous conditions, a [[Brass Legionnaire]] requires a roll to perform maintenance. This is an ([[Intelligence]] + Craft[Artifacts]) roll at a difficulty of (3 + the legionnaire’s current wound penalty), and requires one scene to complete. On a failed roll, the legionnaire must either wait another day before a character can retry the maintenance roll, or take one unpreventable die of decisive lethal damage if it presses on without delay. 
+For every week of operation in battle or similarly strenuous conditions, a [[Brass Legionnaire]] requires a roll to perform maintenance. This is an ([[Intelligence]] + Craft{Artifacts}) roll at a difficulty of (3 + the legionnaire’s current wound penalty), and requires one scene to complete. On a failed roll, the legionnaire must either wait another day before a character can retry the maintenance roll, or take one unpreventable die of decisive lethal damage if it presses on without delay. 
 
 Damage dealt to a [[Brass Legionnaire]] can be cleared from its health track with a repair project (Exalted, p. 242). Repairing a single level of damage is a major project. The difficulty of the [[Craft]] (Artifacts) roll and the time needed to complete repairs depends on the type of damage level being restored.
 

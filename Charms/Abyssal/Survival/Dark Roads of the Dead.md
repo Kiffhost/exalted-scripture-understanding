@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Pomegranates Full and Fine]]"
 ---
 *The secret roads of the Underworld reveal themselves to Death’s Lawgiver.*
-The Abyssal rolls ([Perception or Intelligence] + [[Survival]]) with double 9s to discover or recall the presence of a pathway between Creation and the Underworld. She doubles 8s if she uses this Charm in the Underworld or on a moonless night in Creation. The difficulty is 3 by default, but the [[Storyteller]] may adjust it based on the deathknight’s familiarity with the local area on both sides of the veil.
+The Abyssal rolls ({Perception or Intelligence} + [[Survival]]) with double 9s to discover or recall the presence of a pathway between Creation and the Underworld. She doubles 8s if she uses this Charm in the Underworld or on a moonless night in Creation. The difficulty is 3 by default, but the [[Storyteller]] may adjust it based on the deathknight’s familiarity with the local area on both sides of the veil.
 If successful, the [[Storyteller]] reveals a path that will take a few days’ travel on foot. The Abyssal’s extra successes may shorten this journey:
 BEGIN TABLE Extra Successes Distance 1-2 One day 3-4 A few hours 5-6 A few minutes 7+ None — the path is at the Abyssal’s current location.
 END TABLE The [[Storyteller]] determines the exact form the pathway between worlds takes. While it can be a shadowland, there are many secret paths the Abyssals might walk. These roads are fleeting, rarely allowing for repeat or return use, unlike shadowlands. While traveling along them, the Abyssal may encounter ghosts of the newly dead, who may be confused, lost, or afraid on their path to the Underworld.

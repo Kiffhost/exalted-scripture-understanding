@@ -17,3 +17,5 @@ In addition to ownership of the manse itself, possessing this Merit at three dot
 Many Sidereals have manses in Heaven. They’re typically Lunar, Sidereal, or Solar manses, though others exist in Yu-Shan.
 #### Abyssal
 Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.
+
+# See also: [[Attuning to a Demesne or Manse]]

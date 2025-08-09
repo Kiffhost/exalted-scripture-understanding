@@ -17,7 +17,7 @@ Prerequisite Charms:
   - OR
   - 2 Stamina Charms known
 ---
-Add dice to an ([[Stamina]] + Ability) roll for 1 mote per die. 
+Add dice to an ([[Stamina]] + Ability) roll for 1 mote per die.
 
 The [[Stamina]] Excellency can raise [[soak]]. This costs 1 mote per point of soak, maximum (Stamina/2, rounded down).
 

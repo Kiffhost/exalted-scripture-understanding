@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Invulnerable Moonsilver Carapace]]"
   - "[[Sheathed in Moonsilver]]"
 ---
-Ajelin’s cursed metal merges with the Lunar’s own armored shell.
+*Ajelin’s cursed metal merges with the Lunar’s own armored shell.*
 Sheathed With Moonsilver’s armored soak stacks with Invulnerable Moonsilver Carapace’s soak (Lunars, p.
 253). The Lunar doesn’t gain this benefit if she’s fused her [[Invulnerable Moonsilver Carapace]] with other armor.
 ## Resonant

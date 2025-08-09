@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood’s superheated edge cuts through armor as though it were ice. She ignores (Strength/2, rounded up) points of [[Hardness]], plus an additional point for every 10 on her attack roll. In Fire Aura, double the [[Hardness]] ignored.
+*The Dragon-Blood’s superheated edge cuts through armor as though it were ice.*
+She ignores (Strength/2, rounded up) points of [[Hardness]], plus an additional point for every 10 on her attack roll. In Fire Aura, double the [[Hardness]] ignored.

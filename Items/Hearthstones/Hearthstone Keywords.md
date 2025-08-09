@@ -2,7 +2,8 @@
 tags:
   - reference
 ---
-Hearthstones are of diverse origins—most are accreted in a specially-designed chamber in the heart of a manse, but others occur naturally over a span of centuries in unusual demesnes. This produces some differences in hearthstone behaviors, and different types of stones can be found in different places, and behave differently. These differences are denoted by special keywords, detailed below: 
+*Hearthstones are of diverse origins—most are accreted in a specially-designed chamber in the heart of a manse, but others occur naturally over a span of centuries in unusual demesnes.*
+This produces some differences in hearthstone behaviors, and different types of stones can be found in different places, and behave differently. These differences are denoted by special keywords, detailed below: 
 ### Linked
 
 Hearthstones of this type channel their mystical benefits from their parent manse. If the manse is destroyed or disrupted, the hearthstone becomes inert and ceases to function. An inert hearthstone crumbles to ash within a matter of days. Linked hearthstones can only be grown in a manse, and never occur naturally in demesnes. 

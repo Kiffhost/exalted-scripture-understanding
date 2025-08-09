@@ -17,4 +17,4 @@ The Corruption weakens an Intimacy of the same intensity or lower. It can’t be
 - Principles that run counter to death’s chivalry.
 - Intimacies related to things from the Abyssal’s mortal life.
 ## Imposing Whispers
-The Abyssal temporarily gains Whispers (p. XX). Minor Corruption inflicts two-dot Whispers for one session. Major Corruption can inflict two-dot Whispers for one story or four-dot Whispers for one session. Defining Corruption inflicts four-dot Whispers for one story. The Abyssal can gain Whispers permanently for experience debt (p. XX).
+The Abyssal temporarily gains Whispers (p. XX). Minor Corruption inflicts two-dot Whispers for one session. Major Corruption can inflict two-dot Whispers for one story or four-dot Whispers for one session. Defining Corruption inflicts four-dot Whispers for one story. The Abyssal can gain Whispers permanently for [[Experience Debt]] (p. XX).

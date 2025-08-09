@@ -20,7 +20,7 @@ Prerequisite Charms:
 The stylist may pay a ten-mote, one-[[Willpower]] surcharge when she uses [[Thousand Blades Form]] to gain the following benefits:
 - She adds (Arsenal/2, rounded up) to her base [[Initiative]] and to the [[Initiative]] she receives for crashing enemies.
 - With Arsenal 3+, she may pay three [[Initiative]] to make a decisive counterattack once per round. With Arsenal 5+, she may reflexively clash instead of counterattacking.
-- She can defend against environmental hazards with [[Defense|Parry]] instead of an opposed roll.
+- She can defend against [[environmental hazards]] with [[Defense|Parry]] instead of an opposed roll.
 - Weapons wielded with [[Thousand Blades Unsheathed]] can’t be disarmed or damaged.
 While using this Charm, the stylist’s weapons radiate light as a bonfire anima (Exalted, p. 175) 
 ## Special activation rules

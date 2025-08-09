@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Wake the Sleeper]]"
 ---
-This Charm upgrades the prerequisite, allowing it to be used on weapons and armor forged of natural metals such as brass, iron, and steel. As the Solar clasps a weapon, she speaks her legend into it, and the whispers of mysterious spirits flow into it, filling it with tales of her past incarnations. The empowering effect of [[Wake the Sleeper]] is less profound on such mortal panoplies: the roll is always difficulty 2, and the weapon gains a single Instant-duration Evocation whether it is successful or not. If the roll succeeds, the weapon may (optionally) become visually transformed by the Solar’s anima, taking on elements of her iconic form, and gains a passive or Permanent-duration Evocation that enhances the weapon or armor in question. 
+This Charm upgrades the prerequisite, allowing it to be used on weapons and armor forged of natural metals such as brass, iron, and steel.
+As the Solar clasps a weapon, she speaks her legend into it, and the whispers of mysterious spirits flow into it, filling it with tales of her past incarnations. The empowering effect of [[Wake the Sleeper]] is less profound on such mortal panoplies: the roll is always difficulty 2, and the weapon gains a single Instant-duration Evocation whether it is successful or not. If the roll succeeds, the weapon may (optionally) become visually transformed by the Solar’s anima, taking on elements of her iconic form, and gains a passive or Permanent-duration Evocation that enhances the weapon or armor in question. 
 
 ## Special activation rules
 

@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Venom-Intensifying Stroke]]"
 ---
-This Evocation permanently intensifies the poison produced by [[Howling Lotus Strike]], ensuring that no matter how well the target rolls to resist the poison (p. 232), its duration cannot be reduced below one round. 
+*This Evocation permanently intensifies the poison produced by [[Howling Lotus Strike]], ensuring that no matter how well the target rolls to resist the poison (p.*
+232), its duration cannot be reduced below one round. 
 
 ## Special activation rules
 

@@ -21,7 +21,7 @@ This soul-destroying attack is especially potent against living enemies and ghos
 ## Reset 
 Once per scene unless reset by crashing an enemy whose [[Initiative]] was higher than the stylist’s.
 ## Mastery
-When the stylist consumes an enemy’s soul, she may incur experience debt to instantly learn a single Martial Arts Charm or [[Eclipse]] Charm that he knew, as long she meets all its usual prerequisites.
+When the stylist consumes an enemy’s soul, she may incur [[Experience Debt]] to instantly learn a single Martial Arts Charm or [[Eclipse]] Charm that he knew, as long she meets all its usual prerequisites.
 She can likewise learn necromantic spells she qualifies for, though not sorcerous ones. She can’t learn Sidereal Martial Arts this way unless she devours a Sidereal’s soul.
 ## Terrestrial
 This Charm can only be used against crashed enemies.

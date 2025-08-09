@@ -35,4 +35,4 @@ The stylist can also learn the following techniques. Getimians can only use them
 ### [[Essence]] Template Restoration (+10m, 1wp; requires Wound Negation Touch)
 The stylist can heal permanent crippling effects, forgoing two levels per point of penalty for missing digits, a lost eye, a mangled foot, etc.; three levels per point for a severed hand, congenital blindness, organ failure, etc.; or four levels per point for severed limbs, destroyed vital organs, and other grievous maiming. 
 ### Psyche-Cleansing Technique (+10m, 1wp; requires Trauma-Erasing Touch)
-The stylist can lower a Derangement’s intensity one step, to a minimum of Minor, by forgoing (its intensity) levels of healing. She can negate a Psyche effect by forgoing of healing equal to the higher of the [[Essence]] of the character responsible or the total [[Willpower]] cost to resist it.
+The stylist can lower a [[Derangement]]’s intensity one step, to a minimum of Minor, by forgoing (its intensity) levels of healing. She can negate a Psyche effect by forgoing of healing equal to the higher of the [[Essence]] of the character responsible or the total [[Willpower]] cost to resist it.

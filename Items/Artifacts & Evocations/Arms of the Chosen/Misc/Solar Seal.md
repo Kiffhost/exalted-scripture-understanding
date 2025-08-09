@@ -8,7 +8,8 @@ aliases:
   - Auspicious Secret Seal
 Material: Orichalcum, Blue Jade or Black Jade
 ---
-Forged to protect the privacy and integrity of the Exalted Host’s communications, these artifacts appear as orichalcum signet rings or hand-held seals. Such a seal is blank unless attuned for one mote, when its owner’s name appears on its face in [[Language#Old Realm]]. She may change its image at will to any insignia she can rightfully claim as her own.
+*Forged to protect the privacy and integrity of the Exalted Host’s communications, these artifacts appear as orichalcum signet rings or hand-held seals.*
+Such a seal is blank unless attuned for one mote, when its owner’s name appears on its face in [[Language#Old Realm]]. She may change its image at will to any insignia she can rightfully claim as her own.
 
 While sealing a document, the owner may identify an individual — either by name or a unique title, such as “the prince of Fajad” or “Cathak Cainan’s personal secretary.” If anyone but the person thus identified breaks the document’s seal, the message’s contents vanish before they can be read.
 

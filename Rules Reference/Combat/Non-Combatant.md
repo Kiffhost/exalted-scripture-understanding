@@ -1,0 +1,8 @@
+---
+tags:
+  - source/solar-book
+---
+Not everyone on a battlefield is necessarily a combatant. Fights sometimes break out when individuals are present who have no meaningful combat capabilities and no real interest in fighting. Such individuals are considered bystanders, or noncombatants. For the most part, they’re scenery—screaming crowds, panicked partygoers, confused shoppers in a Nexus market.
+Most notably, non-combatants have a permanent [[Initiative]] rating of 0 and cannot yield [[Initiative]] when targeted by withering attacks; if it becomes important to resolve an attack against a non-combatant for some reason, treat them as a [[Size]] 0 battle group—withering attacks simply inflict damage directly to their [[Health Track]]. Generally, though, this shouldn’t be necessary—bystanders are mostly there to provide stunt opportunities for the players’ characters and their opponents. For games featuring particularly powerful and experienced characters, certain combatants might also be declared trivial opponents. 
+# Trivial Opponent
+A trivial opponent is a character vastly less powerful than other combatants on the battlefield—for example, a single mortal soldier of ordinary skill on a battlefield where every other fighter is a Fair Folk noble or Celestial Exalt. Any opponent the Storyteller decides is trivial is treated as a non-combatant, using the rules above; they have some slight chance to wound or impede the heroes around them, but thwarting such a minor adversary offers no meaningful opportunity to shift the initiative of the battle overall.

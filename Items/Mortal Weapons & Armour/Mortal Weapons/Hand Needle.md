@@ -12,5 +12,6 @@ WeaponTags:
 Cost: 
 aliases:
   - Kakute
+  - hand needles
 ---
 A handle needle is a ring, worn on the wielder’s finger, with thick metal spikes on one side for punching. The spiked side is often worn on the inside of the hand, concealing it from view.

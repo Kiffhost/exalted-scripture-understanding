@@ -14,4 +14,5 @@ Duration: Aura
 Prerequisite Charms:
   - "[[Ripples-on-Water Defense]]"
 ---
-The Dragon-Blood becomes as a standing wave, untouched by the attacks of lesser enemies. She gains [[Hardness]] equal to her current [[Initiative]] against all decisive attacks. This Charm isn’t compatible with armor.
+*The Dragon-Blood becomes as a standing wave, untouched by the attacks of lesser enemies.*
+She gains [[Hardness]] equal to her current [[Initiative]] against all decisive attacks. This Charm isn’t compatible with armor.

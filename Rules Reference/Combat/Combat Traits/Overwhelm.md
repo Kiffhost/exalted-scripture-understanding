@@ -1,6 +1,7 @@
 ---
 aliases:
   - Overwhelming rating
+  - Overwhelming
 tags:
   - trait/combat
   - source/solar-book

@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Lunar’s body becomes a purifying crucible that no sickness can withstand. She rerolls (higher of [[Essence]] or 3) failed dice on a roll against the morbidity or virulence of a disease.
+*The Lunar’s body becomes a purifying crucible that no sickness can withstand.*
+She rerolls (higher of [[Essence]] or 3) failed dice on a roll against the morbidity or virulence of a disease.

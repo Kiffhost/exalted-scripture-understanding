@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Awakened Carnal Demiurge]]"
 ---
-With a provocative word and gesture, the Exalt amplifies her form with [[Essence]], treating the target of such intensity to the fullness of her desires. This Charm supplements a persuade action to seduce a target, granting double 9s. The Solar may even seduce a character for whom such influence is unacceptable.
+*With a provocative word and gesture, the Exalt amplifies her form with [[Essence]], treating the target of such intensity to the fullness of her desires.*
+This Charm supplements a persuade action to seduce a target, granting double 9s. The Solar may even seduce a character for whom such influence is unacceptable.

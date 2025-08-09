@@ -37,7 +37,7 @@ One example of a rerolling Charm is [[Excellent Strike]], while [[Rumor of Form]
 ## Cost Code Reference
 
 | Label | Cost                                                     |
-| ----- | -------------------------------------------------------- |
+| ----- | ------------------------------------------------------- |
 | m     | [[Essence#Mote Pools\|motes]]                            |
 | wp    | [[Willpower]]                                            |
 | hl    | bashing [[Health Track#bashing\|Health Levels]]          |

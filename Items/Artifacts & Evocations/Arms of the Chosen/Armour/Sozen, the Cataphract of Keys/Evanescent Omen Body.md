@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Infernal Omen Shroud]]"
 ---
-Sozen’s omens are no mere display; they are part of her, and she can become one with them. The Exalt dissolves into surrounding ominous manifestations, adding (Essence/2, round up) [[Defense|Evasion]] against an attack unless it is capable of hitting dematerialized characters. She then reforms at her current location. 
+*Sozen’s omens are no mere display; they are part of her, and she can become one with them.*
+The Exalt dissolves into surrounding ominous manifestations, adding (Essence/2, round up) [[Defense|Evasion]] against an attack unless it is capable of hitting dematerialized characters. She then reforms at her current location. 
 
 ## Resonant
 

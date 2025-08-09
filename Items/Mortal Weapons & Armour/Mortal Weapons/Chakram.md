@@ -15,5 +15,7 @@ Accuracy:
   - Medium +2
   - Long -1
   - Extreme* -3
+aliases:
+  - chakrams
 ---
 A chakram is a small disc or ring of steel with razor sharp outer edges.

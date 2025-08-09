@@ -11,7 +11,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Subjugating Strike]]"
 ---
-Vainglory’s wielder cannot submit to those she despises. Whenever the Exalt takes damage from a decisive attack, she gains [[Initiative]] equal to the rating of her highest negative [[Intimacy|Tie]] toward her attacker. 
+*Vainglory’s wielder cannot submit to those she despises.*
+Whenever the Exalt takes damage from a decisive attack, she gains [[Initiative]] equal to the rating of her highest negative [[Intimacy|Tie]] toward her attacker. 
 
 ## Resonant
 

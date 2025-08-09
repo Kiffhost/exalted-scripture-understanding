@@ -15,4 +15,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood’s body is as light as flames, skimming over the ground as she moves to evade. She may raise her [[Defense|Evasion]] for two motes per point, or add automatic successes on a [[Dodge]] roll for two motes each. She ignores environmental penalties to her [[Defense|Evasion]] or to the [[Dodge]] roll.
+*The Dragon-Blood’s body is as light as flames, skimming over the ground as she moves to evade.*
+She may raise her [[Defense|Evasion]] for two motes per point, or add automatic successes on a [[Dodge]] roll for two motes each. She ignores environmental penalties to her [[Defense|Evasion]] or to the [[Dodge]] roll.

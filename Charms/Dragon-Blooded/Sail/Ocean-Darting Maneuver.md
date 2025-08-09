@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Storm-Outrunning Technique]]"
 ---
-SteeringhershipwiththefluidgraceofWaterEssence,the Dragon-Blood can accomplish nigh-impossible maneuvers. She doubles 9s on a roll to navigate through a naval hazard or enact a positioning stratagem in naval combat (Exalted, pp. 244-245). On a successful positioning stratagem, she receives ([[Essence]]) additional Momentum.
+*Steering her ship with the fluid grace of Water Essence, the Dragon-Blood can accomplish nigh-impossible maneuvers.*
+She doubles 9s on a roll to navigate through a naval hazard or enact a [[positioning]] stratagem in naval combat (Exalted, pp. 244-245). On a successful [[positioning]] stratagem, she receives ([[Essence]]) additional Momentum.

@@ -13,7 +13,8 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Mast endures lashing lightning and mighty zephyrs, bent but unbroken, that the ship might stay steady in its course. When an ally within medium range would be knocked prone or forcibly moved, the Sidereal suffers it in his stead, falling prone or being knocked back the same distance and direction. Any damage it would have inflicted likewise goes to the Sidereal. It can’t redirect falls due to gravity. While using [[Unswerving Juggernaut Principle]], forced movement sends the Sidereal further along her path, rather than keeping the same direction as the original effect. 
+*The Mast endures lashing lightning and mighty zephyrs, bent but unbroken, that the ship might stay steady in its course.*
+When an ally within medium range would be knocked prone or forcibly moved, the Sidereal suffers it in his stead, falling prone or being knocked back the same distance and direction. Any damage it would have inflicted likewise goes to the Sidereal. It can’t redirect falls due to gravity. While using [[Unswerving Juggernaut Principle]], forced movement sends the Sidereal further along her path, rather than keeping the same direction as the original effect. 
 
 ## Special activation rules
 

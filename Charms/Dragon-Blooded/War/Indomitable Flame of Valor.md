@@ -13,4 +13,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Phantom Fire-Warrior Horde]]"
 ---
-The Dragon-Blood ignites incredible courage in the hearts of her soldiers with the burning [[Essence]] of her exhortations, showing her army what it is to have a dragon’s valor.Shedoubles9sonarolltorallyorrallyfornumbers. If the battle group has elite [[Drill]], she can pay a one-[[Willpower]] surcharge to grant it perfect morale (Exalted, p. 210) for one round on a successful roll. At [[Essence]] 5, the Dragon-Blooded may pay 4 [[Initiative]] to extend the duration of the perfect morale to one scene.
+*The Dragon-Blood ignites incredible courage in the hearts of her soldiers with the burning [[Essence]] of her exhortations, showing her army what it is to have a dragon’s valor.*
+She doubles 9s on a roll to [[rally]] or [[rally for numbers]]. If the battle group has elite [[Drill]], she can pay a one-[[Willpower]] surcharge to grant it perfect morale (Exalted, p. 210) for one round on a successful roll. At [[Essence]] 5, the Dragon-Blooded may pay 4 [[Initiative]] to extend the duration of the perfect morale to one scene.

@@ -1,3 +1,7 @@
+---
+tags:
+  - source/lunar-strangers-book
+---
 
 Grasping at Mist (Essence 2; Ground-Denying
 Defense): The Lunar can use Ground-Denying Defense and Foot-Trapping Counter to oppose the

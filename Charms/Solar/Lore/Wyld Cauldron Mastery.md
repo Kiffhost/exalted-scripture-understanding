@@ -12,4 +12,5 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[Wyld-Shaping Technique]]"
 ---
-The Lawgiver’s greater understanding increases her power to more easily shape the Wyld. This Charm grants ([[Essence]]) automatic successes to each phase of WyldShaping Technique.
+*The Lawgiver’s greater understanding increases her power to more easily shape the Wyld.*
+This Charm grants ([[Essence]]) automatic successes to each phase of WyldShaping Technique.

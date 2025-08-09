@@ -1,15 +1,9 @@
 # Imperial Organs
-## The All-Seeing Eye
-Though no official body exists to represent the Empress' spy network, its existence is an open secret. Strictly the oldest organisation leading the realm, (unless you count [[#The Immaculate Order]]), it is held accountable to and by the Empress and no one else. 
-
-The Eye maintains an informal structure of semi-independent cells, usually having fewer than 7 *agents* at any one time, and each led by a *handler*. These may be Dragon-Blooded, but a good number are in fact mortal sorcerers. Handlers give field orders, and filter information back to *intelligencers*, who theoretically report directly to the Empress, yet remain entirely independent of each other. Agents are expected to be entirely self-sufficient, but many make use of a web of assets, who are not official members of the Eye and should not be aware of who it is that they work for. Intelligencers are hand-selected by the Empress, and they recruit their own handlers. Handlers recruit agents by having them find a token of the Lidless Eye (the secret symbol of the agency) and watching them closely to ensure they tell no one of it. Those that do tell are killed, leading to the popular conception that the symbol is an assassination mark. The Eye maintains this state of affairs, yet takes steps to punish the thieves and murderers who appropriate their symbol to escape blame.
-
-In practice, there are some acts of the All-Seeing Eye that the other organs have come to rely upon, coordinating the Wild Hunt is the most high-profile of these. Partially toward this end, the Eye works throughout the Realm and satrapies, and maintains an invasive presence in the Scavenger Lands, coming into direct conflict with the rangers of Lookshy's General Staff, as well as Guild agents and other secret societies.
-
-Since the Empress' disappearance, the All-Seeing Eye lacks its lynchpin. Agents and handlers can go to ground, but without funds or direction, the intelligencers struggle to maintain their hold on their own agents, and the flow of information sputters. Many have resorted to reporting to the head of the [[#Imperial Treasury]], but others have gone their own way, even setting up their own network or provincial enclave, and the lack of cohesion threatens the whole.
+## [[The All-Seeing Eye]]
+The Realm's central spy network.
 ## The Deliberative
 Officially: The Deliberative Senate of Exceedingly Judicious Nobles
-Modeled on the power structures of the First Age, the parliament of the Realm was originally a concession to discontented Dynasts after the Empress' third and final failed attempt to annex the Scavenger Lands (see [[Timeline of Creation]]). It is formed of a **[[#Greater Chamber]]** of [[#Dynasts|dynastic]] **Senators** and a **[[#Lesser Chamber]]** of mostly [[#Patricians|patrician]] **delegates**. With the Empress in place as sole potentate, it had no real power but to counter-balance the influence of [[#The Thousand Scales]], and to suggest laws for the Empress' edict. 
+Modeled on the power structures of the First Age, the parliament of the [[Scarlet Dynasty|Realm]] was originally a concession to discontented Dynasts after the Empress' third and final failed attempt to annex the Scavenger Lands (see [[Timeline of Creation]]). It is formed of a **[[#Greater Chamber]]** of [[#Dynasts|dynastic]] **Senators** and a **[[#Lesser Chamber]]** of mostly [[#Patricians|patrician]] **delegates**. With the Empress in place as sole potentate, it had no real power but to counter-balance the influence of [[#The Thousand Scales]], and to suggest laws for the Empress' edict. 
 ### Greater Chamber
 Appointments to the Greater Chamber are made by the Empress, and cannot be refused, a tool the Empress has long used to keep an eye on her most troublesome descendants (for most of them are Dragon-Blooded). Legislation is proposed by Senators in a process ripe for filibustering, and sent to the Lesser Chamber via a simple majority vote. 
 ### Lesser Chamber
@@ -27,7 +21,7 @@ In charge of facilitating the actual storage of jade in treasure-manses, the led
 
 Since the Empress' absence, rampant corruption has reduced this income to barely a tenth of what it was, squeezing one of the true lynchpins of the Imperial Service.
 #### Bank of the Scarlet Throne
-The sub-ministry under which loans are made to merchants and Great Houses alike.
+The sub-ministry under which loans are made to merchants and [[Scarlet Dynasty#Great Houses|Great Houses]] alike.
 #### Bursars of the Imperial Tribute
 The vaults and storage of silver talents taken from the threshold. The [[#Imperial Treasury]] is empowered to promise these away in ledgers (usually to pay foreign mercenaries), but only the Bursars can actually move the silver itself.
 ### Imperial Purse
@@ -39,7 +33,7 @@ Responsible for both calculation and collection of Imperial Tax, notably this is
 
 In many cases the Assessors have been forced to refrain from taking tax altogether to avoid complete economic destruction of a prefecture. An especially difficult decision as the [[#Imperial Treasury]] they supply must sign off on any and all expenses the Assessors face.
 
-[[#The All-Seeing Eye]] used to work hard to root out any corruption in the Assessors, but since the Empress' disappearance it has has other priorities and the temptation (or the threats of Great Houses and Prefects) is proving too much for more Assessors by the day.
+[[#The All-Seeing Eye]] used to work hard to root out any corruption in the Assessors, but since the Empress' disappearance it has has other priorities and the temptation (or the threats of [[Scarlet Dynasty#Great Houses|Great Houses]] and Prefects) is proving too much for more Assessors by the day.
 ### Imperial Courts
 Officially: Righteous and Implacable Courts of Imperial Justice
 Most prefectures have an Imperial Court in their capital, and these courts oversee both criminal and civil justice. Charging crimes, and the majority of actual enforcement of their judgements is down to the [[#Guardians of the Realm]], a much easier organisation to sway, especially at the rural and local level. Cases against [[#Dynasts]], [[#Outcastes]] and in some cases [[#Patricians]] are taken to the **Empress' Own Court** in the Imperial City, with a triumvirate of senior respected judges (many of whom belong to House Peleps). 
@@ -69,7 +63,7 @@ AKA: Stewards
 Closely linked to the [[#Honourable and Humble Caretakers of the Common Folk|Home Office]], this is the ministry responsible for maintaining all public structures, from local sanitation and highways to the [[#Infallible Conveyors of Official Messages and Heartfelt Expressions|Imperial Post]]'s Heliograph towers. One of their most important responsibilities is the Realm Defence Grid, and in the instability since the Empress' disappearance, its maintenance has become the Stewards' sole focus.
 ### The Imperial Post
 Officially: Infallible Conveyors of Official Messages and Heartfelt Expressions
-An extensive and efficient network of couriers reaching beyond the Blessed Isle to many satrapies. Sophisticated and efficient Heliograph towers used for the most important (and least confidential) messages of the Great Houses, the Deliberative and occasionally individual Dynasts. A cadre of sorcerers sworn to confidentiality.
+An extensive and efficient network of couriers reaching beyond the Blessed Isle to many satrapies. Sophisticated and efficient Heliograph towers used for the most important (and least confidential) messages of the [[Scarlet Dynasty#Great Houses|Great Houses]], the Deliberative and occasionally individual Dynasts. A cadre of sorcerers sworn to confidentiality.
 ### Curators of the Imperial Registry
 The Imperial Registry describes and delineates the powers, edicts and judgements of every branch of government. Disputes between ministries ultimately end here, with an interpreter hearing arguments and making a binding judgement within 10 days. The punishments for corruption among the Curators, or those who would bribe or blackmail them are among the most severe in Imperial law.
 ### Sagacious and Scrupulous Registrars of Sorcerous Puissance
@@ -83,7 +77,7 @@ Responsible both for the curriculum and running of Primary Schools, and for fund
 A.K.A: Diligent Monitors 
 Tracks the ancestry of all [[#Dynasts]], [[#Outcastes]], and [[#Patricians]], including births, deaths and marriages. Also responsible for licensing mons for dynastic and patrician households.
 ### Splendid and Just Arbiters of Purpose
-Responsible for finding, gathering, and taking care of any newly awakened Dragon-Blooded who do not belong to the Great Houses. These "lost eggs" are almost all from the [[#Peasants|peasant]], [[#Slaves|slave]] and [[#Dispossessed|dispossessed]] populations, and so must be re-educated about their place in the world, taught etiquette and customs and then (as [[#Outcastes]]) allowed to make their choice between the coin and razor. Exalted [[#Patricians]] sometimes fall under the Just Arbiter's care, though most are close enough to the Great Houses for their family to strike a deal for their adoption or marriage.
+Responsible for finding, gathering, and taking care of any newly awakened Dragon-Blooded who do not belong to the [[Scarlet Dynasty#Great Houses|Great Houses]]. These "lost eggs" are almost all from the [[#Peasants|peasant]], [[#Slaves|slave]] and [[#Dispossessed|dispossessed]] populations, and so must be re-educated about their place in the world, taught etiquette and customs and then (as [[#Outcastes]]) allowed to make their choice between the coin and razor. Exalted [[#Patricians]] sometimes fall under the Just Arbiter's care, though most are close enough to the [[Scarlet Dynasty#Great Houses|Great Houses]] for their family to strike a deal for their adoption or marriage.
 ### Fastidious Keepers of the Imperial Peace
 Responsible for regulating travel and travel permits and inspecting ships for contraband. An ideal ministry for those looking to take bribes, and disappointing to those wanting to influence Dynastic politics.
 ### Ministry of Prehistoric Recollection and Antiquities
@@ -99,20 +93,23 @@ Magistrates are the one branch of government with the full and genuine support o
 
 Once appointed, a Magistrate receives a personal scribe and undergoes a loose master-apprentice training regime with a more senior Magistrate. They are expected to return to the Imperial City every five years, where their deeds and judgements are measured, and new assignments made. Magistrates may also accrue mortal servants called Archons, selected by them in a similar manner to their selection by the Empress. Archons must willingly enter service, and do not do so lightly, as they become their Magistrate's full servant, required to do anything she asks, and, when a Magistrate dies, their Archons die with them.
 # Local Government
-Typically, the Empress ensured that each prefecture's local government was split between several Great Houses. If not via rotating appointments of politicians, then by encouraging business relevant to a different house. 
+Typically, the Empress ensured that each prefecture's local government was split between several [[Scarlet Dynasty#Great Houses|Great Houses]]. If not via rotating appointments of politicians, then by encouraging business relevant to a different house.
+
+Satrapies are...
 
 While the leadership of a prefecture belongs to the [[#Prefects]] and [[#Governors]], [[#Patricians|patricians]] often staff their offices and hold significant political sway. Similarly [[#The Immaculate Order]] with its network of monks is usually closer to the local [[#Peasants|peasantry]] than any Dynastic prefect could hope to be.
 ## Prefects
 Prefects are appointed directly by [[Hierarchy of the Realm#The Deliberative|The Deliberative]], always [[#Dynasts]], though only the most significant (and rewarding) prefectures end up with Exalted Dynasts.
 
-Prefects are responsible for appointing rural tax collectors, and face an evaluation at least every seven years. These reviews largely centre on profit, if too little tax is collected (whether from laxness or unrest), the Prefect will lose her contract. These reviews and appointments are also sometimes used to punish or reward Great Houses, a favoured tactic of the Empress.
+Prefects are responsible for appointing rural tax collectors, and face an evaluation at least every seven years. These reviews largely centre on profit, if too little tax is collected (whether from laxness or unrest), the Prefect will lose her contract. These reviews and appointments are also sometimes used to punish or reward [[Scarlet Dynasty#Great Houses|Great Houses]], a favoured tactic of the Empress.
 
-It is possible that this seven year cycle is what lead to the Council of the Empty Throne deciding on their secret deadline. Seven years after her disappearance is enough time to be certain that every local government loyal to the Empress can be replaced or vetted for their stance on the Great Houses' manoeuvrings.
+It is possible that this seven year cycle is what lead to the Council of the Empty Throne deciding on their secret deadline. Seven years after her disappearance is enough time to be certain that every local government loyal to the Empress can be replaced or vetted for their stance on the [[Scarlet Dynasty#Great Houses|Great Houses]]' manoeuvrings.
 ## Governors
 In turn, Prefects appoint **Governors** for the cities and towns of their prefecture, typically from the [[#Patricians]] class, though large cities may be governed by a mortal Dynast or Outcaste. They are responsible for coordinating local [[#Guardians of the Realm|Guardians]], and collecting taxes.
+## Satraps
 # Other Powers in the Realm
-## The Immaculate Order
-## The Imperial Legions
+## [[The Immaculate Order]]
+## [[The Imperial Legions]]
 # Perfected Hierarchy
 ## Dynasts
 Members of the great houses, those who Exalt are second to none and rule by divine favour. They alone may hold many key positions of power and privilege, or indeed, they may not, as many such Exalted choose not to become gainfully employed, who is there to stop them?

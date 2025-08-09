@@ -17,7 +17,8 @@ Material: Moonsilver
 WeaponType:
   - Reaper Daiklave
 ---
-When the behemoth Entalion broke free of its imprisonment in Zen-Mu and escaped into Creation, it was greeted by the sorcerer-swordsman Kindu Slays-the-Cloud. The grotesque beast of coiling flesh fell easily to the [[Dawn]] Caste’s blade — but that was not Entalion, only his host.
+*When the behemoth Entalion broke free of its imprisonment in Zen-Mu and escaped into Creation, it was greeted by the sorcerer-swordsman Kindu Slays-the-Cloud.*
+The grotesque beast of coiling flesh fell easily to the [[Dawn]] Caste’s blade — but that was not Entalion, only his host.
 Formless and immaterial, Entalion hid itself in Kindu’s daiklave, biding its time until it could find another host.
 Its opportunity came when the Solar returned home to his family. As his husband, Melodious Flame, helped relieve Kindu of his arms, Entalion crept into the mortal’s mind. It rooted there, feeding on Melodious Flame’s memories until nothing of him remained.
 When Kindu learned what had happened, he fell into a rage beyond all measure. With dread sorceries of world-shaking power, he ripped Entalion from Melodious Flame’s mind and nailed it to the sky. But for all his power, he could not restore what had been taken from his beloved. Desperate, he summoned the demon-smith Ligier, who is the green sun of Hell itself, and demanded a way to return Melodious Flame’s memories.
@@ -25,7 +26,7 @@ Ever eager to demonstrate his prowess, Ligier set to work forging a moonsilver b
 As Kindu lay the blade against Melodious Flame’s brow, his beloved finally stirred from his insensate stupor. He thought nothing of Ligier’s warning, certain that he’d outwitted the demon with his sorcerous deception.
 But as time went on, Melodious Flame grew more and more troubled by his memories. To be sure, they were memories of the life he’d lived, seen through his eyes...
 but they were not his.
-When at last Melodious Flame revealed this to Kindu, the Solar realized what he had done. [[Fond Remembrance]] did not restore memories — it created them. He had damned Melodious Flame to an existence as a hollow parody of himself, cast in the mold of Kindu’s perception of him. Their story ended in tragedy, and [[Fond Remembrance]] was cast into the sea. The Silver Pact has explored the ocean’s depths in search of it, as have others who’ve heard the blade’s legend, but none yet have found it.
+When at last Melodious Flame revealed this to Kindu, the Solar realized what he had done. [[Fond Remembrance]] did not restore memories — it created them. He had damned Melodious Flame to an existence as a hollow parody of himself, cast in the mold of Kindu’s perception of him. Their story ended in tragedy, and [[Fond Remembrance]] was cast into the sea. The [[Lore/Factions/Silver Pact|Silver Pact]] has explored the ocean’s depths in search of it, as have others who’ve heard the blade’s legend, but none yet have found it.
 [[Fond Remembrance]] has a curving blade of moonsilver, ornamented with etchings of flowers inlaid with petals of blue jade. Its hilt is wrapped in blood ape leather, the only hint to its demonic origins. Its name is engraved upon its pommel, in commemoration of the purpose for which it was forged. 
  
 ## [[Evocations]] of [[Fond Remembrance]]

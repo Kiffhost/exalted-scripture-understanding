@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Diving Hawk Discipline]]"
 ---
-With this Charm, the Lawgiver whips out two missiles in succession. Whirling in at blinding speed, her attacks may confuse and disarm her opponents. This Charm allows the Solar to complete two eligible gambits at once, with a single difficulty 5 gambit. The eligible gambits are disarm, distract, and unhorse.
+*With this Charm, the Lawgiver whips out two missiles in succession.*
+Whirling in at blinding speed, her attacks may confuse and disarm her opponents. This Charm allows the Solar to complete two eligible gambits at once, with a single difficulty 5 gambit. The eligible gambits are disarm, distract, and unhorse.
 
 ### On [[Death-Dealing Diffusion]]
 

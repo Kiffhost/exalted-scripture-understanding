@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Dark Saint Mantle]]"
 ---
 *Death’s Lawgiver fills her apostles’ hearts with sickly green pyreflame, granting them unholy power even as it burns away their souls.*
-The Abyssal anoints a willing mortal or [[Essence]] 1 ghost as a pyreflame apostle. They gain dark blessings, described below, but at a steep cost. Each time they use a blessing, they must pay one level of aggravated damage. If they have any positive Intimacies, they must also weaken one of them by one step.
+The Abyssal anoints a willing mortal or [[Essence]] 1 ghost as a pyreflame apostle. They gain dark blessings, described below, but at a steep cost. Each time they use a blessing, they must pay one level of [[Health Track#Aggravated|aggravated damage]]. If they have any positive [[Intimacy|Intimacies]], they must also weaken one of them by one step.
 Upon purchasing this Charm, the Abyssal’s player chooses two of the following blessings to grant her apostles. She can purchase additional blessings for three experience or one bonus point each.
 Blazing Martyr Conviction (Reflexive; One scene): The apostle ignores wound penalties and heat- or flame-based environmental penalties. He adds (higher of Abyssal’s [[Essence]] or 3) soak against flamebased attacks, and gains that much [[Hardness]] against them.
 Immolating Hatred Halo (Simple; Instant): The apostle is wreathed in a corona of pyreflame that extends out to close range, a one-time environmental hazard with difficulty of (higher of Abyssal’s [[Essence]] or 3) and, Damage 3L.

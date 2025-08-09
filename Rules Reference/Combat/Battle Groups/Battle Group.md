@@ -1,12 +1,14 @@
 ---
 tags:
   - source/solar-book
+aliases:
+  - battle groups
 ---
 Simply put, a battle group is treated as a character with the traits of the average combatant making up the group, plus a few other traits which modify these capabilities.
 
 Battle groups are an abstraction used whenever there are more than two combatants on the battlefield who are reasonably similar to one another in terms of capabilities and equipment, who aren’t especially noteworthy to the story as individuals, and who aren’t potent supernatural beings such as Exalts. Battle groups can represent small groups, such as a squad of a dozen of the Tri-Khan of Chiaroscuro’s palace guards, or vast forces such as 1,000 men-at-arms riding to war.
 # Overview
-Before we get down to details, here’s a basic idea of how a battle group works: A battle group is a group of fighters who are mechanically represented as one character. A group of soldiers, for example, is basically a single soldier, except this soldier gets a number of bonuses to his [[Attack]], damage, [[Soak]], and [[Defense]] based on his battle group traits. He always uses [[Attack#withering|withering attacks]] against you (which start inflicting [[Health Track]] damage once you run out of [[Initiative]]). By contrast, your withering attacks don’t take his [[Initiative]], but instead directly damage his “Health.” He’s got a special [[Health Track]] (called a [[Magnitude Track]]) that can absorb a lot of punishment, and it’s likely that a battle group will break and run before being totally destroyed—whenever you empty the [[Magnitude Track]], there’s a chance they’ll flee or [[Surrender]]. If they don’t, their Magnitude refills, but their combat bonuses become weaker, and it gets harder for them not to rout next time they run out of Magnitude.
+Before we get down to details, here’s a basic idea of how a battle group works: A battle group is a group of fighters who are mechanically represented as one character. A group of soldiers, for example, is basically a single soldier, except this soldier gets a number of bonuses to his [[Attack]], damage, [[Soak]], and [[Defense]] based on his battle group traits. He always uses [[Attack#withering|withering attacks]] against you (which start inflicting [[Health Track]] damage once you run out of [[Initiative]]). By contrast, your withering attacks don’t take his [[Initiative]], but instead directly damage his “Health.” He’s got a special [[Health Track]] (called a [[Magnitude Track]]) that can absorb a lot of punishment, and it’s likely that a battle group will break and run before being totally destroyed—whenever you empty the [[Magnitude Track]], there’s a chance they’ll flee or [[Surrender]]. If they don’t, their [[Magnitude Track|Magnitude]] refills, but their combat bonuses become weaker, and it gets harder for them not to rout next time they run out of [[Magnitude Track|Magnitude]].
 # Traits
 There are only four differences between a solo character’s traits and those of a battle group: battle groups have three special values that individual heroes don’t ([[Size]], [[Drill]], and [[Might]]), and instead of a [[Health Track]], they have a [[Magnitude Track]].
 # Fighting Battle Groups
@@ -20,7 +22,7 @@ Like other characters, battle groups can only make a single [[Attack]] on their 
 ## Inert [[Initiative]]
 Because battle groups can’t make [[Attack#decisive|decisive]] attacks and can’t take [[Initiative]] from other characters, their [[Initiative]] rating is used entirely to determine when the group takes its turn during each round. On the other hand, all [[Attack#withering|withering]] attacks launched against a battle group instead directly damage its [[Magnitude Track]]. *Successful withering attacks directed against a battle group still generate one automatic point of [[Initiative]] for the attacker.*
 ## Damaging Battle Groups
-[[Attack#withering|Withering]] attacks directed against a battle group are resolved normally, save that their damage is applied to the group’s [[Magnitude Track]] rather than its [[Initiative]]. [[Attack#decisive|Decisive]] attacks directed against a battle group also resolve normally, save that they, too, are applied to its Magnitude, and inflict 1 additional level of automatic damage per four damage dice rolled (round up).
+[[Attack#withering|Withering]] attacks directed against a battle group are resolved normally, save that their damage is applied to the group’s [[Magnitude Track]] rather than its [[Initiative]]. [[Attack#decisive|Decisive]] attacks directed against a battle group also resolve normally, save that they, too, are applied to its [[Magnitude Track|Magnitude]], and inflict 1 additional level of automatic damage per four damage dice rolled (round up).
 
 When the groups [[Magnitude Track]] fills with damage, it loses a point of [[Size]] and must make a [[Rout]] check to avoid dissolving.
 
@@ -47,3 +49,10 @@ While a [[Battle Group]] that has suffered [[Rout]] and *dissolved* is no longer
 This gruesome practice consists of simply directing [[Attack]] actions at the fleeing battle group, which suffers a -3 penalty to its [[Defense]]. As the group no longer has any [[Magnitude Track|Magnitude]], the Storyteller simply looks at the damage inflicted and the number of fleeing soldiers, and estimates what it amounts to in terms of dead enemies—the more damage, the more carnage inflicted against the routing battle group.
 
 Of note, if the fleeing group is of a [[Size]] greater than 2, then only other battle groups can generally attempt slaughter attacks against it—an individual hero just can’t cut down enough fleeing soldiers to make much of a dent in a 600-man retreat, at least not without powerful magic such as battlefield [[sorcery]].
+
+# Why Battle Groups? 
+Lone heroes fighting many times their number in nameless lackeys is a staple of many of the sources Exalted draws on. Additionally, because of the scope of martial conflicts often present in Exalted, it’s impractical to depict each soldier in a war scene individually. Battle groups satisfy the demands of both huge-scale mass combat scenes and more modestly scaled scenes where the heroes smash up two dozen thugs in a furious display of their martial prowess.
+
+The astute may wonder if it wouldn’t be more useful to divide, say, a [[Size]] 5 group up into ten [[Size]] 3 groups, netting ten attacks per round instead of one stronger attack. However, battle groups are a gameplay abstraction, and military minds within the world of Exalted don’t plan wars around the battle groups system. Battle groups are there to reduce the Storyteller’s workload, and splitting 1,000 soldiers (one thing for the Storyteller to keep track of) into ten 100-fighter groups (10 things for the Storyteller to keep track of) defeats that purpose.
+
+The only time similar mobs of fighters should be represented as separate battle groups is if they are so widely separated geographically (two units of infantry fighting at opposite ends of a mile-long valley) that it becomes impractical and implausible to combine them. Otherwise, don’t split battle groups into smaller units for greater offensive power.

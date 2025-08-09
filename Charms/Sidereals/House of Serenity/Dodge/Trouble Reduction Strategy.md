@@ -12,4 +12,5 @@ Duration: One scene
 Prerequisite Charms:
   - "[[Absent Self]]"
 ---
-Spotting impending danger to an ally, the Sidereal convinces fate she’s dodged it on his behalf. The Sidereal reflexively takes a defend other action using [[Defense|Evasion]] instead of [[Defense|Parry]]. Her protection lasts for this Charm’s duration, but the ward must remain within close range to receive it. This Charm ends if the Sidereal uses a defend other action on another character.
+*Spotting impending danger to an ally, the Sidereal convinces fate she’s dodged it on his behalf.*
+The Sidereal reflexively takes a defend other action using [[Defense|Evasion]] instead of [[Defense|Parry]]. Her protection lasts for this Charm’s duration, but the ward must remain within close range to receive it. This Charm ends if the Sidereal uses a defend other action on another character.

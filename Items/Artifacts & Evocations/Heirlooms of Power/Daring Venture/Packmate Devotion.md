@@ -12,7 +12,8 @@ Duration: Permanent
 Prerequisite Charms:
   - "[[ Wolf-and-Dragon Bond]]"
 ---
-After bonding over the course of many adventures, [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] accepts the wielder as a lifelong packmate. He rejects any influence that would cause him to betray his master or weaken or alter his [[Intimacy|Tie]] to her as unacceptable (Exalted, p. 220). He’ll only weaken his [[Intimacy|Tie]] to his master at the end of the session if she betrays him outright. [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] gains two [[Initiative]] when he witnesses his master suffer decisive damage. 
+*After bonding over the course of many adventures, [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] accepts the wielder as a lifelong packmate.*
+He rejects any influence that would cause him to betray his master or weaken or alter his [[Intimacy|Tie]] to her as unacceptable (Exalted, p. 220). He’ll only weaken his [[Intimacy|Tie]] to his master at the end of the session if she betrays him outright. [[HUNDRED RIVERS, THE WANDERING WOLF|Hundred Rivers]] gains two [[Initiative]] when he witnesses his master suffer decisive damage. 
 
 ## Special activation rules
 

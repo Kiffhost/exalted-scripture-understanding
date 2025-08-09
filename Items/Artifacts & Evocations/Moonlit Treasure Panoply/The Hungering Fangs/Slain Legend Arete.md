@@ -12,7 +12,7 @@ Prerequisite Charms:
   - "[[ Hunter of Mysteries]]"
   - "[[Prey’s Strength Embodiment]]"
 ---
-The Hungering Fangs are stained with the blood and power of countless beasts, letting their wielder draw on the puissance of her slain prey.
+*The Hungering Fangs are stained with the blood and power of countless beasts, letting their wielder draw on the puissance of her slain prey.*
 When the wielder uses [[Lessons of the Hunt]], she may gain up to ([[Essence]]) of that character’s [[Eclipse]] [[Charms]], or any other [[Charms]] or spells he knows whose prerequisites she meets. (She can’t learn other types of Exalted [[Charms]].) She can still gain specialties and mutations from [[Lessons of the Hunt]] as usual. These powers can only be used while wielding the blades.
 At the Storyteller’s discretion, if the defeated enemy knew an Evocation that could be used with [[short daiklaves]], the wielder can gain that Evocation this way if she meets its prerequisites, though she can only use it with the blades.
 The wielder may permanently learn [[Charms]], [[Evocations]], or spells accessed this way for their normal cost, paying eight experience for [[Eclipse]] [[Charms]]. She waives the experience point cost of the first such power she purchases this way.

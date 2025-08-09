@@ -8,6 +8,8 @@ WeaponTags:
   - "[[Item Tags#Melee|Melee]]"
   - "[[Item Tags#Thrown|Thrown (Medium)]]"
 Cost: " 1(for a brace)"
+aliases:
+  - javelins
 ---
-The javelin is a small, light spear designed for throwing.
+The javelin is a small, light [[spear]] designed for throwing.
 It can also be used in close combat if necessary. 

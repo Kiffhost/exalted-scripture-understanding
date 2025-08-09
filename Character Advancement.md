@@ -1,3 +1,7 @@
+---
+aliases:
+  - Character Progression
+---
 # Celestial Exalted Advancement Table
 
 | Trait                                                          | Experience Cost         | [[#Training Times]]           |
@@ -43,7 +47,7 @@
 
 # Experience Points
 
-Each character gains 5 experience points at the end of every session. These points may be spent immediately, or saved to be spent later.
+Each character gains **5** experience points at the end of every session. These points may be spent immediately, or saved to be spent later.
 ## Exalted Experience
 #custom/note This section has been generalised, each book lists each type of Exalted Experience separately.
 
@@ -51,10 +55,10 @@ In addition to normal experience points, players have the opportunity to gain Ex
 
 <details><summary>Specifically</summary>Attributes, Abilities, Specialties, Merits, Willpower, Martial Arts Charms, Evocations, and spells are all valid, as are things like spirit Charms learned with the Eclipse anima power, sorcerous workings, or Charms with experience point costs in their activation. </details>
 
-Players have two opportunities to gain Exalted experience per session. They may earn up to one [[#Expression Bonus]], and one [[#Role Bonus]], for a total of up to 4 Exalted experience per session.
+Players have two opportunities to gain Exalted experience per session. They may earn up to one [[#Expression Bonus]], and one [[#Role Bonus]], for a total of up to 4 [[#Exalted Experience]] per session.
 
 ### Expression Bonus
-Characters can gain 2 points of [[#Solar Experience]] by fulfilling *one* of the following criteria per session: 
+Characters can gain 2 points of [[#Exalted Experience]] by fulfilling *one* of the following criteria per session: 
 - Expressing, supporting, or engaging a Major or Defining [[Intimacy]] in such a way that it reveals something about the character, develops the character’s personality, or provides a character moment that everyone at the table enjoys. 
 - Being significantly challenged, endangered, or harmed in the course of protecting or upholding a Major or Defining [[Intimacy]]. 
 - Being significantly impeded, endangered, or harmed by a [[Flaws|Flaw]].
@@ -66,8 +70,8 @@ Characters can gain 2 points of solar experience by fulfilling *one* of the foll
 - Caste-specific criteria:
 ```dataview
 TABLE WITHOUT ID link(file.name+"#Experience Trigger", regexreplace(regexreplace(file.path, "^\w+/\w+/", ""), "\.md", "")) AS "XP Trigger"
-FROM "Traits/Anima" AND (#Dragon-Blooded OR #Lunar OR #Solar OR #Sidereal)
-SORT contains(file.tags,"Dragon-Blooded"),contains(file.tags,"Solar"), contains(file.tags,"Sidereal"), contains(file.tags,"Lunar")
+FROM "Traits/Anima" AND (#Dragon-Blooded OR #Lunar OR #Solar OR #Sidereal OR #Abyssal)
+SORT contains(file.tags,"Dragon-Blooded"),contains(file.tags,"Solar"), contains(file.tags,"Sidereal"), contains(file.tags,"Lunar"), contains(file.tags,"Abyssal")
 ```
 
 # Training Times

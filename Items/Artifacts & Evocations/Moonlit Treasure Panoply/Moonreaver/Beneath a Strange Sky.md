@@ -13,8 +13,8 @@ Duration: One scene
 Prerequisite Charms:
   - "[[ Moonlit Horizon Reaper]]"
 ---
-With a whirling slash, the walls of the world fall away, leaving Moonreaver’s master and her foe in the strange sands of Bright Withering’s durance.
-The wielder can use this Evocation after crashing an enemy affected by [[Cold Breath of the Moon]]. Add Cold Breath of the Moon’s penalty to the [[Initiative]] awarded by the attack. As she strikes, the scythe cuts open a rift to the othermoon, drawing in both the wielder and the crashed enemy, along with any trivial enemies within short range the wielder wishes to bring along. They appear in the otherworld’s pale sands, the same distance from each other as they originally were.
+*With a whirling slash, the walls of the world fall away, leaving Moonreaver’s master and her foe in the strange sands of Bright Withering’s durance.*
+The wielder can use this Evocation after crashing an enemy affected by [[Cold Breath of the Moon]]. Add Cold Breath of the Moon’s penalty to the [[Initiative]] awarded by the attack. As she strikes, the [[Great Axe|scythe]] cuts open a rift to the othermoon, drawing in both the wielder and the crashed enemy, along with any trivial enemies within short range the wielder wishes to bring along. They appear in the otherworld’s pale sands, the same distance from each other as they originally were.
 The combatants arrive in a wide-open stretch of the moonscape’s terrain, letting them move freely across it.
 At the Storyteller’s discretion, it may include difficult terrain — craters, rock formations, etc. — or other natural features. Exposure to its freezing cold is an environmental hazard with difficulty 5, Damage 4L/round.
 Those damaged by it are penalized as per [[Cold Breath of the Moon]]. The wielder isn’t immune to this. The Storyteller shouldn’t roll for trivial characters; they’re incapacitated automatically by the hazard.

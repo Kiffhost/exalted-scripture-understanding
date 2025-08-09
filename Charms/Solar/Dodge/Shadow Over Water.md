@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Drifting Leaf Elusion]]"
 ---
-Like a shadow on water, the Solar’s presence haunts her enemies with dreams of the untouchable. For an instant, this Charm removes any penalties to the Exalt’s [[Defense|Evasion]].
+*Like a shadow on water, the Solar’s presence haunts her enemies with dreams of the untouchable.*
+For an instant, this Charm removes any penalties to the Exalt’s [[Defense|Evasion]].

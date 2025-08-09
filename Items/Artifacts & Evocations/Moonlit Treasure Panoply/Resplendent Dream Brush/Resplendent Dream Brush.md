@@ -10,7 +10,8 @@ Backer: David Scott
 Material: Moonsilver
 Dots: "3"
 ---
-At the height of his career, Dharma the Snake decried Meru’s art culture, condemning his peers’ work as passionless, trite, and self-glorying. The iconoclastic painter left the city of the Chosen to seek out the company of his true equals. His journey spanned the cosmos, from the subterranean city Urvar’s Jadeborn pattern sculptors to the Brazen Nautilus Collective of neomah flesh-artists in Hell. But it was not until he found the raksha prince Jadan Ruby-Eyes, exiled from the Court of Riverine Stone for his use of heretical colors, that he found his match.
+*At the height of his career, Dharma the Snake decried Meru’s art culture, condemning his peers’ work as passionless, trite, and self-glorying.*
+The iconoclastic painter left the city of the Chosen to seek out the company of his true equals. His journey spanned the cosmos, from the subterranean city Urvar’s Jadeborn pattern sculptors to the Brazen Nautilus Collective of neomah flesh-artists in Hell. But it was not until he found the raksha prince Jadan Ruby-Eyes, exiled from the Court of Riverine Stone for his use of heretical colors, that he found his match.
 Creative collaborators, fast friends, and sometimes lovers, Dharma and Jadan created works of strange, impossible beauty: artistic arrangements of equations, counter-erotic portraiture, sculptures with spatial dimensions unknown to Creation. Their masterpiece was the [[Resplendent Dream Brush]], a wonder that would let true artists shape the world with their artistic vision.
 The brush’s handle is teakwood, taken by Jadan from the Verdant Khamsal’s dreams. Dharma worked in a dream-like trance, shaping the moonsilver of the bristles and of the inscription upon its handle. Written in an obscure fae tongue, the inscription is Jadan’s epitaph:
 to complete the [[Resplendent Dream Brush]], he became part of it, the apotheosis of his art.

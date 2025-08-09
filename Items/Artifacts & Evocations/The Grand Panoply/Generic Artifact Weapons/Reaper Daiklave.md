@@ -11,4 +11,5 @@ WeaponTags:
 Attunement: 5m
 Dots: 3
 ---
-These long, narrow daiklaves have curved blades with a single edge. These elegant weapons appeal to wielders who prefer finesse and flashy displays of consummate skill over raw power.
+*These long, narrow daiklaves have curved blades with a single edge.*
+These elegant weapons appeal to wielders who prefer finesse and flashy displays of consummate skill over raw power.

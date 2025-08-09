@@ -1,10 +1,10 @@
 # Traits
 
 Begin with the defaults: 
-- Essence 1
-- Willpower 5
-- (Essence x 3) + 10 Personal Essence pool.
-- (Essence x 7) + 26 Peripheral Essence pool.
+- [[Essence]] 1
+- [[Willpower]] 5
+- ([[Essence]] x 3) + 10 Personal Essence pool.
+- ([[Essence]] x 7) + 26 Peripheral Essence pool.
 
 # Concept, Caste and Deathlord
 Choose which Deathlord your character serves.
@@ -12,7 +12,7 @@ Choose which Deathlord your character serves.
 	LIST 
 	FROM "Lore/Notable Individuals/Deathlords"
 ```
-- Another Deathlord.
+- Another Deathlord
 - No Deathlord
 
 Select a Caste - this provides anima powers, and affects how the character will be perceived.
@@ -25,7 +25,7 @@ Select a Caste - this provides anima powers, and affects how the character will 
 # Abilities
 
 Each caste has 8 **Caste Abilities** associated with it: (ctrl+hover to preview)
-
+[[Dusk#Caste Abilities]], [[Midnight#Caste Abilities]], [[Daybreak#Caste Abilities]], [[Day#Caste Abilities]], [[Moonshadow#Caste Abilities]]
 
 Select 5 **Favoured** **Abilities**.
 Select an ***Apocalyptic Ability*** from among your **Caste Abilities**.
@@ -71,10 +71,6 @@ Create at least four [[Intimacy|Intimacies]].
 - At least one must be Major.
 - At least one must be negative.
 - At least one must be positive.
-
-# Limit Trigger
-
-Choose a [[Limit Trigger#Abyssal|Limit Trigger]].
 
 # Bonus Points
 

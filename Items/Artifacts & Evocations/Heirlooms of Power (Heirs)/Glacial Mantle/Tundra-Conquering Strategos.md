@@ -11,7 +11,8 @@ Duration: One scene
 Prerequisite Charms:
   -  None
 ---
-Glacial Mantle’s master and her armies are undaunted by even the harshest winter, marching implacably through snow and ice. The wearer isn’t affected by difficult terrain or other movement penalties due to snowy or icy terrain. She can also extend this Evocation’s benefit as well as the attunement benefit of [[Glacial Mantle]] to battle groups within long range. She can enhance one battle group this way at no additional cost; each additional battle group requires an additional mote.
+*Glacial Mantle’s master and her armies are undaunted by even the harshest winter, marching implacably through snow and ice.*
+The wearer isn’t affected by difficult terrain or other movement penalties due to snowy or icy terrain. She can also extend this Evocation’s benefit as well as the attunement benefit of [[Glacial Mantle]] to battle groups within long range. She can enhance one battle group this way at no additional cost; each additional battle group requires an additional mote.
 If the wearer is fighting under a stratagem enacted with [[Winter Brings Death]], this Evocation’s cost is waived.
 
 ## Special activation rules

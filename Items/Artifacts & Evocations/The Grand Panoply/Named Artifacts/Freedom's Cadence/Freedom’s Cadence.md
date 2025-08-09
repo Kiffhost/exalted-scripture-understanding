@@ -14,7 +14,8 @@ ArmourTags:
   - "[[Item Tags#Concealable|Concealable]]"
 Era:
 ---
-So it was said, at the end of sixteen cycles, Gu-Shaiyen, Celestial Daimyo of the Drums of [[War]], poured the last of his spirit into a masterwork of starmetal, creating the hauberk called [[Freedom’s Cadence]]. To honor the inevitable march of Mars and Mercury, the hauberk was crafted into a sleeveless tunic of mail and pale yellow silk, its threads interwoven with strands spun from the itinerant [[Essence]] of a [[Sidereal Exalted]]. The chain rings shimmer in the light even if their wearer is perfectly still, and whenever it is worn into battle, those who are close may hear the distant pounding of drums. This armor lends its wearer the power of momentum and forward motion, ensuring that the Exalt will finish what she started. It possesses a single hearthstone socket. 
+*So it was said, at the end of sixteen cycles, Gu-Shaiyen, Celestial Daimyo of the Drums of [[War]], poured the last of his spirit into a masterwork of starmetal, creating the hauberk called [[Freedom’s Cadence]].*
+To honor the inevitable march of Mars and Mercury, the [[hauberk]] was crafted into a sleeveless tunic of mail and pale yellow silk, its threads interwoven with strands spun from the itinerant [[Essence]] of a [[Sidereal Exalted]]. The chain rings shimmer in the light even if their wearer is perfectly still, and whenever it is worn into battle, those who are close may hear the distant pounding of drums. This armor lends its wearer the power of momentum and forward motion, ensuring that the Exalt will finish what she started. It possesses a single hearthstone socket. 
 
 ## [[Evocations]] of [[Freedom’s Cadence]] 
 

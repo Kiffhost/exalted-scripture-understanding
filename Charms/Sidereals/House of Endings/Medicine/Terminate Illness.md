@@ -12,4 +12,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Sidereal makes the Lesser Sign of the Corpse over one suffering illness, striking his name from the rolls of that disease’s god. The Sidereal rolls to treat disease instantly and without needing tools. In addition to the roll’s usual effect, her patient can roll ([[Stamina]] + [[Resistance]]) against that disease immediately with −1 target number. A mundane diseases is cured immediately if he succeeds.
+*The Sidereal makes the Lesser Sign of the Corpse over one suffering illness, striking his name from the rolls of that disease’s god.*
+The Sidereal rolls to [[Treating Disease|treat disease]] instantly and without needing tools. In addition to the roll’s usual effect, her patient can roll ([[Stamina]] + [[Resistance]]) against that disease immediately with −1 target number. A mundane diseases is cured immediately if he succeeds.

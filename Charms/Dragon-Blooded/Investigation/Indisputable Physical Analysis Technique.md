@@ -14,4 +14,5 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-The Dragon-Blood refines her attention to the pristine clarity of water, washing away false leads and red herrings. She may add automatic successes on an [[Investigation]] roll for two motes each. She rerolls 6s until they cease to appear.
+*The Dragon-Blood refines her attention to the pristine clarity of water, washing away false leads and red herrings.*
+She may add automatic successes on an [[Investigation]] roll for two motes each. She rerolls 6s until they cease to appear.

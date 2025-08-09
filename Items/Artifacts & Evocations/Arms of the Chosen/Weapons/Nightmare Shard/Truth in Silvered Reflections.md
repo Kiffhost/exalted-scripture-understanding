@@ -12,7 +12,8 @@ Duration: Instant
 Prerequisite Charms:
   - "[[ Cracked Mirror Blight]]"
 ---
-Nightmare Shard’s mirrored edge lays bare the truth of soul-hauntinghorrorsandinsidiousnightmares.Itswielder rolls ([[Perception]] + [[Occult]] + [[Essence]]) to read a character’s intentions. Success reveals a [[Derangement]] possessed by that character if he has one, as well as its intensity. 
+*Nightmare Shard’s mirrored edge lays bare the truth of soul-haunting horrors and insidious nightmares.*
+Its wielder rolls ([[Perception]] + [[Occult]] + [[Essence]]) to read a character’s intentions. Success reveals a [[Derangement]] possessed by that character if he has one, as well as its intensity. 
 
 ## Special activation rules
 

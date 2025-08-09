@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Ivory Circle Necromancy]]"
 ---
 *The Abyssal has stained her soul with dread magics and forbidden rites, a price gladly paid in pursuit of power.*
-The Abyssal may use Shadow Circle [[sorcery]]. She learns one Shadow Circle spell — an additional control spell — and one shaping ritual for free.
+The Abyssal may use Shadow Circle [[Necromancy]]. She learns one Shadow Circle spell — an additional control spell — and one shaping ritual for free.
