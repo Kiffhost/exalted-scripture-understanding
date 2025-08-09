@@ -23,6 +23,9 @@ At the end of a story, characters gain:
 - **3 silver experience points** for each [[Craft]] Ability rated at 3+ that was used to complete a project during the story.
 - **5 silver experience points** for each [[Craft]] Ability rated at 5+ that was used to complete a project during the story.
 - **5 gold experience points** per [[artifact]] successfully created during the story.
+### Point Generating Charms
+Charms such as [[Supreme Perfection of Craft]] only function if the Solar is actively using [[Craft]] in each [[Time#Story|story]]. A character who sleeps a thousand years will not awaken to an infinity of craft points awaiting her. Likewise, a character who spends a season lazing about Dajaz and romancing the revelers there should not accrue very many points in general. These awards are specifically furnished for those who are extremely hard working crafters and inventers by nature. 
+Characters who also spend many scenes studying, researching, tinkering, or performing sorcerous projects or medical experiments also qualify for these rewards, as long as they use [[Craft]] intermittently. 
 # Project Slots
 Project slots are an abstract representation of how well the character can split focus between multiple significant projects at once. There are three sorts of project slots: 
 - **Major project slots** are used when a character undertakes a major project. 

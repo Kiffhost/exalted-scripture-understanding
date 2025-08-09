@@ -1,27 +1,27 @@
 # Make files
 living
 undead
-{bestiary charms + merits}
-- Camouflage
+{bestiary abilities + merits}
+- [[Camouflage]]
 - venomous
 - poisonous
-- tiny creature
-- miniscule size
+- [[tiny creature]]
+- [[miniscule size]]
 - ambush hunter
 - trample
-- legendary size
-- keen nose
+- [[legendary size]]
+- [[keen nose]]
 - pack hunting
-- immense guardian
+- [[immense guardian]]
 - speed bonus
 - deadly charge
-- berzerker
+- [[Berzerker]]
 - infinite grasp
 - crippling attacks?
 - leaping pounce
-- impenetrable armor
+- [[impenetrable armor]]
 - tail decoy
-- beast of burden
+- [[beast of burden]]
 - crushing coils
 # link
 prone
@@ -184,6 +184,7 @@ mounted movement, mounted move - mounted fighting#movement
 stratagem, stratagems - Strategic Warfare#Stratagems
 perfect morale, slaughter - battle group#
 parry, evasion, onslaught penalty - defense#
+onslaught penalties - defense#onslaught penalty
 base initiative - initiative#base
 trivial opponent - non-combatant#
 {derangements} - derangement#

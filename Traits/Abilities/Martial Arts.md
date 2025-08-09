@@ -13,3 +13,6 @@ tags:
 [[Martial Arts]] is a special Ability, which a character must possess the [[Martial Artist]] Merit (pgs. 163- 164) to purchase. [[Martial Arts]] cannot be taken as a Caste or Favored Ability by itself. Instead, if [[Brawl]] is a Caste or Favored Ability, then so is [[Martial Arts]]. If [[Brawl]] is a Caste Ability, then [[Martial Arts]] can be taken as a character’s Supernal Ability, if desired—but if [[Brawl]] is a character’s Supernal Ability, this benefit does not extend to [[Martial Arts]]. 
 
 Like [[Craft]], when a character first buys this Ability, she must declare a martial arts style which her [[Martial Arts]] dots represent mastery of. Chapter Seven contains a number of example martial arts styles characters might choose from. Additional styles must be purchased as independent Abilities—thus, a character might have [[Martial Arts]] (Snake style) 5, and [[Martial Arts]] (Tiger style) 3.
+
+## Mixing Styles
+True masters of the martial arts are able to blend different styles into truly devastating techniques, such as applying [[Armor-Penetrating Fang Strike]] (from Snake style) with [[Striking Fury Claws]] (from Tiger style). This may only be done if using a weapon shared in common (usually unarmed strikes), and the higher of the two [[Martial Arts]] abilities is used for any rolls or [[Defense]] calculations required.

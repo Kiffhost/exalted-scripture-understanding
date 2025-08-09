@@ -7,13 +7,11 @@ tags: []
 Very next steps, each completable within 1 day - 1 week
  
 - [ ] Split armor and weapon Type text into Traits list?
-- [ ] Merits
+- [ ] Merits / Abilities
 	- [ ] Animal/bestiary
 		- [ ] Solar
 		- [ ] Lunar
 		- [ ] Strangers
-		- [ ] Exigents
-		- [ ] Other?
 - [ ] Rules
 	- [x] Charms
 	- [x] Sorcery

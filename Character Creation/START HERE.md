@@ -11,10 +11,9 @@ Choose a priority order of Primary, Secondary and Tertiary for Physical, Mental 
 ```dataview
 TABLE rows.file.link AS Attribute
 FROM #attribute
-GROUP BY tags AS Category
+GROUP BY tags[0] AS Category
 ```
 Distribute 8 points among the Primary attributes, 6 among the Secondary and 4 among the Tertiary. **Maximum of 5 points per attribute**
-
 ## Health Levels
 
 All characters begin with the following:

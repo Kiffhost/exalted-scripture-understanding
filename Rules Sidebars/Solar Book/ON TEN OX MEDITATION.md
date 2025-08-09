@@ -1,5 +1,0 @@
----
-tags:
-  - source/solar-book
----
-For example, the Solar sees a laden wagon sinking into a sand pit. She has [[Strength]] 5, and no time to activate Increasing-[[Strength]] Exercise—perhaps someone will die if she does not act instantly. According to the rules on page 229, this feat requires [[Strength]] 7, and twelve successes on a ([[Strength]] + [[Athletics]]) roll. She grabs the hitch, channeling from deep within her reservoirs of might to try to pull it free anyway. The player invokes a full [[Athletics]] Excellency, [[Thunder’s Might]] and [[Ten Ox Meditation]], rolling eighteen successes. The player spends six of these successes to raise the Solar’s [[Strength]] by two—the minimum needed to accomplish the feat. Because the player still has twelve successes left over, and has raised the Solar’s [[Strength]] to 7, the Exalt is able to pull the wagon from the sand trap immediately. 
