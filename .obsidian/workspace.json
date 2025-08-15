@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules Reference/Sorcery/Shaping Rituals.md",
+                "file": "Character Creation/My Characters/Lunar Character.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shaping Rituals"
+              "title": "Lunar Character"
             }
           },
           {
@@ -393,9 +393,11 @@
   },
   "active": "3cede9820435c059",
   "lastOpenFiles": [
+    "Character Creation/My Characters/Dragon-Blooded Character.md",
+    "Character Creation/My Characters/Lunar Character.md",
+    "Rules Reference/Sorcery/Shaping Rituals.md",
     "Rules Reference/Sorcery/Shape Sorcery.md",
     "Traits/Merits.md",
-    "Rules Reference/Sorcery/Shaping Rituals.md",
     "Rules Reference/Sorcery/Countermagic.md",
     "Necromancies/Initiations/Umaza's Hymns/Umaza's Hymns.md",
     "Necromancies/Initiations/Student of the Barrows/Student of the Barrows.md",
@@ -417,8 +419,6 @@
     "Sorceries/Initiations/Student of the Heptagram/Student of the Heptagram.md",
     "Sorceries/Initiations/Student of the Heptagram/Words of Binding.md",
     "Sorceries/Initiations/Soul-Perfecting Elixir/Soul-Perfecting Elixir.md",
-    "Sorceries/Initiations/Simendor Sorcery/Simendor Sorcery.md",
-    "Sorceries/Initiations/Scarred by Nightmares/Scarred by Nightmares.md",
     "Sorceries/Initiations/Student of the Sixfold Insight",
     "Sorceries/Arcehtypes/The Valhawksen Way",
     "Sorceries/Arcehtypes",
