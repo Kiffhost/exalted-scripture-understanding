@@ -18,4 +18,3 @@ Once the Abyssal has made two consecutive attacks, the range of subsequent attac
 The susurrus ends if the Abyssal goes a turn without repeating the attack or if she’s incapacitated.
 ## Reset 
 Once per story.
-Necromancy and Sorcery

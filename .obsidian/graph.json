@@ -1,14 +1,14 @@
 {
   "collapse-filter": true,
-  "search": "tag:#Abyssal tag:#charm path:Charms/Abyssal/War  ",
+  "search": "tag:#Abyssal tag:#charm path:Charms/Abyssal/Survival  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "[\"mins\": \"Essence 1\"",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -18,13 +18,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 4.02508650519031,
+  "nodeSizeMultiplier": 2.55,
   "lineSizeMultiplier": 4.70328719723183,
   "collapse-forces": false,
   "centerStrength": 0.209342560553633,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 262,
-  "scale": 0.5091060974844183,
+  "linkDistance": 30,
+  "scale": 0.7137580418266875,
   "close": false
 }

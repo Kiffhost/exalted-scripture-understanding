@@ -5,6 +5,8 @@ tags:
   - Dragon-Blooded
   - Sidereal
   - source/solar-book
+  - Abyssal
+  - Lunar
 Cost: 1, 3, or 5
 ---
 This Merit may be re-purchased as many times as desired.

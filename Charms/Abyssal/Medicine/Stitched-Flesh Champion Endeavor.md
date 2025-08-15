@@ -24,4 +24,3 @@ The champion gains the following benefits:
  - It can benefit from each of Life-Mocking Assembly’s effects an additional (Abyssal’s Essence/2) times.
  - The Abyssal may spend a scene modifying her champion to replaces a mutation granted by [[Necrotic Graft Technique]] with another mutation of equal or lesser value.
 The Abyssal can only have one champion at a time.
-Melee

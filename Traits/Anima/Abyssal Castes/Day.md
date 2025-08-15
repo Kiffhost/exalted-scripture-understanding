@@ -15,7 +15,7 @@ Daywalkers’ Caste Marks mirror those of the Night Caste: empty black circles t
 - Embrace of Shadows (2m; Reflexive; Instant; Mute): The Daywalker mutes all motes spent in an instant.
 - Walking in Daylight (3m; Supplemental; Instant; Mute): The Abyssal ignores up to (higher of Essence or 3) points of penalties on a Stealth roll.
 # Caste Abilities
-Walking unseen among the living in pursuit of their prey, Day Castes choose Caste Abilities from Athletics, Awareness, Investigation, Dodge, Larceny, Socialize, Stealth, and Survival.
+Walking unseen among the living in pursuit of their prey, Day Castes choose Caste Abilities from [[Athletics]], [[Awareness]], [[Investigation]], [[Dodge]], [[Larceny]], [[Socialize]], [[Stealth]], and [[Survival]].
 #### ^Note:
 The [[Martial Arts]] Ability cannot be chosen as Caste or Favored—instead, any character with [[Brawl]] as a chosen Caste or Favored Ability treats [[Martial Arts]] as Caste or Favored as well. A player may choose [[Brawl]] or [[Martial Arts]] as her [[Dawn]] Caste character’s Supernal Ability, but applies the benefits of that choice only to one or the other. Also, characters with [[Martial Arts]] dots must possess the [[Martial Artist]] Merit.
 # Associations

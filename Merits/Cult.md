@@ -5,6 +5,7 @@ tags:
   - Dragon-Blooded
   - Lunar
   - source/solar-book
+  - Abyssal
 Cost: 1 to 5
 ---
 The character is the object of organized veneration by a group of mortals. Without additional magic, humans (including the Exalted) cannot actually hear prayers directed at them, although when deep in meditation they can feel the mute moth-wing fluttering of appeals, sacrifices, and words of adoration whirling about them.

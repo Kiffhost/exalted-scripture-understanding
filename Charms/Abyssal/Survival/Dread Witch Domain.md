@@ -25,4 +25,3 @@ Claiming a domain imposes the following effects:
 An Abyssal can only have one such domain at a time. If she dies, it endures beyond her death, though it may then be possible to break it with curse-breaking magic or a sorcerous working at the Storyteller’s discretion.
 ## Special activation rules
 When the Abyssal uses [[Nightmare-Carving Murmur]] to reshape land into a wilderness, she can use this Charm reflexively to claim that territory as her domain.
-Thrown

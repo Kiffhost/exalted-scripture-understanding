@@ -20,4 +20,3 @@ The Abyssal gains the following benefits while aboard her flagship:
  - While aboard her flagship, she counts as having used [[Dread Captain’s Command]] to claim all ships within ([[Essence]] x10) miles that she owns or whose captain has a Major or Defining Tie of loyalty, obedience, fear, or love toward her.
  - While aboard the flagship, she can use Mist-Wreathed Galleon on any ship claimed with [[Dread Captain’s Command]] that’s within ([[Essence]] x10) miles, waiving the [[Willpower]] cost for each additional ship shrouded at the same time.
 If the Abyssal’s flagship is destroyed or she wishes to change ships, she can choose a new flagship at the end of the story. The [[Storyteller]] may let her do so sooner in a suitably dramatic moment while commanding a ship claimed with [[Dread Captain’s Command]].
-Socialize

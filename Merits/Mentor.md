@@ -6,8 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
-  - source/exigent-book
-  - source/Exigent-Book
+  - Abyssal
 Cost: 1 to 3
 ---
 Another individual of greater experience regularly teaches and advises the character. Mentors may provide advice, assistance, and even training in mundane or magical fields.
