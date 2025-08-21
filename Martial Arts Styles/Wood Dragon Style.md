@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Immaculate
+  - source/dragon-book
 ---
 # [[Wood Dragon Style]]
 The most esoteric of the Immaculate Dragon styles, Wood Dragon oversees the cycles of life and death. Its students undergo grueling regimens that bring them to the edge of death, fasting to their bodies’ limits while consuming copious quantities of hallucinogenic and entheogenic drugs. When they return to the world of the living, they bring mysterious insight with them. In battle, these mystics draw on an extensive knowledge of pressure points and [[Essence]] flows to both subdue foes and heal allies. Masters of the style are rumored to possess a technique that can bring instant death, destroying the soul itself.

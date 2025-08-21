@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Sidereal
+  - source/sidereal-book
 ---
 # [[Citrine Poxes of Contagion Style]]
 This style is a contemplation on decay, both causing and reversing it. It was created long ago by the Joybringer and physician Perdurance of Blossoms, who sought aid from the Three Supreme Plagues, Heaven’s foremost gods of disease. She seduced languid Kel-Aina, ruler of drunken moth sickness. Sylvi, the Crone of Fire, god of white sun fever, was won over by appeals to her storied pride. The nameless god of the uttermost West who presides over jigsaw organ condition forbade Perdurance of Blossoms from ever speaking of the favor they demanded, and so it remains unknown.

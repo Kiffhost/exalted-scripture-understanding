@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.hasTag("charm")
+    - and:
+        - Mins.startsWith("Craft")
+    - file.path.startsWith("Charms/Dragon")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Mins
+      - Prerequisite Charms
+      - Cost
+      - Keywords
+    sort:
+      - property: Mins
+        direction: ASC
+      - property: Cost
+        direction: ASC
+      - property: Prerequisite Charms
+        direction: DESC
+      - property: file.size
+        direction: ASC
+    columnSize:
+      note.Mins: 135
+      note.Prerequisite Charms: 322
+      note.Cost: 229
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - Prerequisite Charms
+    sort:
+      - property: Mins
+        direction: ASC
+    cardSize: 150
+    imageFit: ""
+    image: file.file
+    imageAspectRatio: 0.25

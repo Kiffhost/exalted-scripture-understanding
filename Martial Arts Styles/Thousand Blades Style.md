@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/lunar-strangers-book
 ---
 # [[Thousand Blades Style]]
 Thousand Blades is an ancient battle-art of the First Age, an esoteric style that can only be practiced with artifact weapons. Its signature technique lets a stylist wield these weapons with [[Essence]] alone, letting them float at her side until she wills them to strike. It can be practiced with only a single daiklave, but unlocking the style’s true potential requires mastering many weapons. Students hone their mastery of [[Essence]] through meditation and breathing exercises. They perform the style’s ancient rites and undergo tests of will and endurance to heighten their rapport with the weapons in their arsenal. Few in the Second Age still practice this style, but it’s not been forgotten. Prominent modern-day masters include Sublime Danger, elder of the [[Lore/Factions/Silver Pact|Silver Pact]]; Cathak Tatsuzo, a blood-drenched renegade [[Dawn]] Caste spearmaster; and the Silver Prince, the Deathlord who rules the Skullstone Archipelago. 

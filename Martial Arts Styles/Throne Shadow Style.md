@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/sidereal-book
 ---
 # [[Throne Shadow Style]]
 Throne Shadow style is the fighting art of the éminence grise who lurks behind queens and princes, moving unnoticed as all eyes watch the crown. Its practitioners master the ways of insight, subtlety, and misdirection; they’re sometimes called viziers, for while they’re skilled in hand-to-hand combat, their greatest strength is their students and disciples. When the vizier feints, her student strikes; when she moves back, he advances.

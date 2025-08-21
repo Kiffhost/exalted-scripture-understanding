@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Immaculate
+  - source/dragon-book
 ---
 # [[Fire Dragon Style]]
 Fire Dragon style demands both the capacity for unpredictable violence and immense self-discipline. Its students train in the rhythm of combat, sparring and performing weapon drills in time to music. Walkers on the path of Hesiesh fight with incredible speed and a dancer’s grace, knowing when to withhold their force and when to unleash it without restraint.

@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/solar-book
 ---
 # [[Tiger Style]]
 Tiger style emulates the ferocious strength and swift, pouncing strikes of the predatory cats. A Tiger stylist treat combat as a dance between predator and prey, pursuing her foe with unmatched speed and unrelenting patience. Once she closes in on her victim, she brings him down like a tiger fells its prey—knocking him to the ground, crippling his limbs, and moving in for the killing strike. Many who follow the path of Tiger style become arrogant, impatient, or cruel, as their trust in their killing power becomes absolute. Others learn different lessons, adapting the patient bearing of a cat stalking its prey through the jungle.

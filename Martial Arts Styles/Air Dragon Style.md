@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Immaculate
+  - source/dragon-book
 ---
 # [[Air Dragon Style]]
 To practice Air Dragon style is to be the wind: elusive, intangible, omnipresent, and devastating in its fury. Its students train in acrobatics to cultivate an intuitive awareness of their body’s own movements, and master breath control to lighten the body and walk silently. Unlike the other Immaculate styles, Air Dragon stylists strike from afar, throwing [[Chakram|chakrams]] to claim their foes’ heads.

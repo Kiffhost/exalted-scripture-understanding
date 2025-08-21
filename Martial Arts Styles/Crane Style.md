@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/solar-book
 ---
 # [[Crane Style]]
 Crane style is a defensive style, emulating the grace of the crane in avoiding the blows of an enemy. Its student learns not just to fight with physical blows, but to empathize with her enemy, speaking or debating with him in an attempt to bring the fight to an end without violence. However, those who mistake the Crane master’s restraint for weakness find themselves quickly meeting the ground. When she must, a student of this style can unleash devastating counterattacks, flowing with the force of an enemy’s blow so she can strike back in turn.

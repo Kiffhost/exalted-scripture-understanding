@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Immaculate
+  - source/dragon-book
 ---
 # [[Water Dragon Style]]
 Water Dragon teaches that all things are flow — the rhythm of a fight, the blood of a living body, the [[Essence]] of Creation. Practitioners of this style train in techniques that block, redirect, or impede these flows, subtly manipulating the conditions of battle to seize victory. Its defense emphasizes fluid motions and outmaneuvering enemies with footwork, while its offense relies on repeated strikes, exploiting the lightest wound to unleash a cascading torrent of death. 

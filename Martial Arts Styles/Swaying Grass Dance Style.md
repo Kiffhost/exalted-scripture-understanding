@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/lunar-book
 ---
 # [[Swaying Grass Dance Style]]
 This style’s strikes and motions resemble dancing more than a martial art, hearkening back to its origins in slave uprisings. Disguising their training as dances and religious celebrations, the legendary Swaying Grass Dancers of old honed their art to overthrow their captors.

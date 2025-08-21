@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Immaculate
+  - source/dragon-book
 ---
 # [[Earth Dragon Style]]
 Earth Dragon style tempers overwhelming force with meticulous deliberation, moving slowly and surely with every technique. Students undergo training regimens that strengthen the body, hardening fists through hours spent striking barrels of gravel and learning to ignore their pain by sleeping on beds of nails. This training tempers them into nigh-invincible warriors who can stand toe to toe with unruly gods and Anathema, withstanding deadly blows and answering in kind with their mighty tetsubos.

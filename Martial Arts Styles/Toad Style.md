@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/lunar-strangers-book
 ---
 # [[Toad Style]]
 Toad style emphasizes defense above all else. Its stylists wear no armor, but their skin is said to be hard as iron. They go through grueling training regimens to toughen their bodies, enduring countless repeated blows until they can withstand them without flinching. Students also eat a variety of poisons and venoms to cultivate resilience and heighten their understanding of toxins. Some even develop the [[Venomous]] Merit (Exalted, p. 167) as a result.

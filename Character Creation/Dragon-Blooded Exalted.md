@@ -65,7 +65,7 @@ Some Merits can make different options for charms available:
 All Exalted gain [[Exalted Healing]] for free.
 
 Optionally take [[Flaws]] for additional experience triggers during play.
-# Charms
+# *Charms*
 
 Select 15 #Dragon-Blooded Charms for which you will meet the minimums and prerequisite at the end of character creation.
 [[Charms/Dragon-Blooded/Occult/Terrestrial Circle Sorcery|Terrestrial Circle Sorcery]] gives access to sorcerous spells.

@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/solar-book
 ---
 # [[Black Claw Style]]
 Black Claw style is one of the rare few martial arts created by a demon, taught to the Exalted in the First Age by Mara, the Shadow-Lover. It uses misdirection, misperception, and love as its primary weapons. Black Claw stylists seize victory by opening themselves to their enemies’ aggressions, casting themselves as innocents who suffer the strikes of callous brutes or sadistic madmen. Defeat is mollified by exposing the perfidy of the victorious. Throughout the course of a fight, a Black Claw stylist manipulates the emotions of those watching her, turning them against her enemies and winning their love. A master of the style can pick a fight against the most noble of opponents, yet walk away beloved, while her foe feels the scorn of the crowd— even as his heart crumbles to ashes in the master’s hand.

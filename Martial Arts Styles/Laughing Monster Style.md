@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/lunar-book
 ---
 # [[Laughing Monster Style]]
 The fae warrior-saints of the Court of Flayed Sinners distilled Laughing Monster style from the digested dreams of countless thieves, scavenger princes, and oathbreakers drawn by rumors of the unimaginable treasures they guarded. This reign of false virtue was ended by the shaman Juven Fifth-Summer, who tore off the face of the court’s prince and coaxed the style’s secrets from his ragged lips, using them to set the raksha against each other until none remained. 

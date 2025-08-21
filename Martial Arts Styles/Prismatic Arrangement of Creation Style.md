@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Sidereal
+  - source/sidereal-book
 ---
 # [[Prismatic Arrangement of Creation Style]]
 [[Essence]] is immanent in all things, even the least grain of sand. It is both primal substrate of reality and the grand cosmology of worlds raised upon it. The flow of [[Essence]] is the dance of all things. Prismatic Arrangement of Creation style is a meditation on the world’s [[Essence]]. Drawing from the primal force that gave rise to all things, it’s considered the most foundational Sidereal Martial Art and is among the most commonly practiced within the [[Lore/Factions/Bureau of Destiny|Bureau of Destiny]].

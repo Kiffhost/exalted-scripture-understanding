@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Sidereal
+  - source/sidereal-book
 ---
 # [[Charcoal March of Spiders Style]]
 It’s said this style was created when an ancient Sidereal witnessed Asna Firstborn, mother of pattern spiders, kill and consume her mate. Enlightened by the sublime horror-beauty of the act, they attained an understanding of the cosmic principles of consumption. Its practitioners emulate the movements of pattern spiders, striking with venomous techniques that devour [[Essence]], dissolve souls, and reweave reality. Students fast throughout their training as they undergo grueling regimens that hone their body and guide them to this style’s enlightenment: elaborate footwork drills, aerial contortions while dangling upside-down from silken threads, striking the surface of vats of poison and acid, and meditating while surrounded with heaping platters of delicacies. 

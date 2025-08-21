@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/sidereal-book
 ---
 # [[Violet Bier of Sorrows Style]]
 Violet Bier of Sorrows is an ancient style, old as the First Age if not older. Some stories attribute its creation to a Sidereal inspired by the Maiden of Endings’ power and conviction; others say it arose from a prehistoric cult of Saturn, or one of the many legendary martial artists of the First Age, or Saturn herself. It emphasizes speed, exploiting enemies’ injuries, and powerful killing blows. Its students often cultivate detachment from emotion and compassion in battle, able to act infinitesimally faster than enemies because they do not feel the emotional experience of violence in the moment.
