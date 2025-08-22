@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Sidereal
+  - source/sidereal-book
 ---
 # [[Emerald Gyre of Aeons Style]]
 Jehu Khoor aged a thousand years in a single blow from the Prince of Hours and glimpsed the shape of eternity thereby. He spent the remainder of his life both creating this style to express this understanding and authoring the Tractate of Eternity. The text is infamously impenetrable, equal parts metaphysical treatise, theory of history, and mystical allegory. It has no end and no beginning, endlessly recursive. Interpretations vary wildly: Raxevi Alzira views the Tractate as an allegory of the events of Creation’s history; Countervalent Raven sees it as a guide to escaping the prison of eternity.

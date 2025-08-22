@@ -22,4 +22,4 @@ When the Abyssal rolls [[Join Battle]] against a character she’s used [[Passio
  - His [[Attack#withering|withering attacks]] can’t reduce her below [[Initiative]] 1 unless her [[Initiative]] was lower than his when he attacked. He still gains all [[Initiative]] from withering damage rolls against her.
  - If her target’s base [[Guile]] is lower than his base [[Defense]], her [[Attack#hit roll|attack rolls]] against him add dice equal to the difference.
 ## Reset 
-The Abyssal can only use this Charm against a character once per story unless reset when he believes he’s safe from her as a result of her social influence or underhanded trickery.
+The Abyssal can only use this Charm against a character once per story unless reset when he believes he’s safe from her as a result of her [[social influence]] or underhanded trickery.

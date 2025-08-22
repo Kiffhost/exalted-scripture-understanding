@@ -16,7 +16,7 @@ Webspinners’ Caste Marks are an inversion of the Eclipse Caste’s: a black di
 - Keeper of the Old Laws (10m, 1wp; Reflexive; Instant): When the Moonshadow hears someone make a promise or swear an oath, she may invoke the Old Laws to seal the pact. She may manifest her Caste Mark and anima banner in a brief display if she wishes. Those who violate the pact suffer consequences chosen by the Storyteller, often a punishment that reflects the nature of their violation. 
 - Unworldly Emissary Secrets (Permanent): The Moonshadow can learn Eclipse Charms for eight experience or four bonus points each
 # Caste Abilities
-As ambassadors and diplomats of the Underworld, Moonshadow Castes choose Caste Abilities from Bureaucracy, Integrity, Linguistics, Occult, Presence, Ride, Sail, and Socialize.
+As ambassadors and diplomats of the Underworld, Moonshadow Castes choose Caste Abilities from [[Bureaucracy]], [[Integrity]], [[Linguistics]], [[Occult]], [[Presence]], [[Ride]], [[Sail]], and [[Socialize]].
 #### ^Note:
 The [[Martial Arts]] Ability cannot be chosen as Caste or Favored—instead, any character with [[Brawl]] as a chosen Caste or Favored Ability treats [[Martial Arts]] as Caste or Favored as well. A player may choose [[Brawl]] or [[Martial Arts]] as her [[Dawn]] Caste character’s Supernal Ability, but applies the benefits of that choice only to one or the other. Also, characters with [[Martial Arts]] dots must possess the [[Martial Artist]] Merit.
 # Associations

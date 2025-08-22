@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/solar-book
 ---
 # [[Ebon Shadow Style]]
 Ebon Shadow style is the art of fighting from stealth, vanishing into shadows or dashing behind cover before moving out to deliver a deadly, unexpected strike. While other martial artists hold their ground in fights, a student of the Ebon Shadow fades in and out of combat, hiding when the tide of battle turns against her and emerging from stealth when an opportune moment presents itself. Many who practice it in the Second Age are assassins and knaves, clinging to the cover of darkness to hide their wickedness, but there are still some who remember the righteous origins of the style as that which taught evildoers to fear the shadows and delivered restitution to those who suffered at their hands. With the return of the [[Solar Exalted]], this legacy shines only brighter amid the shadows of the [[Time]] of Tumult.

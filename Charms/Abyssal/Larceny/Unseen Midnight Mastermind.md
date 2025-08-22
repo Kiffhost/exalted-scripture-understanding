@@ -16,4 +16,3 @@ Prerequisite Charms:
 The Abyssal invokes a free full [[Larceny]] Excellency and mutes any motes spent on the enhanced roll.
 ## Reset 
 Once per scene.
-Linguistics

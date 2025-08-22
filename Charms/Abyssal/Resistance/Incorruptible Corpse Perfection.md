@@ -10,8 +10,8 @@ Keywords:
   - Uniform
 Duration: Instant
 Prerequisite Charms:
-  - "[[Pain-Eating Focus]]"
-  - "[[Wound-Absorbing Discipline]]"
+  - "[[Agony-Savoring Spirit]]"
+  - "[[Death-Drinking Rapacity]]"
 ---
 *The Abyssal embodies death’s eternal perfection, unmarred by anything less than annihilation.*
 When the Abyssal is hit by an attack, she can use this Charm before the damage roll to diminish any crippling effects the attack inflicts. Any penalties she suffers from it are halved, rounded down, and it heals completely in (7 – [[Stamina]]) rounds.

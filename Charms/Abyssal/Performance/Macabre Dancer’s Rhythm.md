@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Dance With Death]]"
 ---
 *Few can keep pace with the Abyssal’s deadly pavane.*
-The Abyssal gains one [[Initiative]] when she beats a nontrivial enemy’s [[Resolve]] with a dance-based influence roll or spends her entire turn to continue a dance performance without flurrying.
+The Abyssal gains one [[Initiative]] when she beats a nontrivial enemy’s [[Resolve]] with a dance-based [[influence roll]] or spends her entire turn to continue a dance performance without flurrying.

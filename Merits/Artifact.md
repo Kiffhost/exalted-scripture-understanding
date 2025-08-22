@@ -6,6 +6,7 @@ tags:
   - Lunar
   - Sidereal
   - source/solar-book
+  - Abyssal
 Cost: 2 to 5
 ---
 This Merit may be re-purchased as many times as desired.

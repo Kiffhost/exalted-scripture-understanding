@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/dragon-book
 ---
 # [[Golden Janissary Style]]
 This ancient art has been passed down by generations of devil-fighting sages who pledged their lives to defend Creation from darkness. Its training regimens combine weapon katas, dance-like footwork, and meditation on light and shadow. It’s studied by holy ascetics, warriors who guard the borders of shadowlands, and barbarian tribes dwelling in demon-haunted wilderness, as well as Dragon-Blooded shikari.

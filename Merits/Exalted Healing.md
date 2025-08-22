@@ -5,6 +5,9 @@ tags:
   - Supernatural
   - Lunar
   - source/solar-book
+  - Sidereal
+  - Abyssal
+  - Exigent
 Cost: 5
 ---
 **All Exalted possess this Merit at no cost. Spirits also universally possess this Merit, as do the Fair Folk.**

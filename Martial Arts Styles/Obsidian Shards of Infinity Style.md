@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art/Sidereal
+  - source/sidereal-book
 ---
 # [[Obsidian Shards of Infinity Style]]
 One morning, as the philosopher-assassin Ei Zou trimmed his whiskers while waiting for his tea to steep, he saw himself in his mirror and was enlightened. He had no words with which to express his understanding of the infinite; rather, his teaching was shaped like a knife. This is Obsidian Shards of Infinity style. It is a contemplation of the interplay of choice and possibility, of reality and its reflections. It is thus a killer’s art, for every decision murders countless futures.

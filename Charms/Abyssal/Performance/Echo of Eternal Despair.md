@@ -13,6 +13,6 @@ Prerequisite Charms:
   - "[[Muse of Death’s Rapture]]"
 ---
 *Bleeding from her throat, fingers, or soles, the Abyssal plays on until the bloody end of her performance.*
-The Abyssal resets [[Incomparable Sorrow Inspiration]] and Muse of [[Midnight]] Rapture.
+The Abyssal resets [[Incomparable Sorrow Inspiration]] and [[Muse of Death’s Rapture]].
 ## Reset 
 Once per day

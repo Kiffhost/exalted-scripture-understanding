@@ -10,7 +10,7 @@ Keywords:
   - Aura
   - Counterattack
   - Decisive-only
-  - Signa- ture (Fire)
+  - Signature (Fire)
 Duration: Instant
 Prerequisite Charms:
   - "[[Hopping Firecracker Evasion]]"

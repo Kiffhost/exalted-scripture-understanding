@@ -4,6 +4,7 @@ tags:
   - Solar
   - Lunar
   - source/solar-book
+  - Abyssal
 Cost: 4
 ---
 

@@ -17,14 +17,14 @@ A sorcerer can pause in the act of gathering sorcerous motes to perform another 
 
 Some spells require an extended period of shaping [[Essence]] to cast, generally on the order of hours or longer. Keeping track of the accumulation of sorcerous motes in these cases is less relevant than the time invested in the spell, and so they are simply noted as having a cost of “Ritual.”
 # Rituals
-The way in which a sorcerer wields power is called a *shaping ritual*. These may be drawn from a  sorcerous *archetype*, which represent the character's sorcerous background.
-## Archetypes
-Example archetypes include:
+The way in which a sorcerer wields power is called a *shaping ritual*. These may be drawn from a  sorcerous *initiation*, which represent the character's sorcerous background.
+## Initiations
+Example initiations include:
 ```dataview
 LIST
-FROM #SorcerousArchetype 
+FROM #SorcerousInitiation  
 ```
-Each archetype is associated with a number of *shaping rituals*, which provide instructions and conditions as to how a character might gain [[Rules Reference/Sorcery/Sorcery#Motes|sorcerous motes]].
+Each initiation is associated with a number of *shaping rituals*, which provide instructions and conditions as to how a character might gain [[Rules Reference/Sorcery/Sorcery#Motes|sorcerous motes]].
 ## Reflexive Rituals
 If a sorcerer uses a shaping ritual that allows her to reflexively gather sorcerous motes for a turn, this prevents the loss of motes for interrupting a cast.
 # Changing Spells

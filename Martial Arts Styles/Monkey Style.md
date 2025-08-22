@@ -1,6 +1,7 @@
 ---
 tags:
   - martial-art
+  - source/lunar-strangers-book
 ---
 # [[Monkey Style]]
 Monkey style emphasizes misdirection, mobility, and unpredictability. It’s distinctive for its acrobatic maneuvers, with stylists tumbling, flipping, and cartwheeling around their foes. Its practitioners are called “blissful sages,” for laughter is frequently heard coming from this style’s schools. This isn’t just good humor — it’s training for this style’s arrhythmic breathing exercises. This jocularity often carries over to the battlefield, with stylists employing taunts, japes, and bewildering facial expressions to throw enemies off balance. Stoic, humorless practitioners are instead referred to as “stone monkeys.”
