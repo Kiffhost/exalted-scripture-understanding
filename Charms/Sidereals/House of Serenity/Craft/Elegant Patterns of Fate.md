@@ -17,4 +17,4 @@ The Sidereal gains the following benefits:
 - She adds ([[Craft]]) dice on [[Lore]] and [[Occult]] rolls involving knowledge of fate, destiny, and enemies of fate. 
 - Fulfilling an auspicious prospect or using an Ascending (Caste) Horoscope or Descending (Caste) Horoscope Charm awards craft points as per a basic project (Exalted, p. 240). 
 - Successfully enacting a prophecy awards gold points equal to its highest Ambition Factor. 
-- She can pay the experience point cost of prophecies with white points, paying five white points per experience point.
+- She can pay the experience point cost of prophecies with white points, paying 3 white points per experience point.

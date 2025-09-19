@@ -1,6 +1,5 @@
 ---
 tags:
-  - source/Solar-Book
   - source/solar-book
 ---
 Time passes in Creation much as it does on Earth, with sun, moon and stars rising in the east and setting in the west. Most cultures divide the ensuing days into twenty-four hours. The idea of minutes and seconds as discrete units of time remain from First Age lore, but chronometers more sophisticated than sundials, sandglasses, and hour-candles are rare, leaving such units as vague abstractions to most.The Realm measures the passage of years from the accession of the [[Scarlet Empress]]. It is now RY 768, five years since the Empress’s disappearance. The traditional calendar year is comprised of fifteen lunar months, each 28 days long and divided into four weeks. These are arranged in five cycles named for the elements— Air, Water, Wood, Fire, and Earth—each divided into Ascending, Resplendent and Descending months. The year begins with the month of Ascending Air and ends in Descending Earth. 

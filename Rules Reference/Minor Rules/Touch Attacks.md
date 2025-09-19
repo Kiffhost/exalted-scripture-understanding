@@ -1,2 +1,6 @@
+---
+tags:
+  - source/sidereal-book
+---
 # Touch Attacks 
 In combat, touching an unwilling character or something worn or wielded by them requires a difficulty 1 unarmed gambit. Outside of combat, Larceny or Stealth rolls can be used to do so unnoticed, influence rolls can convince a target to allow it, etc.

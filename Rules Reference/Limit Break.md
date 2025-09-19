@@ -42,7 +42,7 @@ FROM "Traits/Limit/Monstrous Urges"
 
 When a Sidereal reaches [[Limit]] 10, she succumbs to Celestial Hubris. This may occur immediately or later at a suitable moment, at the Storyteller’s discretion. The Storyteller chooses a Celestial Hubris from those below or creates a new one; she should discuss this with the Sidereal’s player to ensure it sets up dramatic moments and character development he’s interested in.
 Celestial Hubris works as follows:
-- A Sidereal’s Celestial Hubris counts as a Defining [[Intimacy]]. If it would let her treat influence asunacceptable (Exalted, p. 220), she must do so.
+- A Sidereal’s Celestial Hubris counts as a Defining [[Intimacy]]. If it would let her treat influence as unacceptable (Exalted, p. 220), she must do so.
 - Celestial Hubris lasts one scene or one session. It may end early if a specific condition is met. If it begins too late to impact the game, the Storyteller can have it spill over into the next scene or session.
 - Once Celestial Hubris ends, the Sidereal’s [[Limit]] resets to 0 and her temporary [[Willpower]] resets to equal to her permanent [[Willpower]].
 ## Celestial Hubrises
