@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 4m, 1i
-Mins: Performance 4, Essence 2
-Type: Reflexive
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: —
+Mins: Performance 1, Essence 1
+Type: Permanent
 Keywords:
-  - Dual
-Duration: Instant
+- Uniform
+Duration: Permanent
 Prerequisite Charms:
-  - "[[Perfection in Life]]"
+- None
 ---
 *The Sidereal anticipates her enemy’s every move as if they were dancing together, maneuvering gracefully in perfect counterpoint to his offense.*
-The Sidereal adds (Appearance/2, rounded up) [[Defense|Evasion]] against an attack and dodges even if its successes equal her [[Defense|Evasion]]. Dodging a decisive attack grants her the [[Initiative]] her attacker loses for missing.
+The Sidereal can use (Appearance + {Dodge or Performance}) to calculate her Evasion. She can apply relevant Dodge specialties on dance-based Performance rolls, and vice versa with dance-related Performance specialties.
+

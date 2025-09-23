@@ -1,19 +1,19 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 4m, 1wp
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 5m, 1wp
 Mins: Melee 5, Essence 4
 Type: Supplemental
 Keywords:
-  - Decisive-only
+- Decisive-only
 Duration: Instant
 Prerequisite Charms:
-  - "[[The Spear Not Held]]"
-  - "[[Temperate Blade Meditation]]"
+- "[[Temperate Blade Meditation]]"
 ---
 *Sensing an unexpected angle of attack, the Sidereal strikes along the path that leads past her enemy’s guard.*
-When the Sidereal makes an attack that benefits from aiming or makes a counterattack or clash while benefitting from a [[full defense]], she rolls ([[Perception]] + [[Melee]]) opposing her enemy’s ([[Wits]] + combat Ability) roll. If she succeeds, her attack becomes an ambush (Exalted, p. 203). 
+When the Sidereal makes an attack that benefits from aiming, she rolls (Perception + Melee) opposing her enemy’s (Perception + Awareness or combat Ability) roll before the attack roll. If she succeeds, her attack becomes unblockable and undodgeable. If she reduced the roll’s target number, the same reduction applies on the attack roll.
 ## Reset
-Once per scene unless reset by incapaciting an enemy with an attack that benefitted from aiming or a counterattack or clash while using a [[full defense]].
+Once per scene, unless reset by incapacitating an enemy with an attack that benefited from aiming.
+

@@ -1,16 +1,20 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 3m, 1wp
-Mins: Dodge 4, Essence 2
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 4m
+Mins: Dodge 5, Essence 2
 Type: Reflexive
 Keywords:
-  - Uniform
+- Uniform
 Duration: Instant
 Prerequisite Charms:
-  - "[[Trouble Reduction Strategy]]"
+- "[[Trouble Reduction Strategy]]"
 ---
 *The Sidereal evades the loss of a friend or ally by taking his wounds in his stead.*
-When an enemy makes an attack against one of the Sidereal’s allies, the Sidereal can use this Charm to move instantly into close range of that ally and redirect the attack to herself before it’s rolled. This doesn’t count as her movement action. She can’t redirect undodgeable attacks unless she also uses [[Duck Fate]], nor can she redirect ambushes if the attacker would have also qualified to ambush her. If the Sidereal is protecting her target with [[Trouble Reduction Strategy]], this Charm’s cost is reduced by two motes.
+When an enemy attacks an ally the Sidereal is protecting with Trouble Reduction Strategy, the Sidereal negates Evasion penalties against him. This doesn’t include penalties from surprise attacks. If he beats her Evasion, he must direct the attack against her, rather than her ward.
+If the Sidereal knows Duck Fate, this Charm lets her protect her ward from undodgeable attacks.
+## Special activation rules
+If the attacker has a positive Tie or romantic intentions toward the Sidereal’s ward, successfully dodging lets her reflexively use SuitorDeflecting Sidestep on her ward’s behalf, waiving its Willpower cost. If successful, the attacker’s attentions are redirected to the Sidereal.
+

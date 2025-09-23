@@ -1,17 +1,19 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
+- charm
+- Sidereal
+- source/sidereal-book
 Cost: 5m
 Mins: Dodge 5, Essence 2
 Type: Reflexive
 Keywords:
-  - Perilous
-  - Uniform
+- Perilous
+- Uniform
 Duration: Instant
 Prerequisite Charms:
-  - "[[Absent Self]]"
+- "[[Absent Self]]"
 ---
 *The Sidereal maneuvers around possibilities that would give her enemy a clear shot, forcing him to contend with a less favorable reality.*
-An attack against the Sidereal’s [[Defense|Evasion]] suffers +1 target number. Dodging grants her one [[Initiative]] for each die that isn’t a success because of target number reduction, maximum ([[Essence]]). With a [[Dodge]] 5, [[Essence]] 3 repurchase, the Sidereal may pay a one-[[Willpower]] surcharge to inflict +2 target number. Her enemy loses any [[Initiative]] she gains with this Charm.
+An attack against the Sidereal’s Evasion suffers +1 target number. Successfully dodging grants her one Initiative for each die that is a failure instead of a success because of its increased target number, maximum (Sidereal’s Essence).
+With a Dodge 5, Essence 3 repurchase, the Sidereal may pay a one-Willpower surcharge once per scene to inflict +2 target number. Her enemy loses any Initiative she gains with this Charm. This resets if the Sidereal begins her turn within close range of at least two nontrivial enemies.
+

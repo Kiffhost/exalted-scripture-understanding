@@ -1,16 +1,33 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 15m, 1wp
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 5m, 1wp
 Mins: Archery 5, Essence 5
 Type: Reflexive
 Keywords:
-  - Varies
+- Varies
 Duration: One scene
 Prerequisite Charms:
-  - Any ten Archery Charms
+- Any 10 Archery Charms
 ---
 *The Sidereal casts a prayer strip bearing the Scripture of the Clay Maiden into the air to float above her bow, radiating a gaudy pink light that imbues her quiver with endless possibilities.*
-The Sidereal may transform her arrows whenever she makes an attack, using one of the transformations below. She chooses three of them upon purchasing this Charm; she may purchase additional transformations for three experience points each. Boulder (Dual): The Sidereal’s arrow transforms into a boulder. Her withering or decisive attack is undodgeable. 10s on the attack roll adds one die of post-soak withering damage or decisive damage, up to a maximum of her extra successes. A damaged enemy is knocked prone and pinned beneath the boulder; he can’t rise from prone until it’s been lifted with a difficulty 5 feat of strength that requires [[Strength]] 3. Fire (Decisive-only): The Sidereal’s arrow transforms into a rain of fire. She must have [[Initiative]] 12+ to use this transformation. Her decisive attack is unblockable. As long as she deals any damage, her target any characters within close range of him whose [[Defense|Evasion]] is beaten by the attack roll catch flame, suffering ([[Essence]]) dice of lethal damage at the start of each of their turns until the flames are extinguished. Flammable scenery may likewise catch flame. Glass (Dual): The Sidereal’s arrow turns into perfectly translucent glass. Her withering or decisive attack becomes a surprise attack (Exalted, p. 203). If she does so on her first turn against a lower-[[Initiative]] enemy, he rolls ([[Perception]] + [[Awareness]]) opposing her attack roll. If he fails, it becomes an ambush. Grain (Special): A field of ripe wheat sprouts from where the Sidereal’s arrow falls. She makes a special ([[Intelligence]] + [[Archery]]) attack roll. This doesn’t count as her attack for the round. The grain provides enough food to feed a group of people with one dot of effective [[Size]] (Exalted, p. 206) for every two successes, rounded up. This transformation can only be used once per day. Life (Special): The Sidereal’s arrow transforms into a bolt of vital [[Essence]]. She makes a special ([[Intelligence]] + [[Archery]]) attack roll to align this with the flows of her patient’s [[Essence]]. This doesn’t count as her attack for the round. For each success, she may pay 3 [[Initiative]] to heal one level of non-aggravated damage. A character can only benefit from this gambit once per day. Snow (Special): The Sidereal’s arrow becomes a flurry of snow. She makes a special ([[Intelligence]] + [[Archery]]) attack roll. This doesn’t count as her attack for the round. The snowfall extends out to ([[Essence]] + successes) miles from where her arrow landed — any point within her weapon’s range — and lasts for a number of hours equal to her successes. The snow imposes a −1 penalty on vision-based rolls; after some time, piled-up snow may become difficult terrain. The Sidereal can only have one snowfall at a time with this Charm. If the Sidereal uses [[Generalized Ammunition Technique]] to fire an object too durable to be destroyed with a [[Strength]] 5 feat of demolition, she can’t transform it. In the unlikely event she fires a nontrivial character, she can’t transform him either.
+Upon purchasing this Charm, the Sidereal chooses two of the transformations below. While using this Charm, she can invoke one of these transformations when she attacks by paying the listed cost.
+Boulder (8m; ### Decisive-only)
+The Sidereal’s arrow transforms into a boulder as she makes a decisive attack or distract gambit. The attack is unblockable. Each 10 on the attack roll adds one die of decisive damage, up to a maximum of the Sidereal’s attack roll extra successes. On a distract gambit, this damage is rolled if the gambit succeeds, ignoring Hardness. A damaged enemy is knocked prone and pinned beneath the boulder. He can’t rise from prone or take other movement actions while beneath it. It can be lifted with a difficulty 5 feat of strength that requires Strength 3 and can potentially be removed or destroyed in other ways.
+Fire (6m; ### Decisive-only)
+The Sidereal’s arrow transforms into a rain of fire as she makes a decisive attack or distract gambit. The attack is unblockable and destroys flammable cover. If the Sidereal deals 3+ damage or succeeds on a gambit, the rain of fire ignites a blaze. This environmental hazard has difficulty 5 and Damage 4L/ round, extends out to short range from where the attack was made, and burns for the rest of the scene.
+Glass (4m; ### Uniform)
+The Sidereal’s arrow turns into perfectly translucent glass as she makes a withering attack, decisive attack, or gambit. It becomes a surprise attack, inflicting −2 Defense. If she uses this transformation on the first round of combat against a lower-Initiative enemy, he rolls (Perception + Awareness) opposing her attack roll. If he fails, her attack becomes an ambush.
+Grain (5m; ### Special)
+A field of ripe wheat sprouts from where the Sidereal’s arrow falls. She makes a special (Intelligence + Archery) attack roll. The grain provides enough food to feed a group of people with one dot of effective Size (Exalted, p. 206) for every two successes, rounded up. This doesn’t count as her attack for the round. This transformation can only be used once per day.
+Life (5m, 1wp; ### Special)
+The Sidereal’s arrow transforms into a bolt of vital Essence. She makes a special (Intelligence + Archery) roll to align her arrow with the flows of her patient’s Essence. For every two successes, her patient heals one level of non-aggravated damage. This doesn’t count as her attack for the round. A character can only benefit from this transformation once per day.
+Snow (5m; ### Special)
+The Sidereal’s arrow becomes a flurry of snow. She makes a special (Intelligence + Archery) roll. The snowfall extends out to (Essence + successes) miles from where her arrow landed — any point within her weapon’s range — and lasts for a number of hours equal to her successes. The snow imposes a −1 penalty on vision-based rolls; after some time, piledup snow may become difficult terrain. This doesn’t count as her attack for the round. The Sidereal can only have one snowfall at a time with this Charm.
+The Sidereal can’t use this Charm to transform any object used as ammunition that couldn’t be destroyed with a Strength 5 feat of demolition (this typically involves Generalized Ammunition Technique). In the unlikely event she fires a nontrivial character, she can’t transform him either.
+The Sidereal may repurchase this Charm any number of times, gaining a new transformation for each purchase.
+These can include custom transformations of her own invention. Unlike Sidereal Charms, creating new transformations doesn’t require a Maiden’s involvement.
+Such is the Clay Maiden’s lesson of flexibility.
+
