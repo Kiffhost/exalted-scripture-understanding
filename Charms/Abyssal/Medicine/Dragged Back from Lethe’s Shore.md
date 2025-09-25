@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: —; 
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: —
 Mins: Medicine 5, Essence 5
 Type: Permanent
 Keywords:
-  - None
+- None
 Duration: Permanent
 Prerequisite Charms:
-  - "[[Death-Denying Primacy]]"
+- "[[Death-Denying Primacy]]"
 ---
 *Even as her patient lies on the brink of death, the Abyssal pulls him back to the suffering that is life.*
-Once per day, the Abyssal can use [[Empty Grave Reprieve]] on any [[Medicine]] roll to treat an ailment, including rolls for [[Charms]] like [[Flesh-Mending Discipline]].
+Once per day, the Abyssal can use Empty Grave Reprieve on any Medicine roll to treat an ailment, including rolls for Charms like Flesh-Mending Discipline.
+

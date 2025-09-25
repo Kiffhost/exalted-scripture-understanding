@@ -1,17 +1,18 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 1m; 
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 1m
 Mins: Socialize 3, Essence 1
 Type: Reflexive
 Keywords:
-  - Mute
+- Mute
 Duration: Instant
 Prerequisite Charms:
-  - None
+- None
 ---
 *Inscrutable as the mysteries beyond death’s door, the Abyssal defies comprehension.*
-The Abyssal gains +1 [[Guile]].
-With [[Essence]] 2, the Abyssal can pay a one-mote surcharge to gain +2 [[Guile]].
+The Abyssal gains +1 Guile.
+With Essence 2, the Abyssal can pay a one-mote surcharge to gain +2 Guile.
+

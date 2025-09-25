@@ -1,18 +1,19 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: —;
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: —
 Mins: Brawl 5, Essence 4
 Type: Reflexive
 Keywords:
-  - None
+- None
 Duration: Instant
 Prerequisite Charms:
-  - "[[Foe-Fed Abattoir]]"
+- "[[Foe-Fed Abattoir]]"
 ---
 *Exulting in rage and bloodlust, the Abyssal becomes an unstoppable force of violence.*
-The Abyssal invokes a free full [[Brawl]] Excellency.
-## Reset 
-Once per scene, unless reset by landing a decisive attack that resets the deathknight’s [[Initiative]] and then reaching [[Initiative]] 12+.
+The Abyssal invokes a free full Brawl Excellency.
+## Reset
+Once per scene, unless reset by landing a decisive attack that resets the deathknight’s Initiative and then reaching Initiative 12+.
+

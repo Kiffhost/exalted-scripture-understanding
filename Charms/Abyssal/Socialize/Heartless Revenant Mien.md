@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 4m; 
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 4m
 Mins: Socialize 5, Essence 2
 Type: Simple
 Keywords:
-  - None
+- None
 Duration: Indefinite
 Prerequisite Charms:
-  - "[[Void Mask Facade]]"
+- "[[Void Mask Facade]]"
 ---
 *The deathknight’s visage is as impassive as a corpse, betraying nothing.*
-The Abyssal gains +3 [[Guile]].
+The Abyssal gains +3 Guile.
+

@@ -1,6 +1,7 @@
 ---
 tags:
   - source/sidereal-book
+  - source/abyssal-book
 ---
 Resisting exposure to the Wyld is a (Wits + Integrity) roll; failure results in unwanted transformations that count as Flaws (Exalted, p. 167), addiction, or Derangements. The difficulty, consequences for failure, and frequency at which the roll must be made depend on the Wyld’s intensity. Certain ritual practices, meditative disciplines, and warding talismans may add bonus dice; accepting faerie hospitality may impose penalties. Once a character fails a roll against exposure, she doesn’t need to make rolls for that specific location again for the rest of the story. 
 Different Wyld locales have their own distinctive character. The mutations they inflict reflect this: a glacial ziggurat transforms people into living ice; a subterranean labyrinth twists those who pass through it into pale, elongated creatures; a forest of speaking beasts traps humans in animalistic forms.

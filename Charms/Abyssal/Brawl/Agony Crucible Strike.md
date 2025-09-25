@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 1m; 
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 2m
 Mins: Brawl 3, Essence 1
 Type: Supplemental
 Keywords:
-  - Dual
+- Dual
 Duration: Instant
 Prerequisite Charms:
-  - "[[Ravaging Torment Blow]]"
+- "[[Ravaging Torment Blow]]"
 ---
 *The Abyssal strikes with cruel precision, inflicting as much pain as possible.*
-If the Abyssal deals 5+ withering damage or any decisive damage with an attack, her victim’s wound penalty increases by one until the end of his next turn.
+The Abyssal adds an automatic success on an attack roll. If her target suffers a −1 or higher wound penalty, the success is non-Charm. If she deals 5+ withering damage or any decisive damage with an attack, her victim’s wound penalty increases by one until the end of her next turn.
+

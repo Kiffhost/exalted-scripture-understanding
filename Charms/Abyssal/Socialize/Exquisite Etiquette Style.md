@@ -1,17 +1,18 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 5m; 
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 5m
 Mins: Socialize 3, Essence 1
 Type: Reflexive
 Keywords:
-  - None
+- None
 Duration: One scene
 Prerequisite Charms:
-  - None
+- None
 ---
 *Death’s Lawgiver is welcome at the peasant’s hearth and the prince’s court alike.*
 The Abyssal intuitively understands the customs of whatever culture or society she finds herself in, negating penalties from unfamiliarity with them and ensuring she won’t inadvertently commit any major faux pas.
-Characters with positive [[Intimacy|Tie]]s toward the culture count as having a Minor [[Intimacy|Tie]] of respect or admiration towards the Abyssal. Characters with negative Ties towards foreigners or outsiders treat them as one step weaker with respect to the deathknight.
+Characters with positive Ties toward the culture count as having a Minor Tie of respect or admiration towards the Abyssal. Characters with negative Ties towards foreigners or outsiders treat them as one step weaker with respect to the deathknight.
+
