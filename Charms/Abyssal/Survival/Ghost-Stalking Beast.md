@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: —(+1m per familiar)
 Mins: Survival 4, Occult 1, Essence 2
 Type: Permanent

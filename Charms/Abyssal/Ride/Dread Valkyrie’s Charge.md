@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 1m
 Mins: Ride 5, Essence 3
 Type: Reflexive

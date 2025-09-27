@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 7m, 3i, 1wp
 Mins: Brawl 5, Essence 4
 Type: Simple

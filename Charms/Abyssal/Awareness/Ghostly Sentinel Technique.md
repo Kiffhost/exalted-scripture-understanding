@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 3m per wraith, 1wp
 Mins: Awareness 5, Essence 2
 Type: Simple

@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 3m (+3m per 3 range bands)
 Mins: Athletics 3, Essence 1
 Type: Reflexive

@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 3m or 3i per dot
 Mins: Athletics 3, Essence 1
 Type: Simple

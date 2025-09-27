@@ -3,9 +3,8 @@ tags:
   - charm
   - Sidereal
   - source/sidereal-book
-  - Martial-Arts
-Cost: 15m, 1wp
-Mins: Martial Arts 5, Essence 3
+Cost: 10m, 1wp
+Mins: Martial Arts 3, Essence 3
 Type: Simple
 Keywords:
   - Decisive-only
@@ -15,7 +14,10 @@ Prerequisite Charms:
   - "[[A Likeness of Absence]]"
 ---
 *Every choice creates the future that follows it — but sometimes, all choices lead to the same inevitable outcome.*
-The stylist makes ({lower of [[Essence]] or Perception} + 1) undodgeable decisive attacks against a single enemy, seeming to multiply into countless reflections that strike from every possible angle. Each attack has base damage ([[Perception]]); she divides her [[Initiative]] evenly among them, rounded up, to determine their total damage. Each ignores [[Hardness]] and [[Defense]] bonuses from full defenses and light or heavy cover. If there’s any possible angle from which an enemy behind full cover could be attacked, she can do so, though he receives +3 non-Charm [[Defense]]. The defend other action and similar effects can’t protect characters from this attack unless enhanced by magic capable of defending against unblockable and undodgeable attacks.
-Once all attacks are complete, the stylist appears anywhere she chooses within close range of her target as the reflections shatter into reflective black glass. This is a one-time environmental hazard with difficulty ([[Perception]]) and damage ([[Essence]], maximum 5) against all characters— friend or foe — within close range of her victim, except the stylist. 
-## Enlightenment
-Non-Excellency [[Charms]] need only have their cost paid once to apply to all attacks the stylist makes.
+The stylist seems to multiply into countless reflections that strike from every possible angle, making (Perception + 1) undodgeable decisive attacks against a single enemy. The stylist divides her Initiative evenly among the attacks, rounded up to determine their total damage, and ignores Hardness. If she has any bonus dots of Perception from this style’s Charms, she adds that many dice of damage on each attack.
+These attacks ignore Defense bonuses both from the full defense action and from cover. They can even bypass full cover if there’s any possible angle from which an enemy could be attacked, though he receives +3 non-Charm Defense against it. The defend other action and similar effects can’t protect characters from this attack unless they could protect against unblockable and undodgeable attacks.
+Once all attacks are complete, the stylist appears anywhere she chooses within close range of her target.
+This doesn’t count as her movement action for the round. Her reflections shatter into black glass, a onetime environmental hazard with difficulty (Perception) and damage (Essence, maximum 5) against all characters— friend or foe — within close range of her victim, except the stylist.
+### Enlightenment
+The stylist can direct her attacks against multiple foes instead of making them all against one enemy.
+

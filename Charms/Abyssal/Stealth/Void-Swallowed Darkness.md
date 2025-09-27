@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 2m per anima level
 Mins: Stealth 5, Essence 3
 Type: Reflexive

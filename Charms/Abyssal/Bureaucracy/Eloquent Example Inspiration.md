@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 10m, 1wp
 Mins: Bureaucracy 5, Essence 1
 Type: Simple

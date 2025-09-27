@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 3m, 1wp
 Mins: Larceny 5, Essence 2
 Type: Supplemental

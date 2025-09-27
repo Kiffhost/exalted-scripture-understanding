@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 4m, 1ahl
 Mins: Integrity 4, Essence 2
 Type: Reflexive

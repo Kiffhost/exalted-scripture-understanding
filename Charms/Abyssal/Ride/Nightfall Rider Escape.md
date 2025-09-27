@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 3m, 2i, 1wp
 Mins: Ride 4, Essence 2
 Type: Supplemental

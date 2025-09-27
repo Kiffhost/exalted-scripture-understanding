@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 6m
 Mins: Resistance 4, Essence 2
 Type: Simple
@@ -18,6 +18,6 @@ The Abyssal can use this Charm while bound with Iron Tomb Imprisonment to animat
 - She reduces the cost of grapple and disarm gambits with the chains by one Initiative, or two Initiative with heavy armor.
 - Dragging an enemy grappled with the chains only costs one round of control.
 - The chains harry enemies that try to disengage from her, letting her oppose their rolls with (Stamina + Resistance) and inflicting her armor’s base mobility penalty on their disengage rolls.
-If the Abyssal uses this Charm to enhance Wraith-Forged Plate (p. XX), the chains of darkness that emerge from her armor gain artifact traits (+3 ACC, +12 DMG, +1 DEF, OVW 4).
+If the Abyssal uses this Charm to enhance WraithForged Plate (p. XX), the chains of darkness that emerge from her armor gain artifact traits (+3 ACC, +12 DMG, +1 DEF, OVW 4).
 A Resistance 5 repurchase extends the chains’ range to medium.
 

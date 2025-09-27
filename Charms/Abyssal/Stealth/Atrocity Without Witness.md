@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 1wp or 2i
 Mins: Stealth 5, Essence 2
 Type: Reflexive

@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: —(1i from mount)
 Mins: Ride 3, Essence 1
 Type: Permanent

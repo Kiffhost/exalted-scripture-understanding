@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 12m, 1wp
 Mins: Investigation 5, Essence 5
 Type: Simple

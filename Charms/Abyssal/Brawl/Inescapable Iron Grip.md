@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 2m per round of control
 Mins: Brawl 3, Essence 1
 Type: Reflexive

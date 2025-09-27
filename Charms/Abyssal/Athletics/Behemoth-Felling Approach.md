@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 2m, 2i
 Mins: Athletics 3, Essence 1
 Type: Supplemental

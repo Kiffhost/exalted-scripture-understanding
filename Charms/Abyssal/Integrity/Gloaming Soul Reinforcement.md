@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 5m per 1wp
 Mins: Integrity 3, Essence 2
 Type: Reflexive

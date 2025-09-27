@@ -1,7 +1,7 @@
 ---
 tags:
 - charm
-- Sidereal
+- Abyssal
 - source/sidereal-book
 Cost: 3m or 6m, 1wp
 Mins: Awareness 3, Essence 1
@@ -19,6 +19,5 @@ counting a mass of soldiers at a glance, hearing at frequencies below human rang
 - She increases the range at which she can make out small details with the enhanced sense: 300 feet for vision or hearing, or (Essence x600) feet for scent. This range is increased for larger details at the Storyteller’s discretion.
 - She ignores up to one point of penalty on rolls with any Ability caused by external conditions that impede the enhanced sense, aiding in feats like seeing in total darkness, listening through stone walls, or scenting old trails.
 - With a stunt, she can use specialties in other Abilities on Awareness rolls using the enhanced sense This Charm lasts one scene for three motes or indefinitely for six motes, one Willpower.
-ABYSSAL AWARENESS VS. MULTIPLE FOES When the Abyssal uses the Awareness Excellency, she can pay a two-mote surcharge to extend its duration until her next turn, providing its bonus to all Awareness rolls she makes to detect hidden enemies. Some Awareness Charms specify that their duration can be extended this way. The Abyssal need only pay the two-mote surcharge once to extend the duration of all valid Charms she activates at the same time, including the Excellency.
-ABYSSALS: SWORN TO THE GRAVE EX3 166 The Abyssal can repurchase this Charm to select an additional set of senses. She must pay this Charm’s cost separately for each set she enhances but can enhance multiple sets of senses with a single activation.
+The Abyssal can repurchase this Charm to select an additional set of senses. She must pay this Charm’s cost separately for each set she enhances but can enhance multiple sets of senses with a single activation.
 

@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: —(+10m, 2wp)
 Mins: Survival 5, Essence 5
 Type: Permanent

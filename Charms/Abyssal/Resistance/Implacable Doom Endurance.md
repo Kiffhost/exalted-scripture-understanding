@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 1m per point of soak
 Mins: Resistance 2, Essence 1
 Type: Reflexive

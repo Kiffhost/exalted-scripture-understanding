@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 15m, 1wp per interval
 Mins: Lore 5, Essence 3
 Type: Simple

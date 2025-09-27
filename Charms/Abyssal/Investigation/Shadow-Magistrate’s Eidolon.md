@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: —(+4m or +9m)
 Mins: Investigation 5, Essence 3
 Type: Permanent

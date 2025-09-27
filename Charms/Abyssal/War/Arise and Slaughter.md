@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 8m, 1wp
 Mins: War 5, Essence 3
 Type: Supplemental

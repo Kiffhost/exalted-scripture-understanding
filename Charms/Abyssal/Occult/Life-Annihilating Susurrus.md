@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: —(+10m, 1wp)
 Mins: Occult 5, Essence 5
 Type: Permanent

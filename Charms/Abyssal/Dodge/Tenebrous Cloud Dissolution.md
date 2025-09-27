@@ -1,8 +1,8 @@
 ---
 tags:
 - charm
-- Sidereal
-- source/sidereal-book
+- Abyssal
+- source/abyssal-book
 Cost: 10m, 1wp (1i per turn)
 Mins: Dodge 5, Essence 3
 Type: Simple
