@@ -1,16 +1,17 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 3m, 1wp
 Mins: Martial Arts 1, Essence 3
 Type: Simple
 Keywords:
-- Enlightenment
+  - Enlightenment
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *Strumming the threads of fate, the stylist shakes loose curses and predictions.*
 The stylist attempts to undo a fate-altering Shaping effect on herself or another touched character. She and the character responsible for the effect make opposed (Intelligence + {Lore or Occult}) rolls. Against environmental effects and the like, the Storyteller sets a difficulty. If the stylist fails, she can’t reuse this Charm on that effect.

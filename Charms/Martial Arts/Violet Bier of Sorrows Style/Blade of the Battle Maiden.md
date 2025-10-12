@@ -1,8 +1,8 @@
 ---
 tags:
   - charm
-  - Sidereal
   - source/sidereal-book
+  - Martial-Arts
 Cost: 3m
 Mins: Martial Arts 3, Essence 1
 Type: Supplemental

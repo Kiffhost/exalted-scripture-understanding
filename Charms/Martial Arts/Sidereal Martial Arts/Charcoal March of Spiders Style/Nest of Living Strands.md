@@ -3,6 +3,7 @@ tags:
   - charm
   - Sidereal
   - source/sidereal-book
+  - Martial-Arts
 Cost: —(+1wp)
 Mins: Martial Arts 2, Essence 3
 Type: Permanent

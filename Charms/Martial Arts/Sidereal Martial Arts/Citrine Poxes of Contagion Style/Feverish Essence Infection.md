@@ -1,17 +1,18 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 10m, 1wp
 Mins: Martial Arts 1, Essence 3
 Type: Simple
 Keywords:
-- Decisive-only
-- Enlightenment
+  - Decisive-only
+  - Enlightenment
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *The martial artist has learned ten thousand subtle principles of infection and ten thousand ways in which each of them might be used.*
 Upon purchasing this Charm, the stylist chooses a supernatural disease — one of the diseases presented with this style, puppeteer’s plague (Exalted, p. 235), cracked mirror blight (Arms of the Chosen, p. 61), or others.

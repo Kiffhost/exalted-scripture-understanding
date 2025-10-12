@@ -1,16 +1,17 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 5m
 Mins: Martial Arts 1, Essence 3
 Type: Reflexive
 Keywords:
-- Mute
+  - Mute
 Duration: One scene
 Prerequisite Charms:
-- None
+  - None
 ---
 *The martial artist casts strands of fate from her sleeves or fingertips, spinning reality itself into hair-fine threads.*
 The stylist may create threads of Essence, with the following benefits

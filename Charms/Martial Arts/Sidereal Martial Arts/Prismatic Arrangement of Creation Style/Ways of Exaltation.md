@@ -1,16 +1,17 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 5m, 1wp
 Mins: Martial Arts 3, Essence 3
 Type: Simple
 Keywords:
-- Enlightenment
+  - Enlightenment
 Duration: Indefinite
 Prerequisite Charms:
-- None
+  - None
 ---
 *The martial artist strikes her throat, abdomen, spine, brow, and crown in a lightning-swift blur, altering the pattern of her Essence to conceal her Exaltation.*
 The stylist chooses an Exalt type she’s familiar with and a Caste or Aspect, causing her anima banner and Caste Mark to take on an appropriate appearance and mimicking effects like the anima flux of the DragonBlooded. If she uses native Charms with overtly supernatural effects, they change to resemble the mimicked Exalt type’s magic. Reaching bonfire anima doesn’t disrupt resplendent destinies of that Exalt type.

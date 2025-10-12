@@ -1,7 +1,6 @@
 ---
 tags:
   - charm
-  - Abyssal
   - source/abyssal-book
   - Martial-Arts
 Cost: 15m;

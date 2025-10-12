@@ -1,16 +1,17 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: —(2m or 4m)
 Mins: Martial Arts 1, Essence 3
 Type: Permanent
 Keywords:
-- Dual
+  - Dual
 Duration: Permanent
 Prerequisite Charms:
-- None
+  - None
 ---
 *The martial artist’s stance bends the flows of Essence around her, becoming a nexus through which the world’s breath flows.*
 Upon purchasing this Charm, the stylist chooses (Lore or Occult) hearthstones. She can reflexively manifest one of these hearthstones as a jewel upon her brow, committing two motes for a lesser hearthstone or four motes for a greater hearthstone. Doing so confers that hearthstone’s benefits as though it were socketed in an attuned artifact. Hearthstones that enhance weapons benefit the stylist’s unarmed attacks, while hearthstones that enhance armor apply to her natural soak.

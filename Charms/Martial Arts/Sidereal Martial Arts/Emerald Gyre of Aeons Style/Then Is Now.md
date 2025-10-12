@@ -1,17 +1,18 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 10m, 1wp
 Mins: Martial Arts 1, Essence 3
 Type: Simple
 Keywords:
-- Enlightenment
-- Shaping (Object)
+  - Enlightenment
+  - Shaping (Object)
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *All things revolve through eternity’s gyre, but the stylist has learned to spin back history.*
 The stylist rolls (Intelligence + Lore) to revert an object within medium range to a state it held in the past. She could repair a broken weapon, rewind a door to a time before it was locked, or return an ancient skeleton to a fresh corpse to determine its cause of death. She can’t affect objects that are too large to fit within a single range band. If the object is being held, worn, or used by someone, the stylist must touch him, using her Lore roll in place of the gambit’s attack roll.

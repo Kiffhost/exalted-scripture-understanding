@@ -1,17 +1,18 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 4m
 Mins: Martial Arts 1, Essence 3
 Type: Supplemental
 Keywords:
-- Dual
-- Stackable
+  - Dual
+  - Stackable
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *A halo of elemental power radiates from the stylist’s blow, her Essence embodying the rarefied substance of Creation.*
 The stylist’s attack gains one of the following benefits:

@@ -1,17 +1,18 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 5m, 1wp
 Mins: Martial Arts 1, Essence 3
 Type: Reflexive
 Keywords:
-- Decisive-only
-- Enlightenment
+  - Decisive-only
+  - Enlightenment
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *Perception is inextricable from reality; space and time are illusions obscuring the truth.*
 The stylist can use this Charm on her turn to reveal that a character within medium range of her has actually been somewhere within short range of his apparent location all along. Any appearances to the contrary were but a trick of perspective. This can move characters into environmental hazards and other disadvantageous terrain, but it must leave them with a place to stand — the stylist can’t move them off a cliff, for instance.

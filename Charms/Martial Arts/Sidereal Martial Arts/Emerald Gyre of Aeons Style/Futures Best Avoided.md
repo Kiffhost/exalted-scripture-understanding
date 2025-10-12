@@ -1,17 +1,18 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 5m, 2i, 1wp
 Mins: Martial Arts 2, Essence 3
 Type: Reflexive
 Keywords:
-- Clash
-- Perilous
+  - Clash
+  - Perilous
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *Winding her mind through eternity’s gyre, the stylist remembers that which is yet to come.* 
 The stylist can use this Charm when she would be disadvantaged due to a surprising event or something she hasn’t noticed: facing a surprise attack, failing an Awareness roll to notice a trap, a thief sneaking past her bedchamber while she’s asleep, etc. It can be used against ambushes, though this doesn’t let the stylist use any other Charms or effects to enhance the roll. She rolls (Intelligence + Lore) against an enemy’s roll or a peril’s difficulty, adding a free full Excellency. Against attacks, this counts as a clash. If successful, she foresees — or rather, remembers — this eventuality in time to defend against it, as though she hadn’t been caught unaware.

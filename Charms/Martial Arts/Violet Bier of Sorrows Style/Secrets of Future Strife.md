@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - source/sidereal-book
+  - Martial-Arts
 Cost: 5m
 Mins: Martial Arts 3, Essence 1
 Type: Reflexive
 Keywords:
-- Mastery
+  - Mastery
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *The martial artist has resigned herself to never knowing when she might meet her death. Her unhesitating action chills the blood of those who still cling to survival.*
 The stylist adds (higher of Essence or 3) to her effective Initiative to determine when she takes her turn. If she takes her turn before any enemy does, all enemies increase their wound penalty by one for that round.
