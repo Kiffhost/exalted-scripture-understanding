@@ -1,18 +1,19 @@
 ---
 tags:
-  - necromancy
-  - source/abyssal-book
-Cost: 9nm, 1wp
+- necromancy
+- source/abyssal-book
+Cost: 10nm, 1wp
 Keywords:
-  - Perilous
+- Perilous
 Duration: One scene
 ---
 *Following the utterance of impossible syllables, the earth ruptures around the necromancer into a whirlwind of shattered bones and ribbons of rotten flesh.*
-The whirlwind provides light cover against attacks on the necromancer and any allies within close range.
-Enemies attempting to attack the necromancer from close range must dodge the lethal fragments of flesh and bone whirling through the air, a one-time environmental hazard with difficulty 3, Damage 2L.
-The storm gathers the flesh and bone of the dead that lies in the necromancer’s path, tearing them to pieces and adding to its mass. More than a dozen corpses intensify the whirlwind into a deadlier hurricane: it provides heavy cover against ranged attacks and increases both the difficulty and the damage of the environmental hazard by the ([[Size]]) of the corpses fed into it, up to a maximum of difficulty 5, Damage 7L. The hurricane grows faster as it’s fed, obscuring the necromancer from sight and inflicting a −2 penalty on [[Perception]]-based rolls to locate her amidst the chaos.
+The necromancer creates a gruesome whirlwind, providing light cover to her and to any allies within close range. Enemies who attack the necromancer from close range are assailed by whirling fragments of flesh and bone, a onetime environmental hazard with difficulty 3, Damage 2L.
+The storm gathers dead flesh and bone in the necromancer’s path, tearing apart any corpses within close range of her to pieces and adding to its mass. Once the effective Size of the consumed corpses reach 1 (Exalted, p. 206), the cover increases to heavy. This also inflicts a −3 penalty on vision-based Awareness rolls against anything within close range of her. The consumed corpse’s Size is also added to the hazard’s difficulty and damage, maximum difficulty 5, Damage 7L.
 This spell ends if the necromancer is crashed or incapacitated.
 ## Control
-As a miscellaneous action, the necromancer may tear nearby corpses into piles of gore with a wave of her hand, compacting them into crude and dense structures within short range. Corpse-barriers provide medium cover and require a [[Strength]] 3+ feat of demolition at difficulty 3 to break through when made into an obstacle. Gore carries an unusual appeal to the necromancer, drawing her to inspect viscera whenever she chances upon it.
+Gore carries an unusual appeal to the necromancer, drawing her to inspect viscera whenever she chances upon it. As a miscellaneous action, the necromancer may mutilate and compress corpses within short range with a wave of her hand, compacting them into crude structures of rotting flesh in a burst of gore.
+These corpse-barriers provide light cover. They can be destroyed with a Strength 3+ feat of demolition at difficulty 3.
 ## Distortion (10)
-Distortion prevents the whirlwind from intensifying into a hurricane or weakens it if it already has.
+Distortion strips away the flesh from any corpses the storm’s absorbed, removing their benefits and preventing the storm from absorbing any further corpses.
+

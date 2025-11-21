@@ -5,7 +5,9 @@ tags: []
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
- 
+
+- [ ] Add miracles of the Divine Flame
+
 - [ ] Split armor and weapon Type text into Traits list?
 - [ ] Merits / Abilities
 	- [ ] Animal/bestiary
@@ -34,21 +36,22 @@ Very next steps, each completable within 1 day - 1 week
 # Medium Term
 
 Overarching goals, completable within 1 month
-- [ ] Regenerate Sidereal charms from the finished book
-- [ ] Regenerate Abyssal charms from the finished book
+- [x] Regenerate Sidereal charms from the finished book
+- [x] Regenerate Abyssal charms from the finished book
+	- [ ] Regenerate necromancies
 - [ ] Convert some headings (Mastery, Reset) into yaml properties as appropriate
 - [ ] Make a charms available in foundry
 	- [x] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
 	- *Direct script to import rather than JSON*
 	- [ ] Make txt importers for each full charmset
 - [ ] Put all collected sidebars into appropriate rules
-- [ ] Bestiary?
-	- [ ] Inhuman Charms
-- [x] In-text cross-links
+- [ ] In-text cross-links
+	- [ ] With [[To Linky]] and [[Universal Links]]
 - [ ] Charm-set summaries/guides
 - [ ] Mon svg/png
 	- [ ] Five Dragons
 	- [ ] Great Houses
+## Request only
 - [ ] Add Exigents per request
 	- [ ] Strawmaiden Janest
 	- [ ] The Puppeteer

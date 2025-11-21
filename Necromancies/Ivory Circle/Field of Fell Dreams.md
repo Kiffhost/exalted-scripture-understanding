@@ -1,15 +1,18 @@
 ---
 tags:
-  - necromancy
-  - source/abyssal-book
-Cost: 11nm, 1wp
+- necromancy
+- source/abyssal-book
+Cost: 10nm, 1wp
 Keywords:
-  - None
+- None
 Duration: Instant
 ---
 *The necromancer channels the heat of a thousand decaying dead into the ground, burning a brand into the earth to call forth countless grasping skeletal hands.*
-The area out to medium range around the necromancer becomes a field of grasping skeletal hands, treated as difficult terrain for all but the necromancer and her allies. The field is an environmental hazard with difficulty ([[Intelligence]]), Damage 1B/round. Damaged enemies fall prone. The difficulty to rise from prone increases by (1 + target’s wound penalty) as the frenzied hands tear at him. The grasping hands disappear at the scene’s end, leaving only churned earth behind.
+The area out to medium range around the necromancer becomes a field of grasping skeletal hands for the rest of the scene. This is both difficult terrain and an environmental hazard with difficulty (Intelligence), Damage 1B/round. Damaged enemies fall prone. Prone characters within the field must always roll to rise as the frenzied hands grasp at them and suffer a −3 penalty on rolls to do so.
+The necromancer and her allies aren’t affected by the field.
 ## Control
-The necromancer may extend the spell’s duration from one scene to until the next sunrise. She may delay the appearance of the field after the spell has been cast. She can prepare it to capture her enemies beforehand, luring them into it before activating the spell. Wherever the sorcerer has prepared the spell, a brand shaped like her hand appears burned into the earth. Additionally, skeletal hands occasionally emerge from nearby surfaces or from within her attire to serve the necromancer.
+The necromancer may raise a field that lasts until the next sunrise. She can also delay the field’s manifestation, branding her handprint into the earth.
+It can be unleashed reflexively if she’s within medium range of the brand and can also be set to trigger if one of the living enters the area. At times, skeletal hands emerge from nearby surfaces or within the necromancer’s attire to aid in simple tasks.
 ## Distortion (10)
-Distortion weakens the spell’s grip, allowing the distorting necromancer to ignore the difficult terrain. Anyone restrained by the spell is freed upon successful distortion.
+The distorting spellcaster is immune to the field’s effects. Its grasp momentarily weakens, suppressing its effect on prone characters until the start of the distorting character’s next turn.
+

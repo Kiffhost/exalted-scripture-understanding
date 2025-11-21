@@ -15,8 +15,7 @@ Prerequisite Charms:
 ---
 *The martial artist howls with bestial fury, muscles twisting and eyes shining with baleful light as she embodies the hungry ghost she will one day become.*
 The stylist gains the following benefits
-- Her lower soul swells with monstrous power.
-Intimacies based on primal emotions count as one step higher. Defining Intimacies instead add +1 to their Resolve bonus and to their effective value in calculations for Hungry Ghost Charms like Shrouded Claw Attack.
+- Her lower soul swells with monstrous power. Intimacies based on primal emotions count as one step higher. Defining Intimacies instead add +1 to their Resolve bonus and to their effective value in calculations for Hungry Ghost Charms like Shrouded Claw Attack.
 - She gains the Hideous Merit. If she already has it, she adds (Essence) non-Charm dice on threaten rolls.
 - She doubles up to (Essence) 10s on decisive damage rolls. If she flurried the attack with a rush, this can double 9s as well.
 - She adds (higher of Essence or 3) soak.
