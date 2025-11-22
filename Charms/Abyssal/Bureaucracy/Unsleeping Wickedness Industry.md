@@ -1,18 +1,20 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: —; 
+- charm
+- Abyssal
+- source/abyssal-book
+Cost: —
 Mins: Bureaucracy 5, Essence 3
 Type: Simple
 Keywords:
-  - None
+- None
 Duration: Instant
 Prerequisite Charms:
-  - "[[Rotting Palace Proclamation]]"
+- "[[Accursed Overlord Authority]]"
+- "[[Rotting Palace Proclamation]]"
 ---
 *Unmatched in her foreplanning, the Abyssal relies on her servants to fulfill her will at the moment when it matters most.*
-As the Abyssal spends a scene tending to the business of an organization she leads or otherwise engaging with the group, her player retroactively reveals that an organization led by her has completed a project off-scene (Exalted, 226). As usual, the project must be feasible to the organization’s nature and resources. For example, a trade consortium could corner a market, organize a caravan with a mercenary escort, or arrange a large loan, but would struggle to revise laws, repair a city’s walls, or raise a militia.
-## Reset 
+As the Abyssal spends a scene engaging with the business or members of an organization she leads, her player retroactively reveals a project that the organization’s completed (Exalted, 226). The project must be feasible to the organization’s nature and resources. For example, a trade consortium could corner a market or organize a caravan with a mercenary escort but would struggle to enact laws or repair a city’s infrastructure.
+## Reset
 Once per story.
+

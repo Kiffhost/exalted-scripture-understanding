@@ -4,18 +4,19 @@ tags:
   - Sidereal
   - source/sidereal-book
   - Martial-Arts
-Cost: 5m (+1wp)
-Mins: Martial Arts 4, Essence 3
-Type: Reflexive
+Cost: 5m, 1wp (1wp)
+Mins: Martial Arts 3, Essence 3
+Type: Simple
 Keywords:
   - Enlightenment
-  - Mute
   - Perilous
-Duration: Until next turn
+Duration: One scene
 Prerequisite Charms:
   - "[[Rain of Unseen Threads]]"
 ---
 *The martial artist scurries along the strands of fate like a pattern spider, moving with disturbingly inhuman grace.*
-The stylist can stand on thin air, finding footholds in the weave of fate, and can move vertically by running upward. Any movement action rolls she makes also count as threaten rolls against all enemies and bystanders — the way she moves is wrong, not how human limbs should move. Affected enemies flee the stylist or otherwise seek safety. 
-## Enlightenment
-When the stylist uses this Charm, she may pay a one-[[Willpower]] surcharge to dematerialize for its duration, becoming unable to interact with the material world or be harmed by it without the use of magic.
+The stylist can stand on thin air, finding footholds in the weave of fate, and can move vertically by running upward. Successful movement rolls she makes also count as threaten rolls against all enemies and bystanders — the way she moves is wrong, not at all how human limbs should move. Affected enemies flee the stylist or otherwise seek safety.
+This Charm ends if the stylist is crashed. She glides gracefully downward, taking no falling damage.
+### Enlightenment
+The stylist can pay one Willpower reflexively on her turn to dematerialize until her next turn. While dematerialized, she’s unable to physically interact with the material world and can’t be perceived by material characters without the use of magic.
+

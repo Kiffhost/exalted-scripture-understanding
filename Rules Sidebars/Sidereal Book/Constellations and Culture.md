@@ -1,7 +1,6 @@
 ---
 tags:
   - source/sidereal-book
-  - source/Sidereal-Book
 ---
 The constellations of Sidereal astrology aren’t universal throughout Creation, though they are well-known. Those portions of the Immaculate Texts that address astrology describe these constellations, as do other traditions and cultures with roots in the First Age. However, the Sidereals’ understanding of the constellations isn’t always borne out in a culture’s practice and beliefs. Some use the stars to determine auspicious times to embark on certain endeavors, while others look to them for harbingers of peril. The Immaculate [[Order]] scrutinizes the placement of the Captain on the birth charts of prospective candidates to become the next Mouth of Peace.
 

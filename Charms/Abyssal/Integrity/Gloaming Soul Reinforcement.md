@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 5m per 1wp; 
+- charm
+- Abyssal
+- source/abyssal-book
+Cost: 5m per 1wp
 Mins: Integrity 3, Essence 2
 Type: Reflexive
 Keywords:
-  - None
+- None
 Duration: Instant
 Prerequisite Charms:
-  - "[[Lesser Horrors Scorned]]"
+- "[[Lesser Horrors Scorned]]"
 ---
 *Confronted by despair or temptation, the deathknight draws from unknown depths to steel her mind.*
-The Abyssal can spend motes instead of [[Willpower]] to resist social influence or other mind-affecting magic, paying five motes per [[Willpower]].
+The Abyssal can spend motes instead of Willpower to resist social influence or other mind-affecting magic, paying five motes per Willpower.
+

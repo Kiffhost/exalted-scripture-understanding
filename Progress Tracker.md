@@ -5,7 +5,9 @@ tags: []
 # Short Term
 
 Very next steps, each completable within 1 day - 1 week
- 
+
+- [ ] Add miracles of the Divine Flame
+
 - [ ] Split armor and weapon Type text into Traits list?
 - [ ] Merits / Abilities
 	- [ ] Animal/bestiary
@@ -26,7 +28,7 @@ Very next steps, each completable within 1 day - 1 week
 		- [x] Sidereal Stuff
 		- [ ] Dragon-Blooded Stuff
 		- [x] Abyssal Stuff
-		- [ ] Exigent Charm Creation
+		- [ ] Exigent Charmset Creation
 	- [x] [[Mortal]] Exaltation
 
 
@@ -34,21 +36,30 @@ Very next steps, each completable within 1 day - 1 week
 # Medium Term
 
 Overarching goals, completable within 1 month
+- [x] Regenerate Sidereal charms from the finished book
+- [x] Regenerate Abyssal charms from the finished book
+	- [ ] Regenerate necromancies
 - [ ] Convert some headings (Mastery, Reset) into yaml properties as appropriate
+- [ ] Make a charms available in foundry
+	- [x] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
+	- *Direct script to import rather than JSON*
+	- [ ] Make txt importers for each full charmset
 - [ ] Put all collected sidebars into appropriate rules
-- [ ] Bestiary?
-	- [ ] Inhuman Charms
-- [x] In-text cross-links
+- [ ] In-text cross-links
+	- [ ] With [[To Linky]] and [[Universal Links]]
 - [ ] Charm-set summaries/guides
-- [ ] Charm Trees
-	- [x] Solar
-	- [x] Dragon-Blooded
-	- [ ] Lunar
-	- [ ] Sidereal
-	- [x] Martial Arts
 - [ ] Mon svg/png
 	- [ ] Five Dragons
 	- [ ] Great Houses
+## Request only
+- [ ] Add Exigents per request
+	- [ ] Strawmaiden Janest
+	- [ ] The Puppeteer
+	- [ ] The Architects
+	- [ ] The Sovereigns of Uluiru
+	- [ ] Dream-Souled
+	- [ ] Hearteaters
+	- [ ] Umbral
 - [ ] Add Alchemicals
 	- [ ] Charms
 		- [ ] Martial arts
@@ -70,12 +81,6 @@ Possible large-scale project outcomes which will take more than 1 month.
 		- [ ] Gods
 	- [ ] Factions
 	- [ ] Historical Events
-- [ ] Make a charms available in foundry
-	- [x] Test suitability of Foundry [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3) importer.
-	- *Direct script to import rather than JSON*
-	- [ ] Make txt importers for each full charmset
-- [ ] Make a foundry module to access compendia
-	- [ ] Compatible with [Exalted 3rd by Aliharu](https://github.com/Aliharu/Foundry-Ex3)
 # Completed
 
 - [x] Import Charms

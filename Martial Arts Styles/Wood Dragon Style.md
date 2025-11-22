@@ -10,4 +10,4 @@ Wood Dragon unarmed attacks are precise finger jabs targeting pressure points an
 ## Armour
 This style is compatible with light armor. 
 ## Complementary Abilities
-[[Occult]] is necessary to battle spirits, while [[Performance]] is used to distract and misdirect. Wood Drago
+[[Occult]] is necessary to battle spirits, while [[Performance]] is used to distract and misdirect.

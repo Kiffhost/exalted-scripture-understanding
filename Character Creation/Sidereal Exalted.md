@@ -20,7 +20,7 @@ Optionally, choose two [[Constellations]], one as your birth sign, and one (asso
 
 Each caste has 5 **Caste Abilities** associated with it: (ctrl+hover to preview)
 [[Chosen of Journeys#Caste Abilities|Journeys]] [[Chosen of Serenity#Caste Abilities|Serenity]] [[Chosen of Battles#Caste Abilities|Battles]] [[Chosen of Secrets#Caste Abilities|Secrets]] [[Chosen of Endings#Caste Abilities|Endings]]
-All Sidereals consider Martial Arts as a Caste ability.
+All Sidereals consider [[Martial Arts]] as a Caste ability.
 
 Select 5 **Favoured** **Abilities**.
 <details>
@@ -66,7 +66,7 @@ Create at least four [[Intimacy|Intimacies]].
 
 # Limit Trigger
 
-Choose a [[Limit Trigger#Sidereals|Limit Trigger]] and a [[Limit Break#Sidereal|Celestial Hubris]].
+Choose a [[Limit Trigger#Sidereal|Limit Trigger]] and a [[Limit Break#Sidereal|Celestial Hubris]].
 
 # Bonus Points
 

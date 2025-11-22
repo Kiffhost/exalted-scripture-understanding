@@ -1,17 +1,21 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 5m
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 2m
 Mins: Archery 2, Essence 1
 Type: Supplemental
 Keywords:
-  - Decisive-only
-  - Versatile
+- Decisive-only
+- Versatile
 Duration: Instant
 Prerequisite Charms:
-  - None
+- None
 ---
 *The Sidereal’s feint exposes the weaknesses of an enemy’s defense.*
-A successful distract gambit inflicts a penalty equal to the enemy’s soak and [[Hardness]] equal to the [[Initiative]] transferred. This lasts until the end of the gambit beneficiary’s next turn. If this reduction exceeds either his soak or [[Hardness]], he suffers dice of unspeakable withering damage equal to the total difference. This damage awards [[Initiative]] to the gambit’s beneficiary, separate from the gambit’s bonus.
+A successful distract gambit inflicts a penalty on its target’s soak equal to the Initiative transferred. The penalty lasts until the end of the beneficiary’s next turn.
+If the penalty exceeds the enemy’s total soak, he suffers dice of unsoakable withering damage equal to the difference. Initiative from this damage is awarded to the gambit’s beneficiary, not the Sidereal.
+The gambit’s beneficiary can apply its benefits on a withering attack rather than a decisive one. Doing so converts each point of Initiative granted by the gambit to a die of post-soak damage.
+With an Archery 5, Essence 3 repurchase, the Sidereal may pay a one-mote, one-Willpower surcharge to extend the soak penalty’s duration to one scene.
+

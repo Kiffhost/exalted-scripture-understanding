@@ -1,7 +1,6 @@
 ---
 tags:
   - source/sidereal-book
-  - source/Sidereal-Book
 ---
 Several Sidereal [[Charms]] have unorthodox effects for their Ability. You may want to consider taking certain Abilities at character creation in addition to the usual Abilities. 
 **Combat**: [[Medicine]], [[Performance]], [[Presence]]. 

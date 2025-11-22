@@ -1,16 +1,18 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 2m
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 4m
 Mins: Occult 1, Essence 1
 Type: Reflexive
 Keywords:
-  - None
-Duration: Until next turn
+- Mute
+Duration: One scene
 Prerequisite Charms:
-  - None
+- None
 ---
-*The Sidereal’s Caste Mark shines as a symbol of her authority over spirits, illuminating the unseen world.*
-Dematerialized characters within short range of the Sidereal become visible to her and any other characters she wishes to extend this benefit to. She can focus this light on a dematerialized character within long range as a miscellaneous action, rolling ([[Perception]] + [[Occult]]) against his [[Defense|Evasion]] to render him visible. Spirits can always see the light shed by the Sidereal’s Caste Mark, letting the knowledgeable roll to recognize its use (p. XX).
+*The Sidereal’s Caste Mark shines with spiritual light, a symbol of her authority over spirits that illuminates the unseen world.*
+The Sidereal can perceive dematerialized characters.
+Spirits — both materialized and dematerialized — can see the Sidereal’s Caste Mark as if her anima were at glowing or higher. This display is sufficient for knowledgeable spirits to roll to recognize this Charm’s use.
+

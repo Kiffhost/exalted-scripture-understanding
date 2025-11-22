@@ -2,8 +2,8 @@ filters:
   and:
     - file.hasTag("charm")
     - and:
-        - Mins.startsWith("Craft")
-    - file.path.startsWith("Charms/Dragon")
+        - Mins.startsWith("Stea")
+    - file.path.startsWith("Charms/Sidereal")
 views:
   - type: table
     name: Table
@@ -16,14 +16,17 @@ views:
     sort:
       - property: Mins
         direction: ASC
-      - property: Cost
-        direction: ASC
       - property: Prerequisite Charms
         direction: DESC
+      - property: Keywords
+        direction: ASC
       - property: file.size
         direction: ASC
+      - property: Cost
+        direction: DESC
     columnSize:
-      note.Mins: 135
+      file.name: 241
+      note.Mins: 215
       note.Prerequisite Charms: 322
       note.Cost: 229
   - type: cards

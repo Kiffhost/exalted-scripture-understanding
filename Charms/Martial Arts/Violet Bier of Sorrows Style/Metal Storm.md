@@ -14,6 +14,11 @@ Prerequisite Charms:
   - "[[Life-Severing Blow]]"
 ---
 *The martial artist strikes everywhere at once, leaving her victim nowhere to flee.*
-To use this Charm, the stylist must have [[Initiative]] 15+. She makes undodgeable decisive attacks against an enemy until she misses or has made ([[Essence]] + his wound penalty) attacks. She doesn’t roll damage until she’s finished making attacks; each has a base damage of (enemy’s wound penalty), and she divides her [[Initiative]] evenly among them, rounded up. 
-## Terrestrial
-The stylist can’t make more than (enemy’s wound penalty + 1) attacks. She rounds down when dividing [[Initiative]] among them.
+To use this Charm, the stylist must have Initiative 12+ and be within range to attack an enemy who has at least a −2 wound penalty. She gains Initiative equal to his wound penalty, maximum (lower of her Essence or 5). She then makes a decisive attack against him for each point of Initiative gained. If he has at least a −4 wound penalty, the attacks are undodgeable.
+Successful attacks don’t reset the stylist’s Initiative.
+Instead, after each attack, she loses Initiative equal to its damage roll’s successes, to a minimum of her base Initiative. Once all attacks have been completed, her Initiative resets as long as any of them hit.
+### Terrestrial
+The stylist can’t gain more than (lower of Essence or 3) Initiative or make more than that many attacks.
+## Reset
+Once per scene.
+

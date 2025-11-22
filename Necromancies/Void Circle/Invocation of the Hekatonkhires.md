@@ -1,17 +1,20 @@
 ---
 tags:
-  - necromancy
-  - source/abyssal-book
-Cost: Ritual, 3wp
+- necromancy
+- source/abyssal-book
+Cost: Ritual, 4wp
 Keywords:
-  - Necromantic
+- None
 Duration: Instant
 ---
-*Untold monstrosities of unique nature and power haunt the Underworld, and necromancers of the supreme exponent may summon and bind them into service through rites just as strange and varied.*
-This spell represents any of a number of rites meant to conjure one of the Underworld’s undead behemoths — living mountains of gore, the ghosts of dead cities and concepts, tattered soul-husks from the Neverborn, and countless others. They’re typically comparable to Third Circle demons in raw power, making them either terrifying combatants or invaluable allies with unique magic. Each must be summoned by its own unique rite, so this spell must be purchased once for each behemoth, though purchases past the first only cost three experience.
-In general, each rite requires three hours of intense effort, and ends by pitting the necromancer’s ([[Intelligence]] + [[Occult]] roll) against the behemoth’s (higher of [[Resolve]] or [[Essence]]). On success, the behemoth is bound to serve faithfully for (necromancer’s [[Essence]]) months, and gaining an inviolate Defining Tie of loyalty to the summoner. On failure, the behemoth may demand one serious task (Exalted, p. 216) in exchange for its service; if the necromancer accepts, she is bound to follow through as if by an [[Eclipse]] oath (Exalted, p. 176) and the behemoth gains only an Major Tie of loyalty.
-Roll of the Unhallowed Mythos Elnuet-that-Was (p. XX) is provided as a ready-made example of a behemoth that a necromancer may bind with this spell.
-Storytellers and players wishing to develop their own behemoths might consider the following seeds:
-Umaza (p. XX), a vast leviathan whose hymns lure the living to certain death or necromantic enlightenment.
-Mourning Scour is the vague outline of a maiden in a crystal casket; she knows the regrets of anyone she looks upon, and can cry tears of saltwater, arsenic, or blood sufficient to befoul almost any body of standing water.
-Lamvinult, Whose Mien Is Meat, infects the skin of all it touches so it sloughs off to reveal the still-living muscle beneath, and can transform into anyone its plague has afflicted.
+*Forging the Old Laws into unbreakable chains, the necromancer draws forth one of the ancient horrors of the Underworld to pact with her and serve her will.*
+This spell conjures forth one of the Underworld’s behemoths after a grueling twelve-hour ritual conducted in a place touched by death, anchoring the behemoth to the necromancer’s soul. It cannot harm her or her allies and gains an inviolate Major Tie of deference to the necromancer, serving for (necromancer’s Essence) weeks before returning to the Underworld. It performs inconvenient tasks at her request but may demand a suitable prize or pact for serious or life-changing tasks (Exalted, p. 216). Promises that either party makes under the auspices of this spell are sanctified by the same power as a Moonshadow Caste’s Keeper of the Old Laws power (p. XX). Common boons they request include
+- A minor sacrifice (p. XX) in its honor, especially one befitting their nature.
+- A Major Stigmata (p. XX), which it inflicts on the necromancer, marking her with a bit of its mien and nature.
+- Promises to support it in pursuing its ghostly passions.
+The necromancer may seize hold of the bindings created by this spell to compel the behemoth to act on her commands without making a bargain, but doing so is difficult. While meditating, she rolls (Intelligence + Occult) against the higher of the behemoth’s Essence or Resolve. Success lets her pay one Willpower to possess the behemoth from any distance, commanding it as she might her own body. Compelling actions that would violate one of the behemoth’s Minor or Major Intimacies requires another roll against its Resolve.
+The necromancer can’t force it to take actions that would violate a Defining Intimacy. She may control the behemoth for as long as she meditates. The behemoth cannot form or strengthen negative Ties towards the necromancer until it is released from the spell.
+A necromancer cannot summon more than one behemoth at a time through this spell.
+## Control
+The necromancer may commune with her behemoth as long as they are both within the same realm of existence, meditating to share its senses without needing to roll or spend Willpower to possess it. She senses the presence of Underworld behemoths within (Essence x10) miles, contesting stealth with (Perception + Occult), and gains (Essence) non-Charm dice to read intentions and profile character actions against them. When she binds a behemoth with this spell, she always takes a Major Stigmata, reflecting its nature as she opens her soul to it more fully than other necromancers.
+

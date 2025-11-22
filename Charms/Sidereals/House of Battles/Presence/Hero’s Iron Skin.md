@@ -1,17 +1,18 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
-Cost: 2m or 4m
-Mins: Presence 4, Essence 2
+- charm
+- Sidereal
+- source/sidereal-book
+Cost: 4m
+Mins: Presence 2, Essence 1
 Type: Reflexive
 Keywords:
-  - Dual
-  - Perilous
+- Withering-only
 Duration: Instant
 Prerequisite Charms:
-  - "[[Shield of Mars]]"
+- None
 ---
-*Ecstatic in battle, the Sidereal welcomes the blows of her enemies and denies them their power thereby.*
-The Sidereal can use this Charm after being hit by an attack but before the damage roll, inflicting +1 target number. This costs two motes against withering damage and four motes against decisive damage. With a [[Presence]] 5, [[Essence]] 3 repurchase, if the Sidereal’s unarmored, she may pay a one-Willpower surcharge to inflict +2 target number.
+*Ecstatic in battle, the Sidereal welcomes the blows of her enemies and denies them power thereby.*
+The Sidereal adds (Charisma) soak against a withering attack. If her attacker’s Initiative is lower than hers or if she’s successfully influenced him with a threaten action this scene, the bonus increases to (Charisma + 2).
+If the Sidereal is unarmored, she can use this Charm after being hit by an attack, but before the damage roll.
+

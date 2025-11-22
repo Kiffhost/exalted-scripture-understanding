@@ -1,17 +1,18 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: 2m; 
+- charm
+- Abyssal
+- source/abyssal-book
+Cost: 2m
 Mins: Melee 1, Essence 1
 Type: Reflexive
 Keywords:
-  - Uniform
+- Uniform
 Duration: Instant
 Prerequisite Charms:
-  - None
+- None
 ---
 *The Abyssal strikes aside her enemy’s blow with contemptuous disregard.*
-The Abyssal ignores all penalties to her [[Defense|Parry]] other than those inflicted by surprise attacks. If she successfully blocks an attack, her attacker loses one [[Initiative]].
-While using [[Eye of the Tempest]], this Charm cost is reduced by one mote, and it adds +1 [[Defense|Parry]].
+The Abyssal ignores all penalties to her Parry other than those inflicted by surprise attacks. If she successfully blocks an attack, her attacker loses one Initiative.
+While using Eye of the Tempest (p. XX), this Charm cost is reduced by one mote, and it adds +1 Parry.
+

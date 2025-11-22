@@ -1,17 +1,17 @@
 ---
 tags:
-  - charm
-  - Abyssal
-  - source/abyssal-book
-Cost: —;
+- charm
+- Abyssal
+- source/abyssal-book
+Cost: —
 Mins: Lore 5, Essence 3
 Type: Permanent
 Keywords:
-  - None
+- None
 Duration: Permanent
 Prerequisite Charms:
-  - "[[Charms/Abyssal/Lore/Essence-Draining Touch|Essence-Draining Touch]]"
-  - x3
+- Essence-Draining Touch x3
 ---
 *The Abyssal finds solace in the awful truths of the world, for such horrors will one day fall by her hand.*
-When the Abyssal makes a [[Lore]] roll, she gains one mote for each 10. If an effect lets her succeed automatically, she can still make the roll for the purpose of gaining motes.
+When the Abyssal makes a Lore roll, she gains one mote for each 10. If an effect lets her succeed automatically, she can still make the roll for the purpose of gaining motes.
+

@@ -14,6 +14,8 @@ Prerequisite Charms:
   - "[[Secrets of Future Strife]]"
 ---
 *The martial artist brings the battle to a close with grim solemnity, dispatching foes to their appointed ends.*
-The stylist’s attack adds (1 + enemy’s wound penalty) dice of post-soak withering damage or decisive damage. 
-## Mastery
-If the stylist’s attack increases her enemy’s wound penalty, she rolls an additional die of damage for each point his penalty increases.
+The stylist’s attack adds (1 + enemy’s wound penalty) dice of post-soak withering or decisive damage. The damage bonus can’t exceed the stylist’s (Strength).
+### Mastery
+If a decisive damage roll increases its target’s wound penalty, he suffers additional dice of decisive damage equal to the increase, ignoring Hardness.
+These are still subject to the limits above.
+

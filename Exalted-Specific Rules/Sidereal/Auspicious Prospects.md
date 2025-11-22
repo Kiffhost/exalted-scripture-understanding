@@ -2,6 +2,8 @@
 tags:
   - source/sidereal-book
   - Sidereal
+aliases:
+  - auspicious prospect
 ---
 Each Caste has an Auspicious Prospects for (Caste) power that divines how certain events or developments relate to destiny’s plan. If an event would help ensure destiny comes to pass, and the Sidereal does something meaningful to ensure that event happens, she fulfills that auspicious prospect. The same is for thwarting something contrary to destiny. Fulfilling an auspicious prospect grants one [[Willpower]], subtracts one [[Limit]], and grants a Role Bonus (p. XX).
 

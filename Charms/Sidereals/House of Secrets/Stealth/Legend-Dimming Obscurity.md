@@ -1,16 +1,17 @@
 ---
 tags:
-  - charm
-  - Sidereal
-  - source/sidereal-book
+- charm
+- Sidereal
+- source/sidereal-book
 Cost: —
-Mins: Stealth 3, Essence 1
+Mins: Stealth 1, Essence 1
 Type: Permanent
 Keywords:
-  - None
+- None
 Duration: Permanent
 Prerequisite Charms:
-  - None
+- None
 ---
 *Embracing her arcane fate, the Sidereal fades from the world.*
-Characters automatically fail rolls against the Sidereal’s [[arcane fate]] unless they use applicable magic or have a Major or Defining [[Intimacy|Tie]] toward her. Even then, they suffer +1 target number on the roll.
+Characters automatically fail rolls against the Sidereal’s arcane fate unless they use magic or have a Major or Defining Tie toward her. Even then, they suffer +1 target number on the roll.
+

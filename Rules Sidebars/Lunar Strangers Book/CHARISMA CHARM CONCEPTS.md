@@ -1,6 +1,5 @@
 ---
 tags:
-  - source/Lunar-Strangers-Book
   - source/lunar-strangers-book
 ---
 
