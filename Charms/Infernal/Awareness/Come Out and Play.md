@@ -17,7 +17,7 @@ Prerequisite Charms:
 
 When the Infernal succeeds on an Awareness roll opposing the Stealth of an enemy within short range, she unleashes ribbons of crimson wind against him. This is a one-time environmental hazard with difficulty 5, Damage 4A. If he’s damaged by the hazard, he must make a (Dexterity + Stealth) roll to maintain his concealment. Otherwise, the scouring winds leave him exposed, breaking his concealment.
 ## Special activation rules
-This Charm’s duration can be extended as per the Awareness Excellency.
+This Charm’s duration can be extended as per the [[Infernal Awareness vs. Multiple Foes|Awareness Excellency]].
 ### Keys 
 #### Eager Demon-Wind Advance
 The Infernal can also reflexively move into close range with her target.

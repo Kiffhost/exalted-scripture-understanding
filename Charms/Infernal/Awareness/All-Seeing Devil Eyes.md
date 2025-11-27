@@ -19,4 +19,3 @@ Demonic eyes open in the sky at long range above the Infernal, spreading out to 
 The Infernal can reflexively change between this perspective and her own on her turn. Even in her own perspective, she passively taps into the eyes’ senses, adding an automatic success on rolls that benefit from their vantage.
 
 If the Infernal knows [[Burning Obsession Gaze]], the demonic eyes can see through roofs and similar obstructions as long as they’re no more than one range band thick.
-
