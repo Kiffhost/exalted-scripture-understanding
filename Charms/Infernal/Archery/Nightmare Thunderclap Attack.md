@@ -1,8 +1,8 @@
 ---
 tags:
   - charm
-  - Infernal/Archery
-  - source/infernal-source-book
+  - Infernal
+  - source/infernal-book
 Cost: 3m
 Mins: Archery 3, Essence 1
 Type: Simple

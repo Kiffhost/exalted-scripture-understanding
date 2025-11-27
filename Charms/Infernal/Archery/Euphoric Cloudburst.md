@@ -1,18 +1,18 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 4m
 Mins: Archery 3, Essence 1
 Type: Supplemental
 Keywords:
-- Blasphemy
-- Decisive-only
-- Psyche
+  - Blasphemy
+  - Decisive-only
+  - Psyche
 Duration: Instant
 Prerequisite Charms:
-- "[[Endless Hellfire Quiver]]"
+  - "[[Endless Hellfire Quiver]]"
 ---
 *Colorful raindrops of venomous emotion swirl around the Infernal's arrow, a downpour of torrential passions.*
 

@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 6m
 Mins: Archery 4, Essence 1
 Type: Supplemental
 Keywords:
-- Decisive-only
+  - Decisive-only
 Duration: Instant
 Prerequisite Charms:
-- "[[Euphoric Cloudburst]]"
+  - "[[Euphoric Cloudburst]]"
 ---
 *The Infernal's fury turns cold, raining down in opalescent sleet like a hail of pearls.*
 

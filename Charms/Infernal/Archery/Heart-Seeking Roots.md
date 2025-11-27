@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 2m, 1wp
 Mins: Archery 5, Essence 2
 Type: Simple
 Keywords:
-- Decisive-only
+  - Decisive-only
 Duration: Instant
 Prerequisite Charms:
-- "[[Insidious Quicksilver Entanglement]]"
+  - "[[Insidious Quicksilver Entanglement]]"
 ---
 *Razor-sharp tendrils bloom from the Infernal's arrow and burrow into her victim's flesh, seeking both his heart and the secrets hidden within it.*
 

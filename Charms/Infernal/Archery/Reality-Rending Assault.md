@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 3m
 Mins: Archery 5, Essence 2
 Type: Supplemental
 Keywords:
-- Dual
+  - Dual
 Duration: Instant
 Prerequisite Charms:
-- Unwavering Hatred Acuity (Murderous Clarity Focus)
+  - Unwavering Hatred Acuity (Murderous Clarity Focus)
 ---
 *Space itself screams as the Infernal's arrow pierces a bleeding wound in the very concept of distance.*
 

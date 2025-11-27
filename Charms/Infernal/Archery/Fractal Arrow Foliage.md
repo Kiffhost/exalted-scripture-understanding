@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 5m, 1wp
 Mins: Archery 5, Essence 2
 Type: Simple
 Keywords:
-- None
+  - None
 Duration: Instant
 Prerequisite Charms:
-- "[[Heart-Seeking Roots]]"
+  - "[[Heart-Seeking Roots]]"
 ---
 *Silvery roots branch outward from the Infernal's arrow, then branch outward again and again, forming a lattice of living metal.*
 

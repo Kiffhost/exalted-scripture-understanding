@@ -1,17 +1,17 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 7m
 Mins: Archery 5, Essence 2
 Type: Reflexive
 Keywords:
-- Decisive-only
-- Psyche
+  - Decisive-only
+  - Psyche
 Duration: Instant
 Prerequisite Charms:
-- "[[Euphoric Cloudburst]]"
+  - "[[Euphoric Cloudburst]]"
 ---
 *The Infernal's arrow crackles with ebon lightning that burns away the passions of those it strikes.*
 

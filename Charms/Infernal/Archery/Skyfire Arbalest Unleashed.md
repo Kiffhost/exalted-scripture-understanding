@@ -1,18 +1,18 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 5m, 1wp
 Mins: Archery 4, Essence 2
 Type: Simple
 Keywords:
-- Aggravated
-- Blasphemy
-- Dual
+  - Aggravated
+  - Blasphemy
+  - Dual
 Duration: One scene
 Prerequisite Charms:
-- "[[Endless Hellfire Quiver]]"
+  - "[[Endless Hellfire Quiver]]"
 ---
 *The Infernal mimes drawing a weapon, hellfire coalescing in her hands.*
 

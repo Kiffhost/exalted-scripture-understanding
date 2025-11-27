@@ -1,17 +1,17 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 10m, 1wp
 Mins: Archery 5, Essence 3
 Type: Simple
 Keywords:
-- Aggravated
-- Dual
+  - Aggravated
+  - Dual
 Duration: Instant
 Prerequisite Charms:
-- Unwavering Hatred Acuity (Exquisite Slaughter Precision)
+  - Unwavering Hatred Acuity (Exquisite Slaughter Precision)
 ---
 *The Infernal focuses the fullness of her hatred into a single arrow.*
 

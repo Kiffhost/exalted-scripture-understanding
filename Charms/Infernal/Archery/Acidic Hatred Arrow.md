@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 3m
 Mins: Archery 3, Essence 1
 Type: Supplemental
 Keywords:
-- Dual
+  - Dual
 Duration: Instant
 Prerequisite Charms:
-- "[[Endless Hellfire Quiver]]"
+  - "[[Endless Hellfire Quiver]]"
 ---
 *Hellish acid drips from the Infernal's arrow, a corrosive hatred that burns through any armor.*
 

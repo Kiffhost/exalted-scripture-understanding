@@ -1,19 +1,19 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 1m
 Mins: Archery 3, Essence 1
 Type: Supplemental
 Keywords:
-- Aggravated
-- Blasphemy
-- Dual
-- Versatile
+  - Aggravated
+  - Blasphemy
+  - Dual
+  - Versatile
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *The Infernal looses arrows of blazing green flame, crackling black lightning, or opalescent sleet, her quiver filled with all the perils of the Demon City's sky.*
 

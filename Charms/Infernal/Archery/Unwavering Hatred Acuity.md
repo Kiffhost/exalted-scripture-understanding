@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 1m
 Mins: Archery 2, Essence 1
 Type: Simple
 Keywords:
-- Uniform
+  - Uniform
 Duration: Instant
 Prerequisite Charms:
-- None
+  - None
 ---
 *Run fast, run far â€” it matters not. The Infernal's vengeance is inescapable.*
 

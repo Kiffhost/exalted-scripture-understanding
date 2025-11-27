@@ -1,18 +1,18 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 5m, 1wp
 Mins: Archery 5, Essence 3
 Type: Simple
 Keywords:
-- Decisive-only
-- Psyche
+  - Decisive-only
+  - Psyche
 Duration: Instant
 Prerequisite Charms:
-- "[[Nightmare Thunderclap Attack]]"
-- "[[Storm-Temper Excitation]]"
+  - "[[Nightmare Thunderclap Attack]]"
+  - "[[Storm-Temper Excitation]]"
 ---
 *The Infernal's arrow unleashes a peal of thunder, a never-ending nightmare of primordial storms.*
 

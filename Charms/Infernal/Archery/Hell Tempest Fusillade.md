@@ -1,18 +1,18 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 15m, 1wp
 Mins: Archery 5, Essence 4
 Type: Simple
 Keywords:
-- Decisive-only
+  - Decisive-only
 Duration: Instant
 Prerequisite Charms:
-- "[[Frozen Heart Sleet]]"
-- "[[Fulminating Torment Bolt]]"
-- "[[Living Lightning Gavotte]]"
+  - "[[Frozen Heart Sleet]]"
+  - "[[Fulminating Torment Bolt]]"
+  - "[[Living Lightning Gavotte]]"
 ---
 *The Infernal's bow looses an omen-storm to rival even the Typhoon of Nightmares, letting her fury rain down on a worthless world.*
 

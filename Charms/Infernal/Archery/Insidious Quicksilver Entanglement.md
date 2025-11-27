@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Infernal/Archery
-- source/infernal-source-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 4m
 Mins: Archery 3, Essence 1
 Type: Supplemental
 Keywords:
-- Decisive-only
+  - Decisive-only
 Duration: Instant
 Prerequisite Charms:
-- "[[Endless Hellfire Quiver]]"
+  - "[[Endless Hellfire Quiver]]"
 ---
 *Creeping metal vines extrude from the Infernal's arrow to entangle her foe in a bramble of mirrors.*
 
