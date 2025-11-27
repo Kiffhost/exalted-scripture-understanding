@@ -11,7 +11,7 @@ Keywords:
   - Dual
 Duration: Instant
 Prerequisite Charms:
-  - Unwavering Hatred Acuity (Exquisite Slaughter Precision)
+  - "[[Unwavering Hatred Acuity#Exquisite Slaughter Precision (Archery 5, Essence 2, Bitter-Hearted Barb, Murderous Clarity Focus) (+2m, 1wp)|Unwavering Hatred Acuity (Exquisite Slaughter Precision)]]"
 ---
 *The Infernal focuses the fullness of her hatred into a single arrow.*
 
@@ -22,7 +22,7 @@ The projectile provides the following benefits:
 - When she attacks her nemesis, she adds a free full Excellency on the attack roll and gains ten motes and one Willpower to spend on Archery Charms that enhance the attack.
 - A decisive attack against her nemesis adds attack roll extra successes as dice of damage and deals aggravated damage.
 - A withering attack against her nemesis ignores soak.
-- She waives Reality-Rending Assault cost. She can use it even if she can't perceive her nemesis as long as he's within long range.
+- She waives [[Reality-Rending Assault]] cost. She can use it even if she can't perceive her nemesis as long as he's within long range.
 
 The Infernal can only have one such projectile at a time. If her Tie for her nemesis falls below Defining, the projectile crumbles into ash.
 ## Reset

@@ -18,5 +18,4 @@ The Infernal makes a decisive attack against an enemy she is aiming against. If 
 
 If the Infernal knows one of her target's Intimacies, she can use it as a path to her victim's heart, increasing the projectile's starting damage to ({Essence + Intimacy}/2, rounded up) dice. However, dealing damage doesn't reveal her target's other Intimacies if she does.
 
-The burrowing projectile stops growing once the scene ends. Removing it before then requires magic that lets characters perform surgery nearly instantly, like Instant Treatment Methodology (Exalted, p. 342). Doing so requires a (Wits + Medicine) roll at difficulty (2 + projectile's dice of damage).
-
+The burrowing projectile stops growing once the scene ends. Removing it before then requires magic that lets characters perform surgery nearly instantly, like [[Instant Treatment Methodology]] (Exalted, p. 342). Doing so requires a (Wits + Medicine) roll at difficulty (2 + projectile's dice of damage).
