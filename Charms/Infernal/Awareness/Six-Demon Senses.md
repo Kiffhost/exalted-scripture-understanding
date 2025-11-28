@@ -18,7 +18,7 @@ The Infernal adds two dice on Awareness rolls and rerolls 6s until they cease to
 
 While using [[All-Hunger Rapacity]], [[Hateful Wretched Noise]], [[Imperious Hellfire Eye]], or [[Orbit Soul Proxemics]], the Infernal rerolls 5s as well as 6s on rolls using the sense enhanced by that Charm.
 ### Blasphemy
-If the Infernal’s Devil-Body has the Evolved Sense feature, its bonus increases to (Perception) dice.
+If the Infernal’s [[Devil-Body]] has the [[Evolved Sense]] feature, its bonus increases to ([[Perception]]) dice.
 ### Keys 
 #### Seven Devils Meditation (Awareness 3)
 The dice added by [[Six-Demon Senses]] are non-Charm. The penalty reduction applies to all forms of environmental conditions, not just those of Hell.

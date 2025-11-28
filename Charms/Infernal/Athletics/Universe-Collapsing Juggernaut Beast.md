@@ -31,5 +31,5 @@ The Infernal’s transformation also enhances certain Charms:
 ## Special activation rules
 The Infernal can use [[Meteor Hoofprint Stomp]] reflexively with this Charm, waiving its Willpower cost.
 ### Blasphemy
-The Infernal can use this Charm reflexively when she enters her Devil-Body. She waives its Willpower cost if her Devil-Body has Legendary Size.
+The Infernal can use this Charm reflexively when she enters her [[Devil-Body]]. She waives its Willpower cost if her [[Devil-Body]] has [[Obsidian Exalted/Exalted-Specific Rules/Infernal/Devil-Body Powers/Legendary Size|Legendary Size]].
 

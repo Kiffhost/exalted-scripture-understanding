@@ -25,7 +25,7 @@ Ending this Charm prematurely crashes the Infernal, setting her to Initiative â€
 
 With Brawl 5, the Infernal can use this Charm upon taking withering damage.
 ### Blasphemy
-The Infernal can use this Charm upon entering her Devil-Body.
+The Infernal can use this Charm upon entering her [[Devil-Body]].
 ### Keys
 #### Smoldering Rage Beast (Brawl 5)
 The Infernal can use this Charm in response to any form of threat, insult, bad news, or unwanted physical contact. This includes attacks that missed her.

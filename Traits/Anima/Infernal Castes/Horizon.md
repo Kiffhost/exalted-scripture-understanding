@@ -11,17 +11,19 @@ An empty green ring on the bottom, with a closed horizontal line erupting upward
 # Anima Banner
 A [[Horizon]] Caste’s [[The Anima Banner#Infernal Anima Levels|anima banner]] glows white and green. They might sound of crystalline chimes, crackling electricity, or ceaseless hammering. Some smell of ozone, acidic fumes, or strange alchemical reagents.
 # Iconic Anima
-The Infernal’s Devil-Body; demonic eyes that open in mid-air; a crystalline clockwork model of the cosmos; floating glass scrolls held shut by brazen seals; geometric patterns in dimensions beyond mortal ken; a cauldron overflowing with ichor and vitriol; a monstrous contraption of grotesquely impossible artifice.
+The Infernal’s [[Devil-Body]]; demonic eyes that open in mid-air; a crystalline clockwork model of the cosmos; floating glass scrolls held shut by brazen seals; geometric patterns in dimensions beyond mortal ken; a cauldron overflowing with ichor and vitriol; a monstrous contraption of grotesquely impossible artifice.
 # Anima Effects
 A [[Horizon]] Caste’s anima lets her understand mystical forces, bind demons, and enter her Devil-Body when her works are threatened.
 
 In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Horizon]] Castes can perform the following:
 - **Devil-Thrall Binding** (10m, 1wp; Simple; Instant): The Infernal binds a First Circle demon to carry out a specific task, as if by sorcery (Exalted, p. 473). She must touch it and roll ([[Intelligence]] + [[Occult]]) against its [[Resolve]]. If she knows spells for summoning demons, she adds a non-Charm success each of the three spells that she’s learned. The Infernal can only use it once ever on the same demon. It can’t be used on demons bound by another character.
-- **Eye of Elder Magics** (5m; Simple; Instant): The Infernal rolls (([[Perception]] or [[Intelligence]]) + [[Awareness]], [[Investigation]], [[Lore]], or [[Occult]]) against the [[Guile]] of a supernatural being to discern a useful detail about his magical power. This might reveal that a [[Zenith]] Caste with numerous [[Integrity]] Charms will be difficult to persuade or that a Dragon-Blood’s daiklave can smite creatures of darkness. She must already be aware a character is supernatural to use this power on him. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
-- **Incomparable Genius Apotheosis** (Permanent): The Infernal can enter her Devil-Body when she witnesses someone damage, destroy, or gravely threaten a lasting work of her knowledge and power: a manse she’s created, a sorcerous working, an academy she’s founded, or the like.
+- **Eye of Elder Magics** (5m; Simple; Instant): The Infernal rolls (([[Perception]] or [[Intelligence]]) + [[Awareness]], [[Investigation]], [[Lore]], or [[Occult]]) against the [[Guile]] of a supernatural being to discern a useful detail about his magical power. This might reveal that a [[Zenith]] Caste with numerous [[Integrity]] Charms will be difficult to persuade or that a Dragon-Blood’s daiklave can smite [[CREATURES OF DARKNESS|creatures of darkness]]. She must already be aware a character is supernatural to use this power on him. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
+- **Incomparable Genius Apotheosis** (Permanent): The Infernal can enter her [[Devil-Body]] when she witnesses someone damage, destroy, or gravely threaten a lasting work of her knowledge and power: a manse she’s created, a sorcerous working, an academy she’s founded, or the like.
 # Caste Abilities
 [[Horizon]] Castes choose their Caste Abilities from [[Bureaucracy]], [[Craft]], [[Investigation]], [[Linguistics]], [[Lore]], [[Medicine]], [[Occult]], and [[War]].
 # Sobriquets
 Princes of Primordial Genius, the Unleashed, Demiurges, Glass Spiders, Arrows of Hell
 # Concepts
 Amoral weaponsmith, disreputable academic, eccentric demonologist, Heptagram dropout, mendicant philosopher, seditious intellectual, unconventional physician, wandering teacher, wrathful sorcerer-king.
+# Experience Trigger
+Learning something that helps advance the Infernal’s or her Circle’s goals; upholding a Major or Defining Intimacy through intellect or knowledge; creating or restoring a lasting work of supernatural power, like an artifact or necromantic working; or besting or humiliating an intellectual rival or someone who doubts the Infernal’s abilities.

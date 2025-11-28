@@ -50,7 +50,11 @@ Most common in Yu Shan, usually connected to the great celestial bureaucracy of 
 ## [[Abyssal Exalted]]
 Wield the *horrific*, *ancient*, *corrupting* power of death itself.
 Unique powers in Necromancy.
-Exalt as they die, then lurk in the Underworld, emerging in to Creation alone or in large incursions. 
+Exalt as they die, then lurk in the Underworld, emerging in to Creation alone or in large incursions.
+## [[Infernal Exalted]]
+Wield the *strange, alien, eldritch* power of Hell.
+Unique powers in Devil-Bodies, Inner Worlds, and Soul Pantheons.
+Small in number they're rare everywhere and rule in Hell, emerging from the nether-world to pursue vendettas and enact chaos.
 ## Terrestrial Exalted
 More common and less powerful. Do not suffer from [[Limit]].
 ### [[Dragon-Blooded Exalted]]

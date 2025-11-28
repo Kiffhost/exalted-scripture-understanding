@@ -36,7 +36,6 @@ A Charm with this keyword can only be used to enhance, supplement, or create wri
 #### Form
 Each style has a Form, a scene-long Charm that aligns the martial artist wholly with the spirit or principle of the style. As such, a character can only have one Form Charm active at a time—activating a new one during the same scene ends the old one. However, when this happens, all motes committed to the previous Form Charm are counted towards the cost of the new Form, requiring that the martial artist pay only the difference. 
 <details><summary>Example</summary> For example a character transitioning from the eight-mote [[Snake Form]] to the 10-mote [[Tiger Form]] would only need to commit an additional two motes to pay the cost of [[Tiger Form]]. Conversely, if that character later transitioned from [[Tiger Form]] back to [[Snake Form]], he would not need to pay any additional motes at all, with the two excess motes becoming uncommitted as usual. Note that cost transfer does not apply to other Charms that enhance or modify Form Charms, such as Snake style’s [[Essence Fangs and Scales Technique]] or Tiger style’s [[Angry Predator Frenzy]].</details>
-
 #### Mastery
 This keyword denotes Charms that have a greater effect when used by those Exalted who are masters of mortal Abilities: the Solar and Abyssal Exalted. The Sidereal Exalted, peerless masters of the martial arts, have their own esoteric methods for accessing these effects: Sidereals gain Mastery with a style’s Charms while in its [[#Form]]. Learning all of a style’s Charms grants permanent Mastery. While using a Sidereal Martial Arts Form, a Sidereal gains Mastery with all styles.
 #### Terrestrial
@@ -68,32 +67,24 @@ This keyword indicates Dragon-Blooded [[Excellencies]].
 This keyword marks an Ability’s five elemental Signatures.
 ##### Signature [[Charms]] 
 Each Ability has five puissant elemental Signatures. A Dragon-Blood can only learn one Signature Charm per Ability. She doesn’t have to pick the Signature Charm that matches her own elemental aspect. At [[Essence]] 5, she unlocks the potential to learn one more Signature Charm from each of her Aspect and Favored Abilities. She must use her second choice to learn the Signature Charm that matches her own Aspect if she hasn’t already done so.
-
 # Lunar
 
 #### Protean
 A Protean Charm gains greater power when the Lunar uses it while shapeshifted into certain animal or human forms. (Her own human shape doesn’t count.) 
-
 #### Totemic
 Lunars with certain spirit shapes may learn a Totemic Charm as a Charm of a different Attribute than it normally belongs to, using different minimum Attributes and potentially enjoying Caste or Favored Attribute discounts. Totemic [[Charms]] have alternative prerequisite [[Charms]] from this second Attribute, unless they have no prerequisite [[Charms]], or their prerequisites are Totemic themselves. This extends to the Attribute minimums of any automatic upgrades or repurchases of the Charm, but not to any dice rolls or other calculations involved.
-
 #### Archetype
 A synonym of [[#Totemic]] used in the Many-Faced Strangers book.
-
 # Sidereal
 
 #### Divination
 Divination [[Charms]] are a Sidereal’s powers of foresight, prophecy, and prediction. They’re limited in how much information they can provide on enemies of fate (p. XX). Their presence and actions can be divined, but not their appearance, identity, or specific nature; they are indistinct, featureless voids within prophetic visions. Note that non-Sidereal [[Charms]] that predict the future, like [[God-King’s Shrike]], aren’t Divination [[Charms]]. 
-
 #### Shaping
 Shaping effects transforms characters’ bodies, minds, souls, or fates. They can be defended against with magic like [[Destiny-Manifesting Method]] (Exalted, p. 304). 
-
 #### Versatile
 [[Archery]], [[Brawl]], [[Melee]], and [[Thrown]] [[Charms]] with this keyword can enhance attacks and parries with [[Martial Arts]] if the Sidereal uses a weapon compatible with that Ability. Versatile [[Charms]] from multiple Abilities can’t enhance the same action.
-
 #### Enlightenment 
 Attaining the apex of Sidereal Martial Arts’ power demands an understanding of subtle cosmic principles and a harmony with the nature of reality beyond many students. Sidereals always gain the benefits of a Sidereal Martial Arts’ Enlightenment effects. Getimians access Enlightenment effects based on whether their Essence’s current nature is Flowing or Still. Other Exalted can’t ordinarily access Enlightenment effects.
-
 # Abyssal
 
 #### Versatile 
@@ -101,3 +92,8 @@ Combat Ability Charms with this keyword can enhance attacks and parries with [[M
 #### Whispers
 This keyword provides additional benefits for Abyssals with the [[Whispers]] Merit (p. XX). Such effects often use (Whispers) calculations. Its value equals the Merit rating of the Abyssal’s [[Whispers]].
 Whisper Charms sometimes invoke the Abyssal’s use of her [[Whispers]]. This means they count against the reset limit on using Whispers.
+# Infernal
+#### Versatile
+Combat Ability Charms with this keyword can enhance attacks and parries with [[Martial Arts]] if the Infernal uses a weapon compatible with that Ability. Versatile Charms from multiple combat Abilities.
+#### Blasphemy
+Infernal Charms with this keyword gain additional benefits while an Infernal is in her [[Devil-Body]] form (p. XX).

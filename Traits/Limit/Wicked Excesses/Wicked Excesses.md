@@ -1,0 +1,6 @@
+When the Infernal reaches Limit 10, she indulges in a Wicked Excess. This may occur immediately or be delayed until a suitable moment, at the Storyteller’s discretion. The Storyteller can choose a Wicked Excess from those below or create a new one, although she should discuss the choice with the Infernal’s player to ensure it sets the Infernal up for dramatic moments and character development. Some Solar Limit Breaks can be adapted as Wicked Excesses, like Berserk Anger and Deliberate Cruelty (Exalted, pp.134-137).
+
+All Wicked Excesses share the following features:
+- An Infernal’s Wicked Excess counts as a Defining Intimacy. If it would let her treat influence as unacceptable (Exalted, p. 220), she must do so.
+- Each Wicked Excess lasts either for one scene or one session but may end early if a specific condition is met. If a Wicked Excess occurs towards a scene or session’s end and wouldn’t have an opportunity to impact the game, the Storyteller can have it spill over into the next scene or session.
+- Once a Wicked Excess ends, the Infernal’s Limit resets to 0, and her temporary Willpower resets to equal to her permanent Willpower.

@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *Let the world behold the Infernal’s glory and despair.*
 
-The Infernal enters her Devil-Body without needing to meet its trigger condition.
+The Infernal enters her [[Devil-Body]] without needing to meet its trigger condition.
 
 If the Infernal uses this Charm together with [[Unbound God-Monster Resurgence]], she waives this Charm’s Willpower cost.
 ## Reset

@@ -1,4 +1,3 @@
-
 # Solar 
 
 Below are a number of potential Limit Triggers. This list is meant to be illustrative rather than exhaustive—players should feel free to design their own Limit Trigger (with the Storyteller’s approval). A Limit Trigger should be a situation that the character finds stressful, traumatic, or frustrating.
@@ -10,7 +9,6 @@ Below are a number of potential Limit Triggers. This list is meant to be illustr
 - The Solar is faced with the opportunity to advance his own cause by harming an innocent or ignoring one’s suffering.
 - The Solar’s emotions lead him into a course of action that he regrets.
 - The Solar is denied a favorite pleasure or vice, either by circumstance, another character, or his own decisions.
-
 # Lunar
 
 A character’s Limit trigger is an especially stressful, frustrating, or traumatic situation. Lunar Limit triggers often relate to their rage — things that rouse the Lunar’s anger, or a consequence of rage. Sample Limit triggers include: 
@@ -23,7 +21,6 @@ A character’s Limit trigger is an especially stressful, frustrating, or trauma
 - An adversary exploits the Lunar’s mercy or compassion. 
 - The Lunar must endure deprivation, poverty, or extreme physical hardship due to an adversary, or to achieve one of her or her Circle’s goals. 
 - Someone the Lunar wishes would pay attention to her rejects, humiliates, or ignores her.
-
 # Sidereal
 
 Sidereal Limit Triggers are usually situations that cause them to feel excessive pride or self-confidence, drive them to double down on troubled plans, or succumb to skewed priorities or a self-centered perspective. Examples include: 
@@ -35,3 +32,14 @@ Sidereal Limit Triggers are usually situations that cause them to feel excessive
 - An unforeseen enemy or complication poses an obstacle to the Sidereal’s plans. 
 - Serious difference of opinion or competing goals strain the Sidereal’s relationship with an ally, subordinate, or superior. 
 - Someone the Sidereal has a positive [[Intimacy|Tie]] toward faces significant danger or distress.
+# Infernal
+Infernal Limit Triggers are usually situations that stoke resentment, envy, spite or wrath, and drive them to disproportionate response, or situations that impede their drives towards urgent and violent change or hedonistic indulgence.
+Examples include:
+- The Infernal is physically outmatched by another character.
+- The Infernal is insulted, belittled, or deliberately frustrated by another character.
+- The Infernal has their honesty, credibility or intelligence questioned.
+- The Infernal has their actions limited by coercion or physical restraint.
+- The Infernal suffers a public failure or setback.
+- Someone the Infernal has a positive Tie towards has a negative reaction to her Infernal nature or her acting on her Principles.
+- The Infernal is praised sincerely by someone she has a negative Tie towards.
+- Someone the Infernal has a negative Tie towards escapes just punishment for their actions.

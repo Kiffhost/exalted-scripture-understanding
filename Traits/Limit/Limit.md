@@ -5,7 +5,6 @@ tags:
 ## [[Limit Break]]
 
 Once a character has accumulated 10 [[Limit]] points, he will enter a state called [[Limit Break]].
-
 # Solar
 
 [[Limit]] is a measure of stress, self-doubt, and mental instability. As a Solar accrues [[Limit]], the power of the Great Curse gains a stronger purchase on his soul. While this growing corruption may be invisible to others, the cursed Exalt finds his thoughts wandering in darker directions.
@@ -40,7 +39,6 @@ Sidereals gain [[Limit]] under the following circumstances:
 Gaining [[Limit]] reaffirms a Sidereal’s confidence — gaining [[Limit]] grants her one [[Willpower]], maximum once per scene.
 
 A Sidereal can lose [[Limit]] by fulfilling Auspicious Prospects. When she faces a major defeat or setback, her player may choose to lose one [[Limit]] and one [[Willpower]]. Sidereals don’t lose [[Limit]] from accomplishing legendary social goals; such triumphs do little to mitigate their hubris.
-
 # Abyssals
 
 An Abyssal who defies her dark purpose, rolling dice and gaining Limit equal to her successes under the following circumstances.
@@ -52,3 +50,11 @@ The Abyssal can lose Limit in a number of ways
 - Upholding death’s chivalry (p. XX).
 - Accomplishing a legendary social goal (Exalted, p. 134), which lets her lose one Limit.
 - Spending downtime among the dead, which lets her lose one Limit. She can gain this benefit in Creation if she surrounds herself in the trappings of death.
+# Infernals
+
+Infernals roll dice and gaining [[Limit]] equal to their successes under the following circumstances:
+- Once per scene, when an Infernal acts against a Major Intimacy, she rolls one die, (unless she’s already rolled for acting against a Defining Intimacy). Voluntarily weakening an Intimacy or spending Willpower to resist influence it supports counts as acting against it.
+- Once per scene, when an Infernal acts against a Defining Intimacy, she rolls two dice, (or one die, if she’s already rolled for acting against a Major Intimacy).
+- Each Infernal has a [[Limit Trigger]], a specific condition under which she gains [[Limit]]. When it’s met, she rolls three dice.
+
+An Infernal loses one [[Limit]] when she accomplishes a legendary social goal (Exalted, p. 134). Her [[Limit]] resets at a [[Limit Break]]’s end.

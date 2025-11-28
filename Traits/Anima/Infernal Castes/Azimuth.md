@@ -16,17 +16,19 @@ An emerald sunburst with eight rays, with the larger diagonal cross rays emphasi
 # Anima Banner
 An [[Azimuth]] Caste’s blazing green [[The Anima Banner#Infernal Anima Levels|anima banner]] glints like brass. Some roar or scream as they flare to light, while others might sound of brazen war drums, the marching-chants of demonic armies, or fires burning on the battlefield. Their anima banners might smell of blood, brass, or thick smoke.
 # Iconic Anima
-The Infernal’s Devil-Body; a horde of monstrous figures that march behind the Infernal; a demonic siege engine that spits blood and molten brass; a wrathful behemoth whose rampage mirrors the Infernal’s movements; a rain of rune-etched blades or sizzling blood falling from the sky; a many-headed tiger of verdigrised brass; demonic arms emanating from the Infernal, each bearing a weapon or posed in a martial technique.
+The Infernal’s [[Devil-Body]]; a horde of monstrous figures that march behind the Infernal; a demonic siege engine that spits blood and molten brass; a wrathful behemoth whose rampage mirrors the Infernal’s movements; a rain of rune-etched blades or sizzling blood falling from the sky; a many-headed tiger of verdigrised brass; demonic arms emanating from the Infernal, each bearing a weapon or posed in a martial technique.
 # Anima Effects
 An [[Azimuth]] Caste’s anima enhances her killing prowess and lets her enter her Devil-Body when wounded.
 
 In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Azimuth]] Castes can perform the following:
 - **Ceaseless Slaughter Momentum** (Permanent): At [[The Anima Banner#Infernal Anima Levels|bonfire anima]], the Infernal adds (Essence/2, rounded up) to her base Initiative when she resets to base Initiative after a decisive attack.
 - **Green Sun Dawning** (—; Reflexive; Instant): While the Infernal is at [[The Anima Banner#Infernal Anima Levels|burning anima]] or higher, she rolls (Essence + highest Physical Attribute) dice and gains peripheral motes. They can only be spent on magic that creates or enhances attacks, and can be used as sorcerous motes instead for spells that do so. Once per day.
-- **Towering Demon Emperor** (Permanent): The Infernal can enter her Devil-Body when she takes damage to a −4 health level while fighting in support of a Major or Defining Intimacy, as long as she has no more than (Essence/2, rounded up) undamaged −4 health levels remaining.
+- **Towering Demon Emperor** (Permanent): The Infernal can enter her [[Devil-Body]] when she takes damage to a −4 health level while fighting in support of a Major or Defining Intimacy, as long as she has no more than (Essence/2, rounded up) undamaged −4 health levels remaining.
 # Caste Abilities
 [[Azimuth]] Castes choose their Caste Abilities from [[Archery]], [[Athletics]], [[Awareness]], [[Brawl]], [[Melee]], [[Resistance]], [[Thrown]], and [[War]].
 # Sobriquets
 Princes of Infernal Wrath, the Unbowed, Slayers, Brass Tigers, Swords of Hell
 # Concepts
 Conquering warlord, former child soldier, janissary pressed into the Realm’s service, leader of a slave rebellion, retired gladiator, self-made widow, vigilante in pursuit of justice, war-weary veteran, war orphan, wrathful berserker.
+# Experience Trigger
+Defeating a powerful enemy; harming, killing, or destroying someone or something the Infernal has a negative Major or Defining Tie toward; provoking others to violence to advance her or her Circle’s goals; or refusing to show mercy to someone the Infernal believes doesn’t deserve it.

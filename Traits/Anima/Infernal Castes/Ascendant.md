@@ -10,13 +10,13 @@ An empty green circle with a smaller partial disc cresting over the upper right 
 # Anima Banner
 The emerald green of an [[Ascendant]] Caste’s [[The Anima Banner#Infernal Anima Levels|anima banner]] is filled with swirling turquoise, faint tones of cerulean, and tarnished silver light. Some are accompanied by the sound of frenzied worship, demonic hymns, or ecstatic glossolalia; others boom like thunder or hiss like swarming locusts. Some smell of the incense burnt at demonic altars or perfumed oils of anointment, while others carry the smell of barren, desolate wilderness.
 # Iconic Anima
-The Infernal’s Devil-Body; a dust devil of whirling silver sand in the shape of the Infernal’s face; a thunderstorm born of Hell’s skies; a tree of living gold bearing blood-red fruit; a sacrificial altar upon which a god perpetually burns in emerald flame; a jeweled treasure-wheel that breaks under the Infernal’s will; basalt tables engraved with the laws of Hell.
+The Infernal’s [[Devil-Body]]; a dust devil of whirling silver sand in the shape of the Infernal’s face; a thunderstorm born of Hell’s skies; a tree of living gold bearing blood-red fruit; a sacrificial altar upon which a god perpetually burns in emerald flame; a jewelled treasure-wheel that breaks under the Infernal’s will; basalt tables engraved with the laws of Hell.
 # Anima Effects
 An [[Ascendant]] Caste’s anima heightens her powers of persuasion, makes her words a weapon against the existing order, and lets her enter Devil-Body under profound duress or degradation.
 
 In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Ascendant]] Castes can perform the following:
 - **Eschaton Sermon Intensity** (5m; Supplemental; Instant): Once per day, the Infernal can add a free full Excellency on a roll to instil a negative Tie or weaken a positive Tie toward a god, authority figure, a political or religious institution, a legal code or similar prohibition, or a similar power structure. The level of Intimacy needed to support the influence is lowered by one (Exalted, p. 215). If the target already has a supporting Intimacy of sufficient intensity, the Willpower cost to resist the influence is increased by (Intimacy/2, rounded up).
-- **Wrath of the Most High** (Permanent): The Infernal can enter her Devil-Body when she’s coerced or magically compelled to violate one of her Major or Defining Intimacies or suffers humiliation, mockery, or degradation of comparable emotional severity.
+- **Wrath of the Most High** (Permanent): The Infernal can enter her [[Devil-Body]] when she’s coerced or magically compelled to violate one of her Major or Defining Intimacies or suffers humiliation, mockery, or degradation of comparable emotional severity.
 - **Voice of the Yozis** (5m; Supplemental; Instant): The Infernal adds (higher of Essence or 3) non-Charm dice on an inspire, instil, or persuade roll. First Circle demons count as having a Minor Tie that supports her influence. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
 # Caste Abilities
 [[Ascendant]] Castes choose their Caste Abilities from [[Integrity]], [[Lore]], [[Medicine]], [[Occult]], [[Performance]], [[Presence]], [[Resistance]], and [[Survival]].
@@ -24,3 +24,5 @@ In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effec
 Princes of Hell’s Majesty, the Unwavering, Revelators, Quartz Bulls, Hammers of Hell
 # Concepts
 Ascetic mystic, evangelist of the Yozis, Lintha pirate captain, priest of an outlawed religion, refugee in a foreign land, revolutionary seditionist, royal bastard, street urchin, transgressive artist, wizened hermit.
+# Experience Trigger
+Accomplishing a major character or story goal through social influence or leadership; enduring great hardship for the sake of a Major or Defining Intimacy; convincing another character to take a meaningful action that supports one of the Infernal’s Major or Defining Intimacies; providing meaningful help to those who are oppressed, ostracized, persecuted, or seen as worthless by the society they live in.

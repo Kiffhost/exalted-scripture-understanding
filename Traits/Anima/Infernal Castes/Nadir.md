@@ -11,13 +11,13 @@ An empty green ring, with a gap on the bottom enclosed by two small green vertic
 # Anima Banner
 Streaks of red light whirl within the green flame of a [[Nadir]] Caste’s [[The Anima Banner#Infernal Anima Levels|anima banner]]. They’re rarely accompanied by any sound, though they might bring an eerie hush instead. Some smell like clean, fresh air — albeit the air of Hell — while others evoke the scent of road’s dust or the saltwater sea.
 # Iconic Anima
-The Infernal’s Devil-Body; shattered chains that trail behind the Infernal from manacles of anima around her wrists; a prayer wheel of spinning knives; a guillotine stained with the blood of gods; a wolf-headed battering ram; an eerie fog filled with strange, inhuman shadows; a heaped hoard of bloodstained treasures.
+The Infernal’s [[Devil-Body]]; shattered chains that trail behind the Infernal from manacles of anima around her wrists; a prayer wheel of spinning knives; a guillotine stained with the blood of gods; a wolf-headed battering ram; an eerie fog filled with strange, inhuman shadows; a heaped hoard of bloodstained treasures.
 # Anima Effects
 A [[Nadir]] Caste’s anima lets her evade restraints and confinement, conceal her supernatural power, and enter her Devil-Body to escape imprisonment.
 
 In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Nadir]] Castes can perform the following:
 - **Devil-Shroud Subtlety** (2m; Reflexive; Instant; Mute): The Infernal mutes all motes spent in an instant.
-- **Gaol-Sundering Juggernaut Rampage** (Permanent): The Infernal can enter her Devil-Body when she makes a meaningful attempt to escape from imprisonment or confinement and fails.
+- **Gaol-Sundering Juggernaut Rampage** (Permanent): The Infernal can enter her [[Devil-Body]] when she makes a meaningful attempt to escape from imprisonment or confinement and fails.
 - **Never Caged Again** (5m; Reflexive; Until next turn; Mute): The Infernal gains +1 non-Charm [[Defense|Evasion]]. Rolls to restrain or confine her in any way suffer a penalty of (higher of Essence or 3) dice. This includes both the attack roll and control roll of a grapple gambit against her. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
 # Caste Abilities
 [[Nadir]] Castes choose their Caste Abilities from [[Athletics]], [[Awareness]], [[Dodge]], [[Integrity]], [[Larceny]], [[Ride]], [[Sail]], and [[Stealth]].
@@ -25,3 +25,5 @@ In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effec
 Princes of the Shattered Prison, the Unfettered, Chainbreakers, Basalt Wolves, Daggers of Hell
 # Concepts
 Assassin for the revolution, charismatic outlaw, fugitive from justice, heretical ex-monk, liberator of slaves, outcast scion of a controlling family, political dissident, pirate captain, reformed con artist, wanton killer.
+# Experience Trigger
+Escaping from literal or metaphorical imprisonment or helping someone else do so; upholding a Major or Defining Intimacy through infiltration, surveillance, or subterfuge; defeating an enemy who’s imprisoned or restrained the Infernal or someone she has a positive Tie toward; overcoming legal or geographical obstacles that impede her or her Circle’s goals.
