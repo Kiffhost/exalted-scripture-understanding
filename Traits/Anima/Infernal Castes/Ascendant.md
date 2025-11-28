@@ -1,0 +1,26 @@
+The Primordials were once the highest of holies, the cosmic absolute, the makers of the universe. The gods offered them homage and obeisance; all living things bowed before them in holy dread. Then the traitor gods and their Exalted cast them down. They were twisted into wretched, unholy things, tainted by the foul workings of the gods. No longer Primordials, they were named Yozis, Demon Princes, enemies of the gods. They who made Heaven were condemned forevermore to Hell.
+
+The Yozis seek their [[Ascendant]] Caste saints and prophets from the downtrodden, the persecuted, and the wretched, those who might understand the faintest sliver of the Yozis’ suffering. A rebel struggling to free his satrapy from beneath the Realm’s bootheel; a priest of a forbidden Yozi cult; those who’ve never escaped being born into crushing poverty or a lowly caste; a slave willing to die to escape a Guild plantation; an outcast told that they were impure, than abomination, yearning to be holy. The demons sent to them offer to raise them up from this, tempting them with the power to create a better world, to change the course of history for the better.
+
+The Revelators emerge from Hell to impose their vision upon the world. They preach blasphemous dogmas antithetical to established orders and the traitorous gods, promising their disciples a better way. They spread their blasphemous cults across Creation, revered as god-kings, saints, or messiahs, and sway mortals to the worship of Yozis and demons. All worldly power is theirs to claim and command in furtherance of their ambitions.
+
+The Demon City is a holy place for [[Ascendant]] Castes. How could it be otherwise, when they walk upon the very flesh of the Yozis who set them on high? How could it be otherwise, when Hell’s alien bounty fuels their grand endeavours? They easily find allies and patrons among demonkind, who’ll eagerly trade favours for a Revelator’s evangelism. Other demons seek silver-tongued [[Ascendant]] Castes to speak on their behalf in political dealings or act as a leader in their stead. Some might pursue mystical paths to ineffable communion with the Demon Princes: performing austerities while scaling the slopes of Qaf; ecstatic revelry in the demon-forest Hrotsvitha; meditating in the acidic depths of the Demon Sea.
+# Caste Mark
+An empty green circle with a smaller partial disc cresting over the upper right side.
+# Anima Banner
+The emerald green of an [[Ascendant]] Caste’s [[The Anima Banner#Infernal Anima Levels|anima banner]] is filled with swirling turquoise, faint tones of cerulean, and tarnished silver light. Some are accompanied by the sound of frenzied worship, demonic hymns, or ecstatic glossolalia; others boom like thunder or hiss like swarming locusts. Some smell of the incense burnt at demonic altars or perfumed oils of anointment, while others carry the smell of barren, desolate wilderness.
+# Iconic Anima
+The Infernal’s Devil-Body; a dust devil of whirling silver sand in the shape of the Infernal’s face; a thunderstorm born of Hell’s skies; a tree of living gold bearing blood-red fruit; a sacrificial altar upon which a god perpetually burns in emerald flame; a jeweled treasure-wheel that breaks under the Infernal’s will; basalt tables engraved with the laws of Hell.
+# Anima Effects
+An [[Ascendant]] Caste’s anima heightens her powers of persuasion, makes her words a weapon against the existing order, and lets her enter Devil-Body under profound duress or degradation.
+
+In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Ascendant]] Castes can perform the following:
+- **Eschaton Sermon Intensity** (5m; Supplemental; Instant): Once per day, the Infernal can add a free full Excellency on a roll to instil a negative Tie or weaken a positive Tie toward a god, authority figure, a political or religious institution, a legal code or similar prohibition, or a similar power structure. The level of Intimacy needed to support the influence is lowered by one (Exalted, p. 215). If the target already has a supporting Intimacy of sufficient intensity, the Willpower cost to resist the influence is increased by (Intimacy/2, rounded up).
+- **Wrath of the Most High** (Permanent): The Infernal can enter her Devil-Body when she’s coerced or magically compelled to violate one of her Major or Defining Intimacies or suffers humiliation, mockery, or degradation of comparable emotional severity.
+- **Voice of the Yozis** (5m; Supplemental; Instant): The Infernal adds (higher of Essence or 3) non-Charm dice on an inspire, instil, or persuade roll. First Circle demons count as having a Minor Tie that supports her influence. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
+# Caste Abilities
+[[Ascendant]] Castes choose their Caste Abilities from [[Integrity]], [[Lore]], [[Medicine]], [[Occult]], [[Performance]], [[Presence]], [[Resistance]], and [[Survival]].
+# Sobriquets
+Princes of Hell’s Majesty, the Unwavering, Revelators, Quartz Bulls, Hammers of Hell
+# Concepts
+Ascetic mystic, evangelist of the Yozis, Lintha pirate captain, priest of an outlawed religion, refugee in a foreign land, revolutionary seditionist, royal bastard, street urchin, transgressive artist, wizened hermit.

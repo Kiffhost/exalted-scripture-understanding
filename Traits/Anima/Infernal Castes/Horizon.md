@@ -1,0 +1,27 @@
+Once, the Primordials wielded power beyond imagining. They shaped worlds from raw chaos, scribed their will into the laws of the cosmos, and brought forth Creation’s gods that they might take their leisure at the Games of Divinity. It was a golden age, a paradise razed by the treachery of the gods. Such wonders are lost to the Yozis now, mutilated and diminished at the hands of the Exalted. They are still mighty, they are still powerful beyond imagining — but they are lesser.
+
+The Yozis find their [[Horizon]] Castes among those who’ve also been deprived of the chance to fulfil their intellectual potential. A child whose stern parents refused to let him study at an academy. A prodigy barred from education by poverty, caste, or stigma. A farmhand who could have been a genius mathematician if anyone ever taught him. Others lost the chance to make use of the talents they had: an alchemist forced out of her career by illness; a student disgraced by an academic rival; a savant whose studies are censored. The demons that appear to them tempt them with knowledge they’ve been denied, and the power to make use of it.
+
+Nothing is beyond the Demiurges’ grasp. They decipher secrets hidden in forbidden tomes and solve enigmas that have baffled savants for centuries. They may rightfully count themselves as rivals of Ligier in artifice, crafting hellish wonders worthy of the Green Sun’s approval. The greatest of sorceries are theirs to master; the laws of the cosmos are as mere suggestions before the Demiurges’ power. Some undertake grand plans in pursuit of their ideals or ambitions, but it’s easy to simply revel in the possibilities of power, without thought for their purpose or
+consequence. A [[Horizon]] Caste might treat Creation as a testing ground for reality-warping magics and weapons of incomprehensible horror, with the worst of them seeing mortals as nothing more than test subjects.
+
+Hell is where many [[Horizon]] Castes undertake their greatest labours. Here are their forges, their laboratories, their sorcerous sanctums. Malfeas abounds in wondrous reagents, from its verdigrised flora to the Yozis themselves. Demons covet their services: esoteric knowledge, healing arts, bespoke artifacts, and wonders of sorcery. Some may be called upon to investigate the Demon City’s crimes. [[Horizon]] Castes, for their part, can find something to learn from almost any demon, whether seeking Ligier’s critique on a work of artifice or recording confessions cast into the ravine of Munaxes.
+# Caste Mark
+An empty green ring on the bottom, with a closed horizontal line erupting upward into a starburst.
+# Anima Banner
+A [[Horizon]] Caste’s [[The Anima Banner#Infernal Anima Levels|anima banner]] glows white and green. They might sound of crystalline chimes, crackling electricity, or ceaseless hammering. Some smell of ozone, acidic fumes, or strange alchemical reagents.
+# Iconic Anima
+The Infernal’s Devil-Body; demonic eyes that open in mid-air; a crystalline clockwork model of the cosmos; floating glass scrolls held shut by brazen seals; geometric patterns in dimensions beyond mortal ken; a cauldron overflowing with ichor and vitriol; a monstrous contraption of grotesquely impossible artifice.
+# Anima Effects
+A [[Horizon]] Caste’s anima lets her understand mystical forces, bind demons, and enter her Devil-Body when her works are threatened.
+
+In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Horizon]] Castes can perform the following:
+- **Devil-Thrall Binding** (10m, 1wp; Simple; Instant): The Infernal binds a First Circle demon to carry out a specific task, as if by sorcery (Exalted, p. 473). She must touch it and roll ([[Intelligence]] + [[Occult]]) against its [[Resolve]]. If she knows spells for summoning demons, she adds a non-Charm success each of the three spells that she’s learned. The Infernal can only use it once ever on the same demon. It can’t be used on demons bound by another character.
+- **Eye of Elder Magics** (5m; Simple; Instant): The Infernal rolls (([[Perception]] or [[Intelligence]]) + [[Awareness]], [[Investigation]], [[Lore]], or [[Occult]]) against the [[Guile]] of a supernatural being to discern a useful detail about his magical power. This might reveal that a [[Zenith]] Caste with numerous [[Integrity]] Charms will be difficult to persuade or that a Dragon-Blood’s daiklave can smite creatures of darkness. She must already be aware a character is supernatural to use this power on him. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
+- **Incomparable Genius Apotheosis** (Permanent): The Infernal can enter her Devil-Body when she witnesses someone damage, destroy, or gravely threaten a lasting work of her knowledge and power: a manse she’s created, a sorcerous working, an academy she’s founded, or the like.
+# Caste Abilities
+[[Horizon]] Castes choose their Caste Abilities from [[Bureaucracy]], [[Craft]], [[Investigation]], [[Linguistics]], [[Lore]], [[Medicine]], [[Occult]], and [[War]].
+# Sobriquets
+Princes of Primordial Genius, the Unleashed, Demiurges, Glass Spiders, Arrows of Hell
+# Concepts
+Amoral weaponsmith, disreputable academic, eccentric demonologist, Heptagram dropout, mendicant philosopher, seditious intellectual, unconventional physician, wandering teacher, wrathful sorcerer-king.

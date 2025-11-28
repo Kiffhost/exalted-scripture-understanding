@@ -6,18 +6,18 @@ Your character’s anima is a reflection of who she is, incorporating colors, so
 
 **When your character spends five or more motes of Peripheral Essence in an instant, her anima ignites and intensifies by one level for every five Peripheral motes spent.** Personal motes don’t agitate the anima, nor do smaller expenditures of Peripheral. Some Charms may only be used at specific anima levels, while others can mute, diminish, or extinguish the display entirely. 
 
-## Anima Levels 
+## Solar Anima Levels 
 
-| Anima Level | Effects |
-| ---- | ---- |
-| Dim | The Solar’s anima is invisible to all senses, masking her Exalted nature. This is the default level at which a Solar’s anima resides when not spending Essence. |
-| Glowing | The character’s anima glows and pulses, outlining him with the colors of the sun. His Caste mark appears on his brow, shining through anything placed over it. Any attempts at stealth or disguise suffer a -3 penalty. |
-| Burning | The character’s anima blazes brightly, subsuming his Caste mark into its radi- ance, though the mark may reappear when he uses powerful Charms. Wisps of bright power coil off his body and rise into the air. Anything subjected to his anima may become warm to the touch afterwards, or take on the faint scent of a summer afternoon. Stealth becomes impossible. |
+| Anima Level    | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dim            | The Solar’s anima is invisible to all senses, masking her Exalted nature. This is the default level at which a Solar’s anima resides when not spending Essence.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Glowing        | The character’s anima glows and pulses, outlining him with the colors of the sun. His Caste mark appears on his brow, shining through anything placed over it. Any attempts at stealth or disguise suffer a -3 penalty.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Burning        | The character’s anima blazes brightly, subsuming his Caste mark into its radi- ance, though the mark may reappear when he uses powerful Charms. Wisps of bright power coil off his body and rise into the air. Anything subjected to his anima may become warm to the touch afterwards, or take on the faint scent of a summer afternoon. Stealth becomes impossible.                                                                                                                                                                                                                                                                                                  |
 | Bonfire/Iconic | The Solar’s anima ignites in a grand display Iconic of iconic splendor, depicting personal iconography chosen by the player—one Solar warrior’s anima may depict a tiger whose roar shakes the heavens, while a savant may be surrounded by a storm of whirling parchment covered in the lore of bygone ages. This phantasmal display then collapses into a raging bonfire of spiritual power stretching high into the air, visible for miles. This level of display illuminates the area around the Solar out to short range, banishing shadows. His Caste Mark behaves as in the previous progression, and the iconic display may also reappear at dramatic moments. |
 
 It takes about an hour for the anima to vanish from its full brilliance—fifteen minutes to recede from bonfire to burning, the same length to go from burning to glowing, and then about half an hour until the glowing anima dims and vanishes. 
 
-## Anima Effects 
+## Solar Anima Effects 
 
 A character’s anima is her most instinctive expression of Essence, granting access to a number of small miracles. A few of these are available to all Solars, while most are unique to a Caste. Where anima effects enhance a dice pool, they do not count as dice added by a Charm (p. 251-252). By feeding a mote of Essence into their anima, all Solars can evoke the following effects: 
 - The Solar may feel the brilliant presence of the sun relative to herself and know the exact time of day thereby. This works even if she’s underground or in the Wyld beyond Creation.
@@ -34,7 +34,7 @@ In addition to these universal effects, Solars of each Caste enjoy a number of i
 # Dragon-Blooded
 
 The anima banners of the Dragon-Blooded manifest their elemental puissance as they expend Essence. **For every five motes of Peripheral Essence a Dragon-Blood spends in an instant, her anima banner rises by one level.** 
-## Anima Levels
+## Dragon-Blooded Anima Levels
 | Anima Level    | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dim            | The Dragon-Blood’s anima is invisible to all senses. This is the default level at which it resides when she’s not spending Essence.                                                                                                                                                                                                                                                                                                                                          |
@@ -51,7 +51,7 @@ Crashed characters and trivial enemies instead suffer one die of decisive lethal
 
 Anima flux may damage scenery if dramatically appropriate, setting cloth tapestries ablaze or shattering wooden walls with seismic force. For this reason, Dragon-Blooded favor sturdy stone architecture in their homes or other places where their anima banners might flare.
 
-## Anima Effects
+## Dragon-Blooded Anima Effects
 
 A Dragon-Blood’s anima powers are considered to be of her own elemental Aspect for purposes of her Elemental Aura (p. 162). By spending one mote, a Dragon-Blood may use one of the following effects: 
 - She may perform minor manipulations of her Aspect’s element: cooling herself with a light breeze, igniting a fire without flint or tinder, causing a flower to blossom early at her touch. These never carry mechanical effects, but provide minor utility and can be incorporated into stunts. 
@@ -69,7 +69,7 @@ In addition to these universal effects, Dragon-Blooded of each Aspect enjoy a nu
 
 A Lunar’s anima banner blazes forth into visibility as she expends Essence. **For every five motes of Peripheral Essence she spends in an instant, her anima banner rises one level.**
 
-## Anima Levels
+## Lunar Anima Levels
 
 | Anima Level    | Effects                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ A Lunar’s anima banner blazes forth into visibility as she expends Essence. **
 
 It takes 15 minutes for the anima banner to recede from bonfire to burning or from burning to glowing, and half an hour to recede from glowing to dim.
 
-## Anima Effects
+## Lunar Anima Effects
 
 For one mote, a Lunar can: 
 - Make her Caste Mark appear for as long as she desires. 
@@ -94,9 +94,26 @@ In addition to these universal effects, Lunars of each Caste enjoy a number of i
 - [[Changing Moon#Anima Effects]]
 - [[Casteless#Anima Effects]]
 
+# Infernal
+As an Infernal expend Essence, she become wreathed in the blazing radiance of their anima banner. For every five motes of Peripheral Essence she spends in an instant, her anima banner rises one level.
+## Infernal Anima Levels
+
+| Anima Level    | Effects                                                                                                                                                                                                                                                                                                    |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dim            | The Infernal’s anima is invisible.                                                                                                                                                                                                                                                                         |
+| Glowing        | The Infernal’s anima outlines her body in light. Her Caste Mark shines through anything placed over it. [[Stealth]] and disguise rolls suffer a −3 penalty.                                                                                                                                                |
+| Burning        | The Infernal’s anima flares into a blazing aura. [[Stealth]] is impossible.                                                                                                                                                                                                                                |
+| Bonfire/Iconic | The Infernal’s anima ignites into a bonfire stretching into the sky, visible for miles around. Upon reaching bonfire and at suitably dramatic moments, her anima manifests a personalized iconic display: her anima completely illuminates her surroundings within short range. [[Stealth]] is impossible. |
+## Infernal Anima Effects
+For one mote, an Infernal can:
+- Manifest her Caste Mark for as long as she desires.
+- Sense the approximate location of nearby pathways into Hell.
+- Discern how many days remain until Calibration.
+
 # Sidereal
 
-As Sidereals spend Essence, they manifest halos and then anima banners in their patron Maidens’ colors. Every five peripheral motes spent an instant increases a Sidereal’s anima banner by one level. Their anima banners are subtler than other Chosen’s.
+As Sidereals spend Essence, they manifest halos and then anima banners in their patron Maidens’ colours. Every five peripheral motes spent an instant increases a Sidereal’s anima banner by one level. Their anima banners are subtler than other Chosen’s.
+## Sidereal Anima Levels
 
 | Anima Level    | Effects                                                                                                                                                                                                                                       |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,7 +122,7 @@ As Sidereals spend Essence, they manifest halos and then anima banners in their 
 | Burning        | A halo wreathes the Sidereal’s head, subsuming her Caste Mark, and anima limns her body. This may be accompanied by other sensory displays. Stealth rolls suffer a −3 penalty; other characters add +3 dice on rolls opposing her disguises.. |
 | Bonfire/Iconic | The Sidereal’s anima banner engulfs her in a brilliant aura. Upon reaching bonfire and at suitably dramatic moments, she manifests a unique iconic display. Stealth is impossible.                                                            |
 
-## Anima Effects
+## Sidereal Anima Effects
 
 For one mote, a Sidereal can manifest her Caste Mark for as long as she wants or sense the approximate location of any nearby heavenly gates (p. XX).
 
