@@ -26,6 +26,6 @@ These Second Circle demons gain an additional spirit Charm at the end of each st
 The Infernal can create up to seven Second Circle demons for her fetich. If she has [[Primordial Essence Ascension#Immortal Soul Multiplicity (Essence 4)|Immortal Soul Multiplicity]], she can also create Second Circle demons that emanate from her other Third Circle souls, up to seven each.
 
 The first time the Infernal uses this Charm, its experience point cost is waived.
-### Keys 
+## [[Keys]]
 #### Infernal Aeon Emanation (Essence 3)
 The Infernal adds +2 to the Essence of these Second Circle demons, including demons she’s already created. This also applies to Third Circle demons created with [[Primordial Essence Ascension|Primordial Essence Ascension.]] Their greater Essence doesn’t mean they’re superior to their creator — they draw from the untapped well of infinite potential within her, heralds of what she may one day become.

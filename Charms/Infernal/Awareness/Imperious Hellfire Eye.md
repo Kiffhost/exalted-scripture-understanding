@@ -21,7 +21,6 @@ The Infernal gains the following benefits:
 - Her blazing eyes add (Perception/2, rounded up) dice on threaten rolls against those who can see them, but impose a penalty in the same amount on her Stealth rolls. Both the bonus and the penalty are halved if the Infernal covers one (or most) of her eyes, such as with an eyepatch.
 
 This Charm lasts one scene for three motes or indefinitely for six motes, one Willpower.
-### Keys 
+## [[Keys]]
 #### I See All (Awareness 5, Essence 3)
 The Infernal adds one die to this Charm’s bonus on Awareness rolls and threaten rolls, but increases the penalty on Stealth rolls by one as well. She can fine details clearly up to a mile away. Even in zero-visibility environments, she can make out visual details, suffering only a −1 penalty.
-

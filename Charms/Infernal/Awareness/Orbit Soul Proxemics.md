@@ -21,7 +21,6 @@ The Infernal gains the following benefits:
 - She can make a touch-based Awareness roll to sense whether a character is subordinate or inferior within a legal, social, or metaphysical hierarchy (including First and Second Circle demons). It’s difficulty 3 by default, but may require a roll against a character’s Guile, disguise roll, or the like if he’s taken steps to conceal that status.
 
 This Charm lasts one scene for three motes or indefinitely for six motes, one Willpower.
-### Keys
+## [[Keys]]
 #### Expansive Proprioception Scan (Awareness 5, Essence 3)
 This Charm’s range extends to medium, or one range band beyond [[Mind-Hand Manipulation|Mind-Hand Manipulation's]] range. She converts this Charm’s bonus to automatic successes against subordinates and inferiors. She can instantly scan and visualize objects and tangible phenomena like wind within range without a roll, learning spatial details such as size, shape, and the direction and velocity of movement.
-

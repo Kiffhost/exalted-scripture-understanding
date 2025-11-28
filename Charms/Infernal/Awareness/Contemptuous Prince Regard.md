@@ -23,7 +23,7 @@ The Infernal adds one die on an Awareness roll for each condition that applies:
 If the Infernal beats a character’s Larceny or Stealth with her roll, that character subtracts one success from his total to determine whether other characters beat his roll.
 ## Special activation rules
 This Charm’s duration can be extended as per the [[Infernal Awareness vs. Multiple Foes|Awareness Excellency]].
-### Keys 
+## [[Keys]]
 #### Unblinking Hatred Awareness
 The Infernal can always use this Charm after an Awareness roll.
 #### World-Scorning Scrutiny (Essence 2) (+2m)

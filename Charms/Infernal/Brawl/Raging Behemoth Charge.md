@@ -19,7 +19,7 @@ To use this Charm, the Infernal must have Initiative 6+. She makes a withering o
 If she deals 5+ withering damage or any decisive damage, her target is knocked back one range band. If it was a smash attack, she instead adds an additional success on the damage roll. The same is true if she uses [[Fists of the Old Ones]] with this Charm.
 ## Special activation rules
 The Infernal can use [[Joyful Cessation of Restraint]] reflexively instead of making an attack with this Charm normally. Doing so gives up this Charm’s damage bonus.
-### Keys
+## [[Keys]]
 #### Leaping Smash Technique
 The Infernal can leap vertically upward or downward for some or all of this Charm’s movement, and doesn’t take damage from falling after the attack. If she crashes an airborne enemy or deals 3+ decisive damage, he falls to the ground. Even if he only fell from close range, he suffers damage as per a short-range fall (Exalted, p. 232).
 #### Nowhere to Hide ([[#Leaping Smash Technique]])

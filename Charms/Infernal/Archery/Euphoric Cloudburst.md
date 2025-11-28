@@ -21,11 +21,10 @@ If the Infernal deals damage with a decisive attack, her target is poisoned with
 The poison's duration is increased by two rounds if the Infernal is experiencing the same emotion, whether through an effect like an inspire roll or roleplaying her strong passions in the same scene.
 ### Blasphemy
 If the Infernal's [[Devil-Body]] has the [[Toxic Apotheosis (Torment)|Toxic Apotheosis]] feature, she can choose to substitute this Charm's poison for that feature's standard traits when she enters her [[Devil-Body]].
-### Keys
+## [[Keys]]
 #### Psychedelic Rainbow Venom
 Instead of suffusing poisoned characters with an emotion, the Infernal can cause them to gain a single Minor Derangement of her choice for as long as they remain poisoned (Exalted, p. 168). An affected character must immediately roll against the Derangement. If they're reduced to zero Willpower by the poison, they gain that Derangement permanently.
 #### Indelible Prismatic Stains (Essence 2)
 The poison's damage and penalty are increased by one, or by two if the Infernal is experiencing the inflicted emotion.
 #### One Hundred Colours Stain (Archery 4, Essence 3, [[#Indelible Prismatic Stains (Essence 2)|Indelible Prismatic Stains]])
 The Infernal always gains Indelible Prismatic Stains' bonus. No matter how many successes a character rolls, they can't reduce the poison's duration below one round.
-

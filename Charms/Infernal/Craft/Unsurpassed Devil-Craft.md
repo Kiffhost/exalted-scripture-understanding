@@ -15,7 +15,7 @@ Prerequisite Charms:
 *The Infernal’s works marry mad genius with frenzied labour, unsurpassed by lesser smiths.*
 
 The Infernal rerolls 6s until they cease to appear on a Craft roll. If she rerolls at least three 6s, she also adds a non-Charm successes. She always gains this bonus on Craft rolls that involve the exotic substances of Hell or the craftsmanship of its demonic denizens.
-### Keys
+## [[Keys]]
 #### Brazen Panoply Forging (Essence 2) (+1wp, +4gxp/wxp)
 The Infernal can pay a surcharge of one Willpower and four gold to points use this Charm after a Craft roll. If it’s a roll for a legendary project, she must spend white points instead. The bonus for rolling three 6s increases to two non-Charm successes and (Essence) non-Charm dice. As usual, the Infernal always receives this bonus on rolls involving hellish crafting.
 #### Demon-King Atelier (Craft 4, [[#Brazen Panoply Forging (Essence 2) (+1wp, +4gxp/wxp)|Brazen Panoply Forging]])

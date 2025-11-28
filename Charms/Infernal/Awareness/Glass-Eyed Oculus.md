@@ -19,7 +19,7 @@ The Infernal creates up to (Essence) floating eyes of glass within close range o
 The Infernal can take a reflexive action on her turn to move one of the eyes one range band in any direction, or a miscellaneous action to move all of them one range band. She can’t move them beyond long range, or more than short range above the ground. They’re immune to withering or decisive damage, but can be destroyed with a difficulty 3 gambit against an Evasion of (Infernal’s Perception).
 
 The floating eyes watch for danger in all directions. When an enemy with lower Initiative makes an unexpected attack against the Infernal, the Defense penalty is reduced by one. This doesn’t apply against enemies who are beyond her glass eyes’ visual range or entirely obscured from their sight.
-### Keys 
+## [[Keys]]
 #### Countless Watching Eyes
 The Infernal can create up to (Essence + Perception) eyes. As long as she has at least two eyes manifested, she gains this Charm’s protection against unexpected attacks against enemies of equal or higher Initiative. Crashed enemies’ attacks are never unexpected against her, even ambushes.
 #### Hell-Sand Vitrification

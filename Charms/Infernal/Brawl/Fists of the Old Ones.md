@@ -22,6 +22,6 @@ If the Infernal deals damage with a decisive attack, she knocks her opponent pro
 If the Infernal’s victim collides with an obstacle, the falling damage roll is also treated as a feat of demolition against it. If the feat is successful, he loses (Infernal’s Strength) Initiative. If the attack incapacitated him, she adds this to her base Initiative instead.
 
 With Essence 3, the Infernal doubles the total damage dealt for purposes of this Charm’s effect. If she deals 7+ damage, she can knock an enemy back or upward by two range bands, with medium-range fall damage. If the collision deals damage, the Willpower cost to resist gaining an Intimacy is increased by four.
-### Keys
+## [[Keys]]
 #### Infernal Hellraiser’s Instinct (Brawl 5, Essence 3) (4m, 1wp)
 Once per scene, when the Infernal knocks an enemy upward, she can pay four motes, one Willpower to leap into the air with him, making a reflexive decisive attack against him before he plummets and suffers falling damage. Her Initiative doesn’t reset until she’s made this attack. The Infernal doesn’t suffer falling damage. This uses her movement action. She can reset this key by gaining ten Initiative in a single tick.

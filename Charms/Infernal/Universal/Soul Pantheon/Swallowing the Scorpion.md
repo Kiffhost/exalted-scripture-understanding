@@ -21,4 +21,3 @@ Once per scene, the Infernal may call on her coadjutor for one of the following 
 - The coadjutor notices threats that the Infernal might not, adding two dice on Join Battle rolls and Awareness rolls to detect hidden threats for the rest of the scene.
 - The coadjutor guides the Infernal in interactions with demons, adding two dice on influence roll to read intentions roll against demons for the rest of the scene.
 - As an aspect of the Infernal, her coadjutor knows her true self. Its voice reminds her of this, granting +1 Resolve against an influence roll that opposes one of her Defining Intimacies or a Psyche effect.
-

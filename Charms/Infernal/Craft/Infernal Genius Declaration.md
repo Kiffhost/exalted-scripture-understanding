@@ -20,7 +20,7 @@ The Infernal rolls (Intelligence + Craft) after a scene spent poring over design
 The Infernal doubles 9s if her labours involve exotic substances and reagents of the Demon City, demonic specimens, the forbidden lore of Hell, or the like, or a hellish stunt suitable to the Storyteller. However, if she receives any gold points, she gains a related Minor Intimacy: fascination with the transformative properties of vitriol; annoyance with one of her demonic minions; an arrogant confidence in her ability to master forbidden powers. She can’t voluntarily weaken it for the rest of the session.
 ## Reset
 Once per story.
-### Keys
+## [[Keys]]
 #### Blasphemous Epiphany of Design
 The Infernal always doubles 9s, and doubles 8s with hellish crafting. With Craft 5, Essence 3, she always doubles 8s, and doubles 7s for hellish endeavours.
 #### Triumphant Genius Vindication (Essence 2, [[#Blasphemous Epiphany of Design]])

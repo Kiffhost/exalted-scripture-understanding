@@ -21,4 +21,3 @@ The Infernal’s superhuman speed converts the dice from [[Wind-Born Stride]] to
 This Charm ends if the Infernal stops moving.
 ## Reset
 Once per round.
-

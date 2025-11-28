@@ -19,7 +19,7 @@ The Infernal can use this Charm to reset the once-per-story limit on using her [
 Additionally, the Infernal gains one of this Charm’s keys for free. Each provides another way of resetting her [[Devil-Body]], as above.
 ## Reset
 Once per session.
-### Keys
+## [[Keys]]
 #### Breaking Point Rampage
 The Infernal can use this Charm when subjected to extreme duress or torment: being forced to act against a Defining Intimacy, being imprisoned under agonizing conditions, watching someone she has a Defining Tie of love for die, etc.
 #### Hellish Eruption Unleashed
@@ -30,4 +30,3 @@ The Infernal’s [[Devil-Body]] resets when she’s incapacitated by an enemy fo
 The Infernal’s [[Devil-Body]] resets when she accomplishes a legendary social goal.
 #### The Face of the Titans (Essence 5, any one key) (+20m, 1wp)
 Once per story, the Infernal can pay a twenty-mote, one-Willpower surcharge to use this Charm whenever one of her [[Devil-Body]]’s trigger conditions is met.
-

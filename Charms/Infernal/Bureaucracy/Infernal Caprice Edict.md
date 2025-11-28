@@ -17,7 +17,7 @@ Prerequisite Charms:
 The Infernal proclaims a law of Hell — potentially one that she makes up on the spot — and rolls ({Charisma or Manipulation} + Bureaucracy) with double 9s to instil a Principle based on adherence to this law. Alternatively, the Infernal can make a persuade roll that leverages an Intimacy she’s instilled with this Charm. First Circle demons and characters with Ties of reverence toward the Infernal suffer −1 Resolve.
 
 If a character wishes to spend Willpower to resist being instilled with a Minor Intimacy, he must enter a Decision Point and cite at least a Minor Intimacy to do so.
-### Keys
+## [[Keys]]
 #### Counter-Pronouncement of Enthymemic Law (Bureaucracy 4, Essence 2)
 The Infernal can use this Charm reflexively to oppose social influence or a Shaping effect with this Charm’s roll, citing or inventing a law that forbids such trespasses. Its influence always applies against the character who uses the opposing effect, but doesn’t affect others unless the Infernal wins the opposed roll.
 #### Proscribed Blasphemy Expurgation (Bureaucracy 5, Essence 3, Counter-Pronouncement of Enthymemic Law) (+6m, 1wp)

@@ -15,7 +15,7 @@ Prerequisite Charms:
 *The Infernal’s craft is beyond mortal ken; only Hell knows such wonders.*
 
 The Infernal doubles 9s on a Craft roll for any project that uses the exotic materials of the Demon City or [[Materials#Orichalcum|orichalcum]]. It can be used with the other magical materials if they’ve been tempered in the vitriol of Hell, or another of the other corrupting or transformative substances found there.
-### Keys
+## [[Keys]]
 #### Demon Prince Handiwork (Craft 3)
 The Infernal can use this Charm on any Craft roll. However, such creations invariably possess alien aesthetics and strange features reminiscent of the Demon City’s craftsmanship.
 #### Artisan of Infernal Wonders (Craft 5, Essence 2) (+2gxp)

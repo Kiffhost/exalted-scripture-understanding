@@ -21,6 +21,6 @@ The Infernal rushes an enemy within medium range. If successful, she dissolves i
 As the Infernal reforms, the swirling winds inflict a one-time environmental hazard on her target with difficulty (1 + Infernal’s extra successes, maximum 5) and Damage (Essence)A. If she’s using Pellegrina’s Fury and rushes an enemy vulnerable to its environmental hazard, she instead adds half her extra successes on the rush roll to the hazard’s difficulty for her target’s first exposure.
 
 While using [[Racing Vitaris]], this Charm’s range becomes long. With five purchases of [[Wind-Born Stride]], the Infernal always gains this benefit.
-### Keys
+## [[Keys]]
 #### Hateful Nemesis Pursuit
 The Infernal can flurry this Charm with an attack against her target and suffers no penalties for doing so.

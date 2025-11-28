@@ -15,7 +15,7 @@ Prerequisite Charms:
 *The Infernal’s monstrous ferocity grasps and rends all who come within reach.*
 
 The Infernal rerolls 6s until they cease to appear on the attack roll for a grapple gambit. If she succeeds on the gambit’s attack roll with 3+ extra successes, she also gains this bonus on the Initiative and control rolls. She always receives this benefit against enemies that are smaller than her.
-### Keys
+## [[Keys]]
 #### Lunging Monster Speed (Brawl 4, Essence 2)
 The Infernal can use this Charm after an attack roll, but before the damage roll.
 #### God-Strangling Attitude (Brawl 5, Essence 2) (+3m)

@@ -19,4 +19,3 @@ The Infernal can attempt a feat of strength beyond her size and leverage, punchi
 With Essence 5, the Infernal can attempt feats regardless of their Strength minimum.
 ## Reset
 Once per scene unless reset by succeeding on a difficulty 10+ feat of strength.
-

@@ -22,7 +22,7 @@ For three motes, an enemy damaged by a decisive bite attack must instead roll ag
 Rolls to disguise the Infernal’s fangs suffer a −2 penalty unless her mouth is covered completely.
 ### Blasphemy
 If the Infernal’s [[Devil-Body]] has the [[Pestilent Apotheosis (Torment)|Pestilent Apotheosis]] feature, she can choose to substitute any disease she can use with this Charm for that feature’s standard disease when she enters her [[Devil-Body]].
-### Keys
+## [[Keys]]
 #### Pestilential Hunger Bite (Brawl 3)
 The Infernal can transmit any mundane disease that she’s familiar with, and reduces its interval to one day if it’s higher. Mortals and crashed enemies gain the disease at Major intensity.
 #### Carrion-Picking Appetite (Brawl 4) (2m)

@@ -18,4 +18,3 @@ If the Infernal deals damage with a decisive attack, her target suffers a -1 pen
 
 If the Infernal knows one of her target's Intimacies, she may root the arrow's growth in it, adding (Intimacy/2, rounded up) to the starting penalty on rolls and the maximum penalty.
 The vines be removed with a gambit at a difficulty of (current penalty + 3).
-

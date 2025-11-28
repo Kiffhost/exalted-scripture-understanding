@@ -21,4 +21,3 @@ The Infernal can also use this Charm on an opposed Athletics roll in a test of s
 If multiple characters use this Charm or a similar effect in a test of speed, each of them counts as having rolled one success more than the highest number of successes on any one roll.
 ## Reset
 Once per scene.
-

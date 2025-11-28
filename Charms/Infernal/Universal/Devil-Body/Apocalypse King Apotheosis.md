@@ -19,6 +19,6 @@ The Infernal enters her [[Devil-Body]] without needing to meet its trigger condi
 If the Infernal uses this Charm together with [[Unbound God-Monster Resurgence]], she waives this Charm’s Willpower cost.
 ## Reset
 Once per story.
-### Keys 
+## [[Keys]]
 #### Infinite Blasphemy Beast
 The Infernal can use this Charm once per session.

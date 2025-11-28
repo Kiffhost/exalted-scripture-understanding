@@ -22,6 +22,6 @@ While clinching multiple enemies, the Infernal’s grapple actions are expanded:
 - **Savage**: The Infernal makes a single savaging attack roll against any number of grappled enemies. Withering attacks roll damage separately against each grappled foe. Only the single highest withering damage roll awards Initiative to the Infernal, although she can receive Initiative Breaks for crashing multiple foes. Decisive savaging attacks divide her Initiative evenly among all foes (rounded up) to determine the damage rolled against them, ignoring Hardness.
 - **Restrain/Drag**: The Infernal can restrain any number of grappled enemies or drag them in the same direction. This costs two rounds of control for each enemy.
 - **Throw/Slam**: The Infernal can throw or slam any number of grappled enemies in the same direction. This follows the same rules as savaging attacks.
-### Keys 
+## [[Keys]]
 #### Star-Swallowing Cosmos Collapse
 This Charm’s range increases to short, dragging enemies into close range.

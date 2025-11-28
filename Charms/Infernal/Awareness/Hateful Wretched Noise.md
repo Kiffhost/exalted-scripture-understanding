@@ -21,7 +21,7 @@ The Infernal gains the following benefits:
 - If she can hear someone yelling or a comparably loud noise, she counts as having a Minor Principle that supports silencing that noise by any means necessary.
 
 This Charm lasts one scene for three motes or indefinitely for six motes, one Willpower.
-### Keys
+## [[Keys]]
 #### Let Silence Fall (Awareness 3)
 The Infernal gains this Charm’s benefits permanently. However, if she can hear yelling or comparably loud noise, she must immediately silence it by any means necessary unless she spends one Willpower to resist, maximum once per session. If she does resist this compulsion, she suffers a −1 penalty on all actions until the noise stops.
 #### Whispers Like Knives (Awareness 5, Essence 3)

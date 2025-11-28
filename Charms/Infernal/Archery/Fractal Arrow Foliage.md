@@ -19,7 +19,7 @@ The Infernal shoots a projectile at a point within her weapon's range, causing m
 The metallic foliage can provide light cover, and the Infernal can roll to take cover within it reflexively on her turn. (This still uses her movement action.) Enemies never receive the benefit of this cover against the Infernal's attacks.
 
 The mirrored foliage reflects enemies' innermost truths. As long as they're within the overgrowth, they suffer -2 Guile.
-### Keys 
+## [[Keys]] 
 #### Hell-Gardener's Mercy
 The Infernal's allies aren't impeded by the foliage's difficult terrain or hazard, and their attacks ignore its cover.
 #### Thousand Razor Forest

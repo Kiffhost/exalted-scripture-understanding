@@ -27,4 +27,3 @@ The projectile provides the following benefits:
 The Infernal can only have one such projectile at a time. If her Tie for her nemesis falls below Defining, the projectile crumbles into ash.
 ## Reset
 Once per story unless reset by killing a nemesis with the dedicated projectile.
-

@@ -17,7 +17,7 @@ Prerequisite Charms:
 The Infernal takes an aim action, converting the dice added by it to non-Charm successes on the attack roll. If the Infernal has a Tie of hatred toward her target, the attack that benefits from the aim action ignores Defense bonuses from light and medium cover. She also ignores up to (Intimacy) points of penalties from external conditions, like poor visibility or bad weather.
 
 The Infernal's precision allows her to attack even through full cover as long as there's any opening for the attack. However, such enemies still receive +3 non-Charm Defense from the cover. With a Tie of hatred, this bonus is reduced by (Intimacy).
-### Keys
+## [[Keys]]
 #### Murderous Clarity Focus (Archery 3)
 The Infernal can ignore penalties of any kind if she has a Tie of hatred, including Accuracy penalties.
 #### Bitter-Hearted Barb (Archery 4)

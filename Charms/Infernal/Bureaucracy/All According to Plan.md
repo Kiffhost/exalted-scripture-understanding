@@ -24,7 +24,7 @@ If the Infernal uses this Charm in response to a threat posed by a specific char
 If the organization benefits from [[Inauspicious Benediction of Endeavor]], its time reduction applies when determining how lengthy a task the Infernal can prepare.
 ## Reset
 Once per story unless reset by accomplishing a legendary social goal with a bureaucratic project.
-### Keys 
+## [[Keys]]
 #### Aeon-Spanning Mastermind Agenda
 The Infernal waives this Charm’s cost and can retroactively accomplish projects that would take up to a year.
 #### Infinitely Subtle Intrigue

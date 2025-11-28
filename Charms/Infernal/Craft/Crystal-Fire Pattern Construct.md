@@ -19,7 +19,7 @@ The Infernal can use this Charm on her turn to create a simple, geometric form o
 A feat of demolition to destroy the construct requires a minimum Strength of (Essence + Intelligence) and has difficulty (Essence + Willpower). Environmental hazards and similar sources of harm can damage or destroy them, at the Storyteller’s discretion, but they’re immune to environmental hazards with damage lower than (higher of Infernal’s Essence or 3).
 
 At the end of the scene, the Infernal’s constructs dissolve into translucent white light.
-### Keys
+## [[Keys]]
 #### Conceptual Structure Reinforcement
 The Infernal can create constructs large enough to provide heavy cover.
 #### Crystal-Fire Barrier Technique (Essence 2) (+3i)
