@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"35fca4405fd4dc38","x":-2160,"y":-600,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Aesthetics of Brazen Perfection.md"},
+		{"id":"e03b6e0727fb20f7","x":-2160,"y":-120,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Unsurpassed Devil-Craft.md"},
+		{"id":"4f3583dc32ea9d46","x":-1680,"y":840,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Verdigris Relic Corruption.md"},
+		{"id":"ea151da950175bcb","x":-1680,"y":360,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Demon-Smelting Furnace Temper.md"},
+		{"id":"6da7f63e5249e916","x":-1680,"y":-600,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Glory-Forging Sacrifice.md"},
+		{"id":"a5283f8dda8876f7","x":-1680,"y":1320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Green Sun Forge.md"},
+		{"id":"55a41dcb6217cc0d","x":-3120,"y":360,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Unwrought Dream Perfection.md"},
+		{"id":"d26182ee79368e04","x":-2640,"y":360,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Infernal Genius Declaration.md"},
+		{"id":"3da7216f90db4fde","x":-2640,"y":840,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Fiendish Deathtrap Ingenuity.md"},
+		{"id":"c5cd1509ff5062e1","x":-2640,"y":1320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Elsewise Masterworks Paradox.md"},
+		{"id":"deeb0080bf8e425f","x":-2880,"y":-600,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Demon-Smith’s Labors.md"},
+		{"id":"bfe0a9c39bee2aaf","x":-2880,"y":-120,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/World Architect Prerogative.md"},
+		{"id":"2e112ac7ddd1a191","x":-3600,"y":360,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Correction of Imperfect Forms.md"},
+		{"id":"bfacf16c1ba9768d","x":-3600,"y":-600,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Blasphemous Idol Grotesquerie.md"},
+		{"id":"a6b0a94098dedc94","x":-3600,"y":-120,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Hundred-Handed Demiurge Endeavor.md"},
+		{"id":"9cb8ba24310c0f8c","x":-1200,"y":360,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Force-Suppression Barrier.md"},
+		{"id":"59d2bf1b2225b5a3","x":-1200,"y":-600,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Experimental Acceleration Mastery.md"},
+		{"id":"fcb342b8a4a87e1c","x":-1200,"y":-120,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Craft/Crystal-Fire Pattern Construct.md"}
+	],
+	"edges":[
+		{"id":"aa5f3e42af8c3749","fromNode":"35fca4405fd4dc38","fromSide":"bottom","toNode":"e03b6e0727fb20f7","toSide":"top"},
+		{"id":"eb54527afbd58e97","fromNode":"deeb0080bf8e425f","fromSide":"bottom","toNode":"bfe0a9c39bee2aaf","toSide":"top"},
+		{"id":"b19abd5751d78cab","fromNode":"bfe0a9c39bee2aaf","fromSide":"bottom","toNode":"55a41dcb6217cc0d","toSide":"top"},
+		{"id":"5b0ccf1d567e82e2","fromNode":"bfe0a9c39bee2aaf","fromSide":"bottom","toNode":"d26182ee79368e04","toSide":"top"},
+		{"id":"d23cb6fbf986028f","fromNode":"e03b6e0727fb20f7","fromSide":"bottom","toNode":"d26182ee79368e04","toSide":"top"},
+		{"id":"fb400ca967076287","fromNode":"fcb342b8a4a87e1c","fromSide":"bottom","toNode":"9cb8ba24310c0f8c","toSide":"top","color":"6","label":"Key"},
+		{"id":"bf247b725018e03c","fromNode":"ea151da950175bcb","fromSide":"bottom","toNode":"4f3583dc32ea9d46","toSide":"top"},
+		{"id":"5d6b43673a0bc9d4","fromNode":"59d2bf1b2225b5a3","fromSide":"bottom","toNode":"fcb342b8a4a87e1c","toSide":"top"},
+		{"id":"759152d1426b5f00","fromNode":"6da7f63e5249e916","fromSide":"bottom","toNode":"ea151da950175bcb","toSide":"top"},
+		{"id":"d99504cbdfce8846","fromNode":"e03b6e0727fb20f7","fromSide":"bottom","toNode":"ea151da950175bcb","toSide":"top"},
+		{"id":"8eb78dead4a3b608","fromNode":"4f3583dc32ea9d46","fromSide":"bottom","toNode":"a5283f8dda8876f7","toSide":"top"},
+		{"id":"e592939d525d781c","fromNode":"e03b6e0727fb20f7","fromSide":"bottom","toNode":"c5cd1509ff5062e1","toSide":"right","color":"6","label":"Key"},
+		{"id":"83aec79adce4f867","fromNode":"e03b6e0727fb20f7","fromSide":"bottom","toNode":"a5283f8dda8876f7","toSide":"left","color":"6","label":"Key"},
+		{"id":"50f4074c7b6c394d","fromNode":"55a41dcb6217cc0d","fromSide":"bottom","toNode":"c5cd1509ff5062e1","toSide":"left"},
+		{"id":"6dee8861992dfa96","fromNode":"e03b6e0727fb20f7","fromSide":"bottom","toNode":"3da7216f90db4fde","toSide":"right"}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"16b4570f7e4bb543","x":-2760,"y":-920,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Sand-Through-Fingers Defense.md"},
+		{"id":"4e6d5495267528a6","x":-2280,"y":-920,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Sloughed Husk Warren.md"},
+		{"id":"ea3a55e1fc1f6044","x":-1800,"y":-920,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Kalmanka’s Grace.md"},
+		{"id":"c1d710c44657881f","x":-1320,"y":-920,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Crimson Orphan Abandonment.md"},
+		{"id":"fa3d4a951a65febd","x":-1800,"y":-320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/New Friend Excitement.md"},
+		{"id":"bf2d5b0132c4592d","x":-840,"y":-920,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Opened Eye of the Hurricane.md"},
+		{"id":"d09b4b2edd0188e4","x":-1320,"y":-320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Splintered Gale Separation.md"},
+		{"id":"0677f07dc5b7aa65","x":-1800,"y":-1520,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Who Strikes the Wind.md"},
+		{"id":"6e838b1df0443e62","x":-2280,"y":-1520,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Distorted World Ripple.md"},
+		{"id":"e657ff4a2807e0e1","x":-2760,"y":-1520,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Shadow Escapes the Sun.md"},
+		{"id":"4c3b363d6d5683be","x":-2760,"y":-320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Soul-Sieve Transmutation.md"},
+		{"id":"120d72022ad54fbd","x":-2280,"y":-320,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Swallowed in Eternity.md"},
+		{"id":"ca55838fe124fce8","x":-2760,"y":280,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Flesh-Scorning Flagellation.md"},
+		{"id":"e315cc19ade66535","x":-2760,"y":880,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Soul-Sand Devil Incarnation.md"},
+		{"id":"e51edfaad78aafeb","x":-2280,"y":280,"width":400,"height":400,"type":"file","file":"Obsidian Exalted/Charms/Infernal/Dodge/Exodus Beyond Eternity.md"}
+	],
+	"edges":[
+		{"id":"f6af73bb4dacae71","fromNode":"0677f07dc5b7aa65","fromSide":"bottom","toNode":"ea3a55e1fc1f6044","toSide":"top"},
+		{"id":"0b5808089bb2a4ea","fromNode":"0677f07dc5b7aa65","fromSide":"bottom","toNode":"bf2d5b0132c4592d","toSide":"top","color":"6","label":"Key"},
+		{"id":"7d67afaf10a3c996","fromNode":"0677f07dc5b7aa65","fromSide":"bottom","toNode":"16b4570f7e4bb543","toSide":"top","color":"3","label":"OR"},
+		{"id":"a67e8e0471578d65","fromNode":"0677f07dc5b7aa65","fromSide":"bottom","toNode":"c1d710c44657881f","toSide":"top","color":"6","label":"Key"},
+		{"id":"36df7d45081db599","fromNode":"0677f07dc5b7aa65","fromSide":"bottom","toNode":"4e6d5495267528a6","toSide":"top","color":"3","label":"OR"},
+		{"id":"f3f4daf8a146fa91","fromNode":"4c3b363d6d5683be","fromSide":"bottom","toNode":"ca55838fe124fce8","toSide":"top"},
+		{"id":"387ac8e5f79d9697","fromNode":"16b4570f7e4bb543","fromSide":"bottom","toNode":"4c3b363d6d5683be","toSide":"top"},
+		{"id":"e5aa249d9f48d886","fromNode":"ea3a55e1fc1f6044","fromSide":"bottom","toNode":"fa3d4a951a65febd","toSide":"top","color":"6","label":"Key"},
+		{"id":"54ea6e459fda0f00","fromNode":"e657ff4a2807e0e1","fromSide":"bottom","toNode":"16b4570f7e4bb543","toSide":"top","color":"3","label":"OR"},
+		{"id":"ebd64920a074467b","fromNode":"6e838b1df0443e62","fromSide":"bottom","toNode":"16b4570f7e4bb543","toSide":"top","color":"3","label":"OR"},
+		{"id":"4a5215fecc3ab0fd","fromNode":"6e838b1df0443e62","fromSide":"bottom","toNode":"4e6d5495267528a6","toSide":"top","color":"3","label":"OR"},
+		{"id":"8d26af2935702d74","fromNode":"e657ff4a2807e0e1","fromSide":"bottom","toNode":"4e6d5495267528a6","toSide":"top","color":"3","label":"OR"},
+		{"id":"b3d0ac302456d7f5","fromNode":"ca55838fe124fce8","fromSide":"bottom","toNode":"e315cc19ade66535","toSide":"top","color":"6","label":"Key"},
+		{"id":"b7b4cd58f2fa4a1a","fromNode":"c1d710c44657881f","fromSide":"bottom","toNode":"d09b4b2edd0188e4","toSide":"top"},
+		{"id":"199a78d55335f034","fromNode":"16b4570f7e4bb543","fromSide":"bottom","toNode":"120d72022ad54fbd","toSide":"top"},
+		{"id":"8fb0c87f7b96ac04","fromNode":"120d72022ad54fbd","fromSide":"bottom","toNode":"e51edfaad78aafeb","toSide":"top","color":"6","label":"Key"}
+	]
+}
