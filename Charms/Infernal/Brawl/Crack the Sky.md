@@ -11,7 +11,7 @@ Keywords:
 Duration: Instant
 Prerequisite Charms:
   - "[[Star-Shaking Fury]]"
-  - "[[Unwitting Victim Bludgeon#Splattered Foe Barrage (Brawl 5, Essence 3) (+4m)|Unwitting Victim (Splattered Foe Barrage)]]"
+  - "[[Unwitting Victim Bludgeon#Splattered Foe Barrage (Brawl 5, Essence 3) (+4m)|Unwitting Victim Bludgeon (Splattered Foe Barrage)]]"
   - "[[World-Breaker Grip]]"
 ---
 *One day, the monster will tear the sun from the sky. Until then, she flings screaming reminders of this doom into the heavens as her unwilling heralds.*
