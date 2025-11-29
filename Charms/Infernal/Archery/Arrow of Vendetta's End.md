@@ -11,7 +11,7 @@ Keywords:
   - Dual
 Duration: Instant
 Prerequisite Charms:
-  - "[[Unwavering Hatred Acuity#Exquisite Slaughter Precision (Archery 5, Essence 2, Bitter-Hearted Barb, Murderous Clarity Focus) (+2m, 1wp)|Unwavering Hatred Acuity (Exquisite Slaughter Precision)]]"
+  - "[[Unwavering Hatred Acuity#Exquisite Slaughter Precision (Archery 5, Essence 2, Bitter-Hearted Barb (Archery 4) Bitter-Hearted Barb , Murderous Clarity Focus (Archery 3) Murderous Clarity Focus ) (+2m, 1wp)|Unwavering Hatred Acuity (Exquisite Slaughter Precision)]]"
 ---
 *The Infernal focuses the fullness of her hatred into a single arrow.*
 

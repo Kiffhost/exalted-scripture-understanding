@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"cacf9a9cead33c26","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Euphoric Cloudburst.md","x":-1960,"y":-1320,"width":400,"height":400},
+		{"id":"88ed7864fa98c4c2","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Endless Hellfire Quiver.md","x":-1240,"y":-1920,"width":400,"height":400},
+		{"id":"cef5fb001c84d4fb","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Skyfire Arbalest Unleashed.md","x":-1000,"y":-1320,"width":400,"height":400},
+		{"id":"ec5448435ebbfe15","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Nightmare Thunderclap Attack.md","x":-2200,"y":-720,"width":400,"height":400},
+		{"id":"887ee300a8bc24b7","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Storm-Temper Excitation.md","x":-1720,"y":-720,"width":400,"height":400},
+		{"id":"a89d8d07c6eda138","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Passion-Immolating Lightning.md","x":-2680,"y":-720,"width":400,"height":400},
+		{"id":"c4ede3571ae37527","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Fulminating Torment Bolt.md","x":-1960,"y":-120,"width":400,"height":400},
+		{"id":"013b552ef0d7be91","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Living Lightning Gavotte.md","x":-2440,"y":-120,"width":400,"height":400},
+		{"id":"383186702f545ed2","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Hell Tempest Fusillade.md","x":-1760,"y":480,"width":400,"height":400},
+		{"id":"d4ae60f3d7da6f05","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Frozen Heart Sleet.md","x":-1240,"y":-720,"width":400,"height":400},
+		{"id":"0566d5a49b1ae97e","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Reality-Rending Assault.md","x":440,"y":-1320,"width":400,"height":400},
+		{"id":"e7fd4e91d58a987b","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Unwavering Hatred Acuity.md","x":200,"y":-1920,"width":400,"height":400},
+		{"id":"174c12220aa8cb17","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Arrow of Vendetta's End.md","x":-40,"y":-1320,"width":400,"height":400},
+		{"id":"55133b925079de0a","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Insidious Quicksilver Entanglement.md","x":-520,"y":-1320,"width":400,"height":400},
+		{"id":"d718c74716ace64b","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Acidic Hatred Arrow.md","x":-1480,"y":-1320,"width":400,"height":400},
+		{"id":"d20e9a2e847e579a","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Fractal Arrow Foliage.md","x":-520,"y":-144,"width":400,"height":400},
+		{"id":"7ef11bc53cc624aa","type":"file","file":"Obsidian Exalted/Charms/Infernal/Archery/Heart-Seeking Roots.md","x":-520,"y":-720,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"45a1d5232b98d18e","fromNode":"88ed7864fa98c4c2","fromSide":"bottom","toNode":"d718c74716ace64b","toSide":"top"},
+		{"id":"b77b9cc88b215fec","fromNode":"e7fd4e91d58a987b","fromSide":"bottom","toNode":"174c12220aa8cb17","toSide":"top","color":"6","label":"Key"},
+		{"id":"39d0d299476a0fd4","fromNode":"88ed7864fa98c4c2","fromSide":"bottom","toNode":"cacf9a9cead33c26","toSide":"top"},
+		{"id":"276ef534b60a000e","fromNode":"7ef11bc53cc624aa","fromSide":"bottom","toNode":"d20e9a2e847e579a","toSide":"top"},
+		{"id":"67c3ec5013d9a8a3","fromNode":"cacf9a9cead33c26","fromSide":"bottom","toNode":"d4ae60f3d7da6f05","toSide":"top"},
+		{"id":"a123c1756a67fc70","fromNode":"ec5448435ebbfe15","fromSide":"bottom","toNode":"c4ede3571ae37527","toSide":"top"},
+		{"id":"9050c4da4c1447e9","fromNode":"887ee300a8bc24b7","fromSide":"bottom","toNode":"c4ede3571ae37527","toSide":"top"},
+		{"id":"5e5b46b2b2c1f24f","fromNode":"cacf9a9cead33c26","fromSide":"bottom","toNode":"887ee300a8bc24b7","toSide":"top"},
+		{"id":"8121b0f70c72cc84","fromNode":"cacf9a9cead33c26","fromSide":"bottom","toNode":"ec5448435ebbfe15","toSide":"top"},
+		{"id":"bf36fffab13cb5de","fromNode":"88ed7864fa98c4c2","fromSide":"bottom","toNode":"55133b925079de0a","toSide":"top"},
+		{"id":"e1a02090a4758278","fromNode":"cacf9a9cead33c26","fromSide":"bottom","toNode":"a89d8d07c6eda138","toSide":"top"},
+		{"id":"24c4cefa125678da","fromNode":"a89d8d07c6eda138","fromSide":"bottom","toNode":"013b552ef0d7be91","toSide":"top"},
+		{"id":"f08239060e7008aa","fromNode":"ec5448435ebbfe15","fromSide":"bottom","toNode":"013b552ef0d7be91","toSide":"top"},
+		{"id":"7dc6a127ef54bb7a","fromNode":"88ed7864fa98c4c2","fromSide":"bottom","toNode":"cef5fb001c84d4fb","toSide":"top"},
+		{"id":"7b351bd752513491","fromNode":"e7fd4e91d58a987b","fromSide":"bottom","toNode":"0566d5a49b1ae97e","toSide":"top","color":"6","label":"Key"},
+		{"id":"538db4422cff858c","fromNode":"d4ae60f3d7da6f05","fromSide":"bottom","toNode":"383186702f545ed2","toSide":"top"},
+		{"id":"a42bfe5c3b005174","fromNode":"c4ede3571ae37527","fromSide":"bottom","toNode":"383186702f545ed2","toSide":"top"},
+		{"id":"3b6139a4fb60b9d9","fromNode":"013b552ef0d7be91","fromSide":"bottom","toNode":"383186702f545ed2","toSide":"top"},
+		{"id":"48433dbf52cf9611","fromNode":"55133b925079de0a","fromSide":"bottom","toNode":"7ef11bc53cc624aa","toSide":"top"}
+	]
+}
