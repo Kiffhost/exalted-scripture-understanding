@@ -20,7 +20,7 @@ Prerequisite Charms:
 *The Infernal eludes her foe’s grasp, dissolving into silvery sands, crimson wind, shattered glass, or writhing shadows.*
 
 The Infernal can use this Charm after successfully dodging an attack, dissolving and then reforming one range band away. This doesn’t let her pass through physical barriers.
-## Keys
+## [[Keys]]
 #### Bloodless Murk Evasion (Dodge 4, Essence 2) (+2m)
 For a two-mote surcharge, if the Infernal successfully dodges, she can reflexively roll Stealth to establish concealment, as long as her new location provides a suitable hiding spot.
 #### Drifting Demon Abduction (Dodge 5, Essence 2) (+3m)

@@ -20,6 +20,6 @@ The Infernal ignores penalties to Evasion from external sources: onslaught penal
 If the Infernal successfully dodges an attack, she adds one die on the next attack roll, rush, or disengage she makes against her attacker. Bonuses from multiple uses of this Charm stack. She loses this benefit if she doesn’t use it by the end of her next turn.
 
 While using [[Opened Eye of the Hurricane]] (p. XX), the Infernal also gains +1 Evasion.
-## Keys
+## [[Keys]]
 #### Silent Wind Sublimation (Dodge 3)
 This Charm negates all penalties, other than surprise attack penalties.

@@ -21,7 +21,7 @@ Prerequisite Charms:
 The Infernal can use this Charm on her turn, forming a barrier of hellish debris. It provides light cover and turns the ground to difficult terrain out to close range from the Infernal. For the rest of the scene, she can roll to take cover behind it as a reflexive action on her turn, including the turn she uses this Charm.
 
 The barrier heeds the Infernal’s will — enemies don’t benefit from its cover against her attacks, and it doesn’t impede her movement.
-## Keys
+## [[Keys]]
 #### Brazen Crucible Cage (Dodge 5) (+1wp)
 For a one-Willpower surcharge, as long as the Infernal benefits from this Charm’s cover, she can dodge attacks with successes equal to her Evasion this scene. Enemies whose Initiative is lower than hers can’t benefit from magic that reduces or ignores its cover.
 #### Hellshrike Hunter’s Nest (Dodge 5, Essence 3)

@@ -17,7 +17,7 @@ Prerequisite Charms:
 When the Infernal makes a disengage roll or opposes a rush roll, beating an enemy’s roll causes him to move one range band away. He doesn’t cross the space between, nor is he aware of this movement — only he isn’t where he was before. If the Infernal uses this Charm while disengaging, she doesn’t receive that action’s usual movement on her turn, but still receives the reflexive moment from the disengage if an affected enemy pursues her.
 
 This Charm’s Willpower cost is waived if the Infernal only uses it against one enemy.
-## Keys
+## [[Keys]]
 #### Foe-Swallowing Sandstorm Displacement (Dodge 5) (+5m)
 When the Infernal uses this Charm to disengage, she may pay a five-mote surcharge to roll against all enemies within short range.
 #### Lost in Futility (Dodge 5, Essence 3)

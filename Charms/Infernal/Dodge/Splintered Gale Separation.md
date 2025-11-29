@@ -28,7 +28,7 @@ The Infernal splinters off a mortal duplicate of herself. It’s fully independe
 The Infernal can use this Charm reflexively after dodging an attack, creating a duplicate and reflexively roll Stealth to enter concealment. Characters who fail the roll believe the duplicate is the true Infernal, and vice versa.
 
 This Charm can be stacked to create up to (Essence + 5) duplicates.
-## Keys
+## [[Keys]]
 #### Abandoning Weakness (Essence 3) (+2i or +4i)
 The Infernal can pay a two-Initiative surcharge to transfer one level of non-aggravated damage from her health track to that of a newly-created duplicate. The surcharge increase to four Initiative if she has a −2 or higher wound penalty.
 #### Adrian Falls, Adorjan Remains (Essence 5; [[#Abandoning Weakness (Essence 3) (+2i or +4i)|Abandoning Weakness]]) (20m, 1wp)

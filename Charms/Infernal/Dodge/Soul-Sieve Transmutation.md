@@ -21,7 +21,7 @@ Against magic that can attack dematerialized characters, the total successes on 
 Against large sources of harm that affect multiple characters, like a wildfire, she only dematerializes enough to protect herself. If the Infernal uses this Charm to evade a recurring source of uncountable damage, she waives the cost of subsequent uses this scene to defend against it.
 ## Reset
 Once per scene, unless reset by dodging a decisive attack made by an enemy with 20+ Initiative. This Charm can’t reset itself.
-## Keys
+## [[Keys]]
 #### Naught But Dust (Essence 3) (+4m)
 The Infernal can pay a four-mote surcharge to dematerialize her attacker even while she’s material. Alternatively, she can use this key while dematerialized to extend this Charm’s duration to one tick.
 #### Endless Sands Exceed Mere Grains (Essence 5) (+4m, 1wp {4m})

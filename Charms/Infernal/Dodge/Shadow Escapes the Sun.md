@@ -19,7 +19,7 @@ The Infernal adds a non-Charm die on a disengage, withdraw, or take cover roll, 
 - She’s been hit by a decisive attack this scene.
 - She’s in darkness or dim light sufficient to impose visibility penalties.
 - She’s moving toward the exit of a confined space, or taking cover behind something between an exit and her enemies.
-## Keys
+## [[Keys]]
 #### Shadow Without Form (Dodge 3)
 Each condition the Infernal meets also negates a point of penalty on her roll.
 #### Untouched Gloaming Grace (Dodge 5, [[#Shadow Without Form (Dodge 3)|Shadow Without Form]]) (+1m)
