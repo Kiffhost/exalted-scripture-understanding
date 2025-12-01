@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"4da32f6148855b07","x":-1440,"y":-480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Glyph-Graven Sagacity.md"},
+		{"id":"94ea7d1e5a8843ee","x":-1920,"y":80,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Fatal Flaw Soliloquy.md"},
+		{"id":"de69813c6661781d","x":-2400,"y":80,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Interlocution Metamorphosis Prophecy.md"},
+		{"id":"2b5bf4dbb06ab7c4","x":-2400,"y":-480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Unshattered Tongue Perfection.md"},
+		{"id":"8e476973aa0e1400","x":-1920,"y":-480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Devil-Muse Fervor.md"},
+		{"id":"122a92aeff764984","x":-960,"y":640,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Parasitic Verse Infliction.md"},
+		{"id":"88be60b7a9bc1e9b","x":-960,"y":80,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Progeny-Text Plagiarism.md"},
+		{"id":"0e395d844f9a03f2","x":-1440,"y":640,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Spoken Sigil Ideogram.md"},
+		{"id":"3c5f3af4bac777ac","x":-480,"y":640,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Living Scripture Palimpsest.md"},
+		{"id":"24d809433010a41e","x":-960,"y":1200,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Inescapable Narrative Labyrinth.md"},
+		{"id":"9cdc6a2c0097287a","x":-1440,"y":2320,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/World-Saga Demiurge Dramaturgy.md"},
+		{"id":"ca022a4e72c61176","x":-960,"y":1760,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Enthralling Infernal Mythopoeia.md"},
+		{"id":"e160628903ec36d7","x":-480,"y":1760,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Conceptual Rebus Concatenation.md"},
+		{"id":"fb1403164e898008","x":-960,"y":-480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Eloquence in Unspoken Words.md"},
+		{"id":"4433f7380f17a7e1","x":-480,"y":-480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Linguistics/Azure Writ Proscription.md"}
+	],
+	"edges":[
+		{"id":"76149ca9b54f7194","fromNode":"8e476973aa0e1400","fromSide":"bottom","toNode":"94ea7d1e5a8843ee","toSide":"top","color":"3","label":"OR"},
+		{"id":"f25971046d972a62","fromNode":"4da32f6148855b07","fromSide":"bottom","toNode":"94ea7d1e5a8843ee","toSide":"top","color":"3","label":"OR"},
+		{"id":"4fd4115bf4358a64","fromNode":"2b5bf4dbb06ab7c4","fromSide":"bottom","toNode":"94ea7d1e5a8843ee","toSide":"top","color":"3","label":"OR"},
+		{"id":"0d20a2096220a938","fromNode":"3c5f3af4bac777ac","fromSide":"bottom","toNode":"e160628903ec36d7","toSide":"top","color":"6","label":"Key"},
+		{"id":"9c8d4a3a0bcc90d8","fromNode":"3c5f3af4bac777ac","fromSide":"bottom","toNode":"24d809433010a41e","toSide":"top"},
+		{"id":"47f5c286d8f14ce4","fromNode":"2b5bf4dbb06ab7c4","fromSide":"bottom","toNode":"de69813c6661781d","toSide":"top"},
+		{"id":"9559ae389fc358ec","fromNode":"88be60b7a9bc1e9b","fromSide":"bottom","toNode":"122a92aeff764984","toSide":"top"},
+		{"id":"35c544ef54942746","fromNode":"4da32f6148855b07","fromSide":"bottom","toNode":"88be60b7a9bc1e9b","toSide":"top"},
+		{"id":"8aa3ecd4e746d0e1","fromNode":"4da32f6148855b07","fromSide":"bottom","toNode":"0e395d844f9a03f2","toSide":"top"},
+		{"id":"a1246da5a3dad416","fromNode":"24d809433010a41e","fromSide":"bottom","toNode":"ca022a4e72c61176","toSide":"top","color":"6","label":"Key"},
+		{"id":"e8b6a810e5e49534","fromNode":"0e395d844f9a03f2","fromSide":"bottom","toNode":"9cdc6a2c0097287a","toSide":"top"},
+		{"id":"2f4f10326aeea743","fromNode":"122a92aeff764984","fromSide":"right","toNode":"3c5f3af4bac777ac","toSide":"left"},
+		{"id":"55e146418e59407e","fromNode":"ca022a4e72c61176","fromSide":"bottom","toNode":"9cdc6a2c0097287a","toSide":"top"}
+	]
+}
