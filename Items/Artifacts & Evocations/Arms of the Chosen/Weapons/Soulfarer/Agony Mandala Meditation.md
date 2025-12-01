@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Sorcerer’s Reaving Strike]]"
   - "[[Soul Reaper Enlightenment]]"
 ---
-*Clasping her hands around [[Soulfarer]] to drive it deeper into the flesh of her foe, the wielder enters dark throes of blood-fueled [[sorcery]].*
+*Clasping her hands around [[Soulfarer]] to drive it deeper into the flesh of her foe, the wielder enters dark throes of blood-fueled [[Templates/sorcery]].*
 Upon incapacitating a non-trivial enemy with a decisive attack, the wielder may use this Evocation to reset her action for the turn. The only action she may then take is to begin shaping one of her control spells or a spell that she has access to through [[Soulfarer]]. 
 
 ## Resonant

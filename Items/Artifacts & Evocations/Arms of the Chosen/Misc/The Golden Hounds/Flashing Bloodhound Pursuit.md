@@ -12,4 +12,4 @@ Prerequisite Charms:
   - None
 ---
 *Sign and spoor assault the Exalt’s senses as she moves faster, magnified by her haste.*
-She adds (Celerity) non-Charm dice to [[tracking]] rolls and to [[Awareness]] rolls opposing [[Stealth]], ignoring any penalties from moving at great speed.
+She adds (Celerity) non-Charm dice to [[Tracking]] rolls and to [[Awareness]] rolls opposing [[Traits/Abilities/Stealth]], ignoring any penalties from moving at great speed.

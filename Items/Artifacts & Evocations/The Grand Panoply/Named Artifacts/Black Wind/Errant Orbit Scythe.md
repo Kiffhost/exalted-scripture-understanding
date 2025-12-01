@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - None
 ---
-*The Solar takes Black Wind’s power to hand, and the [[skycutter]] yields its killing blades to her masterful technique.*
+*The Solar takes Black Wind’s power to hand, and the [[Templates/skycutter]] yields its killing blades to her masterful technique.*
 She hurls its blood blades out on independent missions of destruction, making a number of withering attacks equal to the number of blades expended, to a maximum of ([[Essence]] or 5, whichever is lower) attacks. These attacks may be directed at multiple opponents or at a single opponent; each grants [[Initiative]] equal to half the amount of damage inflicted on its target (round up). 
 
 ## Special activation rules

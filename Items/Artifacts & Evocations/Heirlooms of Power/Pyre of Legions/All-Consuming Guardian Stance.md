@@ -13,7 +13,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[Loyalty-Kindling Warmth]]"
 ---
-*Flames leap from Pyre of Legions to guard a comrade, burning away volleys of arrows and pushing back errant blades.* She takes a [[defend other]] action to protect an ally within [[Range|medium range]]. Used together with [[Flame Warden Stance]] (p. 226), it extends that Charm’s range to medium as well. 
+*Flames leap from Pyre of Legions to guard a comrade, burning away volleys of arrows and pushing back errant blades.* She takes a [[Defend Other]] action to protect an ally within [[Range|medium range]]. Used together with [[Flame Warden Stance]] (p. 226), it extends that Charm’s range to medium as well. 
 
 ## Resonant
 

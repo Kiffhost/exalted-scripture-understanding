@@ -11,7 +11,7 @@ Hundred Rivers has a Minor [[Intimacy|Tie]] of kinship towards his master upon f
 Health Levels: −0/−1x6/−2x6/−4/Incap.
 Speed Bonus: +4. Hundred Rivers consents to carry riders toward whom he has a Major [[Intimacy|Tie]].
 Actions: [[Feats of Strength]]: 8 dice (may attempt [[Strength]] 7 feats); Resist Poison/Illness: 8 dice; Senses: 10
-dice; [[Stealth]]: 8 dice; [[Threaten]]: 8 dice; [[Tracking]]: 10 dice
+dice; [[Traits/Abilities/Stealth]]: 8 dice; [[Threaten]]: 8 dice; [[Tracking]]: 10 dice
 [[Appearance]] 3, [[Resolve]] 5, [[Guile]] 2
 ## COMBAT
 **Attack (Bite)**: 10 dice (Damage 17)

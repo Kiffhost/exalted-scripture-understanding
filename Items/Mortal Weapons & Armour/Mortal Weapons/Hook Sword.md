@@ -12,4 +12,4 @@ aliases:
   - hook swords
   - hooked sword
 ---
-The hook sword is similar in appearance to a [[straight sword]], except it ends in a J-shaped hook that curves back along the inside of the blade. They’re usually wielded paired. 
+The hook sword is similar in appearance to a [[Straight Sword]], except it ends in a J-shaped hook that curves back along the inside of the blade. They’re usually wielded paired. 

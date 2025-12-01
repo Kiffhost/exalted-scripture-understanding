@@ -7,7 +7,7 @@ Air is the breath of Creation, all-encompassing and ever-present. It’s the sub
 
 Exalting as an [[Air Aspect]] often leads a Dragon-Blood to take on a new perspective. Her thoughts turn from mundane details to lofty thoughts, seeing Creation with a bird’s-eye view. She eschews conventional wisdom to pursue grand dreams and high-minded idealism, forsaking the obvious for the subtle and the inspired. Short-term goals become trivial and unimportant in her estimation, as she focuses on what her actions may accomplish in the long run.
 
-The lofty idealism and boundless creativity of the Children of Mela inspires their endeavors. On the field of battle, [[Air Aspect]] generals are tactical geniuses and strategic masterminds. They’re as elegant as the breeze and as deadly as the thunderbolt in battle, but such is their subtlety that few have the opportunity to appreciate it. Amid society, they’re visionaries and schemers whose plans extend countless steps ahead of their rivals and untold years into the future. They have the greatest natural affinity for the spiritual world and [[sorcery]] of all Dragon-Blooded, cultivating wisdom and power in pursuit of greater enlightenment.
+The lofty idealism and boundless creativity of the Children of Mela inspires their endeavors. On the field of battle, [[Air Aspect]] generals are tactical geniuses and strategic masterminds. They’re as elegant as the breeze and as deadly as the thunderbolt in battle, but such is their subtlety that few have the opportunity to appreciate it. Amid society, they’re visionaries and schemers whose plans extend countless steps ahead of their rivals and untold years into the future. They have the greatest natural affinity for the spiritual world and [[Templates/sorcery]] of all Dragon-Blooded, cultivating wisdom and power in pursuit of greater enlightenment.
 
 An [[Air Aspect]] doesn’t see her Sworn Kin as they are, but as they could be. Hers is the voice that inspires them to greatness, teaching them how they might improve on their flaws and showing them what their deeds might accomplish in the long run. They play much the same role within Dragon-Blooded societies, innovating solutions to the problems they face and devising plans for how they might become greater. Air Aspects blow the dust off of forgotten ideas, and sweep away long-held beliefs that no longer hold use.
 
@@ -25,7 +25,7 @@ Air Aspects call on the wind to speed them and deflect harm, and draw power from
 - Once per day, when the [[Air Aspect]] takes a nonextended social or mental action to uphold a [[Intimacy|Principle]], she adds ([[Intimacy]]) non-Charm bonus dice on the roll.
 # Aspect Abilities
 
-Air Aspects excel at scholarly pursuits and the subtle arts. Their Aspect Abilities are [[Linguistics]], [[Lore]], [[Occult]], [[Stealth]], and [[Thrown]]. 
+Air Aspects excel at scholarly pursuits and the subtle arts. Their Aspect Abilities are [[Linguistics]], [[Lore]], [[Occult]], [[Traits/Abilities/Stealth]], and [[Thrown]]. 
 # Associations
 
 The color blue, the Maiden of Serenity, the monthly cycle of Air, and the northern direction.

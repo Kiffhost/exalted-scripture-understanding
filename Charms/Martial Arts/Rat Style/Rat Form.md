@@ -18,9 +18,9 @@ Prerequisite Charms:
 The stylist gains the following benefits:  
 - +1 [[Defense|Evasion]]  
 - Crashing an enemy suffering a Minor disease increases it to Major.
-- Diseased enemies suffer a penalty equal to their sickness’ intensity on rolls opposing the stylist’s disengage and [[Stealth]] rolls: −2 for Minor, −3 for Major, and −4 for Defining.
+- Diseased enemies suffer a penalty equal to their sickness’ intensity on rolls opposing the stylist’s disengage and [[Traits/Abilities/Stealth]] rolls: −2 for Minor, −3 for Major, and −4 for Defining.
 - She doesn’t lose [[Initiative]] from disengaging on a successful roll.
 ## Special activation rules
-When the stylist’s [[Stealth]] roll to enter concealment beats the opposed rolls of all enemies, she may reflexively enter [[Rat Form]].
+When the stylist’s [[Traits/Abilities/Stealth]] roll to enter concealment beats the opposed rolls of all enemies, she may reflexively enter [[Rat Form]].
 ## Mastery
 With [[Essence]] 3, the stylist can increase a crashed enemy’s Major diseases to Defining.

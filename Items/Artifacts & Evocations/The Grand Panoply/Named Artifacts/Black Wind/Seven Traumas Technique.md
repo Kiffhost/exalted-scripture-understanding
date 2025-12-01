@@ -17,4 +17,4 @@ Each blood blade expended to power this Evocation raises the base damage of a de
 
 ## Special activation rules
 
-Rather than being bought with experience, [[Seven Traumas Technique]] awakens at no cost once the Solar has used the [[skycutter]] to slay a target whose death satisfies both a Defining [[Intimacy|Principle]] and a Defining [[Intimacy|Tie]] at once.
+Rather than being bought with experience, [[Seven Traumas Technique]] awakens at no cost once the Solar has used the [[Templates/skycutter]] to slay a target whose death satisfies both a Defining [[Intimacy|Principle]] and a Defining [[Intimacy|Tie]] at once.

@@ -15,7 +15,7 @@ Peacebringer’s Caste Marks are a dark mirror of the Dawn Caste’s: eight-poin
 
 # Anima Effects
 - Death is Inevitable (Permanent): At bonfire anima, the Peacebringer adds (Essence/2, rounded up) to her base [[Initiative]] when she resets to base [[Initiative]] after a [[Attack#decisive|decisive attack]]. 
-- Fear Made Flesh (Permanent) The Peacebringer adds (Essence/2, rounded up) non-Charm dice on [[threaten]] rolls and other fear-based influence, and can affect characters who’re normally immune to fear, like zombies and automatons. This doesn’t overcome magical immunity to fear. 
+- Fear Made Flesh (Permanent) The Peacebringer adds (Essence/2, rounded up) non-Charm dice on [[Threaten]] rolls and other fear-based influence, and can affect characters who’re normally immune to fear, like zombies and automatons. This doesn’t overcome magical immunity to fear. 
 - Walking Apocalypse (10m; Reflexive; Instant): The Peacebringer resets all Charms related to combat and movement. Once per day.
 # Caste Abilities
 

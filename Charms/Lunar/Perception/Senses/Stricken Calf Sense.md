@@ -14,4 +14,4 @@ Prerequisite Charms:
 ---
 *The Lunar healer has a predator’s keen sense for the herd’s weakest member.*
 She rerolls 5s and 6s until they cease to appear on a diagnosis roll, and completes it instantly.
-Alternatively, this Charm can supplement a roll to detect a concealed character or a [[tracking]] roll. If the opposing character suffers from an ailment the Lunar has previously diagnosed, she adds a non-Charm success.
+Alternatively, this Charm can supplement a roll to detect a concealed character or a [[Tracking]] roll. If the opposing character suffers from an ailment the Lunar has previously diagnosed, she adds a non-Charm success.

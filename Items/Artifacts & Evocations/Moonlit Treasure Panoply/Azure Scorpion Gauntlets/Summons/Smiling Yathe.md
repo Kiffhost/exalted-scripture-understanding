@@ -4,7 +4,7 @@ tags:
 ---
 *Essence: 3; [[Willpower]]: 8; [[Join Battle]]: 10 dice Health Levels: −0/−1x10/−2x10/−4x5/Incap.*
 Speed Bonus: +2 Actions: Ancient Knowledge: 10 dice; [[Feats of Strength]]: 8 dice (can attempt [[Strength]] 3 feats); [[Read Intentions]]: 7 dice; Resist Poison/Disease: 8 dice; Senses:
-10 dice; [[Social Influence]]: 8 dice; [[Stealth]]: 12 dice; [[Tracking]]: 8 dice.
+10 dice; [[Social Influence]]: 8 dice; [[Traits/Abilities/Stealth]]: 12 dice; [[Tracking]]: 8 dice.
 [[Appearance]] 5 ([[Hideous]]), [[Resolve]] 4, [[Guile]] 5 COMBAT [[Attack]] (Pincer): 13 dice (Damage 13L/3) [[Attack]] (Sting): 9 dice (Damage 17L/5; see Venom) [[Attack]] (Grapple): 9 dice (10 dice to control) Combat [[Movement]]: 10 dice (see Swift Skittering) [[Defense|Evasion]]: 4, [[Defense|Parry]]: 5 Soak/Hardness: 15/10 [[Intimacy|INTIMACIES]] Defining [[Intimacy|Tie]]: The wielder (Varies, see above) Defining [[Intimacy|Tie]]: Katja Narrow-Pupils (Love) Major [[Intimacy|Principle]]: I must ensure the Azure Scorpion Gauntlets’ wielder is worthy of Katja’s legacy.
 Major [[Intimacy|Principle]]: Compassion is weakness.
 SPECIAL ABILITIES [[Ambush]] Hunter: Add three dice on unexpected attack rolls.

@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[ One With Night]]"
 ---
 *The cloak billows around its wearer, hiding her from view.*
-When an enemy makes a roll opposing the cloak’s wearer, if it relies on his sense of sight, he suffers a −1 penalty from the cloak’s swirling darkness. This penalizes most attacks, but can also affect rolls opposing the wearer’s [[Stealth]], an attempt to pickpocket her, etc.
+When an enemy makes a roll opposing the cloak’s wearer, if it relies on his sense of sight, he suffers a −1 penalty from the cloak’s swirling darkness. This penalizes most attacks, but can also affect rolls opposing the wearer’s [[Traits/Abilities/Stealth]], an attempt to pickpocket her, etc.
 If the penalized roll fails, the opposing character loses one [[Initiative]].
 Against characters already suffering a penalty from poor lighting, darkness, or magic like the [[No Moon]] anima power (Lunars, p. 130), this Evocation instead causes up to three points of penalty to subtract successes, rather than dice.
 ## Resonant

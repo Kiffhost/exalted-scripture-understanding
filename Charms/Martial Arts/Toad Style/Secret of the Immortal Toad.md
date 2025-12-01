@@ -27,6 +27,6 @@ Once per scene.
 ## Special activation rules
 The stylist can use this Charm reflexively when she enters [[Toad Form]].
 ## Mastery
-Once per scene, the stylist can negate all decisive damage from a single source, even [[uncountable damage]]. She must declare this defense before the attack is rolled. Doing so ends this Charm.
+Once per scene, the stylist can negate all decisive damage from a single source, even [[Uncountable Damage]]. She must declare this defense before the attack is rolled. Doing so ends this Charm.
 ## Terrestrial
 The base difficulty of the [[Perception]] roll and gambit to exploit the defense’s weakness are only (stylist’s [[Stamina]]).

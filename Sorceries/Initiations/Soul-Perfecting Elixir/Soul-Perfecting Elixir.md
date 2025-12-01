@@ -4,7 +4,7 @@ tags:
   - source/solar-book
 ---
 *Through study of the arts of alchemy and the bodily humors, you have brewed the [[Soul-Perfecting Elixir]], a draught that transformed your body into a living cauldron.*
-Yours is a [[sorcery]] rooted in the corporal, sustained by the balance of vital forces and the flow of [[Essence]] along meridians. Through the consumption of alchemical catalysts and adherence to ascetic practices, you maintain your body as a pure vessel through which sorcerous forces may be channeled into the world.
+Yours is a [[Templates/sorcery]] rooted in the corporal, sustained by the balance of vital forces and the flow of [[Essence]] along meridians. Through the consumption of alchemical catalysts and adherence to ascetic practices, you maintain your body as a pure vessel through which sorcerous forces may be channeled into the world.
 # [[Shaping Rituals]]
 ```dataview
 LIST

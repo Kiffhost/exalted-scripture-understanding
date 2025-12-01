@@ -12,7 +12,7 @@ Characters have seven levels in their health track: one -0 health level, two -1 
 
 # Losing Health
 
-Characters lose health levels when they take damage from decisive attacks (see Chapter Five), [[environmental hazards]], poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: [[#Bashing]], [[#Lethal]], and [[#Aggravated]].
+Characters lose health levels when they take damage from decisive attacks (see Chapter Five), [[Environmental Hazards]], poison, or when they otherwise suffer bodily trauma. There are three sorts of damage to which characters’ Health Tracks might be subjected: [[#Bashing]], [[#Lethal]], and [[#Aggravated]].
 
 ## Bashing
 
@@ -43,7 +43,7 @@ These times assume characters are primarily resting and avoiding strenuous exert
 
 # Incapacitated
 #custom/summary 
-A character is considered *incapacitated* if the final box on their [[health track]] is filled with [[#bashing]], [[#lethal]] or [[#aggravated]] damage. Incapacitated characters may recover as described in [[#Recovery from Incapacitation]]. 
+A character is considered *incapacitated* if the final box on their [[Health Track]] is filled with [[#bashing]], [[#lethal]] or [[#aggravated]] damage. Incapacitated characters may recover as described in [[#Recovery from Incapacitation]]. 
 # wound penalties
 As your character accumulates damage in his health track, he receives a dice penalty to all rolled actions, indicated by the highest number associated with a health level which has received damage. This wound penalty also applies to all of your character’s static values, such as [[Defense]] and [[Resolve]].
 

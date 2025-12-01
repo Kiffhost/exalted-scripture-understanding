@@ -13,16 +13,16 @@ At most, a few hundred Brass Legionnaires remain intact and active throughout Cr
 
 Brass Legionnaires are efficacious but mechanical soldiers. They follow instructions, fight in formation, and contain a library of tactical and strategic maneuvers meant for independence in the field. But their intellect — though the pinnacle of potential for non-sorcerous artifice — is limited, as is their memory. Most have forgotten more than any modern soldier ever learned, yet retain less than the average soldier knows. Moreover, they lack human initiative. Without orders, they default to seeking an officer who knows their command codes.
 
-A handful of legionnaires break these limits due to meddling from [[sorcery]], spirit magic, or the Wyld. Possessing increased intelligence and free will, these are individuals rather than tools; for Merit purposes, treat them as two-dot [[Retainers]] rather than Artifacts. They can still be maintained and repaired normally, but their mental evolution may not endure incapacitating damage even if repaired, at the Storyteller’s discretion.
+A handful of legionnaires break these limits due to meddling from [[Templates/sorcery]], spirit magic, or the Wyld. Possessing increased intelligence and free will, these are individuals rather than tools; for Merit purposes, treat them as two-dot [[Retainers]] rather than Artifacts. They can still be maintained and repaired normally, but their mental evolution may not endure incapacitating damage even if repaired, at the Storyteller’s discretion.
 
 The earliest Brass Legionnaires are nigh-perfect replicas of human anatomy, distinguished only by metal skin and hematite eyes. Each successive series’ members appear cruder and more abstract, with the last wave featuring minimalist metal armatures. Despite these unexplained changes in semblance — did their creator go mad, grow obsessed with function over form, or simply lose interest? — the final models are as efficacious as the first. All carry mortal weapons; their armor is innate.
 #### [[Brass Legionnaire]]
 **Essence**: 1; **Willpower**: 7; **[[Join Battle]]**: 7 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x4/Incap. 
-**Actions**: [[Command]] actions: 5 dice; [[Feats of Strength]]: 12 dice (may attempt [[Strength]] 7 feats); Senses: 7 dice; [[Stealth]]: 5 dice; Strategic maneuvers: 5 dice; [[Threaten]]: 10 dice; [[Appearance]] 2, [[Resolve]] 3, [[Guile]] 1 
+**Actions**: [[Merits/Command]] actions: 5 dice; [[Feats of Strength]]: 12 dice (may attempt [[Strength]] 7 feats); Senses: 7 dice; [[Traits/Abilities/Stealth]]: 5 dice; Strategic maneuvers: 5 dice; [[Threaten]]: 10 dice; [[Appearance]] 2, [[Resolve]] 3, [[Guile]] 1 
 ###### COMBAT
-[[Attack]] ([[spear]]): 10 dice (Damage 13L)
-[[Attack]] ([[short sword]]): 12 dice (Damage 11L)
+[[Attack]] ([[Spear]]): 10 dice (Damage 13L)
+[[Attack]] ([[Short Sword]]): 12 dice (Damage 11L)
 [[Attack]] (self bow): 9 dice at close range (Damage 11L)
 [[Attack]] (unarmed): 9 dice (Damage 11B)
 Combat [[Movement]]: 7 dice

@@ -13,4 +13,4 @@ Accuracy:
   - Close -1; Short +5; Medium +3; Long +1; Extreme* -1
 Dots: 3
 ---
-Although it is as large as any other weapon made for Exalts, this [[powerbow]] is just small enough for use while mounted.
+Although it is as large as any other weapon made for Exalts, this [[Powerbow]] is just small enough for use while mounted.

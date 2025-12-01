@@ -70,9 +70,9 @@ Blissfully happy, flowers, in love with love, poetry, well-dressed.
 [[Dodge]]. 
 ## The Lovers
 
-The Lovers rule imbalanced and uneven relationships. It’s the sign of debt, slavery, poverty, and sexual [[intimacy]]. In its positive aspect, such relationships prove beneficial, or at least a mixed bag, like the best relationships one can hope for between parent and child, teacher and student, employer and employee, or landlord and tenant. In its negative aspect, the relationship’s power imbalance leads to exploitation, manipulation, or, physical, emotional, or financial abuse. 
+The Lovers rule imbalanced and uneven relationships. It’s the sign of debt, slavery, poverty, and sexual [[Intimacy]]. In its positive aspect, such relationships prove beneficial, or at least a mixed bag, like the best relationships one can hope for between parent and child, teacher and student, employer and employee, or landlord and tenant. In its negative aspect, the relationship’s power imbalance leads to exploitation, manipulation, or, physical, emotional, or financial abuse. 
 ### Themes
-Abuse, desire, duress, lack of options, power imbalances, physical [[intimacy]], servitude, unfair contracts, unhealthy relationships, unspoken obligations, vermin, victims of the Fair Folk. 
+Abuse, desire, duress, lack of options, power imbalances, physical [[Intimacy]], servitude, unfair contracts, unhealthy relationships, unspoken obligations, vermin, victims of the Fair Folk. 
 ### Resplendent Destinies
 Bankrupt businessman, beggars, conscripts, laborers paid unlivable wages, libertines, mistreated children, prisoners, sex workers, slaves, students, tenant farmers, unhappy spouses. 
 ### Trappings
@@ -196,7 +196,7 @@ Claims to be innocent, large appetites, looks dishonest, a measuring stick, a pe
 [[Investigation]]. 
 ## The Mask
 
-The Mask rules secret wisdom and concealed knowledge. It’s the sign of spies, priests, and archivists. In its positive aspect, it conceals trade secrets, religious mysteries, information held in confidence, and rites of initiation. In its negative aspect, knowledge is hidden because of greed, fear, doubt, or self-superiority. It is the sign in which the Jade Prison was sealed after the Solar Purge, giving rise to the Sidereals’ [[arcane fate]]. 
+The Mask rules secret wisdom and concealed knowledge. It’s the sign of spies, priests, and archivists. In its positive aspect, it conceals trade secrets, religious mysteries, information held in confidence, and rites of initiation. In its negative aspect, knowledge is hidden because of greed, fear, doubt, or self-superiority. It is the sign in which the Jade Prison was sealed after the Solar Purge, giving rise to the Sidereals’ [[Arcane Fate]]. 
 ### Themes
 Codes and ciphers, covert sabotage, extortion, informants, introversion, keeping secrets, lies, mysteries, religious initiation, secret police, trickery, worship. 
 ### Resplendent Destinies
@@ -204,7 +204,7 @@ Blackmailers, bookies, charlatans, confidantes, counterfeiters, criminals, culti
 ### Trappings
 Clings to sacred places and places of power, enters unannounced, a mask, quiet, soft clothes. 
 ### Ability
-[[Stealth]]. 
+[[Traits/Abilities/Stealth]]. 
 ## The Sorcerer 
 
 The Sorcerer rules mystical wisdom and the secrets of power. It’s the sign of the Exalted, gods, sorcery, necromancy, thaumaturgy, artifice, and geomancy. In its positive aspect, supernatural power is wielded wisely and justly, accomplishing miracles and forging wonders for the world’s betterment. In its negative aspect, such power is used selfishly or for misguided reasons, or is sought from untrustworthy sources like ghosts and demons. 

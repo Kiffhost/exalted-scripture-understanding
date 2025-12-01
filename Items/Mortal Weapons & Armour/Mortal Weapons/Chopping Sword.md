@@ -11,4 +11,4 @@ Cost: " 2"
 aliases:
   - chopping swords
 ---
-This weapon is a sword with a chopping blade about three feet long. Some versions have a square or angled tip, while others sport a curve with a wicked back clip. Unlike the [[slashing sword]], chopping swords are designed not for fencing and agility, but for delivering solid blows that hack through armor and bone. 
+This weapon is a sword with a chopping blade about three feet long. Some versions have a square or angled tip, while others sport a curve with a wicked back clip. Unlike the [[Slashing Sword]], chopping swords are designed not for fencing and agility, but for delivering solid blows that hack through armor and bone. 

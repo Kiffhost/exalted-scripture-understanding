@@ -20,7 +20,7 @@ In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effec
 - **Gaol-Sundering Juggernaut Rampage** (Permanent): The Infernal can enter her [[Devil-Body]] when she makes a meaningful attempt to escape from imprisonment or confinement and fails.
 - **Never Caged Again** (5m; Reflexive; Until next turn; Mute): The Infernal gains +1 non-Charm [[Defense|Evasion]]. Rolls to restrain or confine her in any way suffer a penalty of (higher of Essence or 3) dice. This includes both the attack roll and control roll of a grapple gambit against her. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
 # Caste Abilities
-[[Nadir]] Castes choose their Caste Abilities from [[Athletics]], [[Awareness]], [[Dodge]], [[Integrity]], [[Larceny]], [[Ride]], [[Sail]], and [[Stealth]].
+[[Nadir]] Castes choose their Caste Abilities from [[Athletics]], [[Awareness]], [[Dodge]], [[Integrity]], [[Larceny]], [[Ride]], [[Sail]], and [[Traits/Abilities/Stealth]].
 # Sobriquets
 Princes of the Shattered Prison, the Unfettered, Chainbreakers, Basalt Wolves, Daggers of Hell
 # Concepts

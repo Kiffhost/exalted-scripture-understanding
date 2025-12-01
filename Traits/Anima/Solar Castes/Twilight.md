@@ -10,7 +10,7 @@ During the height of the First Age, the Arrows of Heaven created wonders of infr
 
 Now the Twilights have returned, ready to reclaim their birthrights and build a glorious future. Whether they’re constructing a manse or solving a murder, they approach their work with keen insight and dogged persistence. They remember the glories of the lost age and know those glories can be rebuilt. The process will take the work of many mortal lifetimes, but none are better-suited to it than the Twilights.
 
-Many Descending Suns were well-educated before their Exaltation, but far more important is a desire to learn. Whether they’re physicians, occultists, or savants, Heaven’s Lamps are marked by endless curiosity and undeniable brilliance. Twilights often do most of a Circle’s intellectual heavy lifting, recounting old lore to find a troublesome demon’s weakness or deduce a captured spy’s cipher. Twilights with a talent for artifice or [[sorcery]] supply their Circlemates with bound servitors and potent spells, or craft wondrous tools custom-made for their allies.
+Many Descending Suns were well-educated before their Exaltation, but far more important is a desire to learn. Whether they’re physicians, occultists, or savants, Heaven’s Lamps are marked by endless curiosity and undeniable brilliance. Twilights often do most of a Circle’s intellectual heavy lifting, recounting old lore to find a troublesome demon’s weakness or deduce a captured spy’s cipher. Twilights with a talent for artifice or [[Templates/sorcery]] supply their Circlemates with bound servitors and potent spells, or craft wondrous tools custom-made for their allies.
 
 # Anima Banner
 

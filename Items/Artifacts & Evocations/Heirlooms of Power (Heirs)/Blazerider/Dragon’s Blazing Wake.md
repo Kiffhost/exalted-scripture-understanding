@@ -11,7 +11,7 @@ Keywords:
   - Perilous
 Duration: Instant
 Prerequisite Charms:
-  - "[[Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Racing Flame Method]]"
+  - "[[Racing Flame Method]]"
 ---
 *Blazerider ignites a swath of smoldering destruction across the battlefield, raining fire down upon its master’s enemies.*
 To use this Evocation, the wielder must be at least short range above the ground or a similar surface. She can use it to enhance either a decisive attack or a move action, igniting a trail of flames behind [[Blazerider]] that descends from the sky for five motes, plus one [[Initiative]] for each range band [[Blazerider]] moves as part of the supplemented action. This is a one-time environmental hazard with difficulty 4 and Damage ([[Essence]])L. It spans the entire length of Blazerider’s movement, is wide enough to encompass only a single character, and descends all the way down to the ground, or similar surface. This always includes the target of an enhanced attack. Any flammable objects in the hazard catch fire and burn until the end of the scene, with the above hazard traits.

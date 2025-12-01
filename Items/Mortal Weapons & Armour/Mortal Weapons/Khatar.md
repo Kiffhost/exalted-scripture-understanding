@@ -11,4 +11,4 @@ Cost: "2"
 aliases:
   - khatars
 ---
-The khatar, also known as the punch dagger, is a single-bladed [[knife]] with a hilt assembly perpendicular to the blade. Held in a closed fist, the blade juts from the front of the character’s fist so that the character’s punches deliver deadly stabs. 
+The khatar, also known as the punch dagger, is a single-bladed [[Knife]] with a hilt assembly perpendicular to the blade. Held in a closed fist, the blade juts from the front of the character’s fist so that the character’s punches deliver deadly stabs. 

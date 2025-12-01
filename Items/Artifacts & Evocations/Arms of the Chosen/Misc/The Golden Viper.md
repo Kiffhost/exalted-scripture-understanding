@@ -15,7 +15,7 @@ Aside from its vivid construction, the Viper is as subtle as any mundane serpent
 #### [[The Golden Viper]]
 **Essence**: 3; **Willpower**: 8; **[[Join Battle]]**: 8 dice
 **Health Levels**: −0x2/−1x3/−2x3/−4x2/Incap.
-**Actions**: [[Lore]]: 11 dice (see Ten Million Memories below); [[Occult]]: 9 dice; [[Read Intentions]]: 9 dice; Senses: 9 dice (see Killer’s Nose below); [[Social Influence]]: 9 dice; [[Stealth]]: 7 dice (see Tiny Creature below); [[Appearance]] 4, [[Resolve]] 5, [[Guile]] 3 
+**Actions**: [[Lore]]: 11 dice (see Ten Million Memories below); [[Occult]]: 9 dice; [[Read Intentions]]: 9 dice; Senses: 9 dice (see Killer’s Nose below); [[Social Influence]]: 9 dice; [[Traits/Abilities/Stealth]]: 7 dice (see Tiny Creature below); [[Appearance]] 4, [[Resolve]] 5, [[Guile]] 3 
 ###### COMBAT 
 [[Attack]] (Bite): 12 dice (Damage 9L + poison)
 Combat [[Movement]]: 8 dice
@@ -29,8 +29,8 @@ Soak/Hardness: 8/4
 **Aureate Venom**: For one [[Willpower]], the Golden Viper’s decisive bite inflicts a dose of poison, with damage 3i/ round (L in Crash), a duration of 6 rounds, and a −3 penalty. [[Mortal]] victims have an effective [[Stamina]] of 0 to resist the poison. When a victim dies, he turns to solid gold and the Viper gains all of his memories. 
 ###### MERITS 
 **Automaton**: [[The Golden Viper]] is immune to poison, disease, fatigue, and fear (unless faced with magic such as the [[Dawn]] Caste anima power), and has no need to eat, drink, breathe, or sleep. It needs no maintenance, but when damaged it requires repairs as per Brass Legionnaires (p. 125). 
-**Forgotten Era Defense**: [[The Golden Viper]] treats inquiries regarding the First Age as [[unacceptable influence]]. 
+**Forgotten Era Defense**: [[The Golden Viper]] treats inquiries regarding the First Age as [[Unacceptable Influence]]. 
 **Killer’s Nose**: Double 9s on scent-based [[Perception]] rolls, or double 8s on rolls to detect an assassination target whose scent it’s tasted. 
 **Languages**: [[The Golden Viper]] knows all major languages and countless tribal tongues. 
 **Mechanical Mind**: Social influence cannot affect the Golden Viper’s Major and Defining [[Intimacy|Intimacies]], nor can it raise new [[Intimacy|Intimacies]] to Major or Defining. 
-**Ten Million Memories**: When [[introducing a fact]], the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.
+**Ten Million Memories**: When [[Introducing a Fact]], the Golden Viper has access to relevant specialties and backstories from everyone it’s ever killed.

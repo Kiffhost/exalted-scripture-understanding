@@ -14,7 +14,7 @@ Prerequisite Charms:
   - None
 ---
 *Gleaning subtlety from the shadows, the Lunar darkens her soul’s light.*
-She mutes all motes spent on a [[Larceny]] roll, [[Stealth]] roll, or action taken in concealment. 
+She mutes all motes spent on a [[Larceny]] roll, [[Traits/Abilities/Stealth]] roll, or action taken in concealment. 
 ## Totemic 
 
 A Lunar whose spirit shape has Tiny Creature or Minuscule Size may learn this as a [[Manipulation]] Charm.

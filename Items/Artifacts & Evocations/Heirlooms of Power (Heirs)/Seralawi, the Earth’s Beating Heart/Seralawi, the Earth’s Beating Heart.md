@@ -19,6 +19,6 @@ Geshel sought the counsel of many savants to free him of this curse, but it was 
 Crushed by this revelation, Geshel offered the armor to Hakala in exchange for a sorcerous working that would restore the semblance of his youth, if not his lifespan.
 Seralawi’s design is configured for defense, and the Seventh Legion deploys it to take maximum advantage of its [[Evocations]]. Anado Kurun held her dragon’s line against the Tungapi horse archers after their arrows slew the dragon’s kazei. Spindrift Unaki rode with Karal Nevak in the Wyld Hunt against the Hellion Flower and saved the Dragon-Blood’s life from the Fair Folk’s lash of tears. Mizura the Hammer held the Jaguar Pass against Lin the Betrayer’s army with but a dozen soldiers. 
 ## [[Evocations]] of [[Seralawi, the Earth’s Beating Heart]]
-Seralawi’s wearer lowers the [[Initiative]] cost of [[full defense]] actions by one point.
+Seralawi’s wearer lowers the [[Initiative]] cost of [[Full Defense]] actions by one point.
 ## Gunzosha [[Evocations]] 
 The following [[Evocations]] are possessed by all gunzosha armor.

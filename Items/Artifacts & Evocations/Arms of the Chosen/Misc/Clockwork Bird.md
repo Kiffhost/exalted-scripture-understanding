@@ -15,7 +15,7 @@ Much rarer versions of the clockwork bird, their feathers banded with orichalcum
 #### Vanileth's Birds
 **Essence**: 1; **Willpower**: 5; **[[Join Battle]]**: 7 dice 
 **Health Levels**: −1x2/−2x2/−4/Incap. 
-**Actions**: Senses: 6 dice; [[Persuade]]: 7 dice; [[Bargain]]: 6 dice; [[Inspire]]: 10 dice; [[Read Intentions]]: 6 dice; [[Stealth]]: 4 dice (see Tiny Creature below); [[Appearance]] 3, [[Resolve]] 4, [[Guile]] 4 
+**Actions**: Senses: 6 dice; [[Persuade]]: 7 dice; [[Bargain]]: 6 dice; [[Inspire]]: 10 dice; [[Read Intentions]]: 6 dice; [[Traits/Abilities/Stealth]]: 4 dice (see Tiny Creature below); [[Appearance]] 3, [[Resolve]] 4, [[Guile]] 4 
 ###### COMBAT
 Combat [[Movement]]: 9 dice 
 [[Defense|Evasion]] 4 (see Tiny Creature below), [[Defense|Parry]] 1 

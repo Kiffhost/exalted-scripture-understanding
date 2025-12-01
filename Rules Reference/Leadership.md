@@ -17,7 +17,7 @@ Failure conditions can be almost anything—the point is, a failure condition ch
 ## Step Three: Responding to Failure Conditions
 Once a failure condition appears, it has to be dealt with somehow, or else the project will fail. [[#Advisors]] can provide counsel on how to best handle a crisis when rulers aren’t certain of how to proceed. 
 
-Most often, a ruler will use her [[Merits]] to address the failure condition: the character draws on her [[Resources]], calls in favors from [[Allies]], deploys [[Followers]] with skills well-suited to the situation, and so on. Finally, the character might attempt to address [[#failure conditions]] directly with her own Abilities and [[Charms]], or through mighty [[sorcery]]. This is often an attractive option, given the prowess of the Exalted, but a leader off personally resolving problems may be neglecting other matters close to home.
+Most often, a ruler will use her [[Merits]] to address the failure condition: the character draws on her [[Resources]], calls in favors from [[Allies]], deploys [[Followers]] with skills well-suited to the situation, and so on. Finally, the character might attempt to address [[#failure conditions]] directly with her own Abilities and [[Charms]], or through mighty [[Rules Reference/Sorcery/Sorcery]]. This is often an attractive option, given the prowess of the Exalted, but a leader off personally resolving problems may be neglecting other matters close to home.
 ### Advisors
 In courts with multiple advisors, this is resolved through the [[Social Influence]] system—a crisis is a ripe time for ambitious members of the court to attempt to bend a ruler’s ear and suggest solutions which will both salvage the project and help advance their own agendas.
 

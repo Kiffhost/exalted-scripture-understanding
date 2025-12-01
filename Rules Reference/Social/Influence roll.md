@@ -17,4 +17,4 @@ Even if a character’s [[Resolve]] is overcome, he may still have an opportunit
 ## [[Decision Points]]
 Refusing successful [[Social Influence|influence]] to make the character *do something* (usually [[Persuade]], [[Bargain]] or [[Threaten]]) is trickier. When a character fails to resist such influence with his [[Resolve]], he enters into a special state called a [[Decision Points|Decision Point]].
 ## [[Unacceptable Influence]]
-There are limits on what can be achieved with social influence. No amount of charisma is sufficient to talk someone into suicide, or to convince a die-hard patriot to betray his cause. If a request is so antithetical to the nature and personality of its target that it cannot possibly succeed, it is said to be [[unacceptable influence]]. 
+There are limits on what can be achieved with social influence. No amount of charisma is sufficient to talk someone into suicide, or to convince a die-hard patriot to betray his cause. If a request is so antithetical to the nature and personality of its target that it cannot possibly succeed, it is said to be [[Unacceptable Influence]]. 

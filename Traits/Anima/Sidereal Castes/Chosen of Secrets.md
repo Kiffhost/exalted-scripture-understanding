@@ -29,7 +29,7 @@ Oracles can divine destiny’s plans for deception and revelation or make Jupite
 
 # Caste Abilities
 
-[[Investigation]], [[Larceny]], [[Lore]], [[Occult]], [[Stealth]]. 
+[[Investigation]], [[Larceny]], [[Lore]], [[Occult]], [[Traits/Abilities/Stealth]]. 
 
 # Experience Triggers
 
@@ -50,7 +50,7 @@ The Oracles may pay one mote to learn whether concealing or revealing a piece of
 
 ## Lesser Sign of Jupiter
 
-The Oracle may pay five motes to reflexively make Jupiter’s lesser sign, drawing it in emerald stardust. Until her next turn, she and allies within close range gain +1 non-Charm [[Guile]] and add (her [[Essence]], maximum 5) non-Charm dice on [[Manipulation]], [[Larceny]], and [[Stealth]] rolls. 
+The Oracle may pay five motes to reflexively make Jupiter’s lesser sign, drawing it in emerald stardust. Until her next turn, she and allies within close range gain +1 non-Charm [[Guile]] and add (her [[Essence]], maximum 5) non-Charm dice on [[Manipulation]], [[Larceny]], and [[Traits/Abilities/Stealth]] rolls. 
 
 ## Greater Sign of Jupiter
 

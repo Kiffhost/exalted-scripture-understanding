@@ -25,7 +25,7 @@ Nafiss turned Ajelin’s direful power against the enemies of the gods, but with
 Fearful of the power that had corrupted Nafiss, her Circlemates sealed Ajelin away within her tomb, binding it with seven sorcerous wards. There it remained until the final days of the First Age. Inspired by memories of his past life as Nafiss, the swordsman Mabonai claimed the cursed blade. Sworn to the cause of the Solar Purge, Mabonai willingly surrendered himself to Ajelin, unleashing its terror against the Lawgivers.
 Mabonai and Ajelin both vanished after the Usurpation, but the daiklave has reappeared throughout the Second Age. Every hand that’s touched it has felt its curse.
 The outcaste Second Thunder wielded it to defend his homeland against an undead horde, but massacred his own people under Ajelin’s sway. Sky Wolf killed his own family after a faerie prince tricked him into taking up the blade, and stained the Wyld red with his revenge.
-The [[Lore/Factions/Silver Pact|Silver Pact]] follows rumors of Ajelin closely, seeking to reclaim it and seal it away once again, but some would see it brought to bear against the Realm. 
+The [[Silver Pact|Silver Pact]] follows rumors of Ajelin closely, seeking to reclaim it and seal it away once again, but some would see it brought to bear against the Realm. 
  
 ## [[Evocations]] of Ajelin
 Ajelin’s [[Evocations]] draw power from hatred and rage, poisoning its wielder’s soul until she no longer sees herself as anything but an extension of the blade. They also strengthen the physical bond between wielder and weapon, letting Ajelin spread around her to form moonsilver armor.

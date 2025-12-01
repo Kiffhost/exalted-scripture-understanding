@@ -13,7 +13,7 @@ Prerequisite Charms:
   - "[[Perfect Shadow Stillness]]"
 ---
 *Upon using this Charm, the Exalt patrols an area for an hour, studying its shadows and learning its secrets.*
-During this time, the Solar examines boltholes, discovers blind-spots and sight-lines, and prepares hiding places. At the end of the hour, roll the Solar’s [[Wits]] + [[Stealth]], adding ([[Essence]]) automatic successes. Successes on this roll are available to the Lawgiver as long as the Charm is committed or until spent entirely. These successes can only be used on [[Stealth]] attempts within the specific location the Solar patrolled, but the player can parcel them out across multiple attempts, deciding when to use them, and how many to use. The Solar is expressly allowed to use these successes after making the [[Stealth]] roll. 
+During this time, the Solar examines boltholes, discovers blind-spots and sight-lines, and prepares hiding places. At the end of the hour, roll the Solar’s [[Wits]] + [[Traits/Abilities/Stealth]], adding ([[Essence]]) automatic successes. Successes on this roll are available to the Lawgiver as long as the Charm is committed or until spent entirely. These successes can only be used on [[Traits/Abilities/Stealth]] attempts within the specific location the Solar patrolled, but the player can parcel them out across multiple attempts, deciding when to use them, and how many to use. The Solar is expressly allowed to use these successes after making the [[Traits/Abilities/Stealth]] roll. 
 
 ## Special activation rules
 

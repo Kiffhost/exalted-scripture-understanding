@@ -18,4 +18,4 @@ However, when the Ichneumon Aeon arose from the Wyld, he banded together with hi
  
 ## [[Evocations]] of [[Gnomon]]
 
-Seven-Finger Wu’s trickery endowed [[Gnomon]] with an illusory mantle of celestial legitimacy. This quirk in destiny fools any [[Sidereal Exalted]] or god who works for the [[Lore/Factions/Bureau of Destiny|Bureau of Destiny]] into thinking that the staff’s wielder is a legitimate agent of Heaven. This is equivalent to a Minor [[Intimacy|Tie]] of trust.
+Seven-Finger Wu’s trickery endowed [[Gnomon]] with an illusory mantle of celestial legitimacy. This quirk in destiny fools any [[Sidereal Exalted]] or god who works for the [[Bureau of Destiny|Bureau of Destiny]] into thinking that the staff’s wielder is a legitimate agent of Heaven. This is equivalent to a Minor [[Intimacy|Tie]] of trust.

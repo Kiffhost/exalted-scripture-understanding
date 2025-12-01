@@ -20,12 +20,12 @@ A Night’s Caste Mark is an empty golden circle on the brow. [[Night]] Caste an
 
 It is as difficult to find a [[Night]] Caste in a den of villains as it is to find the Unconquered Sun at midnight; shadows bend to conceal them, and their very anima colludes to keep their location and identity a secret. See page 176 for details 
 - For two motes, the [[Night]] can dampen her anima, treating all Peripheral [[Essence]] expenditures as if they were Personal for one instant.
-- For three motes, the [[Night]] can ignore up to (higher of 3 or [[Essence]]) penalties to a [[Stealth]] attempt for one instant. These motes are always considered Personal, regardless of the pool they’re spent from.
+- For three motes, the [[Night]] can ignore up to (higher of 3 or [[Essence]]) penalties to a [[Traits/Abilities/Stealth]] attempt for one instant. These motes are always considered Personal, regardless of the pool they’re spent from.
 - When the Night’s anima is at the bonfire/iconic level, it wraps around and suffuses her form, hiding her figure and masking her visage in flame. She is merely a fearsome silhouette shrouded in all the hues of evening. It becomes impossible to discern her identity. This is considered a perfect effect, and cannot be pierced by [[Eye of the Unconquered Sun]] (see p. 273) or other all-seeing magic.
 
 # Caste Abilities
 
-Those of the [[Night]] Caste show great talent for [[Athletics]], [[Awareness]], [[Dodge]], [[Investigation]], [[Larceny]], [[Ride]], [[Stealth]], and Socialize—Abilities which allow them to work in secret against the enemies of the Sun. 
+Those of the [[Night]] Caste show great talent for [[Athletics]], [[Awareness]], [[Dodge]], [[Investigation]], [[Larceny]], [[Ride]], [[Traits/Abilities/Stealth]], and Socialize—Abilities which allow them to work in secret against the enemies of the Sun. 
 
 # Associations
 

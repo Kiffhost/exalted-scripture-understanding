@@ -41,7 +41,7 @@ Assign up to 10 dots to [[Merits]].
 - [[Merits#Story|Story Merits]] may be purchased now, or with Storyteller permission.
 - [[Merits#Purchased|Purchased Merits]] may be purchased at any time.
 
-If your character is employed by the [[Lore/Factions/Bureau of Destiny|Bureau of Destiny]], distribute 5 additional points among: [[Backing]], [[Contacts]], [[Manse]], [[Mentor]], [[Resources]], and [[Retainers]].
+If your character is employed by the [[Bureau of Destiny|Bureau of Destiny]], distribute 5 additional points among: [[Backing]], [[Contacts]], [[Manse]], [[Mentor]], [[Resources]], and [[Retainers]].
 
 Some Merits can make different options for charms available:
 - [[Artifact]] may allow Evocations.

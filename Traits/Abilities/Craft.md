@@ -6,7 +6,7 @@ tags:
 ---
 **This Ability is necessary to create artifacts.**
 
-[[Craft]] is used to create or repair objects through skilled labor, whether forging a sword, cutting the gem for a merchant prince’s brooch, or planning and overseeing the construction of a temple. The Exalted and other supernatural beings are capable of using this Ability to create [[artifact]]s, treasures of legendary quality that possess powerful magic of their own. 
+[[Craft]] is used to create or repair objects through skilled labor, whether forging a sword, cutting the gem for a merchant prince’s brooch, or planning and overseeing the construction of a temple. The Exalted and other supernatural beings are capable of using this Ability to create [[Artifact]]s, treasures of legendary quality that possess powerful magic of their own. 
 
 ### Special rules
 

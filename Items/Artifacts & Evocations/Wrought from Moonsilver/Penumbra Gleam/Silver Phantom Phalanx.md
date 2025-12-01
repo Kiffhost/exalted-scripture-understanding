@@ -19,7 +19,7 @@ Every point of Reflection she spends adds +1 [[Defense|Parry]], maximum (Percept
 
 ## Resonant
 
-If the wielder took a [[full defense]] on her turn, enemies can’t resist with [[Willpower]]. 
+If the wielder took a [[Full Defense]] on her turn, enemies can’t resist with [[Willpower]]. 
 
 ## Dissonant
 

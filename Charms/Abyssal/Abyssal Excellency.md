@@ -17,6 +17,6 @@ Prerequisite Charms:
 *The [[Abyssal Exalted]] may use their [[Excellencies]] to enhance any [[Dice Rolls|rolled]] [[Action]], or any application of a static value (such as [[Defense]] or [[Resolve]]).*
 To enhance a rolled action, the Abyssal simply spends 1 mote of [[Essence]] per die added to the roll. The Abyssal may spend up to (Attribute + Ability) motes, subject to the normal limitations on adding dice to a roll with magic ([[Charms#Charm Limitations]]).
 When using an Excellency to enhance a static value, the Abyssal spends 2 motes of [[Essence]] for every point by which she raises the static value, and may spend up to (Attribute + Ability that contributes to the static value) motes, again, subject to normal static value-raising limitations.
-If the Excellency is being used to enhance a dice roll it is considered supplemental. If it is being used in a [[defense]] it is considered reflexive. 
+If the Excellency is being used to enhance a dice roll it is considered supplemental. If it is being used in a [[Defense]] it is considered reflexive. 
 
 Note: Dice limit of appropriate [[Charms#Charm Style]]. 

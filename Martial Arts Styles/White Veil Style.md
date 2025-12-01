@@ -10,4 +10,4 @@ If it existed, White Veil would use swift, precise unarmed attacks to strike pre
 ## Armour
 This style would be incompatible with armor if it were real. 
 ## Complementary Abilities
-[[Socialize]] and [[Stealth]] are essential to the modus operandi that isn’t employed by masters of this nonexistent style.
+[[Socialize]] and [[Traits/Abilities/Stealth]] are essential to the modus operandi that isn’t employed by masters of this nonexistent style.

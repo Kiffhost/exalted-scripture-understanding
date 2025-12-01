@@ -14,4 +14,4 @@ This breastplate consists of two perfectly symmetrical pentagonal plates of burn
  
 ## [[Evocations]] of the Quincunx
 
-A character attuned to the Quincunx gains +1 [[Defense]] while shaping [[sorcery]], attempting countermagic, or distorting a spell. A [[Twilight]] Caste Solar at bonfire anima may pay six motes and one [[Willpower]] to harmonize her anima banner with the Quincunx, stacking its [[Hardness]] bonus with the armor’s for the rest of the scene.
+A character attuned to the Quincunx gains +1 [[Defense]] while shaping [[Templates/sorcery]], attempting countermagic, or distorting a spell. A [[Twilight]] Caste Solar at bonfire anima may pay six motes and one [[Willpower]] to harmonize her anima banner with the Quincunx, stacking its [[Hardness]] bonus with the armor’s for the rest of the scene.

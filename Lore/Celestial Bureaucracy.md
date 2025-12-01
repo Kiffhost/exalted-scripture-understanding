@@ -1,7 +1,7 @@
 ---
 tags: []
 ---
-# [[Lore/Factions/Bureau of Destiny|Bureau of Destiny]]
+# [[Bureau of Destiny|Bureau of Destiny]]
 
 ## Division of Journeys
 HG: Golden Barque of the Heavens

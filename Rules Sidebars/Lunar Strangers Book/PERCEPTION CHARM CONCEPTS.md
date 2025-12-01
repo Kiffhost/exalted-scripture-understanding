@@ -4,7 +4,7 @@ tags:
 ---
 
 Hunting the Secret Self (Essence 2; Whispering
-Heart Revelation): Complete a [[sacred hunt]] by witnessing your quarry do something he’d never do if
+Heart Revelation): Complete a [[Sacred Hunt]] by witnessing your quarry do something he’d never do if
 he knew someone else was watching.
 Swift Hunter's Eye (Essence 2; Prowling Stalker Concentration): The Lunar can use Prowling
 Stalker Concentration instantly, without needing to

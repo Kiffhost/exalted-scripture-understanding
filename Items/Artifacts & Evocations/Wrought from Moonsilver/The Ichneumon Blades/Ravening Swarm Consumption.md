@@ -33,4 +33,4 @@ Successfully infecting an enemy with this Evocation resets the wielder’s attac
 
 ## Dissonant
 
-Characters dissonant with [[the Ichneumon Blades]] can’t awaken this Evocation. 
+Characters dissonant with [[The Ichneumon Blades]] can’t awaken this Evocation. 

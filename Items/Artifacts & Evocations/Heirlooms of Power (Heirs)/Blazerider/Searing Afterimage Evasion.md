@@ -11,7 +11,7 @@ Keywords:
   - Uniform
 Duration: Instant
 Prerequisite Charms:
-  - "[[Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Racing Flame Method]]"
+  - "[[Racing Flame Method]]"
 ---
 *Blazerider’s speed bears its master out of harm’s way, moving faster than the eye can see.*
 Its wielder adds Blazerider’s (Speed Bonus/2, rounded up) to her [[Defense|Evasion]] as a non-Charm bonus.

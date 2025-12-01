@@ -5,9 +5,9 @@ tags:
 ---
 The full moon, the new moon, and every phase in between are all the same moon, each a different aspect of Luna’s glory lighting the night sky. It’s with this protean potential, inchoate and manifold, that Luna blesses [[Casteless]] Lunars. Theirs is the freedom to discover who they truly are, and to decide who they’ll be. 
 
-Every Lunar is [[Casteless]] when she Exalts. Some are found swiftly by the [[Lore/Factions/Silver Pact|Silver Pact]] and receive the moonsilver tattoos that let them define their caste. For them, Castelessness is a brief and transitory period, though still a meaningful one.
+Every Lunar is [[Casteless]] when she Exalts. Some are found swiftly by the [[Silver Pact|Silver Pact]] and receive the moonsilver tattoos that let them define their caste. For them, Castelessness is a brief and transitory period, though still a meaningful one.
 
-Others remain [[Casteless]] much longer, even until the end of their lives, embracing it as their true nature. Some go undiscovered by the [[Lore/Factions/Silver Pact|Silver Pact]] or refuse its envoys’ entreaties. Others forgo the chance to take on the moonsilver tattoos, wishing to reflect fully on their innermost nature before making a decision that will be forever written on their souls. Some simply refuse the choice, dissatisfied with the threefold roles of warrior, trickster, or witch. 
+Others remain [[Casteless]] much longer, even until the end of their lives, embracing it as their true nature. Some go undiscovered by the [[Silver Pact|Silver Pact]] or refuse its envoys’ entreaties. Others forgo the chance to take on the moonsilver tattoos, wishing to reflect fully on their innermost nature before making a decision that will be forever written on their souls. Some simply refuse the choice, dissatisfied with the threefold roles of warrior, trickster, or witch. 
 
 The prowess of [[Casteless]] Lunars isn’t defined by any archetype; all can attain excellence in whatever endeavors they devote themselves to. Lacking the focus of a Caste, they cultivate wider breadths of talent with greater ease.
 
@@ -32,7 +32,7 @@ The [[Casteless]] lack Caste Attributes but have greater aptitude at mastering u
 
 # Experience Trigger
 
-Overcoming a significant enemy or obstacle in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining [[Intimacy]] by completing a [[sacred hunt]]; removing a major impediment to her or her Circle’s goals through shapeshifting; protecting a Major or Defining [[Intimacy]] to an institution or community in which she’s made a place for herself.
+Overcoming a significant enemy or obstacle in a way that reveals something new about the character or leads her to learn something about herself; advancing or protecting a Major or Defining [[Intimacy]] by completing a [[Sacred Hunt]]; removing a major impediment to her or her Circle’s goals through shapeshifting; protecting a Major or Defining [[Intimacy]] to an institution or community in which she’s made a place for herself.
 
 # Associations
 
@@ -44,4 +44,4 @@ Children of the Unfettered Moon, Luna’s Wanderers, Nightwalkers, the Moon-Mad 
 
 # Concepts
 
-Young chieftain, [[Lore/Factions/Silver Pact|Silver Pact]] iconoclast, thrill-seeking explorer, devotee of Luna, farmgirl fleeing the Wyld Hunt, scapegoat for another’s crimes, exiled Dynast, child of two cultures, far-wandering sea captain, animal handler, criminal stealing to survive.
+Young chieftain, [[Silver Pact|Silver Pact]] iconoclast, thrill-seeking explorer, devotee of Luna, farmgirl fleeing the Wyld Hunt, scapegoat for another’s crimes, exiled Dynast, child of two cultures, far-wandering sea captain, animal handler, criminal stealing to survive.

@@ -23,7 +23,7 @@ Changing Moons tend toward spirit shapes symbolizing grace, beauty, deception, a
 
 Cunning tricksters, the Changing Moons’ animas lend captivating allure, cloak them in mystery, and let them insinuate themselves into the good graces of even their staunchest foes (p. XX). 
 - For five motes, the [[Changing Moon]] lends her words hypnotic allure, adding (Essence/2, rounded up) non-Charm dice on an influence roll. Anyone who perceives the influence will hear her out; leaving or interrupting her before she’s finished costs one [[Willpower]] to resist for the scene. This power’s cost is [[Mute]] and is waived at bonfire anima. 
-- At dim anima, she gains +1 non-Charm [[Guile]] and adds (Essence/2, rounded up) non-Charm dice on [[Stealth]] and disguise rolls.
+- At dim anima, she gains +1 non-Charm [[Guile]] and adds (Essence/2, rounded up) non-Charm dice on [[Traits/Abilities/Stealth]] and disguise rolls.
 - Once per day, she can pay three motes, one [[Willpower]] when she makes an influence roll to ignore negative Ties her targets have towards her (or her current shape). These Ties can’t be used to bolster [[Resolve]] or in [[Decision Points]].
 
 # Caste Attributes

@@ -9,7 +9,7 @@ Keywords:
   - None
 Duration: Permanent
 Prerequisite Charms:
-  - "[[Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Flying Dragon Fang]]"
+  - "[[Flying Dragon Fang]]"
   - Any one Charm this Evocation enhances
 ---
 *[[Blazerider]] and its master burn with the same fire.*

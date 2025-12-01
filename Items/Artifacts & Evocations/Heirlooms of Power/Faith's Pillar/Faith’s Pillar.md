@@ -25,4 +25,4 @@ His journeys led him to every corner of Creation, then to the secretive cities o
 
 ## [[Evocations]] of [[Faith’s Pillar]]
 
-Upon attuning to [[Faith’s Pillar]], the wielder chooses one of her Principles of religious belief or social order to dedicate the [[goremaul]] to, gaining an additional +1 [[Resolve]] against influence opposing it. She may change the chosen [[Intimacy|Principle]] once per story with a ritual rededication.
+Upon attuning to [[Faith’s Pillar]], the wielder chooses one of her Principles of religious belief or social order to dedicate the [[Goremaul]] to, gaining an additional +1 [[Resolve]] against influence opposing it. She may change the chosen [[Intimacy|Principle]] once per story with a ritual rededication.

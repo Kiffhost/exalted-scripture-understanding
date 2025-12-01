@@ -8,7 +8,7 @@ While the traits of the average character making up a [[Battle Group]] determine
 
 There are three categories of [[Drill]]:
 # Poor
-Poor-quality battle groups inflict a -2 penalty to [[Order]] and [[Rally for numbers]] actions, do not modify their [[Defense]], and raise the difficulty of all rout and [[rally]] rolls by 1.
+Poor-quality battle groups inflict a -2 penalty to [[Order]] and [[Rally for numbers]] actions, do not modify their [[Defense]], and raise the difficulty of all rout and [[Rally]] rolls by 1.
 
 A unit with poor [[Drill]] has no training in fighting together, or no capability for such training. This is the [[Drill]] quality of rioting mobs, of impromptu peasant conscripts tossed directly into battle, of most village militias, of many bandits, of raiders who fight without any sort of coordination, of groups of experienced fighters brought together without any particular familiarity with fighting alongside one another, and of mindless undead.
 # Average

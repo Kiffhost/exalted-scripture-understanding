@@ -16,4 +16,4 @@ As a four-dot Merit, the character gains control of an exceptionally powerful de
 #### Abyssal
 Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.
 
-# See also: [[Attuning to a Demesne or Manse]]
+# See also: [[ATTUNING TO A DEMESNE OR MANSE]]

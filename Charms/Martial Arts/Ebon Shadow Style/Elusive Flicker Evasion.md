@@ -19,4 +19,4 @@ Prerequisite Charms:
 ## Terrestrial
 A Dragon-Blood may only use this Charm once per scene, though it can be reset by incapacitating a non-trivial opponent with an unexpected decisive attack. 
 ## Mastery
-When an enemy misses the martial artist, he loses points of [[Initiative]] equal to the difference between the two attack rolls, up to a maximum of the martial artist’s [[Stealth]].
+When an enemy misses the martial artist, he loses points of [[Initiative]] equal to the difference between the two attack rolls, up to a maximum of the martial artist’s [[Traits/Abilities/Stealth]].

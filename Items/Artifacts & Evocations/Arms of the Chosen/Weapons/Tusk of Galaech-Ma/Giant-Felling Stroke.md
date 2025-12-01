@@ -18,7 +18,7 @@ It knows that each of its kindred has a weakness, no matter how invulnerable it 
 
 ## Special activation rules
 
-As long as the wielder isn’t dissonant with moonsilver, this Evocation awakens at no cost when she Joins Battle against a non-trivial quarry after [[tracking]] it to its lair or otherwise hunting it down. 
+As long as the wielder isn’t dissonant with moonsilver, this Evocation awakens at no cost when she Joins Battle against a non-trivial quarry after [[Tracking]] it to its lair or otherwise hunting it down. 
 
 ## Resonant
 

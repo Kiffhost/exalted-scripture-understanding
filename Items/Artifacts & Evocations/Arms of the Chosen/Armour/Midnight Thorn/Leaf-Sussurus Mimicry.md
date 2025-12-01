@@ -13,7 +13,7 @@ Prerequisite Charms:
   - None
 ---
 *Midnight Thorn’s armored links become as silent and soft as leaves.*
-This Evocation enhances a [[Stealth]] roll made while in plant-based concealment, lowering any penalties by the wearer’s ([[Essence]]). 
+This Evocation enhances a [[Traits/Abilities/Stealth]] roll made while in plant-based concealment, lowering any penalties by the wearer’s ([[Essence]]). 
 
 ## Special activation rules
 

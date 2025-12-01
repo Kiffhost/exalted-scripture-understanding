@@ -23,7 +23,7 @@ Burning ritually cultivated wood from the demesne, she heated and shaped the moo
 ## [[Evocations]] of [[Moonlit Huntress]] 
 
 A Solar or Lunar attuned to [[Moonlit Huntress]] gains a blessing from the weapon, which fluidly shifts depending on her standing in the ebb and flow of battle: 
-- [[No Moon]] (0 or fewer [[Initiative]]): +1 non-Charm success to [[Stealth]] rolls. 
+- [[No Moon]] (0 or fewer [[Initiative]]): +1 non-Charm success to [[Traits/Abilities/Stealth]] rolls. 
 - Waning Moon (1-4 [[Initiative]]): +1 non-Charm success to disengage actions. 
 - Half Moon (5-9 [[Initiative]]): +2 non-Charm successes to [[Awareness]] rolls. 
 - Waxing Moon (10-14 [[Initiative]]): +3 automatic successes to rush and disengage actions. 

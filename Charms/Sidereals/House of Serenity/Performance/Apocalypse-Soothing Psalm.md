@@ -1,16 +1,16 @@
 ---
 tags:
-- charm
-- Sidereal
-- source/sidereal-book
+  - charm
+  - Sidereal
+  - source/sidereal-book
 Cost: 15m, 1wp
 Mins: Performance 5, Essence 4
 Type: Simple
 Keywords:
-- Mute
+  - Mute
 Duration: One scene
 Prerequisite Charms:
-- "[[Lining the Road with Sugar and Wine]]"
+  - "[[Lining the Road With Sugar and Wine]]"
 ---
 *The Sidereal’s performance heals a troubled world, shaping its Essence into a pattern that leaves no place for suffering.*
 As long as the Sidereal continues to perform, she and everyone present in the scene — friend or foe — becomes impervious to all forms of physical harm, Psyche effects, Shaping effects, curses, possession, and other hostile effects. This doesn’t prevent social influence, nor does it undo effects already in place.

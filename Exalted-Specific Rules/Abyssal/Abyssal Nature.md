@@ -2,7 +2,7 @@
 tags:
   - source/abyssal-book
 ---
-Abyssal Exalted are both [[CREATURES OF DARKNESS|creatures of darkness]] and [[enemies of fate]].
+Abyssal Exalted are both [[CREATURES OF DARKNESS|creatures of darkness]] and [[Enemies of Fate]].
 # Life in Death 
 The Abyssal Exalted have not died, yet death is their very Essence. They’re considered undead only when this is beneficial for them. Both living and lifeless, they don’t receive the usual benefits of undeath.
 # Death’s Chivalry 

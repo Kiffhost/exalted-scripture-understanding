@@ -48,7 +48,7 @@ While a [[Battle Group]] that has suffered [[Rout]] and *dissolved* is no longer
 
 This gruesome practice consists of simply directing [[Attack]] actions at the fleeing battle group, which suffers a -3 penalty to its [[Defense]]. As the group no longer has any [[Magnitude Track|Magnitude]], the Storyteller simply looks at the damage inflicted and the number of fleeing soldiers, and estimates what it amounts to in terms of dead enemies—the more damage, the more carnage inflicted against the routing battle group.
 
-Of note, if the fleeing group is of a [[Size]] greater than 2, then only other battle groups can generally attempt slaughter attacks against it—an individual hero just can’t cut down enough fleeing soldiers to make much of a dent in a 600-man retreat, at least not without powerful magic such as battlefield [[sorcery]].
+Of note, if the fleeing group is of a [[Size]] greater than 2, then only other battle groups can generally attempt slaughter attacks against it—an individual hero just can’t cut down enough fleeing soldiers to make much of a dent in a 600-man retreat, at least not without powerful magic such as battlefield [[Templates/sorcery]].
 
 # Why Battle Groups? 
 Lone heroes fighting many times their number in nameless lackeys is a staple of many of the sources Exalted draws on. Additionally, because of the scope of martial conflicts often present in Exalted, it’s impractical to depict each soldier in a war scene individually. Battle groups satisfy the demands of both huge-scale mass combat scenes and more modestly scaled scenes where the heroes smash up two dozen thugs in a furious display of their martial prowess.

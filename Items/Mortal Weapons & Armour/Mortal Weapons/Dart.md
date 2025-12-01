@@ -19,4 +19,4 @@ Accuracy:
 aliases:
   - darts
 ---
-Essentially a shorter, lighter [[javelin]], typically around one foot long.
+Essentially a shorter, lighter [[Javelin]], typically around one foot long.

@@ -22,4 +22,4 @@ Backer: Seth Landry
  
 ## [[Evocations]] of [[Glacial Mantle]]
 
-Glacial Mantle’s wearer is immune to mundane [[environmental hazards]] based on cold, and adds ([[Essence]]) non-Charm dice on rolls against magical hazards based on cold. [[Glacial Mantle]] gains +([[Essence]]) soak and +1 [[Hardness]] against cold-based attacks.
+Glacial Mantle’s wearer is immune to mundane [[Environmental Hazards]] based on cold, and adds ([[Essence]]) non-Charm dice on rolls against magical hazards based on cold. [[Glacial Mantle]] gains +([[Essence]]) soak and +1 [[Hardness]] against cold-based attacks.

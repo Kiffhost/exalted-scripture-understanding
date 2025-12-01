@@ -15,4 +15,4 @@ aliases:
   - seven-section staffs
   - sevensection staves
 ---
-This weapon, which can actually have from three to 12 sections, is made up of a number of metal or wood segments connected by very short lengths of chain. It’s wielded as a combination of [[staff]] and flail and is difficult to master.
+This weapon, which can actually have from three to 12 sections, is made up of a number of metal or wood segments connected by very short lengths of chain. It’s wielded as a combination of [[Staff]] and flail and is difficult to master.

@@ -13,4 +13,4 @@ To use this spell, the sorcerer must have first carved a life-sized likeness of 
 A sorcerer with this as her control spell may simultaneously project herself into up to ([[Perception]]) separate wooden faces, seeing and speaking through all of them simultaneously. 
 # Distortion
 (Goal Number: 5)
-To distort this spell, a sorcerer must be within short range of the tree, not the sorcerer. Distortion renders the wooden face [[Flaws/Blind]], [[Deaf]], and [[Mute]], plunging the casting sorcerer into sensory isolation that causes her to lose one [[Willpower]].
+To distort this spell, a sorcerer must be within short range of the tree, not the sorcerer. Distortion renders the wooden face [[Blind]], [[Deaf]], and [[Mute]], plunging the casting sorcerer into sensory isolation that causes her to lose one [[Willpower]].

@@ -17,7 +17,7 @@ Prerequisite Charms:
 *The Lunar and her swarming duplicates fight as one.*
 When the Lunar rolls [[Join Battle]], she adds a bonus die for each [[Cunning Anglerfish Decoy]] duplicate within long range, maximum (higher of [[Essence]] or 3). She banks a pool of swarm points equal to the 9s and 10s on the roll that can be spent on the following effects: 1 point: Prevent a replica within long range from being dissipated by an attack. For replicas enhanced with [[Ant-and-Starfish Trick]], this instead prevents a decisive attack’s damage from filling their Incapacitated health level.
 1 point: The Lunar waives Engulfing Swarm Embrace’s cost.
-1+ points: While within close range of a duplicate, the Lunar can add automatic successes on a [[Stealth]] roll for one swarm point each.
+1+ points: While within close range of a duplicate, the Lunar can add automatic successes on a [[Traits/Abilities/Stealth]] roll for one swarm point each.
 1+ points: When the Lunar attacks an enemy within close range of a duplicate, she can add up to ([[Essence]]) dice of decisive damage or post-soak withering damage for one swarm point each.
 2 points: A duplicate enhanced with [[Ant-and-Starfish Trick]] takes a reflexive defend other action.
 2 points: A duplicate enhanced with [[Ant-and-Starfish Trick]] makes a reflexive distract gambit.

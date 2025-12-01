@@ -14,7 +14,7 @@ Prerequisite Charms:
   - "[[Element-Resisting Prana]]"
 ---
 *While using [[Hardship-Surviving Mendicant Spirit]], the Lawgiver pours her [[Essence]] into the ship’s hull, merging with the ship’s anima and extending her protection over vessel and crew.*
-This extends lesser but significant defenses against [[environmental hazards]] as [[Element-Resisting Prana]]; the ship and crew take three less damage per interval, but only a single member of the crew or the ship can be harmed per round, and none can be affected twice in a row.
+This extends lesser but significant defenses against [[Environmental Hazards]] as [[Element-Resisting Prana]]; the ship and crew take three less damage per interval, but only a single member of the crew or the ship can be harmed per round, and none can be affected twice in a row.
 
 ### On [[Ash and Storm Aegis]]
 

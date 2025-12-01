@@ -11,4 +11,4 @@ Throne Shadow unarmed attacks are primarily open palm strikes, pushes, and low k
 ## Armour
 This style isn’t compatible with armor. 
 ## Complementary Abilities
-Throne Shadow style employs the subtlety and deception of [[Larceny]], [[Socialize]], and [[Stealth]].
+Throne Shadow style employs the subtlety and deception of [[Larceny]], [[Socialize]], and [[Traits/Abilities/Stealth]].

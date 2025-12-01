@@ -21,7 +21,7 @@ As the blessings of Hell are myriad, different benefits are possible, such as au
 - She learns one Eclipse Charm for free from any demon descended from the Yozi her soul is a part of. She can purchase further Eclipse Charms for eight experience points each.
 - She becomes immune to Shaping (Soul) effects; her soul has already been claimed.
 
-**Defining Investiture** works as Major Investiture, but is additionally accompanied by a transformative miracle of hellish grandeur. She may receive tremendous wealth and an army to retake her throne (five-dot [[Resources]] and [[Obsidian Exalted/Merits/Command|Command]]); spread green sun wasting (p. XX) with a touch, and become immune to mundane flame; or she may cease to age entirely and reform after a death not brought with spirit-killing magics.
+**Defining Investiture** works as Major Investiture, but is additionally accompanied by a transformative miracle of hellish grandeur. She may receive tremendous wealth and an army to retake her throne (five-dot [[Resources]] and [[Merits/Command|Command]]); spread green sun wasting (p. XX) with a touch, and become immune to mundane flame; or she may cease to age entirely and reform after a death not brought with spirit-killing magics.
 
 As a guideline, Second Circle Demon can grant miracles roughly equivalent to Celestial Circle sorcerous workings and Third Circle Demons miracles equivalent to Solar Circle workings. The miracles of the Yozis exceed these limits, but only within Malfeas, where a warlock might be made prince of a layer.
 

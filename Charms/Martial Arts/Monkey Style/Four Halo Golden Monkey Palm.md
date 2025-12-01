@@ -26,10 +26,10 @@ The Crown Gate, located in the brow, is said to be the font of reason, wisdom, a
 The Chalice Gate, located in the heart, is seen as the seat of empathy, love, and mercy, the gate that governs strong relationships. This gambit renders its victim incapable of considering or prioritizing the needs of others. Any positive Ties he has are suppressed. He can’t use defend other actions, distract gambits, or other forms of teamwork. Unless he thinks continuing to fight is in his best interest, he’ll attempt to retreat, negotiate a surrender, or otherwise advance his own interests over anyone else’s.
 ### Monkey Fouls the Throne
 The Throne Gate, located in the navel, is thought to be the source of ambition, will, and drive. This gambit renders its victim incapable of restraint. He suffers −2 [[Defense]], [[Guile]], and [[Resolve]].
-At the end of each of his turns, he loses five [[Initiative]] unless he made a decisive attack or spent at least seven motes or one [[Willpower]] on an attack. He can’t disengage, withdraw, or take [[full defense]] actions.
+At the end of each of his turns, he loses five [[Initiative]] unless he made a decisive attack or spent at least seven motes or one [[Willpower]] on an attack. He can’t disengage, withdraw, or take [[Full Defense]] actions.
 ### Monkey Plucks the Root
 The Root Gate, located in the groin, is said to be the seat of courage, wrathful passions, and fighting spirit. This gambit breaks its victim’s will to fight. He gains a Major [[Intimacy|Tie]] of fear toward the stylist, or strengthens an existing [[Intimacy|Tie]] to Defining.
-At the end of each of his turns, he loses five [[Initiative]] unless he took a movement action to move away from the stylist or rolled [[Stealth]] to establish concealment. He can’t attack, threaten, or rush the stylist.
+At the end of each of his turns, he loses five [[Initiative]] unless he took a movement action to move away from the stylist or rolled [[Traits/Abilities/Stealth]] to establish concealment. He can’t attack, threaten, or rush the stylist.
 ## Special activation rules
 When the stylist uses [[Lost Monkey Escapade]], she can use this Charm reflexively for the attack.
 ## Mastery

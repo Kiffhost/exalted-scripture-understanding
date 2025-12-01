@@ -14,7 +14,7 @@ This weapon is capable of making chopping attacks. A chopping attack costs one p
 ## Disarming
 This weapon reduces the difficulty and cost of [[Attack#Disarm|disarm]] gambits by 1. 
 ## Flexible
-This weapon ignores the [[Defense]] bonus granted by [[full defense]] actions. 
+This weapon ignores the [[Defense]] bonus granted by [[Full Defense]] actions. 
 ## Improvised 
 Useable with both [[Brawl]] and [[Melee]], these simple weapons can be created out of anything sturdy, heavy and roughly well balanced. Because they are not designed for use as weapons, improvised weapons cost 1 [[Initiative]] to use in an attack. 
 ## [[Grappling]]
@@ -22,7 +22,7 @@ This weapon can be used to make grappling gambits.
 ## Lethal
 This weapon normally does lethal damage when used to deliver a decisive attack. Lethal close combat weapons can deliver bashing damage with an appropriate stunt, by e.g. attacking with the pommel or with the flat of the blade. 
 ## [[Martial Arts]]
-Attacks with this weapon don’t use [[Melee]] or [[Brawl]]. Wielding it requires an applicable [[Martial Arts]] Ability. For example, the [[hook sword]] requires facility with a style like [[Martial Arts]] ([[Snake Style]]) or [[Martial Arts]] ([[Crane Style]]); [[Martial Arts]] ([[Tiger Style]]) wouldn’t do. 
+Attacks with this weapon don’t use [[Melee]] or [[Brawl]]. Wielding it requires an applicable [[Martial Arts]] Ability. For example, the [[Hook Sword]] requires facility with a style like [[Martial Arts]] ([[Snake Style]]) or [[Martial Arts]] ([[Crane Style]]); [[Martial Arts]] ([[Tiger Style]]) wouldn’t do. 
 ## [[Melee]] 
 Attacks with this weapon normally use [[Melee]]. 
 ## Natural
@@ -32,7 +32,7 @@ This weapon specializes in defeating armor, either by punching through it or sli
 ## Reaching
 This long weapon negates the advantages of [[Mounted Fighting|mounted combatants]] (p. 202). 
 ## [[Shield]]
-A weapon with this tag allows the character to place the “[[full defense]]” action in a flurry, although this flurry can’t also contain an attack action. This is normally used to flurry [[full defense]] and rush actions together. The damage of shield-tagged weapons is 2 lower than their class would otherwise indicate (thus a medium shield tagged weapon would have damage 7 rather than 9). 
+A weapon with this tag allows the character to place the “[[Full Defense]]” action in a flurry, although this flurry can’t also contain an attack action. This is normally used to flurry [[Full Defense]] and rush actions together. The damage of shield-tagged weapons is 2 lower than their class would otherwise indicate (thus a medium shield tagged weapon would have damage 7 rather than 9). 
 ## Smashing
 This weapon can make smash attacks. Smash attacks sacrifice one [[Defense]] until the character’s next turn, and cost two [[Initiative]] to attempt. If successful, they knock the opponent back one range band, or knock them prone. Targets may be knocked back into dangerous or deadly threats, like lava pits or steep cliffs. 
 ## [[Thrown]]
@@ -45,7 +45,7 @@ SORT Accuracy
 ```
 [[#Thrown]] weapons cannot be used to parry attacks unless they also carry the [[#Brawl]], [[#Martial Arts]], or [[#Melee]] keyword.
 ## Two-Handed
-This weapon requires the user wield it with both hands, preventing them from holding a [[shield]] or another weapon at the same time. Two-handed weapons grant a +2 bonus to [[Clash]] attacks. 
+This weapon requires the user wield it with both hands, preventing them from holding a [[Shield]] or another weapon at the same time. Two-handed weapons grant a +2 bonus to [[Clash]] attacks. 
 ## Worn
 Wearable weapons can be removed, but while worn they count as [[#natural]] weapons. Equipping or removing a weapon with the worn tag takes an action.
 # Ranged Weapon Tags

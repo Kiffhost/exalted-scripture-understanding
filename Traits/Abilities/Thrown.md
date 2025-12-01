@@ -6,7 +6,7 @@ tags:
 ---
 **This Ability is important in combat.** 
 
-[[Thrown]] is the Ability used for weapons designed to be thrown at an enemy, rather than those which fire projectiles. Throwing [[Knife|knives]], [[shuriken]], [[Javelin|javelins]], [[Chakram|chakrams]], and nets are all used with this Ability.
+[[Thrown]] is the Ability used for weapons designed to be thrown at an enemy, rather than those which fire projectiles. Throwing [[Knife|knives]], [[Shuriken]], [[Javelin|javelins]], [[Chakram|chakrams]], and nets are all used with this Ability.
 
 # Weapons
 

@@ -16,4 +16,4 @@ Prerequisite Charms:
 *Once disease has ravaged the stylist’s foe, she moves in to finish him off.*
 The stylist doubles 10s on the damage roll of an unexpected decisive attack. If her enemy is diseased, this benefit increases with his symptoms’ intensity: double 9s for Minor, double 8s for Major, and double 7s for Defining.
 ## Terrestrial Reset
-Once per scene, unless reset by rolling [[Stealth]] to enter concealment and beating the [[Awareness]] roll of at least one nontrivial enemy with lower [[Initiative]].
+Once per scene, unless reset by rolling [[Traits/Abilities/Stealth]] to enter concealment and beating the [[Awareness]] roll of at least one nontrivial enemy with lower [[Initiative]].

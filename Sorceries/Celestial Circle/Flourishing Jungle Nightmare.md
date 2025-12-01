@@ -11,7 +11,7 @@ Duration: One scene
 
 A mass of trees, vines, brambles, and other plant and fungal life sprouts within long range of the sorcerer, breaking through flagstones and cellars alike if necessary. The sorcerer may exclude some portions of this area from the spell’s effect. The plants are appropriate to the region, but always exhibit some form of strangeness: flowers have vivid, unnatural colors; trees bear fruits unknown to any in Creation; mushrooms seem to laugh mockingly as they disperse their spores. 
 
-The overgrowth is difficult terrain for everyone but the sorcerer — even her allies. It can provide heavy cover (Exalted, p. 199) and suffices for characters to enter concealment with [[Stealth]] rolls. The overgrowth can’t be cleared by anything short of [[Solar Circle Sorcery]] or equivalent destructive forces— if hacked at or burnt away, it regrows almost instantly. 
+The overgrowth is difficult terrain for everyone but the sorcerer — even her allies. It can provide heavy cover (Exalted, p. 199) and suffices for characters to enter concealment with [[Traits/Abilities/Stealth]] rolls. The overgrowth can’t be cleared by anything short of [[Solar Circle Sorcery]] or equivalent destructive forces— if hacked at or burnt away, it regrows almost instantly. 
 
 On each of the sorcerer’s turns, she may take one of the following actions. They can only affect characters within the overgrowth, and the sorcerer must be within the overgrowth to use them. They count as her attack for the round. However, the sorcerer can’t take the same action twice in a row — she must alternate between them. 
 ## Entangling Vines Durance

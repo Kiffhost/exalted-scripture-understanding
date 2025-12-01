@@ -14,4 +14,4 @@ Accuracy:
   - Long +0
   - Extreme* -2
 ---
-Longer than a [[self bow]], the long bow is harder to pull and offers considerably more power. 
+Longer than a [[Self Bow]], the long bow is harder to pull and offers considerably more power. 

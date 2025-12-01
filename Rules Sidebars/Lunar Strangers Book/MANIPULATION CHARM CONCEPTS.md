@@ -13,7 +13,7 @@ a story that will be spread by those who hear it.
 The story counts as a custom held by those who’ve
 heard it for purposes of her Lunar Charms.
 Shape-Stealing Betrayal (Essence 2; Argent
-Trickster’s Rook): Perform a [[sacred hunt]] that concludes when the target makes a meaningful expression or gesture of trust in the Lunar that she
+Trickster’s Rook): Perform a [[Sacred Hunt]] that concludes when the target makes a meaningful expression or gesture of trust in the Lunar that she
 doesn’t deserve.
 Suspicion-Stirring Deviltry (Essence 2; Night
 Sky Burial): When someone uncovers false evidence planted with Night Sky Burial, they’re compelled to spread word of their discovery and they

@@ -13,4 +13,4 @@ Prerequisite Charms:
   - "[[Stalking Wolf Attitude]]"
 ---
 *Like a flashing viper, the Exalt strikes and is gone.*
-Upon incapacitating a target, the Solar may reflexively attempt concealment by rolling ([[Dexterity]] + [[Stealth]]), adding ([[Essence]]) automatic successes. This Charm contributes four motes total to the cost of any [[Stealth]] [[Charms]] the Solar uses to aid in this attempt.
+Upon incapacitating a target, the Solar may reflexively attempt concealment by rolling ([[Dexterity]] + [[Traits/Abilities/Stealth]]), adding ([[Essence]]) automatic successes. This Charm contributes four motes total to the cost of any [[Traits/Abilities/Stealth]] [[Charms]] the Solar uses to aid in this attempt.

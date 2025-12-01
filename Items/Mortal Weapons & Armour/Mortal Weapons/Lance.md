@@ -13,4 +13,4 @@ Cost: " 1"
 aliases:
   - lances
 ---
-The lance is a strong-shafted [[spear]] designed to be used from horseback. Lances are typically not used against other cavalry, but to ride down infantry. Using a lance effectively when on foot requires two hands. 
+The lance is a strong-shafted [[Spear]] designed to be used from horseback. Lances are typically not used against other cavalry, but to ride down infantry. Using a lance effectively when on foot requires two hands. 

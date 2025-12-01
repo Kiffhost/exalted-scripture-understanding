@@ -14,7 +14,7 @@ Prerequisite Charms:
   - None
 ---
 *Hidden truths speak through silence.*
-The wielder may activate this Evocation whenever she hits or touches another character with [[Calumny]]. The target’s unspoken secrets vibrate up Calumny’s length, whispering a one- or two-word clue to the target’s most potent or most immediately relevant secret, decided by the Storyteller. This adds an automatic success on a read intentions or [[profile character]] roll to uncover that secret. Only the wielder hears Calumny’s whispers. 
+The wielder may activate this Evocation whenever she hits or touches another character with [[Calumny]]. The target’s unspoken secrets vibrate up Calumny’s length, whispering a one- or two-word clue to the target’s most potent or most immediately relevant secret, decided by the Storyteller. This adds an automatic success on a read intentions or [[Profile Character]] roll to uncover that secret. Only the wielder hears Calumny’s whispers. 
 
 ## Special activation rules
 

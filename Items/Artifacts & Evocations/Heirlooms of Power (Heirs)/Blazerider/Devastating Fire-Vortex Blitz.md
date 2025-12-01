@@ -11,8 +11,8 @@ Keywords:
   - Resonant
 Duration: Instant
 Prerequisite Charms:
-  - "[[Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Dragon’s Blazing Wake]]"
-  - "[[Items/Artifacts & Evocations/Heirlooms of Power (Heirs)/Blazerider/Searing Afterimage Evasion]]"
+  - "[[Dragon’s Blazing Wake]]"
+  - "[[Searing Afterimage Evasion]]"
 ---
 ## Resonant
 This Evocation can only be awakened by characters resonant with [[Blazerider]].

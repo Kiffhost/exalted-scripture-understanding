@@ -19,7 +19,7 @@ The sorcerer also gains the following powers while transformed:
 When the sorcerer is dealt lethal damage by an attack at close range, she may use this power to make a ([[Stamina]] + [[Occult]]) decisive counterattack as her shed blood turns to shards of glass. This deals (her [[Essence]]) dice of lethal damage, ignoring [[Hardness]], and doesn’t reset her [[Initiative]]. 
 #### Unseen in Stillness
 (3m; Supplemental; Indefinite)
-As the sorcerer makes a [[Stealth]] roll, she sheds all heat from her glassy form to become completely translucent, but immobile. 1s and 2s subtract successes on opposing [[Awareness]] rolls, and they fail automatically unless enhanced by magic. However, taking any physical action breaks this concealment. 
+As the sorcerer makes a [[Traits/Abilities/Stealth]] roll, she sheds all heat from her glassy form to become completely translucent, but immobile. 1s and 2s subtract successes on opposing [[Awareness]] rolls, and they fail automatically unless enhanced by magic. However, taking any physical action breaks this concealment. 
 #### Glass-Bending Flourish
 (4m; Supplemental; Instant; Uniform)
 The sorcerer stretches her sinuous limbs of glass to take a physical action at short range.

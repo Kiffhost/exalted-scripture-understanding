@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"67a59c4092e101c9","type":"file","file":"Obsidian Exalted/Charms/Infernal/Universal/Devil-Body/Transcendent Devil-Body Perfection.md","x":-600,"y":-840,"width":400,"height":400},
-		{"id":"70bbd3650044c0aa","type":"file","file":"Obsidian Exalted/Charms/Infernal/Universal/Devil-Body/Illimitable Demon Avatar.md","x":-600,"y":-240,"width":400,"height":400},
-		{"id":"8e098a958fc75b2a","type":"file","file":"Obsidian Exalted/Charms/Infernal/Universal/Devil-Body/Unbound God-Monster Resurgence.md","x":0,"y":-840,"width":400,"height":400},
-		{"id":"3ca627bcc1288690","type":"file","file":"Obsidian Exalted/Charms/Infernal/Universal/Devil-Body/Apocalypse King Apotheosis.md","x":600,"y":-240,"width":400,"height":400}
+		{"id":"67a59c4092e101c9","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Transcendent Devil-Body Perfection.md","x":-600,"y":-840,"width":400,"height":400},
+		{"id":"70bbd3650044c0aa","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Illimitable Demon Avatar.md","x":-600,"y":-240,"width":400,"height":400},
+		{"id":"8e098a958fc75b2a","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Unbound God-Monster Resurgence.md","x":0,"y":-840,"width":400,"height":400},
+		{"id":"3ca627bcc1288690","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Apocalypse King Apotheosis.md","x":600,"y":-240,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"0a94485b6392cde0","fromNode":"8e098a958fc75b2a","fromSide":"bottom","toNode":"3ca627bcc1288690","toSide":"top"}

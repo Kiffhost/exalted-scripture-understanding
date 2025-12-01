@@ -17,7 +17,7 @@ With a touch, the Lawgiver may use [[Empathic Aegis Discipline]] to deepen this 
 
 ## Special activation rules
 
-As long as the Solar has committed this Charm to at least one character, it automatically applies to every character that is bound to her through a magically powerful oath such as one produced through [[sorcery]] or the [[Eclipse]] anima power.
+As long as the Solar has committed this Charm to at least one character, it automatically applies to every character that is bound to her through a magically powerful oath such as one produced through [[Templates/sorcery]] or the [[Eclipse]] anima power.
 
 ### On [[Empathic Aegis Discipline]]
 
