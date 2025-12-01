@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"cceaf6ad027292ec","x":-1800,"y":-1840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Demon-Scholar Erudition.md"},
+		{"id":"4689ea3cdbf8bdea","x":-1320,"y":-1280,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Crumbling Tower Prophecy.md"},
+		{"id":"af21b318648a6143","x":-840,"y":-1280,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Broken Soul Wisdom.md"},
+		{"id":"ce372c39302d7b7a","x":-1320,"y":-720,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Lidded Eye Insight.md"},
+		{"id":"308e0cb49c1fcf2a","x":-1320,"y":-160,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Slumbering Prophet Revelation.md"},
+		{"id":"8f08255c853c4424","x":-2280,"y":-1280,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Ascending Wisdom Catechism.md"},
+		{"id":"23dd4d8142c84855","x":-3240,"y":-1840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Essence-Dissecting Understanding.md"},
+		{"id":"d7597509c756fa76","x":-2760,"y":-1280,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Mind-Hand Manipulation.md"},
+		{"id":"447e780716d2654e","x":-3720,"y":-1280,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Systematic Imposition of Causality.md"},
+		{"id":"79af689731f317c7","x":-3720,"y":-720,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Pattern-Reassertion Touch.md"},
+		{"id":"2b02896672833321","x":-1800,"y":-160,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Constructive Convergence of Principles.md"},
+		{"id":"2dfe2940bd5e61a9","x":-2760,"y":-720,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Principle-Invoking Onslaught.md"},
+		{"id":"4702510170bc609d","x":-2280,"y":-720,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Lore/Orbital Impact Storm.md"}
+	],
+	"edges":[
+		{"id":"be006cd123d57352","fromNode":"cceaf6ad027292ec","fromSide":"bottom","toNode":"8f08255c853c4424","toSide":"top","color":"6","label":"Key"},
+		{"id":"54fc42973641d973","fromNode":"cceaf6ad027292ec","fromSide":"bottom","toNode":"af21b318648a6143","toSide":"top","color":"6","label":"Key 2x"},
+		{"id":"5df4547a8b8c3566","fromNode":"cceaf6ad027292ec","fromSide":"bottom","toNode":"2b02896672833321","toSide":"top","color":"6","label":"Key"},
+		{"id":"2d95a0d375885d4c","fromNode":"79af689731f317c7","fromSide":"bottom","toNode":"2b02896672833321","toSide":"top"},
+		{"id":"a9bf04874d51f9e7","fromNode":"2dfe2940bd5e61a9","fromSide":"bottom","toNode":"2b02896672833321","toSide":"top"},
+		{"id":"82e103c348c1dcaf","fromNode":"cceaf6ad027292ec","fromSide":"bottom","toNode":"4689ea3cdbf8bdea","toSide":"top","color":"6","label":"Key 2x"},
+		{"id":"f55bc37b675c061d","fromNode":"4689ea3cdbf8bdea","fromSide":"bottom","toNode":"ce372c39302d7b7a","toSide":"top","color":"6","label":"Key"},
+		{"id":"b07e68f56e49afab","fromNode":"23dd4d8142c84855","fromSide":"bottom","toNode":"d7597509c756fa76","toSide":"top"},
+		{"id":"96c3caed927dbf80","fromNode":"d7597509c756fa76","fromSide":"bottom","toNode":"4702510170bc609d","toSide":"top","color":"6","label":"Key 2x"},
+		{"id":"cfb791f2f97ddd08","fromNode":"447e780716d2654e","fromSide":"bottom","toNode":"79af689731f317c7","toSide":"top"},
+		{"id":"972c07cc9623a668","fromNode":"d7597509c756fa76","fromSide":"bottom","toNode":"2dfe2940bd5e61a9","toSide":"top"},
+		{"id":"41aafcd9827949ff","fromNode":"ce372c39302d7b7a","fromSide":"bottom","toNode":"308e0cb49c1fcf2a","toSide":"top"},
+		{"id":"e999154d40c9e69e","fromNode":"23dd4d8142c84855","fromSide":"bottom","toNode":"447e780716d2654e","toSide":"top"}
+	]
+}
