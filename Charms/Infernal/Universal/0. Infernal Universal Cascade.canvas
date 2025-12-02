@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"f9550c242dd76380","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Unbound God-Monster Resurgence.md","x":-3040,"y":-920,"width":400,"height":400},
+		{"id":"eac622dfdd179541","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Apocalypse King Apotheosis.md","x":-3040,"y":-360,"width":400,"height":400},
+		{"id":"a01f3c4710f285b6","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Transcendent Devil-Body Perfection.md","x":-3520,"y":-920,"width":400,"height":400},
+		{"id":"20014f064a7e0df5","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Illimitable Demon Avatar.md","x":-3520,"y":-360,"width":400,"height":400},
+		{"id":"166fdd01f90318ae","x":-4320,"y":200,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Triumphant Howl of the Devil-Tiger.md"},
+		{"id":"bba9eec86b953a6a","x":-4320,"y":760,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/The Path of a Thousand Whispers.md"},
+		{"id":"d20a321064889e50","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Primordial Essence Ascension.md","x":-4320,"y":1320,"width":400,"height":400},
+		{"id":"732aa1c0f44caf3f","x":-4320,"y":-360,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Sun-Heart Furnace Soul.md"},
+		{"id":"adecfb129acec7de","x":-4320,"y":-920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Swallowing the Scorpion.md"},
+		{"id":"a08214eb774b6fea","type":"file","file":"Charms/Infernal/Universal/Inner World/Herald of the World to Come.md","x":-2240,"y":-360,"width":400,"height":400},
+		{"id":"ab979b80a40c9c27","type":"file","file":"Charms/Infernal/Universal/Inner World/Sanctum-Soul Threshold Meditation.md","x":-2240,"y":200,"width":400,"height":400},
+		{"id":"95b48ea03ca135ca","type":"file","file":"Charms/Infernal/Universal/Inner World/Otherworldly Wonder Gifts.md","x":-2240,"y":760,"width":400,"height":400},
+		{"id":"7e2929246f3dd2f8","type":"file","file":"Charms/Infernal/Universal/Inner World/Spirit of the Living World.md","x":-2240,"y":-920,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"dc7101c3a5fc3a79","fromNode":"f9550c242dd76380","fromSide":"bottom","toNode":"eac622dfdd179541","toSide":"top"},
+		{"id":"63af81564c2ff659","fromNode":"7e2929246f3dd2f8","fromSide":"bottom","toNode":"a08214eb774b6fea","toSide":"top"},
+		{"id":"1ecc8aa110d14eff","fromNode":"ab979b80a40c9c27","fromSide":"bottom","toNode":"95b48ea03ca135ca","toSide":"top"},
+		{"id":"5c39ca9b94680522","fromNode":"a08214eb774b6fea","fromSide":"bottom","toNode":"ab979b80a40c9c27","toSide":"top"},
+		{"id":"0d1bba993a55bfe5","fromNode":"adecfb129acec7de","fromSide":"bottom","toNode":"732aa1c0f44caf3f","toSide":"top"},
+		{"id":"0e5eb3ef76eece38","fromNode":"732aa1c0f44caf3f","fromSide":"bottom","toNode":"166fdd01f90318ae","toSide":"top"},
+		{"id":"5017bbf70efa44b1","fromNode":"166fdd01f90318ae","fromSide":"bottom","toNode":"bba9eec86b953a6a","toSide":"top"},
+		{"id":"0055d97ba3048bdf","fromNode":"bba9eec86b953a6a","fromSide":"bottom","toNode":"d20a321064889e50","toSide":"top"}
+	]
+}
