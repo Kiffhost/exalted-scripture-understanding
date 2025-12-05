@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"2bf6136518282e74","x":-2520,"y":920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Demonic Fog Shroud.md"},
+		{"id":"62b1cbdba17a58c7","x":-2520,"y":1480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Ichor Flux Tendrils.md"},
+		{"id":"5462359b11e6aa48","x":-3000,"y":920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Tidal Renewal Discipline.md"},
+		{"id":"dc04e47880744a49","x":-3960,"y":920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Acrid Slipstream Wake.md"},
+		{"id":"492bd99933070767","x":-3960,"y":2040,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Tainted Tide Malison.md"},
+		{"id":"c03981a6b27db954","x":-3000,"y":1480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/What Lurks Beneath.md"},
+		{"id":"978503d3d4b327da","x":-3480,"y":1480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Fathomless Poison Haven.md"},
+		{"id":"2d2b5c04cb7fece0","x":-3000,"y":2600,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/The Song of the Deep.md"},
+		{"id":"f2d462f21c6198f0","x":-3240,"y":360,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Mother Sea Mastery.md"},
+		{"id":"9b96f2e8fa65cc60","x":-1560,"y":920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Infernal Warship Conquest.md"},
+		{"id":"a2e5cbcd4f29ba9a","x":-2040,"y":920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Raucous Scoundrel Revelry.md"},
+		{"id":"e3b56ab93524482c","x":-1800,"y":360,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Hellbound Mariner Saga.md"},
+		{"id":"ffe257eebcad7d64","x":-2040,"y":1480,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Lawless Corsair Charter.md"},
+		{"id":"e6e24d6cea9285f1","x":-2040,"y":2040,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Sail/Hero-Dooming Hoard Rumor.md"}
+	],
+	"edges":[
+		{"id":"30bc383c05f39e70","fromNode":"f2d462f21c6198f0","fromSide":"bottom","toNode":"dc04e47880744a49","toSide":"top"},
+		{"id":"35b193f218a8ccdf","fromNode":"f2d462f21c6198f0","fromSide":"bottom","toNode":"2bf6136518282e74","toSide":"top"},
+		{"id":"730205fb55bd45a6","fromNode":"5462359b11e6aa48","fromSide":"bottom","toNode":"978503d3d4b327da","toSide":"top"},
+		{"id":"9d07cc51b24eca8a","fromNode":"ffe257eebcad7d64","fromSide":"bottom","toNode":"e6e24d6cea9285f1","toSide":"top"},
+		{"id":"47fe7f31f59650ff","fromNode":"2bf6136518282e74","fromSide":"bottom","toNode":"62b1cbdba17a58c7","toSide":"top","color":"6","label":"Key"},
+		{"id":"4329c6cee1361d38","fromNode":"e3b56ab93524482c","fromSide":"bottom","toNode":"9b96f2e8fa65cc60","toSide":"top","color":"6","label":"Key 2x"},
+		{"id":"0efc168bf61de55c","fromNode":"a2e5cbcd4f29ba9a","fromSide":"bottom","toNode":"ffe257eebcad7d64","toSide":"top"},
+		{"id":"7a9a9e5d09519b86","fromNode":"e3b56ab93524482c","fromSide":"bottom","toNode":"a2e5cbcd4f29ba9a","toSide":"top"},
+		{"id":"099bbdbb6efe1625","fromNode":"dc04e47880744a49","fromSide":"bottom","toNode":"492bd99933070767","toSide":"top"},
+		{"id":"033261153a15f35b","fromNode":"978503d3d4b327da","fromSide":"bottom","toNode":"492bd99933070767","toSide":"top"},
+		{"id":"b52b12ca73fa00b2","fromNode":"c03981a6b27db954","fromSide":"bottom","toNode":"2d2b5c04cb7fece0","toSide":"top","color":"6","label":"Key"},
+		{"id":"ae2c0140167b4e1f","fromNode":"492bd99933070767","fromSide":"bottom","toNode":"2d2b5c04cb7fece0","toSide":"top"},
+		{"id":"8ec6b73d88e34e05","fromNode":"62b1cbdba17a58c7","fromSide":"bottom","toNode":"2d2b5c04cb7fece0","toSide":"top"},
+		{"id":"4ed747c4f85b8c2c","fromNode":"f2d462f21c6198f0","fromSide":"bottom","toNode":"5462359b11e6aa48","toSide":"top"},
+		{"id":"0f889446e23a113b","fromNode":"5462359b11e6aa48","fromSide":"bottom","toNode":"c03981a6b27db954","toSide":"top"}
+	]
+}
