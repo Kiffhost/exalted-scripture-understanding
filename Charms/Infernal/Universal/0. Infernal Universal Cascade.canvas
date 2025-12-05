@@ -1,18 +1,21 @@
 {
 	"nodes":[
+		{"id":"71dbbd25ef6ebec2","x":-4040,"y":-920,"width":440,"height":2680,"color":"5","type":"group","label":"Soul Pantheon"},
+		{"id":"020ea351877f1347","x":-2580,"y":-940,"width":440,"height":2120,"color":"4","type":"group","label":"Inner World"},
+		{"id":"fda5917f114edbbc","x":-3540,"y":-940,"width":920,"height":1000,"color":"1","type":"group","label":"Devil-Body"},
 		{"id":"f9550c242dd76380","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Unbound God-Monster Resurgence.md","x":-3040,"y":-920,"width":400,"height":400},
 		{"id":"eac622dfdd179541","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Apocalypse King Apotheosis.md","x":-3040,"y":-360,"width":400,"height":400},
 		{"id":"a01f3c4710f285b6","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Transcendent Devil-Body Perfection.md","x":-3520,"y":-920,"width":400,"height":400},
 		{"id":"20014f064a7e0df5","type":"file","file":"Charms/Infernal/Universal/Devil-Body/Illimitable Demon Avatar.md","x":-3520,"y":-360,"width":400,"height":400},
-		{"id":"166fdd01f90318ae","x":-4320,"y":200,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Triumphant Howl of the Devil-Tiger.md"},
-		{"id":"bba9eec86b953a6a","x":-4320,"y":760,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/The Path of a Thousand Whispers.md"},
-		{"id":"d20a321064889e50","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Primordial Essence Ascension.md","x":-4320,"y":1320,"width":400,"height":400},
-		{"id":"732aa1c0f44caf3f","x":-4320,"y":-360,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Sun-Heart Furnace Soul.md"},
-		{"id":"adecfb129acec7de","x":-4320,"y":-920,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Swallowing the Scorpion.md"},
-		{"id":"a08214eb774b6fea","type":"file","file":"Charms/Infernal/Universal/Inner World/Herald of the World to Come.md","x":-2240,"y":-360,"width":400,"height":400},
-		{"id":"ab979b80a40c9c27","type":"file","file":"Charms/Infernal/Universal/Inner World/Sanctum-Soul Threshold Meditation.md","x":-2240,"y":200,"width":400,"height":400},
-		{"id":"95b48ea03ca135ca","type":"file","file":"Charms/Infernal/Universal/Inner World/Otherworldly Wonder Gifts.md","x":-2240,"y":760,"width":400,"height":400},
-		{"id":"7e2929246f3dd2f8","type":"file","file":"Charms/Infernal/Universal/Inner World/Spirit of the Living World.md","x":-2240,"y":-920,"width":400,"height":400}
+		{"id":"732aa1c0f44caf3f","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Sun-Heart Furnace Soul.md","x":-4020,"y":-340,"width":400,"height":400},
+		{"id":"166fdd01f90318ae","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Triumphant Howl of the Devil-Tiger.md","x":-4020,"y":220,"width":400,"height":400},
+		{"id":"bba9eec86b953a6a","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/The Path of a Thousand Whispers.md","x":-4020,"y":780,"width":400,"height":400},
+		{"id":"d20a321064889e50","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Primordial Essence Ascension.md","x":-4020,"y":1340,"width":400,"height":400},
+		{"id":"adecfb129acec7de","type":"file","file":"Charms/Infernal/Universal/Soul Pantheon/Swallowing the Scorpion.md","x":-4020,"y":-900,"width":400,"height":400},
+		{"id":"7e2929246f3dd2f8","type":"file","file":"Charms/Infernal/Universal/Inner World/Spirit of the Living World.md","x":-2560,"y":-920,"width":400,"height":400},
+		{"id":"a08214eb774b6fea","type":"file","file":"Charms/Infernal/Universal/Inner World/Herald of the World to Come.md","x":-2560,"y":-360,"width":400,"height":400},
+		{"id":"ab979b80a40c9c27","type":"file","file":"Charms/Infernal/Universal/Inner World/Sanctum-Soul Threshold Meditation.md","x":-2560,"y":200,"width":400,"height":400},
+		{"id":"95b48ea03ca135ca","type":"file","file":"Charms/Infernal/Universal/Inner World/Otherworldly Wonder Gifts.md","x":-2560,"y":760,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"dc7101c3a5fc3a79","fromNode":"f9550c242dd76380","fromSide":"bottom","toNode":"eac622dfdd179541","toSide":"top"},
