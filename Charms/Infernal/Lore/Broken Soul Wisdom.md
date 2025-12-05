@@ -15,7 +15,7 @@ Prerequisite Charms:
 ---
 *One day, all Creation will understand the elegant necessity of suffering as perfectly as the Infernal does.*
 
-The Infernal makes a special ({Charisma or Manipulation} + Lore) instil roll against a single target as she reveals a terrible truth, which must relate to one of the target’s Intimacies. In combat, this requires a difficulty 4 gambit. If she succeeds, her target gains a Major Derangement of her choice (Exalted, p. 169) and loses one Willpower, plus an additional point of Willpower for each 10 she rolls, maximum (higher of Essence or 3). In combat, he loses three Initiative for each point of Willpower lost.
+The Infernal makes a special ({Charisma or Manipulation} + Lore) instill roll against a single target as she reveals a terrible truth, which must relate to one of the target’s Intimacies. In combat, this requires a difficulty 4 gambit. If she succeeds, her target gains a Major Derangement of her choice (Exalted, p. 169) and loses one Willpower, plus an additional point of Willpower for each 10 she rolls, maximum (higher of Essence or 3). In combat, he loses three Initiative for each point of Willpower lost.
 
 The target must immediately make a Willpower roll against the Derangement. If he fails the roll, he loses an additional point of Willpower and three Initiative. Once the scene ends, the Derangement subsides to Minor intensity. It fades entirely after (10 – target’s Resolve) days, but failing a Willpower roll against it resets this.
 

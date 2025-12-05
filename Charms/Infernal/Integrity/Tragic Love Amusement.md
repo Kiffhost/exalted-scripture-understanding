@@ -22,4 +22,4 @@ The Infernal instantly forms a Minor Tie of love toward an individual, whether r
 The Infernal can stack this Charm to have up to (Charisma) enchanted Ties.
 ## [[Keys]]
 #### Adoring Atrocity Infatuation (Integrity 5, Essence 3)
-This Charm permanently apply to all Ties of love the Infernal has toward individuals, with no limit on how many it can affect. She suffers −1 Resolve against those she loves and against influence that would instil such Ties.
+This Charm permanently apply to all Ties of love the Infernal has toward individuals, with no limit on how many it can affect. She suffers −1 Resolve against those she loves and against influence that would instill such Ties.

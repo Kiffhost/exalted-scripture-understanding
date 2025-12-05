@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *Before the babbling, broken dialects of gods and man, all existence spoke as one. The Infernal restores that linguistic order.*
 
-The Infernal imparts temporary fluency in the Malfean dialect of Old Realm to a touched character, while suppressing his ability to understand all other languages. That character can incur experience debt to learn Old Realm permanently after this Charm ends. If a target is unwilling, the Infernal must make a special ({Charisma or Manipulation} + Linguistics) instil roll against him. Characters who already knew Old Realm are unaffected.
+The Infernal imparts temporary fluency in the Malfean dialect of Old Realm to a touched character, while suppressing his ability to understand all other languages. That character can incur experience debt to learn Old Realm permanently after this Charm ends. If a target is unwilling, the Infernal must make a special ({Charisma or Manipulation} + Linguistics) instill roll against him. Characters who already knew Old Realm are unaffected.
 
 The imparted language alters the minds of those who think in it. Affected characters suffer −1 Resolve against influence used by characters with higher Essence or characters who are their hierarchical superior within an organization.
 

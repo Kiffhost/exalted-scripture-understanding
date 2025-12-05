@@ -21,6 +21,6 @@ The Infernal’s influence lingers for (Essence) weeks after this Charm ends.
 The Infernal can use this Charm on up to (Essence) objects at a time.
 ## [[Keys]]
 #### Envenomed Heart Aesthetics (Craft 4)
-Instead of an inspire roll, the Infernal can instead instil a positive Tie toward herself or one of her own negative Ties for an individual.
+Instead of an inspire roll, the Infernal can instead instill a positive Tie toward herself or one of her own negative Ties for an individual.
 #### Passionate Infernal Artistry (Craft 4, Essence 2)
 The Infernal can use this Charm on anything she crafts that incorporates artistic or ornamental elements.
