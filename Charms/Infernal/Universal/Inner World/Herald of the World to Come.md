@@ -20,5 +20,5 @@ If the Infernal is meditating on her inner world, she can pay a two-mote, one-Wi
 
 This Charm’s range increases to short at Essence 2, medium at Essence 3, and long at Essence 5.
 ## [[Keys]]
-#### Cosmos-Seizing Conquest Precept (Essence 3, [[Otherworldly Domain Cultivation]])
+#### Cosmos-Seizing Conquest Precept (Essence 3, [[Otherworldly Wonder Gifts]])
 The Infernal can create substantial illusions without needing to meditate. They last for at least (Essence) hours, though some alterations may be permanent, at the Storyteller’s discretion.
