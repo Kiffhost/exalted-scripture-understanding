@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"4a8041f7785455f6","x":-160,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Knowing the Desolate Heart.md"},
+		{"id":"c12a2d6a4ef17834","x":-160,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Hollowed Soul Erosion.md"},
+		{"id":"ca8f8b664d154f90","x":-640,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Naked Wicked Souls.md"},
+		{"id":"5b6a8d21485fdc1a","x":-880,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Hollow Heart Transcendence.md"},
+		{"id":"a4a19e38395c7e15","x":-400,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Simmering Resentment Bouquet.md"},
+		{"id":"a2eea27f31885588","x":-1360,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Mocking Murmurs Retort.md"},
+		{"id":"73c5bd4551ea40bd","x":-1840,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Golden Years Tarnished Black.md"},
+		{"id":"f73f8f68766c705e","x":-1600,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Wretched Vile Lies.md"},
+		{"id":"65691f543a5a5050","x":-1120,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Witness to Darkness.md"},
+		{"id":"bbf215daabaa3c97","x":-640,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Fiend to All Nations.md"},
+		{"id":"09f1cb91ceebbbfa","x":-2320,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Empty Mirror Elusion.md"},
+		{"id":"a5464cbbf2833691","x":-2080,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Mirror-Self Inversion.md"},
+		{"id":"e5630469f13e2519","x":-2560,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Nemesis Self Imagined Anew.md"},
+		{"id":"a9f2f6891ce26c37","x":-2560,"y":2800,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Incarnate Reflection Antagonist.md"},
+		{"id":"5c8fbbd75c8a2be4","x":-2800,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Soul Crack Exploitation.md"},
+		{"id":"582055f511eb7a34","x":-2800,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Socialize/Best Enemy Recognition.md"}
+	],
+	"edges":[
+		{"id":"aead81df85ce1819","fromNode":"65691f543a5a5050","fromSide":"bottom","toNode":"ca8f8b664d154f90","toSide":"top"},
+		{"id":"760ff59157ab92f1","fromNode":"09f1cb91ceebbbfa","fromSide":"bottom","toNode":"a5464cbbf2833691","toSide":"top"},
+		{"id":"af30604ad309a638","fromNode":"f73f8f68766c705e","fromSide":"bottom","toNode":"a2eea27f31885588","toSide":"top"},
+		{"id":"8841139af9bb4af9","fromNode":"ca8f8b664d154f90","fromSide":"bottom","toNode":"5b6a8d21485fdc1a","toSide":"top"},
+		{"id":"02257c247ee53db9","fromNode":"582055f511eb7a34","fromSide":"bottom","toNode":"e5630469f13e2519","toSide":"top"},
+		{"id":"f2b0fef084620145","fromNode":"09f1cb91ceebbbfa","fromSide":"bottom","toNode":"e5630469f13e2519","toSide":"top"},
+		{"id":"ffd57fd6eab056eb","fromNode":"4a8041f7785455f6","fromSide":"bottom","toNode":"a4a19e38395c7e15","toSide":"top","color":"3","label":"OR"},
+		{"id":"258abe493dd0036a","fromNode":"ca8f8b664d154f90","fromSide":"bottom","toNode":"a4a19e38395c7e15","toSide":"top","color":"3","label":"OR"},
+		{"id":"4a7ed449da5090f1","fromNode":"e5630469f13e2519","fromSide":"bottom","toNode":"5c8fbbd75c8a2be4","toSide":"top"},
+		{"id":"f1b8e6244e63d3af","fromNode":"5c8fbbd75c8a2be4","fromSide":"bottom","toNode":"a9f2f6891ce26c37","toSide":"top"},
+		{"id":"1e6ea228ccdfc305","fromNode":"e5630469f13e2519","fromSide":"bottom","toNode":"a9f2f6891ce26c37","toSide":"top","color":"6","label":"Key"},
+		{"id":"da1fe1e2d16fdf57","fromNode":"c12a2d6a4ef17834","fromSide":"bottom","toNode":"4a8041f7785455f6","toSide":"top"},
+		{"id":"74d4645afc04b1a4","fromNode":"f73f8f68766c705e","fromSide":"bottom","toNode":"73c5bd4551ea40bd","toSide":"top","color":"6","label":"Key"},
+		{"id":"f2a3ff33347e82c8","fromNode":"65691f543a5a5050","fromSide":"bottom","toNode":"f73f8f68766c705e","toSide":"top"}
+	]
+}
