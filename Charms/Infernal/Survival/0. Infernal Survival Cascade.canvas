@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"ce90fe4560323440","x":-1080,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Mad Prophet Sojourn.md"},
+		{"id":"88b69e8f38378ae1","x":-1560,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Spawning Pit Sanctification.md"},
+		{"id":"673f90801175a7d9","x":-1320,"y":1960,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Holy Land Infliction.md"},
+		{"id":"fc233cb7ba98d2b3","x":-1320,"y":2520,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Dune-Drowned Oasis Ritual.md"},
+		{"id":"0ea14b98cb434838","x":120,"y":840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Transcendent Desert Creature.md"},
+		{"id":"91008f05d4ae6363","x":-1320,"y":840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Locust Manna Plague.md"},
+		{"id":"1181f1ae9eba6088","x":-840,"y":840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Delicious Quarry Appetite.md"},
+		{"id":"082be0846281b9ca","x":-360,"y":840,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/World-Forsaking Asceticism.md"},
+		{"id":"ef241562ee02de08","x":-600,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Sandstrike Blast.md"},
+		{"id":"ceb5809332ece3d7","x":-600,"y":2520,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/World-Grinding Sandstorm Devastation.md"},
+		{"id":"b6b9a5e066b2019c","x":-120,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Hell-Walker Technique.md"},
+		{"id":"531362fda5808327","x":840,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Shifting Sands Pilgrimage.md"},
+		{"id":"868305a8959ba5dd","x":360,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Brazen Hellhound Bond.md"},
+		{"id":"8cdc40032dec384e","x":600,"y":1960,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Devil-Beast Crucible Transformation.md"},
+		{"id":"9c760c12e883961e","x":120,"y":1960,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Behemoth Fetch Exercise.md"},
+		{"id":"339f364c3cdaaa2b","x":1320,"y":1400,"width":400,"height":400,"type":"file","file":"Charms/Infernal/Survival/Labyrinth-Tread Mirage.md"}
+	],
+	"edges":[
+		{"id":"f5f63235a3a70625","fromNode":"868305a8959ba5dd","fromSide":"bottom","toNode":"9c760c12e883961e","toSide":"top"},
+		{"id":"972ea7b3575bf23d","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"868305a8959ba5dd","toSide":"top"},
+		{"id":"202d09f4c874a8a5","fromNode":"868305a8959ba5dd","fromSide":"bottom","toNode":"8cdc40032dec384e","toSide":"top"},
+		{"id":"8fbc7f45391dc475","fromNode":"673f90801175a7d9","fromSide":"bottom","toNode":"fc233cb7ba98d2b3","toSide":"top"},
+		{"id":"e7b363395787734a","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"b6b9a5e066b2019c","toSide":"top"},
+		{"id":"2f01b86fd88f9d3e","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"ce90fe4560323440","toSide":"top"},
+		{"id":"01872dfc427ac5fe","fromNode":"91008f05d4ae6363","fromSide":"bottom","toNode":"ce90fe4560323440","toSide":"top"},
+		{"id":"8f8e61d670436a33","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"ef241562ee02de08","toSide":"top"},
+		{"id":"fb0f4dc436831de3","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"531362fda5808327","toSide":"top"},
+		{"id":"6f30ad05f3f62c08","fromNode":"91008f05d4ae6363","fromSide":"bottom","toNode":"88b69e8f38378ae1","toSide":"top"},
+		{"id":"6586cf73bc6b1ad3","fromNode":"ef241562ee02de08","fromSide":"bottom","toNode":"ceb5809332ece3d7","toSide":"top","color":"6","label":"Key"},
+		{"id":"641b82a0e20d3955","fromNode":"673f90801175a7d9","fromSide":"bottom","toNode":"ceb5809332ece3d7","toSide":"top"},
+		{"id":"1fe05ab5c14ae81f","fromNode":"88b69e8f38378ae1","fromSide":"bottom","toNode":"673f90801175a7d9","toSide":"top"},
+		{"id":"39af80717219e561","fromNode":"ce90fe4560323440","fromSide":"bottom","toNode":"673f90801175a7d9","toSide":"top"},
+		{"id":"922f378d25ee694e","fromNode":"0ea14b98cb434838","fromSide":"bottom","toNode":"339f364c3cdaaa2b","toSide":"top","color":"6","label":"Key"}
+	]
+}
