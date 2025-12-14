@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"5b7e1b0e6fdc6471","x":-3160,"y":2800,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Wicked Torment Dream.md"},
+		{"id":"ab3228e925f55948","x":-3160,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Promise of a Red Future.md"},
+		{"id":"8e873dbb679ba5d1","x":-2680,"y":560,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Contempt-Driven Deflection.md"},
+		{"id":"2f2908519b030edf","x":-3160,"y":560,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Heart-Razor Strike.md"},
+		{"id":"53ee738f02a90ec2","x":-3160,"y":1120,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Finger-Stealing Feint.md"},
+		{"id":"71070ef19ee00276","x":-2680,"y":1680,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Devil-Prince Sword Form.md"},
+		{"id":"340b836d125d39b4","x":-2680,"y":2240,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Bloody Sky Omen Flourish.md"},
+		{"id":"77193206c76cfcf9","x":-2680,"y":3360,"width":400,"height":400,"type":"file","file":"Charms/Martial Arts/Devil-Prince Sword Style/Agonizing Dismemberment Flourish.md"}
+	],
+	"edges":[
+		{"id":"614d1763c1218aad","fromNode":"ab3228e925f55948","fromSide":"bottom","toNode":"5b7e1b0e6fdc6471","toSide":"top"},
+		{"id":"17decb533a9b5fd4","fromNode":"71070ef19ee00276","fromSide":"bottom","toNode":"ab3228e925f55948","toSide":"top"},
+		{"id":"cb9db82874493a3c","fromNode":"2f2908519b030edf","fromSide":"bottom","toNode":"53ee738f02a90ec2","toSide":"top"},
+		{"id":"5b88903d84669c56","fromNode":"53ee738f02a90ec2","fromSide":"bottom","toNode":"71070ef19ee00276","toSide":"top"},
+		{"id":"86de8d5b29ba8017","fromNode":"8e873dbb679ba5d1","fromSide":"bottom","toNode":"71070ef19ee00276","toSide":"top"},
+		{"id":"76e9b01590df4eaf","fromNode":"71070ef19ee00276","fromSide":"bottom","toNode":"340b836d125d39b4","toSide":"top"},
+		{"id":"565c307e65a2aeeb","fromNode":"340b836d125d39b4","fromSide":"bottom","toNode":"77193206c76cfcf9","toSide":"top"},
+		{"id":"e2d9f70088d19b20","fromNode":"5b7e1b0e6fdc6471","fromSide":"bottom","toNode":"77193206c76cfcf9","toSide":"top"}
+	]
+}
