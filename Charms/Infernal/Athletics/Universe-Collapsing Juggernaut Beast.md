@@ -19,7 +19,7 @@ Prerequisite Charms:
 
 The Infernal gains the following benefits:
 - While her physical size doesn’t change, she counts as being larger than everyone and everything else, and can grapple, throw, and knock back Legendary Size enemies regardless of their bulk. Others may briefly perceive her as far larger than she is, seeming to tower over mountains or fill the entire universe.
-- She can’t be forcibly moved, whether by physical means or by magic that transports others, like [[Prison-World Carbuncle Invocation]] (p. XX).
+- She can’t be forcibly moved, whether by physical means or by magic that transports others, like [[Prison-World Carbuncle Extrusion]] (p. XX).
 - She adds (Strength) to the raw damage of withering unarmed attacks and one die of damage on decisive unarmed attacks. If an unarmed attack deals decisive damage, her enemy is knocked back one range band and falls prone.
 - Her nigh-infinite density causes her to smash through any easily-breakable surfaces. However, she can choose to float slightly above the ground to avoid this.
 

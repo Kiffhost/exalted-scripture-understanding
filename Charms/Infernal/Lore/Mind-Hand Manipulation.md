@@ -19,6 +19,7 @@ The Infernal can telekinetically manipulate things within short range, with the 
 - She can make telekinetic attacks with (Wits + Lore). They have +4 Accuracy, Damage (Willpower + 2), and Overwhelming (Essence). Their damage doesn’t include her Strength. Decisive attacks can deal either bashing or lethal damage, either exerting crushing force or focusing her telekinesis to a scalpel-sharp edge. If she makes a grapple gambit, she rolls (Intelligence + Lore) for the control roll, but can’t grapple enemies beyond close range.
 - She can also block attacks telekinetically, with Parry ({Wits +Lore} / 2, rounded up).
 - She can hold up to (higher of Essence or 3) objects in mid-air with telekinetic force, in addition to any objects she's actively using as part of an action. They can be struck from the air with a disarm gambit. Levitating an object this way is reflexive, but can only be done on the Infernal’s turn.
+
 The Infernal’s mental tendrils are clearly visible when in use, making it clear that she is the source of her telekinetic actions.
 ## [[Keys]]
 #### Precision Thought-Force Exercise
