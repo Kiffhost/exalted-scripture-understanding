@@ -21,3 +21,5 @@ Many Lunars retain the services of Moon-Touched, which are two-dot [[Retainers]]
 Minor spirits, commonly employed by Sidereals as secretaries, bodyguards, couriers, etc., are two-dot [[Retainers]]. Young Heaven’s Dragons (Sidereal, p. XX) are often employed in similar capacities as four-dot [[Retainers]].
 #### Abyssal
 Most ghosts are two-dot Retainers, as are Ghost-Blooded. Especially powerful ghosts may be four-dot Retainers.
+#### Infernal
+First Circle demons and Demon-Blooded are two-dot Retainers.

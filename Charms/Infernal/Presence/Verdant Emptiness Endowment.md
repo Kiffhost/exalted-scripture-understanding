@@ -19,6 +19,7 @@ When the Infernal hears someone express dissatisfaction or dislike for their cur
 If the Infernal maintains this Charm for at least a full story, her target falls into her debt. The same is true if he purchases the granted trait permanently. She may demand that he perform a single inconvenient task (Exalted, p. 216). He is not compelled to obey, but if he refuses, his wish curdles into a curse, causing him to suffer (Infernal’s Essence) botches at a dramatically appropriate moment. The consequences reflect the nature of his wish: if a merchant prince wished for great beauty, a botched influence roll might cause a potential business partner to become hopelessly enamoured with him, getting in the way of business.
 
 If the Infernal ends this Charm, her target immediately loses the granted trait unless he’s purchased it with experience. She has until the end of the story to call in any favours owed by him.
+
 The Infernal may use this Charm multiple times simultaneously in response to a single expression of discontent, waiving the Willpower cost of uses past the first. She can bless multiple characters, but can’t stack more than (Essence) uses per character. Multiple uses potentially allow her to accrue multiple debts.
 ## Reset
 The Infernal can only use this on a given character once per story. This is reset if he learns the granted trait permanently with experience.

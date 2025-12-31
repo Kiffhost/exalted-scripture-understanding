@@ -33,8 +33,7 @@ Sidereal Limit Triggers are usually situations that cause them to feel excessive
 - Serious difference of opinion or competing goals strain the Sidereal’s relationship with an ally, subordinate, or superior. 
 - Someone the Sidereal has a positive [[Intimacy|Tie]] toward faces significant danger or distress.
 # Infernal
-Infernal Limit Triggers are usually situations that stoke resentment, envy, spite or wrath, and drive them to disproportionate response, or situations that impede their drives towards urgent and violent change or hedonistic indulgence.
-Examples include:
+Infernal Limit Triggers are usually situations that stoke resentment, envy, spite or wrath, and drive them to disproportionate response, or situations that impede their drives towards urgent and violent change or hedonistic indulgence. Examples include:
 - The Infernal is physically outmatched by another character.
 - The Infernal is insulted, belittled, or deliberately frustrated by another character.
 - The Infernal has their honesty, credibility or intelligence questioned.

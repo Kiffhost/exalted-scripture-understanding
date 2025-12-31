@@ -1,3 +1,9 @@
+---
+tags:
+  - Anima
+  - Infernal
+  - source/infernal-book
+---
 The Primordials were once the highest of holies, the cosmic absolute, the makers of the universe. The gods offered them homage and obeisance; all living things bowed before them in holy dread. Then the traitor gods and their Exalted cast them down. They were twisted into wretched, unholy things, tainted by the foul workings of the gods. No longer Primordials, they were named Yozis, Demon Princes, enemies of the gods. They who made Heaven were condemned forevermore to Hell.
 
 The Yozis seek their [[Ascendant]] Caste saints and prophets from the downtrodden, the persecuted, and the wretched, those who might understand the faintest sliver of the Yozis’ suffering. A rebel struggling to free his satrapy from beneath the Realm’s bootheel; a priest of a forbidden Yozi cult; those who’ve never escaped being born into crushing poverty or a lowly caste; a slave willing to die to escape a Guild plantation; an outcast told that they were impure, than abomination, yearning to be holy. The demons sent to them offer to raise them up from this, tempting them with the power to create a better world, to change the course of history for the better.

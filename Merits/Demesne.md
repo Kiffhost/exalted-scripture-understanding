@@ -15,5 +15,6 @@ A character attuned to a demesne who stands within its boundaries enjoys certain
 As a four-dot Merit, the character gains control of an exceptionally powerful demesne. She respires four extra motes per hour outside of combat, the difficulty to detect [[Essence]]-use becomes 1, and using the demesne as a Means grants two extra intervals.
 #### Abyssal
 Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.
-
+#### Infernal
+Infernal demesnes and manses use the same hearthstones as other places of power, with whatever aspect best fits the site’s nature: an island-manse upon the Demon Sea yields a water-aspected hearthstone, while a brazen palace blazing with emerald light yields a Solar hearthstone. Overt manifestations of a hearthstone’s power may be altered to align with Malfean aesthetics.
 # See also: [[ATTUNING TO A DEMESNE OR MANSE]]

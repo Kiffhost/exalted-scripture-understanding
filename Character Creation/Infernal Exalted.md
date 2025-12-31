@@ -2,8 +2,8 @@
 Begin with the defaults: 
 - [[Essence]] 1
 - [[Willpower]] 5
-- ([[Essence]] x 3) + 10 Personal Essence pool.
-- ([[Essence]] x 7) + 26 Peripheral Essence pool.
+- ([[Essence]] x 3) + 10 Personal mote pool.
+- ([[Essence]] x 7) + 26 Peripheral mote pool.
 # Concept & Caste
 Determine a character concept and select a Caste -  this provides **Caste Abilities** and **anima powers**:
 - [[Azimuth]] - Warriors, officers, and generals.

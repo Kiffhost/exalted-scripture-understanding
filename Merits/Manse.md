@@ -17,5 +17,6 @@ In addition to ownership of the manse itself, possessing this Merit at three dot
 Many Sidereals have manses in Heaven. They’re typically Lunar, Sidereal, or Solar manses, though others exist in Yu-Shan.
 #### Abyssal
 Deathknights often claim Abyssal demenses and manses, whether in shadowlands or the Underworld proper.
-
+#### Infernal
+Infernal demesnes and manses use the same hearthstones as other places of power, with whatever aspect best fits the site’s nature: an island-manse upon the Demon Sea yields a water-aspected hearthstone, while a brazen palace blazing with emerald light yields a Solar hearthstone. Overt manifestations of a hearthstone’s power may be altered to align with Malfean aesthetics.
 # See also: [[ATTUNING TO A DEMESNE OR MANSE]]

@@ -16,7 +16,8 @@ One dot in this Merit provides a relatively weak familiar, such as a squirrel, o
 Sidereals may take pattern spiders (Sidereal, p. XX) as three-dot familiars.
 #### Abyssal
 Abyssals can take undead animals (p. XX) as familiars. Zombie animals can only be familiars if they still retain a spark of the animal’s identity.
-
+#### Infernal
+Infernals with [[Demon-Thrall Goetia]] can claim First Circle demons as familiars.
 # A Familiar Investment
 Nothing’s sacred. Sometimes familiars get killed. Many of the [[Survival]] [[Charms]] featured here require the Solar to make an investment of experience points in a familiar. These [[Charms]] do not represent a poor investment, nor a guarantee of painful regret in the future. 
 Should the Exalt’s familiar die, the experience points invested into the familiar return to the Solar. These successes directly counter any magical Awareness-based attempts to pierce the Lawgiver’s camouflaging efforts.

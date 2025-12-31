@@ -18,3 +18,12 @@ Infernals have [[Charm Keywords#Mastery|Mastery]] with [[Martial Arts]]. They ca
 Infernals can initiate into Solar Circle sorcery and Shadow Circle necromancy.
 # Evocations
 Infernals are [[Evocations#Resonant|resonant]] with [[Materials#Orichalcum|orichalcum]] and exotic substances of Hell (Arms of the Chosen, p. 16). They’re neutral with other materials.
+# Merits
+Infernals have unique interactions with the following Merits:
+- [[Allies#Infernal|Allies]]
+- [[Cult#Infernal|Cult]]
+- [[Demesne#Infernal|Demesne]]/[[Manse#Infernal|Manse]]
+- [[Familiar#Infernal|Familiar]]
+- [[Language#Infernal|Language]]
+- [[Mentor#Infernal|Mentor]]
+- [[Retainers#Infernal|Retainers]]

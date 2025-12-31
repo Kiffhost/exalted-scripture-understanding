@@ -1,3 +1,9 @@
+---
+tags:
+  - Anima
+  - Infernal
+  - source/infernal-book
+---
 The Yozis will never escape Hell. The Exalted made of Malfeas a prison that no power in the cosmos can breach, a prison to hold the Yozis until the end of eternity. They have resigned themselves to this captivity, abandoned all hopes of freedom — all save the Ebon Dragon, who labours in eternal futility. Who can say which is more piteous? It might be the greatest insult of all, that they should be defined by their imprisonment.
 
 The Yozis seek their [[Nadir]] Castes among others who are prisoners. They care not for laws or morality, making no distinction between persecuted innocents and cold-hearted murderers. The [[Nadir]] Castes receive an offer of freedom — freedom from their bondage, and freedom beyond mortal imagining. Never again will a chain or prison hold them. They could be criminals, slaves, prisoners of war, political hostages, those held against their will or still scarred by their
@@ -20,7 +26,7 @@ In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effec
 - **Gaol-Sundering Juggernaut Rampage** (Permanent): The Infernal can enter her [[Devil-Body]] when she makes a meaningful attempt to escape from imprisonment or confinement and fails.
 - **Never Caged Again** (5m; Reflexive; Until next turn; Mute): The Infernal gains +1 non-Charm [[Defense|Evasion]]. Rolls to restrain or confine her in any way suffer a penalty of (higher of Essence or 3) dice. This includes both the attack roll and control roll of a grapple gambit against her. This power’s cost is waived at [[The Anima Banner#Infernal Anima Levels|bonfire anima]].
 # Caste Abilities
-[[Nadir]] Castes choose their Caste Abilities from [[Athletics]], [[Awareness]], [[Dodge]], [[Integrity]], [[Larceny]], [[Ride]], [[Sail]], and [[Traits/Abilities/Stealth]].
+[[Nadir]] Castes choose their Caste Abilities from [[Athletics]], [[Awareness]], [[Dodge]], [[Integrity]], [[Larceny]], [[Ride]], [[Sail]], and [[Traits/Abilities/Stealth|Stealth]].
 # Sobriquets
 Princes of the Shattered Prison, the Unfettered, Chainbreakers, Basalt Wolves, Daggers of Hell
 # Concepts

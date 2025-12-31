@@ -1,3 +1,9 @@
+---
+tags:
+  - Anima
+  - Infernal
+  - source/infernal-book
+---
 When the Primordials created the world, they imposed a perfect order upon it. The makers of the universe reigned supreme, taking their leisure at the Games of Divinity. The gods served their
 makers, attending to the world they had made and upholding its order. The lesser things knelt in holy dread to worship their creators. But a rot grew unseen beneath this perfect order, the festering perfidy of the gods that drove them to defy the rightful order of the world. What betrayal could be greater?
 
@@ -20,7 +26,7 @@ In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effec
 - **Infernal Embassy Pact** (Permanent): While conducting diplomacy or other legitimate business with spirits or the Fair Folk, the Infernal and her companions are protected by ancient pacts, requiring her hosts to observe local customs of hospitality and preventing them from attacking her or her entourage. If the Infernal or one of her companions breaks the peace first, they lose this protection.
 - **Traitor-Binding Oath** (10m, 1wp; Reflexive; Instant): When the Infernal hears someone make a promise or swear an oath, she may seal the pact by her authority as a Green Sun Prince. She may manifest her [[#Caste Mark]] and [[The Anima Banner#Infernal Anima Levels|anima banner]] in a brief display if she wishes. Those who violate the pact suffer consequences chosen by the Storyteller, often a punishment that reflects the nature of their violation.
 # Caste Abilities
-[[Penumbra]] Castes choose their Caste Abilities from [[Bureaucracy]], [[Investigation]], [[Larceny]], [[Linguistics]], [[Performance]], [[Presence]], [[Traits/Abilities/Stealth]], and [[Socialize]].
+[[Penumbra]] Castes choose their Caste Abilities from [[Bureaucracy]], [[Investigation]], [[Larceny]], [[Linguistics]], [[Performance]], [[Presence]], [[Traits/Abilities/Stealth|Stealth]], and [[Socialize]].
 # Sobriquets
 Princes of the Brazen Tower, the Unforgiving, Iconoclasts, Acidic Falcons, Quills of Hell.
 # Concepts

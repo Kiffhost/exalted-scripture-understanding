@@ -23,7 +23,7 @@ An [[Azimuth]] Caste’s anima enhances her killing prowess and lets her enter h
 In addition to the default [[The Anima Banner#Infernal Anima Effects|anima effects]], [[Azimuth]] Castes can perform the following:
 - **Ceaseless Slaughter Momentum** (Permanent): At [[The Anima Banner#Infernal Anima Levels|bonfire anima]], the Infernal adds (Essence/2, rounded up) to her base Initiative when she resets to base Initiative after a decisive attack.
 - **Green Sun Dawning** (—; Reflexive; Instant): While the Infernal is at [[The Anima Banner#Infernal Anima Levels|burning anima]] or higher, she rolls (Essence + highest Physical Attribute) dice and gains peripheral motes. They can only be spent on magic that creates or enhances attacks, and can be used as sorcerous motes instead for spells that do so. Once per day.
-- **Towering Demon Emperor** (Permanent): The Infernal can enter her [[Devil-Body]] when she takes damage to a −4 health level while fighting in support of a Major or Defining Intimacy, as long as she has no more than (Essence/2, rounded up) undamaged −4 health levels remaining.
+- **Towering Demon Emperor** (Permanent): The Infernal can enter her [[Devil-Body]] when she suffers great physical agony, such as taking a crippling injury, being tortured, or falling into lava.
 # Caste Abilities
 [[Azimuth]] Castes choose their Caste Abilities from [[Archery]], [[Athletics]], [[Awareness]], [[Brawl]], [[Melee]], [[Resistance]], [[Thrown]], and [[War]].
 # Sobriquets

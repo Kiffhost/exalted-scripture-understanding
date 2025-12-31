@@ -1,3 +1,9 @@
+---
+tags:
+  - Anima
+  - Infernal
+  - source/infernal-book
+---
 Once, the Primordials wielded power beyond imagining. They shaped worlds from raw chaos, scribed their will into the laws of the cosmos, and brought forth Creation’s gods that they might take their leisure at the Games of Divinity. It was a golden age, a paradise razed by the treachery of the gods. Such wonders are lost to the Yozis now, mutilated and diminished at the hands of the Exalted. They are still mighty, they are still powerful beyond imagining — but they are lesser.
 
 The Yozis find their [[Horizon]] Castes among those who’ve also been deprived of the chance to fulfil their intellectual potential. A child whose stern parents refused to let him study at an academy. A prodigy barred from education by poverty, caste, or stigma. A farmhand who could have been a genius mathematician if anyone ever taught him. Others lost the chance to make use of the talents they had: an alchemist forced out of her career by illness; a student disgraced by an academic rival; a savant whose studies are censored. The demons that appear to them tempt them with knowledge they’ve been denied, and the power to make use of it.

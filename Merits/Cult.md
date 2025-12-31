@@ -14,3 +14,5 @@ The character may spend a [[Willpower]] point without actually losing the point 
 
 #### Dragon-Blooded
 Both the Realm and Lookshy forbid the direct worship of Dragon-Blooded, making this Merit unlawful and heretical to possess. Prasadi Dragon-Blooded and outcastes face no such restrictions.
+#### Infernal
+Infernal Charms like [[Temple-Self Apotheosis]] draw additional benefits from this Charm.

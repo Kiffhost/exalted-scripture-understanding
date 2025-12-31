@@ -70,8 +70,8 @@ Characters can gain 2 points of solar experience by fulfilling *one* of the foll
 - Caste-specific criteria:
 ```dataview
 TABLE WITHOUT ID link(file.name+"#Experience Trigger", regexreplace(regexreplace(file.path, "^\w+/\w+/", ""), "\.md", "")) AS "XP Trigger"
-FROM "Traits/Anima" AND (#Dragon-Blooded OR #Lunar OR #Solar OR #Sidereal OR #Abyssal)
-SORT contains(file.tags,"Dragon-Blooded"),contains(file.tags,"Solar"), contains(file.tags,"Sidereal"), contains(file.tags,"Lunar"), contains(file.tags,"Abyssal")
+FROM "Traits/Anima" AND (#Dragon-Blooded OR #Lunar OR #Solar OR #Sidereal OR #Abyssal OR #Infernal)
+SORT contains(file.tags,"Dragon-Blooded"),contains(file.tags,"Solar"), contains(file.tags,"Sidereal"), contains(file.tags,"Lunar"), contains(file.tags,"Abyssal"), contains(file.tags,"Infernal")
 ```
 
 # Training Times

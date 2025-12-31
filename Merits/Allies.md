@@ -21,3 +21,5 @@ A Lunar’s Solar mate is a five-dot Ally.
 Fellow Sidereals are five-dot [[Allies]]. Powerful gods are five-dot allies, but most gods are three-dot [[Allies]].
 #### Abyssal
 An Abyssal’s Lunar mate is a five-dot Ally. Most ghosts are one-dot Allies; especially powerful ones are three-dot allies.
+#### Infernal
+Most First Circle demons are three-dot Allies, while Second Circle demons are five-dot Allies.

@@ -12,4 +12,4 @@ The Infernal can attack several enemies at once, either because she possesses a 
 
 Area attacks are incompatible with Simple Charms.
 
-An alternative version of this power lets the Infernal roll her full Initiative against each enemy hit by a decisive attack or gambit or gain the Initiative from all enemies hit by a withering attack. However, she can only do so once per scene.
+An alternative version of this power lets the Infernal roll her full Initiative against each enemy hit by a decisive attack or gambit or gain the Initiative from all enemies hit by a withering attack. However, she can only do so once per scene. She can purchase both versions separately.
