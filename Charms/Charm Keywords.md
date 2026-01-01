@@ -94,6 +94,6 @@ This keyword provides additional benefits for Abyssals with the [[Whispers]] Mer
 Whisper Charms sometimes invoke the Abyssal’s use of her [[Whispers]]. This means they count against the reset limit on using Whispers.
 # Infernal
 #### Versatile
-Combat Ability Charms with this keyword can enhance attacks and parries with [[Martial Arts]] if the Infernal uses a weapon compatible with that Ability. Versatile Charms from multiple combat Abilities.
+Combat Ability Charms with this keyword can enhance attacks and parries with [[Martial Arts]] if the Infernal uses a weapon compatible with that Ability. Versatile Charms from multiple combat Abilities can't enhance the same action.
 #### Blasphemy
 Infernal Charms with this keyword gain additional benefits while an Infernal is in her [[Devil-Body]] form (p. XX).

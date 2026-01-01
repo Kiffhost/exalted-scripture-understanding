@@ -29,4 +29,4 @@ This Evocation can only be used once per story, unless reset by upholding a Majo
 The wearer can’t use the seven-point effects.
 ## Resonant
 The wearer doubles 9s on this Evocation’s activation roll.
-[[Experience Debt]] Certain effects let player characters increase or gain new traits by incurring [[Experience Debt]] equal to the normal cost of purchasing those traits. Any experience points she subsequently receives go toward paying off the debt, until it’s paid in full. Until the debt’s fully paid, the character can’t benefit from other effects that cause [[Experience Debt]]. Storyteller characters never go into [[Experience Debt]].
+[[Rules Reference/Experience Debt]] Certain effects let player characters increase or gain new traits by incurring [[Rules Reference/Experience Debt]] equal to the normal cost of purchasing those traits. Any experience points she subsequently receives go toward paying off the debt, until it’s paid in full. Until the debt’s fully paid, the character can’t benefit from other effects that cause [[Rules Reference/Experience Debt]]. Storyteller characters never go into [[Rules Reference/Experience Debt]].
