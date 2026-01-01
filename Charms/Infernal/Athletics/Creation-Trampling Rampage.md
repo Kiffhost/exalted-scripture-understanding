@@ -18,4 +18,4 @@ The Infernal makes two rolls for a feat of strength and adds her successes toget
 
 If the Infernal succeeds, she gains one Willpower. If the feat supported an Intimacy, it’s strengthened by one step, and she can’t voluntarily weaken it until she next fails a feat of strength. If she fails, she rolls (Essence + Strength) dice and gains Limit equal to her successes.
 ## Special activation rules
-If the Infernal uses this Charm together with Infinite Might Expansion, she waives its most cost and the once-per-scene limit.
+If the Infernal uses this Charm together with [[Infinite Might Expansion]], she waives its most cost and the once-per-scene limit.

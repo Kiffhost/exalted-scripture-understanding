@@ -16,7 +16,7 @@ Prerequisite Charms:
 
 Crimson wind surrounds the Infernal out to close range, eroding anything made predominantly out of stone. At bonfire anima, the wind extends to short range.
 
-Any mundane stone exposed to the wind rapidly erodes, lowering the difficulty of feats of demolition against it by one for each purchase of [[Wind-Born Stride]] the Infernal has. The difficulty reduction increases by one for each minute of exposure, maximum (10 + purchases of [[Wind-Born Stride]]).
+Any mundane stone exposed to the wind rapidly erodes, lowering the difficulty of feats of demolition against it by one for each purchase of [[Wind-Born Stride]] the Infernal has. The difficulty reduction increases by one for each minute of exposure, maximum (Essence + Dexterity + Athletics).
 
 If an object or scenery’s difficulty is reduced to 0, it’s ground to dust completely unless it requires Strength 7+ for feats of demolition. If this destroys the surface the Infernal is standing on, it becomes difficult terrain (if it doesn’t fall away entirely), but until it’s fully destroyed, it will still support her weight as if undamaged.
 

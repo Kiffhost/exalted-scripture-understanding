@@ -23,6 +23,8 @@ The Infernal gains the following benefits:
 This Charm lasts one scene for three motes or indefinitely for six motes, one Willpower.
 ## [[Keys]]
 #### Insatiable Horror Gourmand
-The Infernal gains this Charm’s benefits permanently. She must consume twice as much food each day. She subtracts (Essence) from her Stamina to determine how long she can go without food, minimum one day (Exalted, p. 232).
+The Infernal gains this Charm’s benefits permanently. She must consume (higher of Essence or 3) times as much food each day and begins suffering a −1 sign after just one day without it (Exalted, p. 232). It increases by one per day, maximum −3.
+
+She subtracts (Essence) from her Stamina to determine how long she can go without food, minimum one day (Exalted, p. 232).
 #### Carrion Bloom Redolence (Awareness 5, Essence 3)
-The Infernal doubles this Charm’s dice bonus. She can make out fine details by scent out to (Essence/2, rounded up) miles away and can taste things on the air out to long range. She can detect odourless and tasteless substances by their effect on other scents and flavours around them. If she has [[#Insatiable Horror Gourmand]], the amount of food she must eat each day is multiplied in total by (higher of Essence or 3) and the amount of time she can go without food is measured in days, not weeks.
+The Infernal doubles this Charm’s dice bonus. She can make out fine details by scent out to (Essence/2, rounded up) miles away and can taste things on the air out to long range. She can detect odorless and tasteless substances by their effect on other scents and flavors around them. However, she doubles the rate at which she gains deprivation penalties from hunger and halves how long she can go before starving.

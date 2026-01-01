@@ -19,4 +19,4 @@ The Infernal rolls a special feat of demolition to unleash a shockwave against a
 #### Destruction Beast Stampede (+4i)
 For a four Initiative surcharge, enemies who fail their roll also suffer four dice of bashing damage as an environmental hazard.
 #### All Attend the King
-The Infernal can use this Charm to instead draw everything within medium range toward her with the force of her spiritual pressure. Enemies who fail their roll are drawn toward the Infernal, rather than knocked back. Enemies already at close range lose one Initiative for each success they failed by, maximum (Infernal’s Essence + purchases of [[God-Monster Thew]]).
+The Infernal can use this Charm to instead draw everything within medium range toward her with the force of her spiritual pressure. Enemies who fail their roll are drawn toward the Infernal, rather than knocked back. Enemies already at close range lose one Initiative for each success they failed by, maximum (Infernal’s Essence + 2).

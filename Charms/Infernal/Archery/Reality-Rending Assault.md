@@ -16,4 +16,4 @@ Prerequisite Charms:
 
 The Infernal can attack an enemy at extreme range, limited only by her ability to perceive him. On decisive attacks, she adds one die of damage against enemies at medium or long range, or two dice at extreme range.
 
-If the Infernal has a negative Tie toward her target, this Charm's damage bonus increases by one.
+If the Infernal has a negative Tie toward her target, this Charm’s damage bonus increases by one.

@@ -18,8 +18,8 @@ The Infernal can use this Charm on her turn to take a second movement action as 
 - She has Initiative 12+.
 - She’s moved toward a nontrivial enemy this turn.
 - She’s hit a nontrivial enemy with an attack from close range this turn.
-- She has both Racing Vitaris and Pellegrina’s Fury active.
+- She has both [[Racing Vitaris]] and [[Pellegrina’s Fury]] active.
 
-Once the Infernal uses this Charm, she waives its Willpower cost for the rest of the scene. However, each time she uses this Charm, the number of conditions she must meet to use it again increases by one for the rest of the scene. For example, if she uses it twice, she must meet three conditions to use it a third time).
+Once the Infernal uses this Charm, she waives its Willpower cost for the rest of the scene. However, each time she uses this Charm, the number of conditions she must meet to use it again increases by one for the rest of the scene. For example, if she uses it twice, she must meet three conditions to use it a third time.
 ## Reset
 Once per round.

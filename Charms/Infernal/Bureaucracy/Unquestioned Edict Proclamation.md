@@ -20,4 +20,4 @@ The Infernal enacts a law, rule, or regulation, either by her own authority or t
 - If they have a positive Defining Tie to whatever authority enforces the law or a Defining Principle that supports the rule of law, they must spend one Willpower to voluntarily weaken that Intimacy or the Intimacy imposed by this Charm. Mortals and First Circle demons must spend three Willpower.
 - They suffer −1 Guile against rolls that would reveal they’ve broken the law and a one-success penalty on Bureaucracy and Larceny rolls to conceal their misdeeds.
 - The Infernal can use [[Obedient World Oblation]] on influence that leverages the Intimacy imposed by this Charm once per scene, not once per story.
-- The Infernal waives [[Wayward Serf Remonstrations|Wayward Serf Remonstrations']] Willpower cost when using it to punish violations of the law.
+- The Infernal waives [[Wayward Serf Remonstrations]]’ Willpower cost when using it to punish violations of the law.

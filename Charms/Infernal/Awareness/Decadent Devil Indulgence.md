@@ -21,6 +21,6 @@ The Infernal names a desire that involves consuming, destroying, or damaging som
 - She adds (Perception/2, rounded up) dice on Awareness rolls to detect hazards inherent to her desire, such as the poison in a poorly-prepared blowfish, and on Resistance rolls to endure them.
 - She adds (Perception/2, rounded up) dice on rolls to introduce or challenge facts related to her desire, its availability, or how to fulfill it. She can do so without needing a Lore background as long as she could plausibly be aware of the introduced fact.
 
-The Infernal can’t end this Charm voluntarily. When she fulfils her desire, this Charm ends and she rolls (Intimacy) dice. Each success grants her one Willpower or lets her lose one Limit. If fulfilling her desire becomes impossible or the current story ends without her fulfilling it, she rolls (Intimacy) dice of Limit and this Charm ends.
+The Infernal can’t end this Charm voluntarily. When she fulfills her desire, this Charm ends and she rolls (Intimacy) dice. Each success grants her one Willpower or lets her lose one Limit. If fulfilling her desire becomes impossible or the current story ends without her fulfilling it, she rolls (Intimacy) dice of Limit and this Charm ends.
 ## Reset
 Once per story unless reset by fulfilling the Infernal’s desire.

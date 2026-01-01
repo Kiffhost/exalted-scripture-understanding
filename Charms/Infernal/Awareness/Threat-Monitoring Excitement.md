@@ -19,4 +19,4 @@ When an enemy makes an unexpected attack against the Infernal, she rolls ({Perce
 Against a surprise attack, success negates its Defense penalty. Against an ambush, she can defend normally — including using Charms — but reduces her Defense to 2. Every two extra successes she rolls increases this by +1, up to a maximum of her base Defense.
 ## [[Keys]]
 #### Familiar Threat Delight
-The Infernal waives this Charm’s cost against enemies whose unexpected attacks she’s successfully defended against with this Charm this scene, or whose Stealth she’s beaten with an Awareness roll.
+This Charm is free against enemies whose unexpected attacks the Infernal has successfully defended against with this Charm this scene, or whose Stealth she’s beaten with an Awareness roll.

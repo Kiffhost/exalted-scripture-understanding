@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Infernal can taste the delights of contraband wares and black-market dealings like a sweet perfume on the air.*
 
-The Infernal is instinctively aware of the following within range of her senses:
+The Infernal is instinctively aware of the following of the following within range of her senses:
 - The presence of any merchants, businesses, or similar enterprises that are illegal, covert, or disreputable. This reveals their approximate location, though further investigation may be required to find the entrance.
 - Any transactions that are illegal, covert, or disreputable — including theft. This reveals the location of the transaction, but not its nature or the identities of those involved.
 - Whatever illegal or disreputable wares that are especially valuable in her current location.
