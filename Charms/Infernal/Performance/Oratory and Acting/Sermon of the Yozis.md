@@ -16,7 +16,7 @@ Prerequisite Charms:
 
 Upon learning this Charm, the Infernal gains one of its keys for free. Each allows her to express a certain kind of Intimacy through oratory.
 
-When the Infernal uses this Charm, she chooses a key she knows and makes a ({Charisma or Manipulation} +Performance) roll to instill one of that key’s Intimacies. The instilled Intimacy’s Resolve penalty is increased by one for the rest of the scene, or by two for mortals and First Circle demons.
+When the Infernal uses this Charm, she chooses a key she knows and makes a ({Charisma or Manipulation} + Performance) roll to instill one of that key’s Intimacies. The instilled Intimacy’s Resolve penalty is increased by one for the rest of the scene, or by two for mortals and First Circle demons.
 
 The Infernal gains a special pool of motes equal to the 10s on her roll. They can only be spent on Charms that enhance influence rolls against affected characters that leverage the instilled Intimacy. This includes influence rolls with any Ability.
 

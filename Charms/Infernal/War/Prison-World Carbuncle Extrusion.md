@@ -17,7 +17,9 @@ Prerequisite Charms:
 
 A ring of emerald fire encircles the battlefield, forming a barrier at long range from the Infernal. It’s an environmental hazard with difficulty 4, Damage 5L/round and counts as difficult terrain. It fades away if the Infernal is crashed or incapacitated, ending this Charm prematurely.
 
-At the start of the Infernal’s next turn, everything within the ring of hellfire is cut away from that realm of existence and enfolded within a cyst-like manifestation of the Demon City, altering the battlefield’s terrain and scenery to match. If she has [[Spirit of the Living World]], she can create a prison-realm that draws from her inner world. The prison-world provides the following effects:
+At the start of the Infernal’s next turn, everything within the ring of hellfire is cut away from that realm of existence and enfolded within a cyst-like manifestation of the Demon City, altering the battlefield’s terrain and scenery to match. If she has [[Spirit of the Living World]], she can create a prison-realm that draws from her inner realm.
+
+The prison-world provides the following effects:
 - The Infernal automatically enacts a Fortifications stratagem. The difficult terrain penalty applies on enemies’ Stealth rolls and rolls to take cover or rise prone.
 - The Infernal gains [[City-Flesh Teratoma]]’s benefits for the entire battlefield.
 - The Infernal and allied battle groups always count as having at least light cover, which provides sufficient coverage for them to enter concealment with Stealth rolls.

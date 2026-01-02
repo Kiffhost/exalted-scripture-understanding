@@ -21,5 +21,4 @@ The inspired character can add up to (higher of Infernal’s Essence or 3) dice 
 When the inspired character sleeps, his player may choose to add three dice back to the pool instead of recovering Willpower as nightmares trouble his sleep. He also regains one die each time he fails a Willpower roll against the Derangement. These can’t bring him above the amount of dice initially granted by this Charm.
 
 The inspired character can pay one Willpower to free himself of the Derangement if he has no bonus dice remaining or if (Infernal’s Essence) days have passed since she used this Charm.
-
 The Infernal can only have one character inspired with this Charm at a time.

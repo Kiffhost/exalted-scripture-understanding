@@ -28,7 +28,7 @@ The scope of this miracle also depends on the Infernal’s Cult rating:
 
 The wish’s effect is akin to using [[Verdant Emptiness Endowment]] or its keys on any number of group members, but on a broad, narrative level.
 ### Increasing Traits
-The Infernal grants benefits that are narratively analogous to increasing a character’s Abilities or Attributes. She might turn a general’s ragtag forces into elite soldiers, or transform a city’s entire population into renowned beauties. These effects can also extend to the region itself. If an Infernal turns a kingdom’s dullards into learned savants after hearing its prince bemoan their ignorance, libraries and centres of learning might also spring into existence across the kingdom.
+The Infernal grants benefits that are narratively analogous to increasing a character’s Abilities or Attributes. She might turn a general’s ragtag forces into elite soldiers, or transform a city’s entire population into renowned beauties. These effects can also extend to the region itself. If an Infernal turns a kingdom’s dullards into learned savants after hearing its prince bemoan their ignorance, libraries and centers of learning might also spring into existence across the kingdom.
 ### Bestowal of Accursed Fortune
 The Infernal alters social and economic fortunes, a narrative equivalent to granting all characters a dot in a Merit. She might bestow enough wealth to raise an entire kingdom’s standard of living, turn a city into a major hub of Guild commerce, or secure a powerful ally to support its interests.
 ### Scoured Perfection of Form

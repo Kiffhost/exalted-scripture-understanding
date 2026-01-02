@@ -17,7 +17,7 @@ Prerequisite Charms:
 
 The Infernal makes a special (Manipulation + Performance) instill roll by telling a story or putting on a play about past events, presenting a false perspective or describing wholly fictitious events. Penalties for implausible claims subtract successes instead of dice. This takes at least a minute, while complex narratives may take longer.
 
-Willing audience members — including the Infernal — may accept this version of events as true, distorting their memories to mainstill  the influence roll also beats their Resolve, they gain a pool of (1 + extra successes) bonus dice, which lasts for (Infernal’s Essence) days. An affected character can add up to (Infernal’s higher of Essence or 3) dice on influence rolls involving the Infernal’s version of events. He can also add up to half that amount, rounded up, to his Resolve against attempts to convince him otherwise for two dice per +1 bonus.
+Willing audience members — including the Infernal — may accept this version of events as true, distorting their memories to match. If the influence roll also beats their Resolve, they gain a pool of (1 + extra successes) bonus dice, which lasts for (Infernal’s Essence) days. An affected character can add up to (Infernal’s higher of Essence or 3) dice on influence rolls involving the Infernal’s version of events. He can also add up to half that amount, rounded up, to his Resolve against attempts to convince him otherwise for two dice per +1 bonus.
 
 If an affected character played a role in the Infernal’s depiction of events, he can add these dice to relevant rolls or static values, though this can’t raise his dice pool above (Infernal’s Essence + Manipulation) before applying other sources of bonus dice.
 

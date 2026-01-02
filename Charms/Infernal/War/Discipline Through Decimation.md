@@ -22,7 +22,6 @@ As long as a battle group’s members all have this Tie, it gains the following 
 - It’s immune to the Demoralize stratagem.
 - It adds (Intimacy) dice on rout checks. The Infernal adds that many dice on rally and rally for numbers actions.
 - Each time it loses Size, it gains +1 Magnitude as wounded and fleeing soldiers are dragged back by their comrades.
-- It’s immune to the Demoralize stratagem.
 
 If the Infernal uses this Charm after a battle in which an allied battle group dissolved after suffering rout or faced similar losses, she waives its Willpower cost.
 

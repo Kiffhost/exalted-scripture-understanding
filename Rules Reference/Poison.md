@@ -47,4 +47,4 @@ Common vectors include damage (for weapons that can be applied to poison), touch
 | Snake Venom                 | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage                                   |
 | Yozi Venom                  | 1L                                     | minute                | 10 minutes                | -5           | Damage                                   |
 | [[Bright Morning]] overdose | 1B                                     | hour                  | 8 hours                   | -3           | Inhalation                               |
-| [[Dawnflower]] paste        | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage to [[CREATURES OF DARKNESS\|CoD]] |
+| [[Dawnflower]] paste        | 2i (L in [[Initiative#Crash\|Crash]])  | [[Time#Round\|round]] | 3 [[Time#Round\|rounds]]  | -3           | Damage to [[Creatures of Darkness\|CoD]] |

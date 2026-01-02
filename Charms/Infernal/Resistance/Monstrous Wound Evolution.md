@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
   - "[[By Rage Recast]]"
   - "[[Scar-Writ Saga Shield]]"
-  - x3
+  - "[[Hardened Demon Flesh#Immortal Fiend Invigoration (Resistance 2)|Hardened Demon Flesh (Immortal Fiend Invigoration)]]"
 ---
 *Maimed and mutilated, the Infernal reveals the abomination hidden behind her façade of humanity.*
 

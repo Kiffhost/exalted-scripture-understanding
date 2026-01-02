@@ -16,7 +16,7 @@ Prerequisite Charms:
 ---
 *The Infernal savours the perfume of strife and iniquity, unable to resist such sweet suffering.*
 
-The Infernal makes a special read intentions roll to seek out suffering within a community. She must first spend an hour exploring it, interacting with one of its busier locales, or observing it from a high location. She can’t assess a community larger than a group of villages or a town with a single use — she must go district by district in a smaller city, or neighbour by neighbourhood in larger ones.
+The Infernal makes a special read intentions roll to seek out suffering within a community. She must first spend an hour exploring it, interacting with one of its busier locales, or observing it from a high location. She can’t assess a community larger than a group of villages or a town with a single use — she must go district by district in a smaller city, or neighbor by neighborhood in larger ones.
 
 The roll’s difficulty equals the highest Guile among community members who’d wish to conceal its turmoil from her. Success reveals the most significant issue causing hardship, misery, or fear within the community.
 

@@ -24,7 +24,9 @@ The Infernal can only use this Charm on her turn. She can’t be reduced below I
 - The attack’s damage is unsoakable.
 - The Infernal is prone.
 
-While the Infernal is at Initiative 1, she adds (Stamina/2, rounded up) dice of damage on decisive attacks and ignores (Stamina) points of Hardness. If she’s incapacitated If the Infernal is incapacitated, she remains conscious, postponing incapacitation for as long as this Charm remains active.
+While the Infernal is at Initiative 1, she adds (Stamina/2, rounded up) dice of damage on decisive attacks and ignores (Stamina) points of Hardness. 
+
+If the Infernal is incapacitated, she remains conscious, postponing incapacitation for as long as this Charm remains active.
 
 At the start of each of her turns, the Infernal must pay one mote to sustain this Charm. It ends if she’s crashed.
 ## Reset

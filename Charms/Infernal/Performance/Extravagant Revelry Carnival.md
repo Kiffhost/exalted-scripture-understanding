@@ -18,7 +18,7 @@ The Infernal lends a captivating glamour to a performance she watches. Neither s
 
 This Charm can’t be used in combat, but it remains active if hostilities break out mid-performance.
 ## Special activation rules
-If the Infernal knows Agreeable Devil’s Masquerade, she can use it reflexively with this Charm to apply its effects to the performance she watches.
+If the Infernal knows [[Agreeable Devil’s Masquerade]], she can use it reflexively with this Charm to apply its effects to the performance she watches.
 ## [[Keys]]
 #### Captivating Pleasure Chorus (Performance 4)
 The Infernal can use this Charm through her own performances.

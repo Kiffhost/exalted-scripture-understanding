@@ -18,7 +18,7 @@ Prerequisite Charms:
 The Infernal rolls ({Charisma or Manipulation} + Performance) with (Essence) automatic successes to instill a Principle of “I am drawn to the dark.” Intimacies based on grief, sorrow, despair, doomed love, or a yearning for freedom always support this influence. As long as she continues performing without taking any non-reflexive actions, this has the following effects:
 - Affected characters suffer a −3 penalty on rolls against anyone but the Infernal or require them to pay significant attention to something else. They’re compelled to approach as close as possible to her, though they’ll stop if going further would obviously cause physical harm. In combat, they must use a move action each turn to advanced toward her, though they can still take other actions, including attacks against her.
 - If the Infernal rolls 3+ extra successes against a target’s Resolve, he gains a Minor Obsession with avoiding sunlight, including that of the Green Sun (Exalted, p. 169). The Obsession fades after (Infernal’s Essence) days spent without any exposure to sunlight. It’s permanent for trivial characters.
-- Creatures of darkness and nocturnal animals can hear this music out to (Infernal’s Essence) miles, though they aren’t subject to its influence until they come within the performance’s usual range.
+- [[Creatures of Darkness]] and nocturnal animals can hear this music out to (Infernal’s Essence) miles, though they aren’t subject to its influence until they come within the performance’s usual range.
 - Her performance receives [[Agreeable Devil’s Masquerade]]’s benefits for free.
 
 Resisting this Charm’s influence costs one Willpower and (Infernal’s Essence) Initiative, separate from resisting the instill roll.

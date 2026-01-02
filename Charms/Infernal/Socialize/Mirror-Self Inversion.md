@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Infernal has no true self, only that which she wishes to seem.*
 
-The Infernal can use this Charm after a roll against her Guile fails. The opposing character believes he succeeded, but sees the opposite of the truth, in a way that’s typically favourable to her. This might make a Tie of adoration to a beloved enemy seems like hatred, or make it seems like the Infernal intends to wish a child prince goodnight while on her way to assassinate him.
+The Infernal can use this Charm after a roll against her Guile fails. The opposing character believes he succeeded, but sees the opposite of the truth, in a way that’s typically favorable to her. This might make a Tie of adoration to a beloved enemy seems like hatred, or make it seems like the Infernal intends to wish a child prince goodnight while on her way to assassinate him.
 
 If this Charm reveals an inverted version of one of the Infernal’s Minor Intimacies, she may choose to invert it for real.
 ## [[Keys]]

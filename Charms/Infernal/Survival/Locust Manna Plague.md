@@ -18,4 +18,4 @@ The Infernal rolls ({Charisma or Wits} + Survival) to call a swarm of demon-locu
 
 The locusts provide enough food to feed (1 + extra successes) characters for a day, with a delectable taste that’s strangely nostalgic. They remain edible for a week, after which they dry up and crumble into sand. Candying the locusts or using similar preservation techniques can extend this up to a month.
 
-Characters who eat a meal of locusts form a Minor Tie of reverence toward the Infernal unless they spend one Willpower. The Infernal gains a Tie of smug satisfaction toward herself instead. Once a character has spent (8 – Resolve) days eating nothing but locusts, he can’t voluntarily weaken this Tie until he’s gone the same amount of time without eating them.
+Characters who eat a meal of locusts form a Minor Tie of reverence toward the Infernal unless they spend one Willpower. The Infernal gains a Tie of smug satisfaction toward herself instead. Once a character has spent at least (his Resolve) days eating nothing but locusts, he can’t voluntarily weaken this Tie until he’s gone the same amount of time without eating them.

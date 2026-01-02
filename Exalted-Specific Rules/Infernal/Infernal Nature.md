@@ -2,7 +2,7 @@
 tags:
   - source/infernal-book
 ---
-# [[CREATURES OF DARKNESS|Creatures of Darkness]]
+# [[Creatures of Darkness|Creatures of Darkness]]
 As the Chosen of the Yozis, the Infernals are marked as creatures of darkness by their very nature. They’re vulnerable to certain magic — especially that of the Solar Exalted.
 
 An Infernal who proves herself an ally of Creation might eventually cease to be a creature of darkness. This is a narrative milestone rather than a mechanical one, something that should come at the resolution of a narrative arc or at an especially dramatic moment.

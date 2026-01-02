@@ -17,8 +17,11 @@ Prerequisite Charms:
 
 The Infernal raises a willing mortal, Demon-Blood, or First Circle demon above the rabble of her other followers. That character must have a positive Major or Defining Tie to the Infernal and must bear a brand from [[Fealty-Acknowledging Audience]] or a similar Charm.
 
-The Infernal chooses one of her Defining Intimacies that expresses or relates to a goal, and imparts a related Defining Intimacy to her vassal related to his role, duties, or motivation regarding that goal. For example, if she goes to war to claim the hand of someone she has a Defining Tie of love for, her vassal might gain a Defining Principle of “I will lead my lord’s forces to victory.” The Infernal’s vassal also gains the following benefits:
-- He gains an anima banner (p. XX), identical to the Infernal’s save for its iconic display, which reflects his role in her service. (He doesn’t gain her anima powers). He gains one level of anima each time he spends a point of Willpower in furtherance of the Intimacy, whether to resist influence, add a success on a roll, or (for demons) paying the Willpower cost of Charms. (Demons don’t gain anima for spending motes.) - He gains +1 Resolve against influence that opposes that Intimacy. He can pay one anima to raise this to +3 against a single roll.
+The Infernal chooses one of her Defining Intimacies that expresses or relates to a goal, and imparts a related Defining Intimacy to her vassal related to his role, duties, or motivation regarding that goal. For example, if she goes to war to claim the hand of someone she has a Defining Tie of love for, her vassal might gain a Defining Principle of “I will lead my lord’s forces to victory.”
+
+The Infernal’s vassal also gains the following benefits:
+- He gains an anima banner (p. XX), identical to the Infernal’s save for its iconic display, which reflects his role in her service. (He doesn’t gain her anima powers). He gains one level of anima each time he spends a point of Willpower in furtherance of the Intimacy, whether to resist influence, add a success on a roll, or (for demons) paying the Willpower cost of Charms. (Demons don’t gain anima for spending motes.)
+- He gains +1 Resolve against influence that opposes that Intimacy. He can pay one anima to raise this to +3 against a single roll.
 - When he makes a roll in furtherance of the goal his Intimacy relates to, he can spend up to (Intimacy) levels of anima to add that many dice.
 - He can reflexively make his brand visible or cause it to fade to sight. Those who see the brand feel an instinctive fear that makes it clear the vassal serves a terrifying power.
 

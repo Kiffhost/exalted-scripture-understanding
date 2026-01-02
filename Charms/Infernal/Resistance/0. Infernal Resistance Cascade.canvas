@@ -1,11 +1,8 @@
 {
 	"nodes":[
 		{"id":"64a6f317ef75edce","type":"file","file":"Charms/Infernal/Resistance/Invulnerable Wounding Futility.md","x":-3200,"y":1360,"width":400,"height":400},
-		{"id":"3905da3295d59a87","type":"file","file":"Charms/Infernal/Resistance/Thousand Scars Atrocity.md","x":-2720,"y":1360,"width":400,"height":400},
-		{"id":"00c24c512f881264","type":"file","file":"Charms/Infernal/Resistance/Tormented Devil-King Resilience.md","x":-2720,"y":1920,"width":400,"height":400},
 		{"id":"2b14377401267624","type":"file","file":"Charms/Infernal/Resistance/Ablation of Brass and Fire.md","x":-3200,"y":2480,"width":400,"height":400},
 		{"id":"74bc507993445d27","type":"file","file":"Charms/Infernal/Resistance/By Pain Reforged.md","x":-3200,"y":240,"width":400,"height":400},
-		{"id":"91421320a3d7ba1a","type":"file","file":"Charms/Infernal/Resistance/Hardened Demon Flesh.md","x":-2720,"y":240,"width":400,"height":400},
 		{"id":"c36fe4ac856eec7d","type":"file","file":"Charms/Infernal/Resistance/Unbowed King Defiance.md","x":-2240,"y":240,"width":400,"height":400},
 		{"id":"d9d3d97a328df712","type":"file","file":"Charms/Infernal/Resistance/Nightmare Fugue Vigilance.md","x":-1760,"y":800,"width":400,"height":400},
 		{"id":"a5bd2057b9b38beb","type":"file","file":"Charms/Infernal/Resistance/Unshattered Pillar Perfection.md","x":-1760,"y":240,"width":400,"height":400},
@@ -15,11 +12,14 @@
 		{"id":"a30dff9fe4698b71","type":"file","file":"Charms/Infernal/Resistance/The King Still Stands.md","x":-3680,"y":3040,"width":400,"height":400},
 		{"id":"3d08a524f3f57a88","type":"file","file":"Charms/Infernal/Resistance/Driven Beyond Death.md","x":-3680,"y":2480,"width":400,"height":400},
 		{"id":"f753563181b45d0e","type":"file","file":"Charms/Infernal/Resistance/Flesh-Wracked Aegis Spasm.md","x":-3680,"y":240,"width":400,"height":400},
-		{"id":"7c6d1855c4440f7a","type":"file","file":"Charms/Infernal/Resistance/Skyfire-Seizing Repast.md","x":-5120,"y":800,"width":400,"height":400},
-		{"id":"7bccda14511f0673","type":"file","file":"Charms/Infernal/Resistance/Viridian Legend Exoskeleton.md","x":-4160,"y":1360,"width":400,"height":400},
-		{"id":"20c571355fc34c9c","type":"file","file":"Charms/Infernal/Resistance/Blight Internalization Transcendence.md","x":-4160,"y":800,"width":400,"height":400},
+		{"id":"7bccda14511f0673","type":"file","file":"Charms/Infernal/Resistance/Viridian Legend Exoskeleton.md","x":-2720,"y":1360,"width":400,"height":400},
+		{"id":"3905da3295d59a87","type":"file","file":"Charms/Infernal/Resistance/Thousand Scars Atrocity.md","x":-4160,"y":1360,"width":400,"height":400},
+		{"id":"00c24c512f881264","type":"file","file":"Charms/Infernal/Resistance/Tormented Devil-King Resilience.md","x":-4160,"y":1920,"width":400,"height":400},
+		{"id":"20c571355fc34c9c","type":"file","file":"Charms/Infernal/Resistance/Blight Internalization Transcendence.md","x":-2720,"y":800,"width":400,"height":400},
+		{"id":"7c6d1855c4440f7a","type":"file","file":"Charms/Infernal/Resistance/Skyfire-Seizing Repast.md","x":-2240,"y":800,"width":400,"height":400},
 		{"id":"be8240394f6d8e92","type":"file","file":"Charms/Infernal/Resistance/Monstrous Wound Evolution.md","x":-4640,"y":1360,"width":400,"height":400},
-		{"id":"b8324424d3ef0e92","type":"file","file":"Charms/Infernal/Resistance/By Rage Recast.md","x":-4640,"y":800,"width":400,"height":400}
+		{"id":"91421320a3d7ba1a","type":"file","file":"Charms/Infernal/Resistance/Hardened Demon Flesh.md","x":-4640,"y":800,"width":400,"height":400},
+		{"id":"b8324424d3ef0e92","type":"file","file":"Charms/Infernal/Resistance/By Rage Recast.md","x":-4160,"y":800,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"170a7abcc247bba0","fromNode":"64a6f317ef75edce","fromSide":"bottom","toNode":"2b14377401267624","toSide":"top"},
@@ -40,6 +40,7 @@
 		{"id":"662352330952c757","fromNode":"91421320a3d7ba1a","fromSide":"bottom","toNode":"3905da3295d59a87","toSide":"top","color":"6","label":"Key"},
 		{"id":"cf294797d33a4f58","fromNode":"a740d0326353cc09","fromSide":"bottom","toNode":"3905da3295d59a87","toSide":"top"},
 		{"id":"abdc888253fcd59d","fromNode":"3905da3295d59a87","fromSide":"bottom","toNode":"00c24c512f881264","toSide":"top"},
-		{"id":"342346f9370a2396","fromNode":"a740d0326353cc09","fromSide":"bottom","toNode":"7bccda14511f0673","toSide":"top"}
+		{"id":"342346f9370a2396","fromNode":"a740d0326353cc09","fromSide":"bottom","toNode":"7bccda14511f0673","toSide":"top"},
+		{"id":"3faec1da87b99216","fromNode":"91421320a3d7ba1a","fromSide":"bottom","toNode":"be8240394f6d8e92","toSide":"top","color":"6","label":"Key"}
 	]
 }
