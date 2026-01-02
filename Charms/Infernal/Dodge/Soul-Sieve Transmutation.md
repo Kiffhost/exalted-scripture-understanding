@@ -16,7 +16,9 @@ Prerequisite Charms:
 
 The Infernal briefly dematerializes as she’s attacked or when she faces another source of harm. She can evade even undodgeable attacks and perfectly defends against any source of harm that’s incapable of affecting dematerialized characters. This doesn’t let her defend against ambushes.
 
-Against magic that can attack dematerialized characters, the total successes on the attack roll and damage roll are both halved, rounded down. (Note that most such effects must be declared before the attacker makes his roll, meaning he can’t wait until after the Infernal uses this Charm to invoke such magic.) If the Infernal is already dematerialized when she uses this Charm, she can instead manifest herself and dematerialize her attacker for the briefest moment. She perfectly defends unless her attacker can strike material foes while dematerialized — a rare talent.
+Against magic that can attack dematerialized characters, the total successes on the attack roll and damage roll are both halved, rounded down. (Note that most such effects must be declared before the attacker makes his roll, meaning he can’t wait until after the Infernal uses this Charm to invoke such magic.)
+
+If the Infernal is already dematerialized when she uses this Charm, she can instead manifest herself and dematerialize her attacker for the briefest moment. She perfectly defends unless her attacker can strike material foes while dematerialized — a rare talent.
 
 Against large sources of harm that affect multiple characters, like a wildfire, she only dematerializes enough to protect herself. If the Infernal uses this Charm to evade a recurring source of uncountable damage, she waives the cost of subsequent uses this scene to defend against it.
 ## Reset

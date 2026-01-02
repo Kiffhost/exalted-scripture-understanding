@@ -19,6 +19,7 @@ The Infernal instantly forms a Minor Tie of love toward an individual, whether r
 - When the Infernal makes an influence roll against the beloved character, he suffers −1 Resolve against her.
 - When the Infernal upholds the enchanted Tie, she gains (Intimacy) motes in addition to gaining Willpower.
 - Once per day, she can reduce the Willpower cost to resist influence that would weaken the Intimacy by one. Even if she uses this Charm multiple times, they’re all subject to the same once-per-day limit.
+
 The Infernal can stack this Charm to have up to (Charisma) enchanted Ties.
 ## [[Keys]]
 #### Adoring Atrocity Infatuation (Integrity 5, Essence 3)

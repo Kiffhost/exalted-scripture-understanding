@@ -18,4 +18,6 @@ When the Infernal witnesses someone commit a crime or act of violence, she refle
 
 If successful, the Infernal learns that Intimacy in addition to the information from profiling him, and gains it herself at Minor intensity. She may choose to invert positive Intimacies into a suitably opposed negative Intimacy.
 
-The Infernal gains whatever Intimacy If the Infernal discovers a negative Intimacy this way, she gains it herself at Minor intensity and this Charm’s duration becomes Indefinite. She can’t voluntarily weaken the Intimacy until the story ends or she concludes her investigation. If she has the Intimacy at Major or Minor intensity, she adds (Intimacy) dice on Investigation rolls against the culprit This Charm ends if the Infernal’s Intimacy is fully eroded. She can’t voluntarily end it before that.
+If the discovered Intimacy is negative, the Infernal gains it herself at Minor intensity and this Charm’s duration becomes Indefinite. She can’t voluntarily weaken the Intimacy until the story ends or she concludes her investigation. If she has the Intimacy at Major or Minor intensity, she adds (Intimacy) dice on Investigation rolls against the culprit.
+
+This Charm ends if the Infernal’s Intimacy is fully eroded. She can’t voluntarily end it before that.

@@ -19,4 +19,4 @@ To use this Charm, the Infernal must have zero temporary Willpower. She can use 
 
 If the opposing roll fails to beat the Infernal’s Resolve, she gains one Willpower for each success it failed by, maximum (higher of Essence or 3).
 
-This Charm is subject to the usual once-per-story limit on [[Devil-Body#Devil-Body Apotheosis|Devil-Body Apotheosis]] (p. XX).
+The Infernal can use this Charm even if she’s already used her [[Devil-Body]] this scene.

@@ -15,7 +15,7 @@ Prerequisite Charms:
 ---
 *A broken pillar brings a temple crashing down; a broken law shatters the world’s order.*
 
-A would-be investigator treats the Infernal’s case scene successes as an influence roll to instill an Intimacy that would justify her misdeeds, typically by convincing him that the law, authority, or custom violated lacks legitimacy or importance. If his Resolve is beaten, his case scene roll suffers a −1 penalty for each extra successes over his Resolve, minimum (Infernal’s Charisma or Manipulation), even if he spends Willpower to resist.
+When the Infernal makes a conceal evidence roll, characters who make an opposing case scene roll also treat the Infernal’s successes as an influence roll to instill an Intimacy that would justify her misdeeds. Such Principles involve believing that the law, authority, or custom violated lacks legitimacy or importance. If the investigator’s Resolve is beaten, his case scene roll suffers a −1 penalty for each extra successes over his Resolve, minimum (Infernal’s Charisma or Manipulation), even if he spends Willpower to resist.
 
 If a character is affected by the Infernal’s influence and fails his roll, he’ll act to dissuade any further investigation into the crime and any similar or seemingly related misdeeds, as if affected by a persuade roll. His efforts won’t go beyond an inconvenient task. (Exalted, p. 216).
 

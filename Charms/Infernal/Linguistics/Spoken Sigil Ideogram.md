@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Infernal’s every word is scripture, her speech etched into the world for all to behold.*
 
-The Infernal’s speech no longer takes the form of vocal utterances, but pale sigils in the colour of her anima that spell out her message. Those who pay close attention may notice occasional droplets of ink-like blood welling up at the symbols’ edges as they appear. The Infernal’s speech appears in the writing system of whatever language she speaks, or in Old Realm if that language doesn’t have a writing system or the Infernal doesn’t know it. The illiterate are incapable of understanding her.
+The Infernal’s speech no longer takes the form of vocal utterances, but pale sigils in the color of her anima that spell out her message. Those who pay close attention may notice occasional droplets of ink-like blood welling up at the symbols’ edges as they appear. The Infernal’s speech appears in the writing system of whatever language she speaks, or in Old Realm if that language doesn’t have a writing system or the Infernal doesn’t know it. The illiterate are incapable of understanding her.
 
 The Infernal’s sigil-speech lets her use Linguistics instead of Performance, Presence, Socialize, or War for rolls involving spoken influence or commands, and adds (Essence) dice on such rolls. She can use Written-only Charms to enhance spoken influence rolls that use Linguistics, as long as their effect makes sense when conveyed through speech.
 

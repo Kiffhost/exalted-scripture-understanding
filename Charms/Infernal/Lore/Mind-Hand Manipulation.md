@@ -29,7 +29,7 @@ The Infernal can pay four motes to add (Willpower/2, rounded up) to her effectiv
 #### Tool-Transcending Constructs
 The Infernal’s telekinetic force can be used in place of any mundane equipment that might be needed for a task. She could mentally assemble an intricate clockwork mechanism, open a surgical incision with a psychical scalpel, or play a percussive rhythm by striking the air with psychic force. She doesn’t suffer a penalty on actions that require fine manipulation as long as she relies solely on telekinesis.
 #### Unseen Force Application (Essence 2)
-The Infernal can render her telekinetic force invisible when she pleases.
+The Infernal can render her telekinetic force invisible when she pleases. Enemies can still defend against telekinetic attacks, sensing a tingling surge of Essence, but the Infernal adds an automatic success on unexpected attacks with them.
 #### Focused Psyche Projection (Lore 5, Essence 2, [[#Precision Thought-Force Exercise]])
 The Infernal’s telekinesis extends out to medium range.
 #### Specimen Retrieval Modus (Lore 5, Essence 2, [[#Psychic Surge Exertion (4m)|Psychic Surge Exertion]])

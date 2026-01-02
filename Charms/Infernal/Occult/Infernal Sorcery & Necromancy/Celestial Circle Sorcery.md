@@ -14,4 +14,4 @@ Prerequisite Charms:
 ---
 *The Infernal ascends to the higher mysteries, following in the footsteps of the first Primordials to master sorcery.*
 
-The Infernal may use Celestial Circle sorcery. She learns one Celestial Circle spell — an additional control spell — and one shaping ritual for free.
+The Infernal may use Celestial Circle sorcery. She learns one Celestial Circle spell — an additional control spell — and one shaping ritual.

@@ -17,7 +17,7 @@ Prerequisite Charms:
 
 The Infernal responds to an attack with a decisive counterattack. If both attacks hit, the Infernal resets to her attacker’s base Initiative if it’s higher than hers.
 
-If a character attacks the Infernal unprovoked outside of combat — or if she thinks one does — she must use this Charm to counterattack. She can pay one Willpower to resist this urge. She doesn’t need to do so if she can’t pay this Charm’s base cost.
+If a character attacks the Infernal unprovoked outside of combat — or if she thinks one does — she must use this Charm to counterattack if she can pay its cost. She can pay one Willpower to resist this urge.
 ## Special activation rules
 The Infernal can use [[Kissed by Hellish Noon]] (p. XX) reflexively with this Charm, extending the counterattack’s range.
 ## [[Keys]]

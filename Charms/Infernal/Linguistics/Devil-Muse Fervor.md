@@ -12,7 +12,7 @@ Duration: Instant
 Prerequisite Charms:
 - None
 ---
-*The Infernal draws on daemoniac inspiration, penning her works in a feverish hand to proclaim the Yozis’ glory.*
+*The Infernal draws on daemonic inspiration, penning her works in a feverish hand to proclaim the Yozis’ glory.*
 
 The Infernal adds a non-Charm die on a written influence roll, plus an addition non-Charm die for each condition that applies:
 - Her influence has a single target.

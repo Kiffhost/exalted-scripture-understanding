@@ -15,7 +15,7 @@ Prerequisite Charms:
 ---
 *The Infernal has no patience for lies and prevarication — she will rip the answers from suspect’s minds if she must, bearing witness to rapid-fire flashes of their memories.*
 
-The Infernal makes a special profile character roll to intrude upon the mind of a character within medium range, extracting information. If successful, she asks the target’s player a question of her choice about him, causing the character to relive a memory that contains the answer. Alternatively, she can learn one of his Intimacies through a flashback. Her player can prioritize certain kinds of Intimacies— his strongest Intimacies, Intimacies related to things he desires, Ties toward a certain character, etc. If he’s forced to relive painful or humiliating memories, he loses one Willpower.
+The Infernal makes a special profile character roll to intrude upon the mind of a character within medum range, extracting information. If successful, she asks the target’s player a question of her choice about him, causing the character to relive a memory that contains the answer. Alternatively, she can learn one of his Intimacies through a flashback. Her player can prioritize certain kinds of Intimacies— his strongest Intimacies, Intimacies related to things he desires, Ties toward a certain character, etc. If he’s forced to relive painful or humiliating memories, he loses one Willpower.
 
 The Infernal’s victim experiences this as a sudden phantom pain, as if being vivisected, and is aware that some unknown force is intruding upon his mind. He can refuse to answer questions or reveal Intimacies for spending one Willpower each.
 ## Reset

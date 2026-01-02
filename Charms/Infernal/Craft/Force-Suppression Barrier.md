@@ -20,4 +20,4 @@ To use this Charm, the Infernal’s anima must be at burning or higher. It cryst
 
 While using this Charm, the Infernal reduces the cost of [[Crystal-Fire Pattern Construct]] by two motes.
 ### Blasphemy
-If the Infernal’s [[Devil-Body]] has the [[Barrier Defense]] feature, this Charm’s Defense bonus is non-Charm.
+If the Infernal’s [[Devil-Body]] has [[Barrier Defense]], this Charm’s Defense bonus is non-Charm.

@@ -25,5 +25,5 @@ Once per day, unless reset by voluntarily raising a Tie to an individual to Majo
 ## [[Keys]]
 #### Easily Abandoned Burden (Integrity 4)
 The Infernal can use this Charm reflexively when a character makes an influence roll, sacrificing a Tie to an individual that would have supported the influence. Sacrificing an Intimacy used to justify an instill roll, persuade roll, or similar influence doesn’t render that influence unacceptable.
-#### Outrunning the Past (Essence 2, Easily Abandoned Burden) (+3m)
+#### Outrunning the Past (Essence 2, [[#Easily Abandoned Burden (Integrity 4)|Easily Abandoned Burden]]) (+3m)
 If the Infernal chooses to erase her memories of a Major or Defining Tie, she reduces the Willpower cost to resist the influence by one. She may pay a three-mote surcharge when facing an influence roll that requires the sacrificed Tie to justify it, like a persuade roll . If she does, that influence fails automatically unless the Infernal has another Intimacy that supports it.

@@ -14,7 +14,8 @@ Prerequisite Charms:
 ---
 *The mad green light of Ligier bathes the world in sickly radiance like an unseen cancer.*
 
-The Infernal infuses an object with the sickly Essence of [[green sun wasting]] (p. XX). A character is exposed to this disease if he spends an hour in close proximity of the object or consumes it. This continues to recur until a nontrivial character fails his roll against infection. If the object is scattered among others — such as tainting a grain silo or well — the virulence is halved, rounded up. It loses its effect if it’s mixed in with more non-tainted materials than tainted ones.
+The Infernal infuses an object with the sickly Essence of [[Green Sun Wasting]] (p. XX). A character is exposed to this disease if he spends an hour in close proximity of the object or consumes it. This continues to recur until a nontrivial character fails his roll against infection. If the object is scattered
+among others — such as tainting a grain silo or well — the virulence is halved, rounded up. It loses its effect if it’s mixed in with more non-tainted materials than tainted ones.
 
 Characters using magic like [[All-Encompassing Sorcerer’s Sight]] can make a difficulty 3 diagnosis roll to recognize this Charm’s taint.
 ## [[Keys]]

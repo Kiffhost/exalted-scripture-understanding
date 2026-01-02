@@ -28,6 +28,6 @@ The Infernal can reset this Charm by completing a superior project.
 ### Ceaseless Brilliance Appreciation ([[#Triumphant Genius Vindication (Essence 2, Blasphemous Epiphany of Design |Triumphant Genius Vindication]])
 The Infernal can use this Charm once per day. However, she can’t gain more than one gold point and (Essence + 2) silver points for each Craft Ability that she has rated at 5 dots. She can wait until after the roll to decide whether to invoke the once-per-story waiver of this limitation.
 ### Raving Enlightenment Lesson ([[#Triumphant Genius Vindication (Essence 2, Blasphemous Epiphany of Design |Triumphant Genius Vindication]])
-The Infernal gains an additional (Essence + 5) gold points when she uses this Charm. This isn’t compatible with Ceaseless Brilliance Appreciation’s daily use.
+The Infernal gains an additional (Essence + 5) gold points when she uses this Charm. This isn’t compatible with [[#Ceaseless Brilliance Appreciation ( Triumphant Genius Vindication (Essence 2, Blasphemous Epiphany of Design Triumphant Genius Vindication )|Ceaseless Brilliance Appreciation]]’s daily use.
 #### Cosmic Forge Comprehension (Essence 3, [[#Raving Enlightenment Lesson ( Triumphant Genius Vindication (Essence 2, Blasphemous Epiphany of Design Triumphant Genius Vindication |Raving Enlightenment Lesson]])
-Once per story, when the Infernal uses Raving Enlightenment Lesson, she also gains five white points.
+Once per story, when the Infernal uses [[#Raving Enlightenment Lesson ( Triumphant Genius Vindication (Essence 2, Blasphemous Epiphany of Design Triumphant Genius Vindication )|Raving Enlightenment Lesson]], she also gains five white points.

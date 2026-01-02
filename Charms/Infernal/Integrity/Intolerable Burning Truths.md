@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Infernal is beyond all human conceptions of love and hate.*
 
-Upon purchasing this Charm, the Infernal’s player chooses one its keys, warping her perspective on love and hate.
+Upon purchasing this Charm, the Infernal gains one of its keys.
 ## [[Keys]]
 #### Existence is Agony
 The Infernal gains one mote when she voluntarily forms or strengthens a negative Tie. Once per session, she can roll (Intimacy + 2) dice when she upholds a negative Tie. She may strengthen the Intimacy one step before rolling. She gains Willpower equal to her successes, minimum one, and twice that many motes. However, she must pay one Willpower to show mercy to someone she has a negative Tie for when she has an opportunity to harm him. Sparing them to prolong their suffering doesn’t run afoul of this prohibition.

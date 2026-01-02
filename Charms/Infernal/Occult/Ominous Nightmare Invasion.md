@@ -14,14 +14,14 @@ Prerequisite Charms:
 ---
 *The Infernal dances through dreams with a grace that delights Hegra and Oramus both. How wonderful their Green Sun Princes are!*
 
-The Infernal touches a sleeping character and rolls ({Charisma, Intelligence, or Manipulation} + Occult}) against his Guile. He suffers the −2 Guile penalty for being unaware of her. If successful, the Infernal enters into his dreams, watching them as a formless frisson of subtle dread. Spying on a character’s dreams reveals a piece of useful information: one of his Intimacies, a glimpse into a memory, a clue relevant to an ongoing investigation, etc.
+The Infernal touches a sleeping character and rolls ({Charisma, Intelligence, or Manipulation} + Occult]) against his Guile. He suffers the −2 Guile penalty for being unaware of her. If successful, the Infernal enters into his dreams, watching them as a formless frisson of subtle dread. Spying on a character’s dreams reveals a piece of useful information: one of his Intimacies, a glimpse into a memory, a clue relevant to an ongoing investigation, etc.
 
 If the Infernal’s roll also beats her target’s Resolve, she can twist his dreams into nightmares, preventing him from recovering Willpower from sleep. His Intimacies don’t modify his Resolve against this. If this leaves him with (Infernal’s Essence) or less temporary Willpower, he forms a Minor Tie of fear toward the Infernal, though he recognizes her only as a vague nightmarish presence until he encounters her in person.
 ## Reset
 This Charm can only be used on a character once per day.
 ## [[Keys]]
 #### Beguiling Demon Dream (Occult 4) (+3m)
-For a three-mote surcharge, the Infernal can take on whatever form she pleases within the dream. She can convey an instil, inspire, or persuade roll through the dream instead of (or in addition to) inflicting nightmares. Her interactions with the dreamer aren’t limited solely to the influence’s topic, but the Infernal can’t use other influence rolls or social actions against him.
+For a three-mote surcharge, the Infernal can take on whatever form she pleases within the dream. She can convey an instill, inspire, or persuade roll through the dream instead of (or in addition to) inflicting nightmares. Her interactions with the dreamer aren’t limited solely to the influence’s topic, but the Infernal can’t use other influence rolls or social actions against him.
 #### Oneiric Eye Voyeur (Occult 4)
 The Infernal learns an additional piece of information from her target’s dreams.
 #### Glimpse of Distant Nightmares (Occult 5) (+1wp)

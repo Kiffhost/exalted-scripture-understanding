@@ -23,7 +23,7 @@ The Infernal can use this Charm to enhance a feat of demolition made using her w
 #### Cold Fire Desolation Brand (Melee 4, Essence 2) (+4m)
 For a four-mote surcharge, an enemy damaged by the flare is exposed to [[Green Sun Wasting]]. With Melee 5, Essence 3, the disease can be fatal even for the Exalted.
 #### Emerald Pyre Ablaze (Melee 4, [[#World-Weathering Incandescence (Melee 3)|World-Weathering Incandescence]])
-An enemy damaged by the flare catches fire. At the start of each of his turns, he suffers another (higher of Essence or 3) dice of lethal damage, ignoring Hardness. This damage is aggravated if the Infernal has [[#Blazing Demonic Radiance (Melee 3)|Blazing Demonic Radiance]], but otherwise doesn’t benefit from this Charm’s keys.
+An enemy damaged by the flare catches fire. At the start of each of his turns, he suffers another (higher of Essence or 3) dice of lethal damage, ignoring Hardness. This damage is aggravated if the Infernal has [[#Blazing Demonic Radiance (Melee 3)|Blazing Demonic Radiance]], but otherwise doesn’t benefit from this Charm’s keys. The flames can be extinguished normally, typically requiring a miscellaneous action to douse it with water, smother the fire by covering it in earth, or similar.
 #### Viridescent Dawn Flash (Melee 4, Essence 2) (+1wp)
 The Infernal can pay a one-Willpower surcharge to use this Charm after an attack roll, but before the damage roll.
 #### Immolating Terror Technique (Melee 5, Essence 2) (+4m)

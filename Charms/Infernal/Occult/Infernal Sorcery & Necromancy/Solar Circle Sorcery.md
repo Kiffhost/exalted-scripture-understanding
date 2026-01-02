@@ -14,4 +14,4 @@ Prerequisite Charms:
 ---
 *The Infernal has attained the apex of her blasphemous enlightenment, working nightmares and wonders not seen since the Old Realm’s Solar sorcerer-tyrants.*
 
-The Infernal may use Solar Circle sorcery. She learns one Solar Circle spell — an additional control spell — and one shaping ritual for free.
+The Infernal may use Solar Circle sorcery. She learns one Solar Circle spell — an additional control spell — and one shaping ritual.

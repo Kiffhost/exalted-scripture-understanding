@@ -14,7 +14,9 @@ Prerequisite Charms:
 ---
 *The Infernal dismisses an attack with a contemptuous sneer, not even bothering to block as her raw, cosmic might pushes the blow astray.*
 
-The Infernal can block unblockable attacks. For a one-Willpower surcharge, she adds (Willpower) as a non-Charm bonus to her Parry Alternatively, the Infernal can pay a one-Willpower surcharge to perfectly parry a source of uncountable damage. If the damage is recurring, she becomes immune to it for the rest of the scene.
+The Infernal can block unblockable attacks. For a one-Willpower surcharge, she adds (Willpower) as a non-Charm bonus to her Parry.
+
+Alternatively, the Infernal can pay a one-Willpower surcharge to perfectly parry a source of uncountable damage. If the damage is recurring, she becomes immune to it for the rest of the scene.
 ## Reset
 Once per scene unless reset by successfully parrying a decisive attacker that her attacker spent 15+ motes to enhance.
 ## [[Keys]]

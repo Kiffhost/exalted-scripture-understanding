@@ -14,7 +14,7 @@ Prerequisite Charms:
 ---
 *The Infernal’s shadow rises up to wreathe her in liquid darkness, melting away to reveal a new face and a false fate.*
 
-The Infernal assumes a fictitious identity and a false destiny of her own imagining, instantly making a disguise roll. She needs no equipment, instead physically transforming her body. She can increase or reduce her height by up to ten inches; increase or decrease her weight by up to 10%; alter her apparent age; change or remove sexual characteristics; change skin tone, eye colour, and hair colour and length; and make cosmetic changes like adding scars or birthmarks. She may choose to retain physical alterations after this Charm ends.
+The Infernal assumes a fictitious identity and a false destiny of her own imagining, instantly making a disguise roll. She needs no equipment, instead physically transforming her body. She can increase or reduce her height by up to ten inches; increase or decrease her weight by up to 10%; alter her apparent age; change or remove sexual characteristics; change skin tone, eye color, and hair color and length; and make cosmetic changes like adding scars or birthmarks. She may choose to retain physical alterations after this Charm ends.
 
 The Infernal’s false destiny beguiles reality itself — she ceases to be an enemy of fate while disguised. Sidereal Charms or similar magic used to learn of her past, her future, or her place in fate reveal a result consistent with her fictitious identity. Such magic still provides accurate information to the extent that it doesn’t contradict the Infernal’s disguise. However, this can’t make it seem like she’s another type of Exalt or supernatural being.
 ## [[Keys]]
