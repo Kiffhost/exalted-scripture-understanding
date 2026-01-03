@@ -13,6 +13,10 @@ WeaponTags:
   - "[[Item Tags#Two-Handed|Two-Handed]]"
 Hearthstone slots: 2
 Era: Labors of the Tekhelet Circle
+Material: Starmetal
+WeaponType:
+  - Chariot
+Dots: "3"
 ---
 *Oadenol’s Wheel was made by the Sidereal arch-artificer Oadenol for her young Circlemate Sagacious Sloth, the reincarnation of her closest companion.*
 Sagacious Sloth was perpetually late to his appointments, owing to his preoccupation with outlandish adventures. Oadenol made excuses for him when he skipped a convention meeting to dance and take lovers in the Demon City. She covered for when he dodged a vital mission assigned to the Circle to visit the cities of the cloud people and study their astrology. But when he missed his own wedding, trapped at the bottom of the sea after an unwise wager with Zhuzhao, tentacled god of the depths, Oadenol could no longer sit idly by. She cut a sliver of starmetal from a comet passing through the constellation of the Messenger to forge the chariot’s wheel-spokes, and bound two of the lumenir, wild spirit-horses that chased after the comet, to draw the chariot. Knowing her Circlemate’s predilection for rash heroics, she constructed the chariot so it could also be wielded as a weapon, collapsing into a single chariot-wheel with which to bludgeon obstacles to arriving on time. Sagacious Sloth thanked Oadenol for her gift, which he put to use on a new adventure into the Wyld, battling the many-shadowed princes of the Far Gloaming. This took several years, with intermittent breaks to tend to his official duties, but despite everything, he was later than ever. 

@@ -11,6 +11,10 @@ WeaponTags:
   - "[[Item Tags#Disarming|Disarming]]"
 Hearthstone slots: 2
 Era: Reign of the Scarlet Empress
+Material: Starmetal
+WeaponType:
+  - Hook Daiklaves
+Dots: "3"
 ---
 *The [[Enlightening Abnegation Sabers]] are an exercise in minimalism.*
 Their hooks are made of starmetal hammered into fine wire; their ornate basket hilts of black jade filigree resemble rapiers more than [[Hook Sword|hook swords]]. They were forged by Akiyo Majenda, who sought to win the heart of Spring Without Sparrows, a Sidereal who’d instructed her at Versino, predecessor to the modern Heptagram. 

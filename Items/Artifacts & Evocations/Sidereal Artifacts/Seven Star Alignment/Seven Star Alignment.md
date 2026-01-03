@@ -12,6 +12,10 @@ WeaponTags:
   - "[[Item Tags#Flexible|Flexible]]"
 Hearthstone slots: 2
 Era: The Fomalhaut Discordance
+Material: Starmetal
+WeaponType:
+  - Dragon-Coil Staff
+Dots: "4"
 ---
 *Seven Star Alignment is a [[Seven-Section Staff]].*
 Its links of gleaming starmetal connect rods carved from the branches of the Mourning Tree, which blooms from the graves of heroes who did not shirk from prophecy of death. Each movement of the staff brings its seven sections into a new conjunction, which mirror the patterns of the twenty-five constellations. Talismanic inscriptions of starmetal and red jade adorn each of Seven Star Aligment’s section, telling the myth of Pavonis the Vanguard. A valiant son of Mars and the cunning god of martial [[Templates/sorcery]], Pavonis fell in battle alongside his Exalted lover in the tumultuous aftermath of the Divine Revolution. Pavonis wielded [[Seven Star Alignment]] only once, on the day of his death. Gifted with his mother’s foresight, he witnessed the staff in a vision of his final battle and spent his last days forging his foretold weapon. Unlike other artifacts kept in the Crimson Panoply of Victory’s vaults, [[Seven Star Alignment]] doesn’t belong to the [[Bureau of Destiny|Bureau of Destiny]]. With Pavonis dead, his weapon now belongs to Mars herself, who’s placed it in trust with her Chosen. Mindful of this, the division’s quatermasters evaluate the staff’s wouldbe wielders more thoroughly than most. They test the boldness, cunning, and sorcerous talent of candidates to ensure that they’re both suited to the weapon’s temperament and worthy of Pavonis’ legacy. Wielders who’ve come before Mars have spoken of the silent intensity of her gaze, as if considering their worth. 
