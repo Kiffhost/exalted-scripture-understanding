@@ -14,6 +14,10 @@ WeaponTags:
   - "[[Item Tags#Flexible|Flexible]]"
 Hearthstone slots: 1
 Era: Reign of the Scarlet Empress
+Material: White Jade
+WeaponType:
+  - Direlash
+Dots: "3"
 ---
 *Sesus Dejeni, the Nine Bones Thief, amassed great wealth for herself and her house wrangling thousands of head of cattle in the Southern steppes.*
 Small herding tribes and local cattle barons alike forfeited their herds to Dejeni, and she went to great lengths to ensure she never had to pay a fair price, employing fraud, blackmail, and violence when needed. All the while, [[Items/Artifacts & Evocations/Heirlooms of Power/White Lizard’s Tongue/White Lizard’s Tongue]] was at her side, a whip of ivory-colored jade and the flayed hide of some unknown beast. Its jade surfaces are engraved with images of horses and cattle, with acrobatic riders dancing atop them and flipping over them.
