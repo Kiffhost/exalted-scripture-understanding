@@ -18,6 +18,6 @@ The Infernal can use this Charm after a scene spent interacting with her worship
 
 The Infernal can’t voluntarily weaken the Intimacy. It can’t be fully removed or have its emotional context altered by any means. She adds (Cult/2, rounded up) automatic successes on any Performance, Presence, or Survival rolls that she makes for the benefit of her worshippers.
 
-Once per day, when the Infernal uses Temple-Self Apotheosis to reduce a mote cost or heal, she can still reduce a Willpower cost as well if she’s acting for the benefit of her worshippers.
+Once per day, when the Infernal uses [[Temple-Self Apotheosis]] to reduce a mote cost or heal, she can still reduce a Willpower cost as well if she’s acting for the benefit of her worshippers.
 ## Reset
 Once per story.

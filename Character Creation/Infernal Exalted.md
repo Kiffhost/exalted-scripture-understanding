@@ -39,6 +39,7 @@ Additionally, select 5 **Favoured Abilities**. You cannot select abilities you h
 	<summary>Ability Notes</summary>
  Taking <i>Brawl</i> as a <b>Caste</b> or <b>Favoured Ability</b> also makes <i>Martial Arts</i> a <b>Caste</b> or <b>Favoured Ability</b>.
 </details>
+
 From your chosen **Caste Abilities** select 1 to be your [[Primordial Ability]].
 
 Divide 28 dots among your abilities.

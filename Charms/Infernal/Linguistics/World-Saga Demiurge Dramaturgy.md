@@ -1,19 +1,19 @@
 ---
 tags:
-- charm
-- Infernal
-- source/infernal-book
+  - charm
+  - Infernal
+  - source/infernal-book
 Cost: 15m, 1wp
 Mins: Linguistics 5, Essence 5
 Type: Simple
 Keywords:
-- Blasphemy
-- Shaping (Body
-- Terrain)
+  - Blasphemy
+  - Shaping (Body)
+  - Shaping (Terrain)
 Duration: Instant
 Prerequisite Charms:
-- "[[Enthralling Infernal Mythopoeia]]"
-- "[[Spoken Sigil Ideogram]]"
+  - "[[Enthralling Infernal Mythopoeia]]"
+  - "[[Spoken Sigil Ideogram]]"
 ---
 *If reality is a text, then the Infernal is no passive reader. The world is hers to edit and revise.*
 
