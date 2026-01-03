@@ -1,19 +1,15 @@
 filters:
   and:
-    - file.hasTag("charm")
-    - and:
-        - Mins.startsWith("Stea")
-    - file.path.startsWith("Charms/Sidereal")
+    - file.hasProperty("Era")
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - Mins
-      - Prerequisite Charms
-      - Cost
-      - Keywords
+      - Era
     sort:
+      - property: Era
+        direction: ASC
       - property: Mins
         direction: ASC
       - property: Prerequisite Charms

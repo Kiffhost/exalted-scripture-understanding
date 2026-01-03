@@ -34,28 +34,26 @@ These traits represent a Minion bearing weapons and armor given to it by its mas
 **Health Levels**: −0×4/−1×4/−2×2/−4/Incap.
 **Actions**: Artistic Impulses: 6 dice; Bureaucracy: 6 dice; Feats of Strength: 10 dice (can attempt Strength 3 feats); Investigation: 6 dice; Read Intentions: 7 dice; Senses: 10 dice; Social Influence: 7 dice; Stealth: 9 dice; Tracking: 9 dice.
 Appearance 3 (Hideous), Resolve 6, Guile 4
-
-**Combat**
+##### Combat
 **Attack (Unarmed)**: 12 dice (Damage 11B)
 **Attack (Spear)**: 10 dice (Damage 13L)
 **Attack (Grapple)**: 8 dice (10 dice to control)
 **Combat Movement**: 10 dice
 **Evasion**: 4; **Parry**: 6
 **Soak/Hardness**: 8/4 (Breastplate)
-
-*Intimacies*
+##### Intimacies
 *Defining Tie*: The sorcerer (Loyalty)
 *Defining Tie*: The Eyeless Face (Terror)
 *Major Tie*: Demons (Fascination)
 *Minor Principle*: I will distinguish myself.
-## *Merits*
-### Alien Biology
+#### *Merits*
+###### Alien Biology
 Under their elastic skin, the Minions have a bizarre physiology composed of compounded layers of dry powder. They have Exalted Healing, are immune to mundane disease and poisons, and do not need to eat, drink, breathe, or sleep.
-### Binding Freedom
+###### Binding Freedom
 Social influence that would weaken or alter a Minion’s Tie to the sorcerer or stop it from fulfilling her instructions is unacceptable, unless it comes from the Eyeless Face.
-### Eyeless
+###### Eyeless
 Minions are blind, but suffer no penalties because of this.
-### Synchronized Obedience
+###### Synchronized Obedience
 Minions double 9s on rolls made to fulfil the sorcerer’s instructions. Once per scene, a minion can add five dice on such an action.
-### Voiceless Thrall
+###### Voiceless Thrall
 Minions cannot speak, but understand Old Realm. They suffer no impediments from communicating through body language and pantomime.

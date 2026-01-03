@@ -27,10 +27,10 @@ Different types of Exalted are resonant, neutral, or dissonant with particular m
 | Lunar          | Neutral                              | Neutral                  | Resonant                             | Neutral                            | Neutral                            |
 | Sidereal       | Dissonant                            | Dissonant                | Dissonant                            | Resonant                           | Dissonant                          |
 | Abyssal        | Neutral                              | Neutral                  | Neutral                              | Neutral                            | Resonant                           |
+| Infernal       | Resonant                             | Neutral                  | Neutral                              | Neutral                            | Neutral                            |
 | Getimian       | Dissonant                            | Dissonant                | Dissonant                            | Resonant                           | Dissonant                          |
 | Liminal        | Dissonant                            | Dissonant                | Dissonant                            | Dissonant                          | Neutral                            |
 | Exigent        | Varies                               | Varies                   | Varies                               | Varies                             | Varies                             |
-
 ## Resonant
 Chosen can make better use of artifacts made from materials that they are resonant with.
 ## Dissonant

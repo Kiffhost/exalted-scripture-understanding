@@ -13,7 +13,7 @@ WeaponTags:
   - "[[Item Tags#Flexible|Flexible]]"
   - "[[Item Tags#Worn|Worn]]"
 Hearthstone slots: 2
-Era: The Era of Limitless Light
+Era: Era of Limitless Light
 Backer: Michael Maitan
 Dots: "3"
 Material: Moonsilver
