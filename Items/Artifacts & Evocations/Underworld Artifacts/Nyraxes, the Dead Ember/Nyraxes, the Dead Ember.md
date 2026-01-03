@@ -10,6 +10,7 @@ Type:
 Hearthstone slots: "1"
 Era: The Anticipation of Setesh
 Dots: "3"
+Material: Soulsteel
 ---
 *The Underworld has had many failed suns, the passion-projects of ancient necromancer-kings and nephwrack savants.*
 The bale-star known as Nyraxes was a particularly spectacular example, forged by an exiled potentate known as the King Clad in Tattered Glories. Denied a place among the ranks of his people’s honored dead, he sought to usurp their afterlife, supplanting it with one of his own design. The king kindled Nyraxes within his dread forge, with a core of ever-molten soulsteel trapped within concentric rings of bone stolen from the behemoth known as the Wandering Ivory Woods.
