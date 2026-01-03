@@ -8,6 +8,10 @@ Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
 WeaponTags:
 Hearthstone slots: 1
 Era: Fall of the First Deliberative
+Material: Orichalcum
+ArmorType:
+  - Articulated Plate
+Dots: "4"
 ---
 *Sozen’s name is spoken in whispers in the Demon City’s gaming houses and seraglios, its alleyways and thieves’ dens. Even Hell has its laws and boundaries, and when one wishes to break them, who better to turn to than the Cataphract of Keys? No brazen gate can bar her way, nor thousand-eyed sentinel glimpse her passage. She is queen of Hell’s underworld, admired and feared, a legend made flesh. She also does not exist.
 When the first Solar Deliberative collapsed, its embassy to Malfeas — perhaps an ill-considered venture — vanished utterly. Seeking a lover thus lost, Thousand-Named Orphan pledged to sieve Hell to find her again. He went to Zakhar of the Yellow Lamp for aid, that drunken apostate priest said to be the era’s finest artificer. Zakhar forged the Orphan a suit of armor containing the [[Essence]] of a demon that never was, laboring with such skill that the world itself forgot that Sozen was false. Thus clad, the Orphan walked the Demon City’s brazen streets for seven years undiscovered.*

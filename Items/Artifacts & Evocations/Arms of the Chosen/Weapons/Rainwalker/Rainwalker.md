@@ -13,7 +13,10 @@ WeaponTags:
   - "[[Item Tags#Shield|Shield]]"
 Hearthstone slots: 1
 Era: Luminous Ascension Era
-Material: Moonsilver and Blue Jade
+Material: Blue Jade
+WeaponType:
+  - Razor Parasol
+Dots: "3"
 ---
 *The Amethyst Lord was a wicked prince of the Fair Folk, a seducer and deceiver who stole away young and old alike, claiming them with tempting lures of a life beyond what Creation had to offer. Seven Stars Glutton caught wind of the raksha’s scheming, and voyaged seventy days and nights to reach the storm cloud palace of the fae’s court.
 There, they palavered for seventy more days and nights in a treacherous dance of diplomacy and deceit, ordeals and veiled threats. The Lunar impressed upon the Amethyst King the deadly consequences of taking one soul more from Creation, and came away from the table with one of the king’s graces as a token of his surrender, a beautiful umbrella made of solid mother-of-pearl that was a fragment of the raksha’s Essence. Seven Stars Glutton folded layers of moonsilver and blue jade around the umbrella by eerie moonlight rituals, forging it into a shield against the rains of the world, both literal and figurative.*

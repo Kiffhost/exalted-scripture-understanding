@@ -12,7 +12,10 @@ WeaponTags:
 Hearthstone slots: 3
 Era: War of the Gods
 Special: Stormcaller can be wielded while sheathed, gain- ing the Bashing tag instead of Lethal.
-Material: White Jade and Orichalcum
+Material: Orichalcum
+WeaponType:
+  - Reaper Daiklave
+Dots: "5"
 ---
 *The storm demon Akavadra was among the mightiest enemies that the Exalted faced in the Divine Revolution. The demon trampled armies beneath dancing feet of lightning, cast great winds to scuttle the armadas of the gods, and slew even the Chosen with her spear of lightning. In the end, it took a saint to defeat the devil.
 Stone Leaf Kon walked through Akavadra’s storms unscathed, made untouchable to the demon’s fury by virtue of his pure heart. He could not strike her down — for he had sworn an oath against killing — but instead bound her in a sealing circle, and began to speak. Though he could not win the demon to his own ethics, he convinced her to consent to being bound away in a daiklave, so that she might witness the deeds of heroes across the ages and finally make up her mind. Broken Thunder, the [[Twilight]] of Kon’s Circle, folded layers after countless layers of orichalcum around Akavadra’s demonic [[Essence]], perfecting the internal geometries of the weapon’s composition to seal away the devil. 

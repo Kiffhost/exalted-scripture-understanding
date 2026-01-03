@@ -11,6 +11,10 @@ WeaponTags:
   - "[[Item Tags#Shield|Shield]]"
 Hearthstone slots: 1
 Era: Second Deliberative Era
+Material: Orichalcum
+WeaponType:
+  - Thunderbolt Shield
+Dots: "3"
 ---
 *When Frey Irenio forged the daiklave Untimely Reprisal, he knew it had to be quenched and tempered ninety-nine times. But when Irenio learned that a Circlemate was in danger, he seized the still-hot blade — tempered only ninety-eight times — and rode immediately to the rescue. He confronted the Malignance of Castle Glass, whose terrible cry shattered the not-quite-finished blade. Irenio reforged half of Untimely Reprisal’s fragments into another daiklave, now lost. The remaining shards he alloyed with bronze from a demon prince’s temple bell to create a shield containing the [[Essence]] of the Malignance’s cry. He coaxed from the shield its own unique voice, a song that harmonizes with the alien music of the demon realm whence half its metal came.
 Centuries after Irenio’s death and the turning of the age, a scavenger prince in the far South uncovered the shield amid the Wyld-warped, demon-haunted ruins of Ophlas. With no record of the shield’s true name, she dubbed it “Irenio’s Bell.” It has seen many uses since, from a daimyo’s palace gong to a Fair Folk giant’s buckler. Currently it resides in the workroom of the sorcerer Irenda White-Eyes, at the center of an elaborate working to call forth her patron from Hell.*

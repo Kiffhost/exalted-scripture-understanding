@@ -12,7 +12,10 @@ WeaponTags:
   - "[[Item Tags#Worn|Worn]]"
 Hearthstone slots: 2
 Era: Shadows of the Usurpation
-Material: Red Jade and Starmetal
+Material: Starmetal
+WeaponType:
+  - Slayer Khatars
+Dots: "4"
 ---
 *Strife’s Crucible is a monument to the duel — a bold form of combat with countless age-old traditions spanning Creation’s cultures. It was forged by Iron Temper, a [[Chosen of Battles]] who viewed the Usurpation as a failure of all the Exalted. We are not ready, he thought. So he petitioned the Maidens for starmetal containing remnants of Mars’s own power, and melted down a slain Lawgiver’s red jade daiklave to fashion into a pair of deadly [[Khatar|khatars]] that would test the Exalted hosts. 
 The starmetal blade of each gauntlet is two feet long and one foot wide but thin as a finger, gleaming opalescent in the light. The red jade gauntlets — wrapped with starmetal wire — are engraved with depictions of the constellation of that name. The [[Khatar|khatars]] exult in their mission, speeding their wielder with auspicious grace when that mission is at hand. Its wielder can spur others to battle and test their mettle, while ensuring that they live to improve and fight another day. 

@@ -14,6 +14,9 @@ WeaponTags:
 Hearthstone slots: 2
 Era: Falling Stars Interregnum
 Material: Orichalcum
+WeaponType:
+  - Direlance
+Dots: "4"
 ---
 *“It has been thirty years since our first failed campaign against the Hexmanse. That such a cabal of bloodsorcerers and devil-loosers could not merely endure the light of the Sun, but even thrive, is an abomination. The lost Deliberative, for all its flaws, for all its failures — perhaps it did not root the sorcerers out, but it kept them underground. Now they exert their will unchecked, and who will fight them but I? 
 “A decade to cut my way free of the devil-world their sorceries banished me to. Another to forge [[Zelator]], a thing to pierce their spells and end their contemptible lives. A third to build alliances, call in favors, raise an army. 

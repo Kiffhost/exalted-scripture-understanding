@@ -15,6 +15,9 @@ Accuracy:
   - Close +5; Short +4; Medium +3; Long +0; Extreme −2
 Special: Sunflash returns to its wielder’s hand after being thrown.
 Material: Orichalcum
+WeaponType:
+  - Infinite Chakram
+Dots: "4"
 ---
 *Sunflash is both weapon and prayer — an elegant, ornately forged tool whose very existence is a prayer to Kiragaru, the god of killing at a distance.*
 A massive orichalcum chakram, [[Sunflash]] is over two feet in diameter, with a hundred razor-sharp blades around its outer rim inlaid with red jade that spell out the prayer in flight.

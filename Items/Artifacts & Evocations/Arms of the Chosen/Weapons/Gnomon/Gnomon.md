@@ -11,6 +11,10 @@ WeaponTags:
   - "[[Item Tags#Reaching|Reaching]]"
 Hearthstone slots: 1
 Era: Gossamer Dawn Epoch
+Material: Starmetal
+WeaponType:
+  - Wrackstaff
+Dots: "4"
 ---
 *Seven-Finger Wu is a name spoken with both reverence and outrage in the towers of Heaven, as the only thief known to have ever slipped past Yu-Shan’s gates and pilfered the orchard where the peaches of immortality grow. With a flash of his sword and a rapid sprint, he made off with a severed branch bearing enough sacred fruit to see his life through into the next age.
 He carved the branch into a peachwood walking stick, then disguised himself as a wandering hermit before stealing into Heaven a second time. With cunning, deception, and sheer nerve, he disguised himself as an elder Sidereal Exalt and hoodwinked a newly Exalted neonate into banding the staff with starmetal, completing the artifact for him before he absconded once again. With [[Gnomon]] in hand, Seven-Finger Wu’s legend grew greater as he cheated time itself. He stole the ruby eye of Hesiesh from a Solar’s wedding band as it was being placed on her finger by her Lunar mate. He left an elegant poem in the private offices of Anys Syn’s celestial manse praising her prowess in pursuing him.

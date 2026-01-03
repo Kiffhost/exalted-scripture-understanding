@@ -11,6 +11,10 @@ WeaponTags:
   - "[[Item Tags#Balanced|Balanced]]"
 Hearthstone slots: 1
 Era: Era of Limitless Light
+Material: Moonsilver
+WeaponType:
+  - Daiklave
+Dots: "4"
 ---
 *With the death of her Lunar partner Leynon HundredWings, Ciel Seratta was inconsolable.*
 The timeworn [[Eclipse]] would accept no other guard nor sword-sibling; for decades she traveled alone through the most treacherous realms, and suffered greatly at the hands of ghosts and devils. Frey Irenio, that gifted sorcerer-smith, could not bear to see his friend imperil herself unaccompanied, and forged her a sword with a will and vitality of its own — a companion that could not die, and thus could never abandon her. Seratta named the new sword [[Flying Silver Dream]]. She shed her pain as she placed her trust in the blade, and danced joyously with it in her legendary crossing of the Plain of [[Wings]] and Fangs, and her storied duel with Etar of the Endless [[Ride]]. She rejoined the society of her peers in time to be caught up in that dreadful Calibration Feast that began the Usurpation. Loyal to the end, [[Flying Silver Dream]] fought on for three full days after its master fell before it allowed the usurpers to lay its hilt in Seratta’s dead hand. Seratta’s tomb was looted amid the wars of the Shogunate. For a thousand years thereafter, [[Flying Silver Dream]] has passed from one champion to another. With it, Daimyo Meraj of Senedin carved a path through the waspfolk hordes from the East; Wyra Moondrinker subdued the dragon Threefold Emerald and forced from him a boon; and Finder-of-Folly survived the inescapable gauntlet of the mad queen of Mahalanka. Seized in a Wyld Hunt, the sword was claimed by House Ledaal and was thereafter borne by many of its scions. Recently, however, it has been rumored stolen, its whereabouts unknown. 

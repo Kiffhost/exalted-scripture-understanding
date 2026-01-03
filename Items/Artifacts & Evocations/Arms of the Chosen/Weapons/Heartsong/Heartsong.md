@@ -11,6 +11,10 @@ WeaponTags:
 Hearthstone slots: 1
 Era: Dreams of the First Age
 Accuracy: Close −1; Short +5; Medium +3; Long +1; Extreme −1
+Material: Red Jade
+WeaponType:
+  - Powerbow
+Dots: "3"
 ---
 *In the First Age, Arelys Turan of the Dragon-Blooded Host forged [[Heartsong]] from the bodies and living [[Essence]] of the Fair Folk loreleis Imban Dying-Light and the Orange Lily Chatelaine, twisting their yearnings together into an unbreakable braid to serve as the weapon’s spine.
 Heartsong’s wielder can feel their tempestuous passions surging and pulsing beneath the surface of the jade, locked together in eternal love and hate. In doing this, Turan had no greater purpose than to make something beautiful. Indeed, [[Heartsong]] appears more ornamental than practical, with every inch of its surface covered with fluting and decorative scrollwork. A creature of passion — dancer, equestrian, poet, adventurer — Turan focused through archery the knack for inspiring passion in others. Turan’s arrows terrified the Sky-Shouldering Bull, their sting driving the city-crushing beast from mortal lands; a hate-fletched shaft so enraged the aithon Ulta that she lunged from her charmed circle to strike, leaving herself vulnerable to the Exalt’s Hearth. And when Usain of the Impenetrable Flesh claimed he would accept no lover who could not wound him, Turan stole his adoration by striking not his body but his soul.*
