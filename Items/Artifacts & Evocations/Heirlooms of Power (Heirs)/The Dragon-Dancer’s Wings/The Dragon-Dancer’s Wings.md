@@ -1,8 +1,8 @@
 ---
 tags:
-    - object
-    - Artifact
-    - source/dragon-heirs-book
+  - object
+  - Artifact
+  - source/dragon-heirs-book
 Attunement: 5m
 Type: Light (+5 ACC, +10 DMG, +3 OVW)
 WeaponTags:
@@ -10,7 +10,11 @@ WeaponTags:
   - Martial Arts
   - Disarming
 Hearthstone slots: 2 (one on each fan)
-Era: The Year of Seven Shoguns 
+Era: The Year of Seven Shoguns
+Material: Blue and Red Jade
+WeaponType:
+  - Typhoon Fangs
+Dots: "3"
 ---
 *Once, the air dragon Rekal, a diligent censor, found himself at odds with the fire dragon Banu, an indolent spirit who shirked his duties to luxuriate in splendor.*
 The two quarreled and ultimately fought, and in the end a victorious Rekal feasted on Banu’s fiery [[Essence]]. He’d thought to use that power to fulfill the fire dragon’s responsibilities as well as his own, but the smoldering remnants of Banu’s spirit overwhelmed Rekal, driving him to unrestrained fury.

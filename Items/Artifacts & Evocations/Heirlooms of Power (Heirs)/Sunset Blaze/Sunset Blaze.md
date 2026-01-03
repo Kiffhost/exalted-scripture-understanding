@@ -16,6 +16,7 @@ Era: Reign of the Scarlet Empress
 Dots: "3"
 WeaponType:
   - Direlance
+Material: Red Jade
 ---
 *Commissioned by Cathak herself from the renowned smith and sublime armiger Tepet Sothal, the [[Templates/direlance]] [[Sunset Blaze]] — adorned with a banner of cloth-of-jade — accompanied her in many of her famed battles.*
 She wielded it in the Realm’s war against the Blood-Sand Sultan, burning the man who feared no flame; in the great Siege of Houshou, when she seemed to slay the Anathema [[Sha’a Oka]]; in her famed duel with Ahlat.

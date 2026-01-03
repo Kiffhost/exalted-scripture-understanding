@@ -4,12 +4,12 @@ tags:
   - Artifact
   - source/dragon-heirs-book
 ArmourType: Gunzosha Armour
-Material: 
-ArmourTags: 
-Dots: 
-Attunement: 
+Material:
+ArmourTags:
+Dots: §3 to N/A
+Attunement:
 Type: Heavy (Soak +11, Hardness 10, Mobility Penalty −2)
-Hearthstone slots: 
+Hearthstone slots:
 Era:
 ---
 *Ancient wonders of the First Age, gunzosha armor are more akin to [[Essence]]-powered armored exoskeletons than the artifact armors donned by the Second Age’s Exalted.*
